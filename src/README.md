@@ -40,7 +40,14 @@ projects:
     desc: 运动记录
     link: http://ddns.4a1801.life:8089
 
+  - icon: /assets/img/qBittorrent.svg
+    name: qBtorrent
+    link: http://ddns.4a1801.life:8085
 
+  - icon: /assets/img/nastool.png
+    name: nastools
+    desc: PT站下载
+    link: http://ddns.4a1801.life:3003
 
 footer: <a href="https://beian.miit.gov.cn/">备案号：粤ICP备2021168515号-1</a>
 copyright: Theme by <a href="https://theme-hope.vuejs.press/">VuePress Theme Hope</a> | MIT Licensed, Copyright © 2019-present Mr.Hope

@@ -1,10 +1,14 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
+import { searchProPlugin } from "vuepress-plugin-search-pro";
 
 export default hopeTheme({
+  
   hostname: "https://blog.4a1801.life",
-
+ 
+ 
+   
   author: {
     name: "Mr.Arthur",
     url: "https://blog.4a1801.life",
@@ -158,7 +162,8 @@ components: {
           "YouTube",
         ],
       },
-	
+
+
     // uncomment these if you want a PWA
     // pwa: {
     //   favicon: "/favicon.ico",
@@ -215,5 +220,10 @@ components: {
     //     ],
     //   },
     // },
+	
   },
-});
+  
+
+},
+{custom :true}
+);

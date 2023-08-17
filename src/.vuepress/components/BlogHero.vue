@@ -11,3 +11,4 @@ import BingHeroBackground from "vuepress-theme-hope/presets/BingHeroBackground.j
     </template>
   </BlogHero>
 </template>
+
