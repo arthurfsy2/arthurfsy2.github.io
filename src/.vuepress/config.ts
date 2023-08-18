@@ -3,7 +3,7 @@ import { defineUserConfig } from "vuepress";
 import { hopeTheme } from "vuepress-theme-hope";
 import theme from "./theme.js";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
-
+import { componentsPlugin } from "vuepress-plugin-components";
 const __dirname = getDirname(import.meta.url);
 
 export default defineUserConfig({
@@ -41,7 +41,14 @@ export default defineUserConfig({
         },
       ],
     }),
+    componentsPlugin({
+      componentOptions: {
+        pdf: {
+          pdfjs: "/assets/lib/pdfjs",
+        },
+      },
+    }),
   ],
-
+  
   shouldPrefetch: false,
 });

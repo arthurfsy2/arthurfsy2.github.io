@@ -1,7 +1,7 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
-
+import { componentsPlugin } from "vuepress-plugin-components";
 
 export default hopeTheme({
   
