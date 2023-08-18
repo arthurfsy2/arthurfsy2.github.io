@@ -64,7 +64,7 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/article/Arthur": ["364115"],
+      "/article/Arthur/private": ["364115"],
       
     },
   },
@@ -222,7 +222,8 @@ components: {
     // },
 	
   },
-  
+ pageInfo : ["Author", "Original", "Date", "Category", "Tag", "ReadingTime","Word"]
+ 
 
 },
 {custom :true}

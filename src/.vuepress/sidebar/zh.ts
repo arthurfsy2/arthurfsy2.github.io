@@ -20,8 +20,8 @@ export const zhSidebar = sidebar({
       children: "structure",
     },
     {
-      text: "日记里的我",
-      icon: "globe",
+      text: "Mr.Arthur",
+      icon: "book",
       prefix: "article/Arthur/",
       children: "structure",
     },
