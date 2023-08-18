@@ -1,0 +1,3 @@
+import{_ as l,r as o,o as r,c as n,e as _,w as e,d as i,b as s}from"./app-6e17122e.js";const d={},f=s("iframe",{height:"600",width:"100%",src:"http://ddns.4a1801.life:8088/",frameborder:"0",allowfullscreen:""},`
+ `,-1),h=s("p",null,null,-1),u=s("iframe",{height:"600",width:"100%",src:"http://ddns.4a1801.life:8089/",frameborder:"0",allowfullscreen:""},`
+ `,-1);function m(v,p){const c=o("Tabs");return r(),n("div",null,[_(c,{id:"0",data:[{id:"笑笑爸爸-运动记录"},{id:"笑笑妈妈-运动记录"}],active:0},{title0:e(({value:t,isActive:a})=>[i("笑笑爸爸-运动记录")]),title1:e(({value:t,isActive:a})=>[i("笑笑妈妈-运动记录")]),tab0:e(({value:t,isActive:a})=>[f,h]),tab1:e(({value:t,isActive:a})=>[u]),_:1})])}const w=l(d,[["render",m],["__file","运动记录.html.vue"]]);export{w as default};
