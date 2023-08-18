@@ -1,7 +1,7 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
-import { searchProPlugin } from "vuepress-plugin-search-pro";
+
 
 export default hopeTheme({
   
@@ -64,8 +64,8 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/demo/encrypt.html": ["1234"],
-      "/zh/demo/encrypt.html": ["1234"],
+      "/article/Arthur": ["364115"],
+      
     },
   },
 
