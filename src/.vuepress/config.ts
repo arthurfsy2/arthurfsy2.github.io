@@ -1,6 +1,5 @@
 import { getDirname, path } from "@vuepress/utils";
 import { defineUserConfig } from "vuepress";
-import { hopeTheme } from "vuepress-theme-hope";
 import theme from "./theme.js";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
 import { componentsPlugin } from "vuepress-plugin-components";
@@ -41,13 +40,7 @@ export default defineUserConfig({
         },
       ],
     }),
-    componentsPlugin({
-      componentOptions: {
-        pdf: {
-          pdfjs: "/assets/lib/pdfjs",
-        },
-      },
-    }),
+    
   ],
   
   shouldPrefetch: false,
