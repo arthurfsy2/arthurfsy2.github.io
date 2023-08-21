@@ -6,7 +6,7 @@ import { componentsPlugin } from "vuepress-plugin-components";
 const __dirname = getDirname(import.meta.url);
 
 export default defineUserConfig({
-  base: "/",
+  base: "/Blog/",
  //
   locales: {
     "/": {
