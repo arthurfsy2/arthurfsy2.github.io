@@ -1,7 +1,8 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { zhNavbar } from "./navbar/index.js";
-import { zhSidebar } from "./sidebar/index.js";
-
+//import { zhNavbar } from "./navbar/index.js";
+import navbar from "./navbar.js";
+//import { zhSidebar } from "./sidebar/index.js";
+import sidebar from "./sidebar.js";
 export default hopeTheme({
   
   hostname: "https://blog.4a1801.life",
@@ -39,10 +40,10 @@ export default hopeTheme({
      */
     "/": {
       // navbar
-      navbar: zhNavbar,
+      navbar,
 
       // sidebar
-      sidebar: zhSidebar,
+      sidebar,
 
       footer: '<a href="https://beian.miit.gov.cn/">备案号：粤ICP备2021168515号-1</a>',
       displayFooter: true,
