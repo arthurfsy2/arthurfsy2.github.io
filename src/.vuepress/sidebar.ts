@@ -24,7 +24,7 @@ export default sidebar({
     {
       text: "Mr.Arthur",
       collapsible: true,
-      icon: "book",
+      icon: "person",
       prefix: "article/Arthur/",
       children: "structure",
     },

@@ -13,8 +13,9 @@ export default hopeTheme({
     name: "Mr.Arthur",
     url: "https://blog.4a1801.life",
   },
-
+// 关键词: "iconfont", "iconify", "fontawesome", "fontawesome-with-brands"
   iconAssets: "fontawesome",
+  
   favicon: "/logo1.jpg",
   logo: "/logo1.jpg",
 
