@@ -18,7 +18,7 @@ projects:
   - icon: /assets/img/alist.svg
     name: 家庭云盘
     desc: 
-    link: http://ddns.4a1801.life:5244
+    link: https://pan.4a1801.life
 
   - icon: /assets/img/NAS.png
     name: NAS
