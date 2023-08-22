@@ -3,7 +3,7 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   "/",
   
-  {text: "文章",icon: "grommet-icons:article",prefix: "/",link: "/article/" },
+  {text: "文章",icon: "pencil",prefix: "/",link: "/article/" },
   {
     text: "邀请函",
     icon: "envelope",
