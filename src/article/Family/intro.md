@@ -61,6 +61,6 @@ flowchart TB
 - 打赏二维码:
   ::: tabs
   @tab 支付宝
-  ![支付宝](https://pan.4a1801.life/d/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99%E7%B4%A0%E6%9D%90/img/Alipay.jpg =300x)
+  ![支付宝](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/img/Alipay.jpg =300x)
   @tab 微信
-  ![微信](https://pan.4a1801.life/d/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99%E7%B4%A0%E6%9D%90/img/wechatPay.jpg =300x)
+  ![微信](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/img/wechatPay.jpg =300x)
