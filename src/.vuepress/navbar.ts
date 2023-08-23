@@ -22,12 +22,6 @@ export default navbar([
       },
     ],
   },
-  {
-	  
-      text: "关于我们",
-      icon: "image-portrait",
-      link: "/article/Family/intro" 
-      
-    },
-
+  {text: "关于我们",icon: "image-portrait",link: "/article/Family/intro"  },
+  {text: "WIFI",icon: "wifi",link: "/article/Family/wifi"  },
 ]);

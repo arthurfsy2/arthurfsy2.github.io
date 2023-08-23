@@ -36,7 +36,7 @@ projects:
     link: http://ddns.4a1801.life:8088
 
   - icon: /logo2.jpg
-    name: 笑笑妈妈
+    name: 吴女士妈
     desc: 运动记录
     link: http://ddns.4a1801.life:8089
 
