@@ -61,10 +61,10 @@ flowchart TB
 
 :::
 
-- 联系我:
+## 联系我们
 ::: tabs
 @tab 微信
-![冯先生的微信](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/img/wechatContact.jpg =300x)
+![冯先生的微信](/assets/img/wechatContact.jpg =300x)
 >欢迎“遗失”的亲朋好友“找回”我！
 @tab 手机
 🤙<a href="tel:17503049257">冯先生</a>
@@ -74,9 +74,9 @@ flowchart TB
 🤙<a href="tel:16620810234 ">笑笑</a>
 > 笑笑的手机卡给他爸先插到车机上当流量卡了
 :::
-- 打赏二维码:
+## 打赏二维码
 ::: tabs
 @tab 支付宝
-![支付宝](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/img/Alipay.jpg =300x)
+![支付宝](/assets/img/Alipay.jpg =300x)
 @tab 微信
-![微信](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/img/wechatPay.jpg =300x)
+![微信](/assets/img/wechatPay.jpg =300x)
