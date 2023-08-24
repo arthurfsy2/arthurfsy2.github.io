@@ -19,7 +19,7 @@ export default sidebar({
     {
       text: "总结/心得",
       collapsible: true,
-      icon: "globe",
+      icon: "lightbulb",
       prefix: "article/Summary/",
       children: "structure",
     },

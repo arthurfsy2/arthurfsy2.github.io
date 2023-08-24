@@ -13,7 +13,7 @@ star: true
 ---
 # 关于我们❤️
 
-# Mr.Feng 与Ms.Wu的故事
+## Mr.Feng 与Ms.Wu的故事
 
 ::: tip  2016年11月至今的相处与共
 :::
@@ -79,6 +79,7 @@ flowchart TB
 ## 打赏二维码
 ::: tabs
 @tab 支付宝
-![支付宝](/assets/img/Alipay.jpg =300x)
+![扫一扫](/assets/img/Alipay.jpg =300x)
 @tab 微信
-![微信](/assets/img/wechatPay.jpg =300x)
+![扫一扫](/assets/img/wechatPay.jpg =300x)
+:::

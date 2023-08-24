@@ -15,8 +15,8 @@ export default navbar([
         
       },
       {
-        text: "Summary",
-        icon: "globe",
+        text: "总结/心得",
+        icon: "lightbulb",
         link: "Summary/" 
         
       },
@@ -41,11 +41,12 @@ export default navbar([
       {
         text: "结婚邀请函",
         icon: "envelope",
-        link: "https://g.gd-share.cn/p/sqtrz2cm" 
+        prefix:"/",
+        link: "article/Family/婚礼邀请/" 
         
       },
     ],
   },
-  {text: "关于我们",icon: "image-portrait",link: "intro"  },
-  {text: "WIFI",icon: "wifi",link: "wifi"  },
+  {text: "关于我们",icon: "image-portrait",prefix:"/",link: "intro"  },
+  {text: "WIFI",icon: "wifi",prefix:"/",link: "wifi"  },
 ]);
