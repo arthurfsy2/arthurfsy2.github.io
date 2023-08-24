@@ -2,7 +2,7 @@
 icon: edit
 date: 2022-03-08
 category:
-  - IT
+  - summary
 tag:
   - 心得
 ---
@@ -57,7 +57,7 @@ location ^~ /
     #Set Nginx Cache
 
 
-​    
+  
 
     set $static_fileSIjN7esB 0;
     if ( $uri ~* "\.(gif|png|jpg|css|js|woff|woff2)$" )
@@ -94,7 +94,7 @@ location ^~ /
     #Set Nginx Cache
 
 
-​    
+  
 
     set $static_fileSIjN7esB 0;
     if ( $uri ~* "\.(gif|png|jpg|css|js|woff|woff2)$" )
@@ -112,7 +112,7 @@ location ^~ /
 #PROXY-END/
 ```
 
-注2:configuration.yaml修改如下<mark>（群晖在线文件配置需要编码格式为UTF-8才能备注里加中文）</mark>
+注2:configuration.yaml修改如下`<mark>`（群晖在线文件配置需要编码格式为UTF-8才能备注里加中文）`</mark>`
 
 ```
 http:
@@ -161,6 +161,5 @@ http:
 
 ## 5.参考教程
 
-- [智趣盒子home-assistant全面版&高级版专用说明书 - 社区交流 - ioBroker中国](https://bbs.iobroker.cn/t/topic/12943/14)
-
+- [智趣盒子home-assistant全面版&amp;高级版专用说明书 - 社区交流 - ioBroker中国](https://bbs.iobroker.cn/t/topic/12943/14)
 - [HomeAssistant学习笔记 (jiluxinqing.com)](https://ha.jiluxinqing.com/#/)a

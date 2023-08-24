@@ -14,11 +14,13 @@ export default sidebar({
       link: "",
       children: "structure",
     },
+
+
     {
-      text: "IT",
+      text: "总结/心得",
       collapsible: true,
       icon: "globe",
-      prefix: "article/IT/",
+      prefix: "article/Summary/",
       children: "structure",
     },
     {
@@ -28,8 +30,16 @@ export default sidebar({
       prefix: "article/Arthur/",
       children: "structure",
     },
-    
-	
+/*{
+      text: "关于我们",
+      icon: "circle-info",
+      link: "intro",
+    },
+    {
+      text: "WIFI",
+      icon: "wifi",
+      link: "wifi",
+    },*/
   ],
   
  
