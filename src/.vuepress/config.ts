@@ -2,6 +2,7 @@ import { getDirname, path } from "@vuepress/utils";
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 import { docsearchPlugin } from "@vuepress/plugin-docsearch";
+import QRCode from 'qrcode';
 const __dirname = getDirname(import.meta.url);
 
 export default defineUserConfig({
@@ -68,7 +69,7 @@ export default defineUserConfig({
           },
       },
   }),
-    
+
   ],
   head: [
     // ...
@@ -85,7 +86,7 @@ export default defineUserConfig({
         href: "https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;700&display=swap",
         rel: "stylesheet",
       },
-    ],
-  ],
+    ],    
+  ],  
   shouldPrefetch: false,
 });

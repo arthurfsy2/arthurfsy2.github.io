@@ -68,12 +68,16 @@ flowchart TB
 >欢迎“遗失”的亲朋好友“找回”我！
 @tab 手机
 
-🤙<a href="tel:17503049257">冯先生</a>
+:::center
+<button type="button" style="padding: 20px 30px; background-color: blue; color: #fff; border: 100; border-radius: 50px;" onclick="window.location.href='tel:17503049257'">🤙冯先生 Tel:175-0304-9257</button>
 
-🤙<a href="tel:13642865881 ">吴女士</a>
 
-🤙<a href="tel:16620810234 ">笑笑</a>
->笑笑的手机卡给他爸先插到车机上当流量卡了
+<button type="button" style="padding: 20px 30px; background-color: green; color: #fff; border: none; border-radius: 50px;" onclick="window.location.href='tel:13642865881'">🤙吴女士 Tel:136-4286-5881</button>
+
+
+<button type="button" style="padding: 20px 30px; background-color: pink; color: #fff; border: none; border-radius: 50px;" onclick="window.location.href='tel:16620810234'">🤙笑笑崽 Tel:1662-0810-234</button>
+
+>笑笑的手机号是她的生日，然后手机卡暂借给他爸插到车机上当流量卡了
 
 :::
 ## 打赏二维码
