@@ -1,7 +1,5 @@
 import { hopeTheme } from "vuepress-theme-hope";
-//import { zhNavbar } from "./navbar/index.js";
 import navbar from "./navbar.js";
-//import { zhSidebar } from "./sidebar/index.js";
 import sidebar from "./sidebar.js";
 export default hopeTheme({
   
@@ -72,7 +70,7 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
-
+    
     // If you don’t need comment feature, you can remove following option
     // The following config is for demo ONLY, if you need comment feature, please generate and use your own config, see comment plugin documentation for details.
     // To avoid disturbing the theme developer and consuming his resources, please DO NOT use the following config directly in your production environment!!!!!
@@ -99,6 +97,7 @@ export default hopeTheme({
        provider: "Waline",
        serverURL: "https://waline-discuss.vercel.app/",
     },
+
 
     // Disable features you don’t want here
     mdEnhance: {

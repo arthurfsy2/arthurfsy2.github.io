@@ -9,9 +9,12 @@ tag:
 ---
 # 爱康 icon iFit App 使用感受
 
-:::
+:::info 首发于知乎回答
+
+[爱康 icon iFit App 使用感受 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/410272516)
 
 2021.8.8在某东入手了爱康的跑步机（PETL79817），然后发现其实是有相应配套的iFit App的，但是在知乎上发现iFit相关信息还不是很多，在此分享一下。
+:::
 
 ## 前言
 

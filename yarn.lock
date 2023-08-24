@@ -4180,6 +4180,11 @@ lie@3.1.1:
   dependencies:
     immediate "~3.0.5"
 
+lightgallery@^2.7.1:
+  version "2.7.1"
+  resolved "https://registry.npmjs.org/lightgallery/-/lightgallery-2.7.1.tgz"
+  integrity sha512-NbXOzD2APY1OhOOn464jDsBZBaCRahUoLvBxhDFxvwJeC8hCkCIPYSjGgGTYINxVK09DKMsNDJzRr1ngH5nDdg==
+
 lilconfig@^2.0.5:
   version "2.1.0"
   resolved "https://registry.npmmirror.com/lilconfig/-/lilconfig-2.1.0.tgz"
@@ -5904,6 +5909,19 @@ vuepress-plugin-feed2@2.0.0-beta.235:
     cheerio "1.0.0-rc.12"
     vuepress-shared "2.0.0-beta.235"
     xml-js "^1.6.11"
+
+vuepress-plugin-lightgallery@^2.0.0-beta.235:
+  version "2.0.0-beta.235"
+  resolved "https://registry.npmjs.org/vuepress-plugin-lightgallery/-/vuepress-plugin-lightgallery-2.0.0-beta.235.tgz"
+  integrity sha512-QMlN4qUP58e7VmsBbGBb66KoDUP+GTvyCsgfDRuseX0gTvjpn1olrLunL3S4WYriF+R+80kOsiP5N1ov8GaZSw==
+  dependencies:
+    "@vuepress/client" "2.0.0-beta.66"
+    "@vuepress/utils" "2.0.0-beta.66"
+    lightgallery "^2.7.1"
+    vue "^3.3.4"
+    vue-router "^4.2.4"
+    vuepress-plugin-sass-palette "2.0.0-beta.235"
+    vuepress-shared "2.0.0-beta.235"
 
 vuepress-plugin-md-enhance@2.0.0-beta.235:
   version "2.0.0-beta.235"

@@ -2,7 +2,7 @@ import { getDirname, path } from "@vuepress/utils";
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 import { docsearchPlugin } from "@vuepress/plugin-docsearch";
-import QRCode from 'qrcode';
+import { lightgalleryPlugin } from "vuepress-plugin-lightgallery";
 const __dirname = getDirname(import.meta.url);
 
 export default defineUserConfig({
@@ -25,6 +25,8 @@ export default defineUserConfig({
   },  
 
   plugins: [
+
+   
     docsearchPlugin({
       appId: "LA02Z7ZAIR",
       apiKey: "feb14375090c8acf567a71e858d95f82",
