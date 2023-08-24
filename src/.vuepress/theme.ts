@@ -17,10 +17,9 @@ export default hopeTheme({
   favicon: "/logo1.jpg",
   logo: "/logo1.jpg",
 
-  repo: "arthurfsy2",
+  repo: "arthurfsy2/arthurfsy2.github.io",
 
-  docsDir: "docs",
-
+  docsDir: "src",
   blog: {
     medias: {
       Gmail: "mailto:fsyflh@gmail.com",
@@ -68,9 +67,11 @@ export default hopeTheme({
     },
   },
 
+
+
   plugins: {
     blog: true,
-    
+    git: true,
     // If you don’t need comment feature, you can remove following option
     // The following config is for demo ONLY, if you need comment feature, please generate and use your own config, see comment plugin documentation for details.
     // To avoid disturbing the theme developer and consuming his resources, please DO NOT use the following config directly in your production environment!!!!!
