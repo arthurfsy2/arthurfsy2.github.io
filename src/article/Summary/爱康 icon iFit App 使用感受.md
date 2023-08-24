@@ -9,7 +9,7 @@ tag:
 ---
 # 爱康 icon iFit App 使用感受
 
-:::tip 说明
+:::info 说明
 此文章是爱康iFit App 小小的使用感受
 首发于知乎文章[爱康 icon iFit App 使用感受 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/410272516)
 
