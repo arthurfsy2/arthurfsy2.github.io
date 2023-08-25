@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5b4302cc","path":"/article/Arthur/Qzone/Blogs/%E5%BF%83%E8%AF%AD/","title":"心语","lang":"zh-CN","frontmatter":{"title":"心语","article":false,"feed":false,"sitemap":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};

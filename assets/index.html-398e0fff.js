@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6e500916","path":"/article/Arthur/Qzone/Diaries/%E4%B8%80%E6%AC%A1%E8%89%B0%E9%9A%BE%E5%86%92%E9%99%A9/","title":"一次艰难冒险","lang":"zh-CN","frontmatter":{"title":"一次艰难冒险","article":false,"feed":false,"sitemap":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};
