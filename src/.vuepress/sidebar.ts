@@ -30,6 +30,11 @@ export default sidebar({
       prefix: "article/Arthur/",
       children: "structure",
     },
+    {
+      text: "Qzone",
+      icon: "person",
+      link: "article/Arthur/Qzone/",
+    },
 /*{
       text: "关于我们",
       icon: "circle-info",

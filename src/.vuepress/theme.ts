@@ -62,7 +62,7 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/article/Arthur/private": ["364115"],
+      "/article/Arthur/Qzone": ["364115"],
       
     },
   },
