@@ -18,15 +18,15 @@
 
 [大宝贝儿](https://user.qzone.qq.com/2542864301) 查看了相册  
 > 20147月威马逊台风  
-![](images/D2674FB9.jpeg)  
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Visitors/images/D2674FB9.jpeg)  
 
 
 > 手机相册  
-![](images/231612A3.jpeg)  
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Visitors/images/231612A3.jpeg)  
 
 
 > postcrossing  
-![](images/8EB81418.jpeg)  
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Visitors/images/8EB81418.jpeg)  
 
   
 
