@@ -2,40 +2,41 @@ import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
 	
+  "/家庭/": "structure",
+  "/经验总结/": "structure",
+  "/Arthur/": "structure",
 
 
 
-
-  "/": [
+ /* "/": [
 	  
 	  
     "",
     {
-      text: "家庭",
+      text: "家庭1",
       collapsible: true,
-      icon: "people-roof",
-      prefix: "article/Family/",
-      link: "",
+      icon: "people-roof",      
+      link: "/家庭/",
       children: "structure",
     },
 
 
     {
-      text: "总结/心得",
+      text: "经验总结",
       collapsible: true,
-      icon: "lightbulb",
-      prefix: "article/Summary/",
+      icon: "lightbulb",      
+      link: "/经验总结/",
       children: "structure",
     },
     {
       text: "Mr.Arthur",
       collapsible: true,
-      icon: "person",
-      prefix: "article/Arthur/",
+      icon: "person",     
+      link: "/Arthur/",
       children: "structure",
     },
   ],
-
+*/
   
  
 });

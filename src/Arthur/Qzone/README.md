@@ -47,6 +47,6 @@ when sad=>mood<=hardworking;
 
 ### 空间概览
 
-| [说说](/article/Arthur/Qzone/Messages) | [日志](/article/Arthur/Qzone/Blogs) | [日记](/article/Arthur/Qzone/Diaries) | [相册](/article/Arthur/Qzone/Albums) | [视频](/article/Arthur/Qzone/Videos) | [留言](/article/Arthur/Qzone/Boards) | 收藏 | 分享 | [访客](/article/Arthur/Qzone/Visitors) | [好友](/article/Arthur/Qzone/Friends) |
+| [说说](/Arthur/Qzone/说说) | [日志](/Arthur/Qzone/日志) | [日记](/Arthur/Qzone/日记) | [相册](/Arthur/Qzone/相册) | [视频](/Arthur/Qzone/视频) | [留言](/Arthur/Qzone/留言) | 收藏 | 分享 | [访客](/Arthur/Qzone/访客) | [好友](/Arthur/Qzone/好友) |
 | ----------------------------------- | -------------------------------- | ---------------------------------- | --------------------------------- | --------------------------------- | --------------------------------- | ---- | ---- | ----------------------------------- | ---------------------------------- |
 | 510                                 | 7                                | 18                                 | 1798                              | 10                                | 43                                | 0    | 0    | 14624                               | 345                                |
