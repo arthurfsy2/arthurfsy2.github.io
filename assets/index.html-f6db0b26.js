@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6c191f26","path":"/article/Arthur/Qzone/","title":"Qzone","lang":"zh-CN","frontmatter":{"title":"Qzone","article":false,"feed":false,"sitemap":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};
