@@ -4,7 +4,7 @@ import sidebar from "./sidebar.js";
 export default hopeTheme({
   
   hostname: "https://blog.4a1801.life",
- 
+  hotReload:true,
  
    
   author: {

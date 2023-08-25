@@ -2,6 +2,10 @@ import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
 	
+
+
+
+
   "/": [
 	  
 	  
@@ -30,22 +34,8 @@ export default sidebar({
       prefix: "article/Arthur/",
       children: "structure",
     },
-    {
-      text: "Qzone",
-      icon: "person",
-      link: "article/Arthur/Qzone/",
-    },
-/*{
-      text: "关于我们",
-      icon: "circle-info",
-      link: "intro",
-    },
-    {
-      text: "WIFI",
-      icon: "wifi",
-      link: "wifi",
-    },*/
   ],
+
   
  
 });

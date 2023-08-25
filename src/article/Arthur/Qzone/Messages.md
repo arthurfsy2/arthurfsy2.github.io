@@ -1,6671 +1,5548 @@
+---
+# 这是文章的标题
+#title: 
+# 这是页面的图标
+icon: message
+# 设置写作时间
+date: 2008-05-25
+# 一个页面可以有多个分类
+category:
+  - Arthur
+# 一个页面可以有多个标签
+tag:
+  - Qzone
+# 此页面会在文章列表置顶
+#sticky: true
+# 此页面会出现在文章收藏中
+#star: true
+# 你可以自定义页脚
+#footer: 这是测试显示的页脚
+# 你可以自定义版权信息
+#copyright: 无版权
+order: 2
+---
 # 说说
-## 2017年
-### 5月
-> 2017-05-07 21:35:06
 
+## 2017年
+
+### 5月
+
+> 2017-05-07 21:35:06
 
 谢谢各位的生日祝福![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e106.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e106.gif) 又老一岁啦！
 
 > 评论(0)
 
-
-
-
 ---
-## 2016年
-### 5月
-> 2016-05-13 17:33:09
 
+## 2016年
+
+### 5月
+
+> 2016-05-13 17:33:09
 
 各位同事，由于5.15-5.19要到武汉参加粮食展会，如有需要可联系电商其他同事
 
 > 评论(0)
 
-
-
-
 ---
-## 2015年
-### 12月
-> 2015-12-25 11:17:22
 
+## 2015年
+
+### 12月
+
+> 2015-12-25 11:17:22
 
 深圳有什么好吃的海鲜自助吗。。想浪都不知道去哪浪啊![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e125.gif)
 
 > 评论(2)
 
-
-*  [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：不知道海鲜自助，但有一家比较地道的海鲜火锅粥叫做～毋米粥，在罗湖，挺不错的。
-*  [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵琛](https://user.qzone.qq.com/664503485) 抓住夜猫子一个！
-	* [赵琛](https://user.qzone.qq.com/664503485)：[@ArthurFSY](https://user.qzone.qq.com/254904240)活捉一只四块！
-
+* [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：不知道海鲜自助，但有一家比较地道的海鲜火锅粥叫做～毋米粥，在罗湖，挺不错的。
+* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵琛](https://user.qzone.qq.com/664503485) 抓住夜猫子一个！
+  * [赵琛](https://user.qzone.qq.com/664503485)：[@ArthurFSY](https://user.qzone.qq.com/254904240)活捉一只四块！
 
 ---
-### 8月
-> 2015-08-23 18:54:17
 
+### 8月
+
+> 2015-08-23 18:54:17
 
 这妹纸的公主病也太厉害了吧？天下皆你妈呀 ？有求教不懂好好说话？老子工作了就不要提学长这个事情了好嘛
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/86BC40A3.png)
+
 > 评论(9)
 
-
-*  [赵韵](https://user.qzone.qq.com/496639533)：哈哈哈天下皆你妈
-*  [陈豪](https://user.qzone.qq.com/474383450)：你直接骂他啊，别惯
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@陈豪](https://user.qzone.qq.com/474383450) 我直接拉黑了。。。一般不骂女生啦，连教育的心情都没了。。阿豪现在在哪上班啊
-	* [陈豪](https://user.qzone.qq.com/474383450)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 别说了，我要辞职了
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@陈豪](https://user.qzone.qq.com/474383450) 真假啊……以后来深圳玩可以找哦咯，带你去喝酒![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e7013.gif)
-	* [陈豪](https://user.qzone.qq.com/474383450)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 别这样，保健就行了
-*  [冯依琳](https://user.qzone.qq.com/122730568)：这么矫情
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@冯依琳](https://user.qzone.qq.com/122730568)为什么我打不开你的QQ空间了 
-	* [冯依琳](https://user.qzone.qq.com/122730568)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 能开吧![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e328543.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e328530.gif)
-*  [王露](https://user.qzone.qq.com/827018764)：哈哈哈神经病拉黑了
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@王露](https://user.qzone.qq.com/827018764) 我还以为自己略显直男癌了呢![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)
-	* [王露](https://user.qzone.qq.com/827018764)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 并没有，我也很不喜欢别人这么和我说话，尤其是异性
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@王露](https://user.qzone.qq.com/827018764) 哈哈哈，脑补了娘炮对你说：”讨厌！不加人家QQ!“
-	* [王露](https://user.qzone.qq.com/827018764)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 娘炮也比那种直男上来这样说话好噜![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e139.gif)特别是男生这样更没教养
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@王露](https://user.qzone.qq.com/827018764) 同感。对了，这么早就起床了呀！我周末都是谁到12点的。。
-	* [王露](https://user.qzone.qq.com/827018764)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 我比你们晚七个小时诶，现在是下午两点
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@王露](https://user.qzone.qq.com/827018764) 我脑残了。。我还以为112个小时呢
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@王露](https://user.qzone.qq.com/827018764) 脑残加手残。。。
-	* [王露](https://user.qzone.qq.com/827018764)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 我比你们晚七个小时诶，现在是下午两点
-	* [王露](https://user.qzone.qq.com/827018764)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 哈，你说的是美国时间吧
-*  [思颀](https://user.qzone.qq.com/403933037)：2333333公主病简直是绝了
-*  [思颀](https://user.qzone.qq.com/403933037)：我加你好友，是你的荣幸，怎么，还敢拒绝？小春子，给本宫拖下去，杖责300，不许留情…233333
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@思颀](https://user.qzone.qq.com/403933037) 女王陛下，求饶命啊……![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e128.gif)
-*  [赖峻豪](https://user.qzone.qq.com/780209069)：也许只是习惯性的卖萌+傲娇而已
-*  [11数学周雅璐](https://user.qzone.qq.com/852489490)：为什么我现在还说学长学姐很顺口![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e101.gif)
-*  [汪俊8975](https://user.qzone.qq.com/1074037569)：学长好绝情![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e167.gif)
-
+* [赵韵](https://user.qzone.qq.com/496639533)：哈哈哈天下皆你妈
+* [陈豪](https://user.qzone.qq.com/474383450)：你直接骂他啊，别惯
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@陈豪](https://user.qzone.qq.com/474383450) 我直接拉黑了。。。一般不骂女生啦，连教育的心情都没了。。阿豪现在在哪上班啊
+  * [陈豪](https://user.qzone.qq.com/474383450)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 别说了，我要辞职了
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@陈豪](https://user.qzone.qq.com/474383450) 真假啊……以后来深圳玩可以找哦咯，带你去喝酒![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e7013.gif)
+  * [陈豪](https://user.qzone.qq.com/474383450)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 别这样，保健就行了
+* [冯依琳](https://user.qzone.qq.com/122730568)：这么矫情
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@冯依琳](https://user.qzone.qq.com/122730568)为什么我打不开你的QQ空间了
+  * [冯依琳](https://user.qzone.qq.com/122730568)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 能开吧![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e328543.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e328530.gif)
+* [王露](https://user.qzone.qq.com/827018764)：哈哈哈神经病拉黑了
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@王露](https://user.qzone.qq.com/827018764) 我还以为自己略显直男癌了呢![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)
+  * [王露](https://user.qzone.qq.com/827018764)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 并没有，我也很不喜欢别人这么和我说话，尤其是异性
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@王露](https://user.qzone.qq.com/827018764) 哈哈哈，脑补了娘炮对你说：”讨厌！不加人家QQ!“
+  * [王露](https://user.qzone.qq.com/827018764)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 娘炮也比那种直男上来这样说话好噜![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e139.gif)特别是男生这样更没教养
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@王露](https://user.qzone.qq.com/827018764) 同感。对了，这么早就起床了呀！我周末都是谁到12点的。。
+  * [王露](https://user.qzone.qq.com/827018764)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 我比你们晚七个小时诶，现在是下午两点
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@王露](https://user.qzone.qq.com/827018764) 我脑残了。。我还以为112个小时呢
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@王露](https://user.qzone.qq.com/827018764) 脑残加手残。。。
+  * [王露](https://user.qzone.qq.com/827018764)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 我比你们晚七个小时诶，现在是下午两点
+  * [王露](https://user.qzone.qq.com/827018764)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 哈，你说的是美国时间吧
+* [思颀](https://user.qzone.qq.com/403933037)：2333333公主病简直是绝了
+* [思颀](https://user.qzone.qq.com/403933037)：我加你好友，是你的荣幸，怎么，还敢拒绝？小春子，给本宫拖下去，杖责300，不许留情…233333
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@思颀](https://user.qzone.qq.com/403933037) 女王陛下，求饶命啊……![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e128.gif)
+* [赖峻豪](https://user.qzone.qq.com/780209069)：也许只是习惯性的卖萌+傲娇而已
+* [11数学周雅璐](https://user.qzone.qq.com/852489490)：为什么我现在还说学长学姐很顺口![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e101.gif)
+* [汪俊8975](https://user.qzone.qq.com/1074037569)：学长好绝情![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e167.gif)
 
 ---
-> 2015-08-22 23:47:24
 
+> 2015-08-22 23:47:24
 
 除了恐怖和种马，你们还期待什么。。。![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e105.gif)
 
 > 评论(2)
 
-
-*  [赵琛](https://user.qzone.qq.com/664503485)：种马？能种多少个？
-*  [ArthurFSY](https://user.qzone.qq.com/254904240)：能种好多个呢![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e162.gif)
-
+* [赵琛](https://user.qzone.qq.com/664503485)：种马？能种多少个？
+* [ArthurFSY](https://user.qzone.qq.com/254904240)：能种好多个呢![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e162.gif)
 
 ---
+
 > 2015-08-21 15:47:02
 
-
 爱鲜蜂搞活动，2块钱4个芒果![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)
+
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/CEF65EED.jpeg)
+
 > 评论(0)
 
-
-
-
 ---
+
 > 2015-08-19 10:50:50
 
-
 丑了n年的身份证终于可以换了！![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e105.gif)
+
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/2D392C9C.jpeg)
+
 > 评论(2)
 
-
-*  [Slim~Stan](https://user.qzone.qq.com/2682796328)：现在不丑了啊
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@Slim~Stan](https://user.qzone.qq.com/2682796328) 现在身份证颜值及格了吗![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e154.gif)
-	* [Slim~Stan](https://user.qzone.qq.com/2682796328)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 59分
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@Slim~Stan](https://user.qzone.qq.com/2682796328) 你妹。。
-*  [李敏杰](https://user.qzone.qq.com/1312561826)：不要太帅，我的会吓屎你
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李敏杰](https://user.qzone.qq.com/1312561826) 你这阵子应该也要换身份证了吧？求吓![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e128.gif)
-	* [李敏杰](https://user.qzone.qq.com/1312561826)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 我的新身份证漂亮的我都不认识是谁家闺女了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e144.gif)
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李敏杰](https://user.qzone.qq.com/1312561826) 哇！这么给力![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)
-
+* [Slim~Stan](https://user.qzone.qq.com/2682796328)：现在不丑了啊
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@Slim~Stan](https://user.qzone.qq.com/2682796328) 现在身份证颜值及格了吗![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e154.gif)
+  * [Slim~Stan](https://user.qzone.qq.com/2682796328)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 59分
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@Slim~Stan](https://user.qzone.qq.com/2682796328) 你妹。。
+* [李敏杰](https://user.qzone.qq.com/1312561826)：不要太帅，我的会吓屎你
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李敏杰](https://user.qzone.qq.com/1312561826) 你这阵子应该也要换身份证了吧？求吓![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e128.gif)
+  * [李敏杰](https://user.qzone.qq.com/1312561826)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 我的新身份证漂亮的我都不认识是谁家闺女了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e144.gif)
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李敏杰](https://user.qzone.qq.com/1312561826) 哇！这么给力![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)
 
 ---
-> 2015-08-14 07:35:58
 
+> 2015-08-14 07:35:58
 
 深圳今天这雨下大得。。。
 
 > 评论(1)
 
-
-*  [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：啊！下雨了！
-
+* [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：啊！下雨了！
 
 ---
+
 > 2015-08-07 12:46:45【[深圳市粮食集团有限公司](https://apis.map.qq.com/uri/v1/marker?marker=coord:22.539259,114.08329;title:深圳市粮食集团有限公司;addr:广东省深圳市福田区福虹路9北门世界贸易广场A座13层)】
 
-
 新装修好的办公室[@刘星](https://user.qzone.qq.com/982410126)
+
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/54E531B5.jpeg)
-!()[https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/FAFECCAB.jpeg)
+
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/FAFECCAB.jpeg)
 
 > 评论(4)
 
-
-*  [赖峻豪](https://user.qzone.qq.com/780209069)：这么爽！
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赖峻豪](https://user.qzone.qq.com/780209069) 然而第一个月只干了3个星期扣完其他东西只剩1.8K
-*  [赖峻豪](https://user.qzone.qq.com/780209069)：惊闻这周干到晚上9点没双休
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赖峻豪](https://user.qzone.qq.com/780209069) 艹，以后有周末吗
-*  [赖峻豪](https://user.qzone.qq.com/780209069)：下周都不知道有没有。。
-*  [冯杰](https://user.qzone.qq.com/1584438972)：好高大尚
-
+* [赖峻豪](https://user.qzone.qq.com/780209069)：这么爽！
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赖峻豪](https://user.qzone.qq.com/780209069) 然而第一个月只干了3个星期扣完其他东西只剩1.8K
+* [赖峻豪](https://user.qzone.qq.com/780209069)：惊闻这周干到晚上9点没双休
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赖峻豪](https://user.qzone.qq.com/780209069) 艹，以后有周末吗
+* [赖峻豪](https://user.qzone.qq.com/780209069)：下周都不知道有没有。。
+* [冯杰](https://user.qzone.qq.com/1584438972)：好高大尚
 
 ---
-### 7月
-> 2015-07-16 21:45:20【[深圳市东山珍珠岛酒店](https://apis.map.qq.com/uri/v1/marker?marker=coord:22.554179,114.52688;title:深圳市东山珍珠岛酒店;addr:广东省深圳市龙岗区东山珍珠街28号)】
 
+### 7月
+
+> 2015-07-16 21:45:20【[深圳市东山珍珠岛酒店](https://apis.map.qq.com/uri/v1/marker?marker=coord:22.554179,114.52688;title:深圳市东山珍珠岛酒店;addr:广东省深圳市龙岗区东山珍珠街28号)】
 
 公司新员工户外集训，住的还是“海景房哦”![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif) 今天做的最惊险的事情是在8米高跳1米宽的“断崖” 恐高症都被吓好了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e134.gif)
 
-
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/D855E014.jpeg)
 
-!()[https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/568510BB.jpeg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/568510BB.jpeg)
 
-!()[https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/53259867.jpeg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/53259867.jpeg)
 
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/1D645505.jpeg)
 
-!()[https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/130EF40D.jpeg)
-
-
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/130EF40D.jpeg)
 
 > 评论(2)
 
-
-*  [邓皓文](https://user.qzone.qq.com/764690654)：猥琐
-*  [冯杰](https://user.qzone.qq.com/1584438972)：最后面的是大猩猩么
-
+* [邓皓文](https://user.qzone.qq.com/764690654)：猥琐
+* [冯杰](https://user.qzone.qq.com/1584438972)：最后面的是大猩猩么
 
 ---
-> 2015-07-13 23:00:36【[深圳市粮食集团有限公司](https://apis.map.qq.com/uri/v1/marker?marker=coord:22.56895,114.11278;title:深圳市粮食集团有限公司;addr:广东省深圳市罗湖区湖贝旧村南坊656号粮食大厦3楼)】
 
+> 2015-07-13 23:00:36【[深圳市粮食集团有限公司](https://apis.map.qq.com/uri/v1/marker?marker=coord:22.56895,114.11278;title:深圳市粮食集团有限公司;addr:广东省深圳市罗湖区湖贝旧村南坊656号粮食大厦3楼)】
 
 刚上班就分配了一项重要的的任务——两个月内写一篇2-3万字的论文![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif) 一定要好好弄！![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e185.gif) 幸好只是负责写而已，具体研究有其他人弄![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e104.gif)。。。
 
 > 评论(1)
 
-
-*  [邓皓文](https://user.qzone.qq.com/764690654)：壕
-
+* [邓皓文](https://user.qzone.qq.com/764690654)：壕
 
 ---
+
 > 2015-07-09 18:44:46
 
-
 冒着下大雨的危险买的仙剑6。。。没网只能玩单机了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e105.gif)
+
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/577E21F3.jpeg)
+
 > 评论(3)
 
-
-*  [11文社院周庭望](https://user.qzone.qq.com/598417448)：才刚出就买
-*  [宋倩雯](https://user.qzone.qq.com/825796915)：看我同学发的评价不太好
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@宋倩雯](https://user.qzone.qq.com/825796915) 玩法跟以前很大差别 很不习惯
-*  [张杰](https://user.qzone.qq.com/394939149)：还是以前的迷宫系列么？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@张杰](https://user.qzone.qq.com/394939149) 有迷宫，但是不是靠迷宫难度来玩
-
+* [11文社院周庭望](https://user.qzone.qq.com/598417448)：才刚出就买
+* [宋倩雯](https://user.qzone.qq.com/825796915)：看我同学发的评价不太好
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@宋倩雯](https://user.qzone.qq.com/825796915) 玩法跟以前很大差别 很不习惯
+* [张杰](https://user.qzone.qq.com/394939149)：还是以前的迷宫系列么？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@张杰](https://user.qzone.qq.com/394939149) 有迷宫，但是不是靠迷宫难度来玩
 
 ---
-> 2015-07-05 18:40:20
 
+> 2015-07-05 18:40:20
 
 看了你们的说说，我图片感觉我有点冷血，完全没有伤感得要生要死耶。对了，[@邓皓文](https://user.qzone.qq.com/764690654)不要以为哭得这么伤心就不用支付宝转账给我了！还有，你那莫名其妙的称呼让我被人误会了！
 
 > 评论(3)
 
-
-*  [李敏杰](https://user.qzone.qq.com/1312561826)：什么称呼？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李敏杰](https://user.qzone.qq.com/1312561826) 思思。。。
-	* [李敏杰](https://user.qzone.qq.com/1312561826)：[@ArthurFSY](https://user.qzone.qq.com/254904240)思思，你怎么能这么说皓文呢![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e120.gif)
-*  [邓皓文](https://user.qzone.qq.com/764690654)：哈哈，贱人，冷血
-*  [赵琛](https://user.qzone.qq.com/664503485)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e120.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e120.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e120.gif)
-
+* [李敏杰](https://user.qzone.qq.com/1312561826)：什么称呼？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李敏杰](https://user.qzone.qq.com/1312561826) 思思。。。
+  * [李敏杰](https://user.qzone.qq.com/1312561826)：[@ArthurFSY](https://user.qzone.qq.com/254904240)思思，你怎么能这么说皓文呢![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e120.gif)
+* [邓皓文](https://user.qzone.qq.com/764690654)：哈哈，贱人，冷血
+* [赵琛](https://user.qzone.qq.com/664503485)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e120.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e120.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e120.gif)
 
 ---
-> 2015-07-01 10:20:18
 
+> 2015-07-01 10:20:18
 
 2011，2015以后再聚
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/C902488E.png)
 
-!()[https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/58F4E5A3.jpeg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/58F4E5A3.jpeg)
 
 > 评论(3)
 
-
-*  [胡喆英](https://user.qzone.qq.com/1025682220)：感觉ja和明大放长高了
-*  [码路](https://user.qzone.qq.com/2283758339)：宋腐娼呢？
-	* [★宋府昌 Ⅱ ](https://user.qzone.qq.com/2409230025)：[@码路](https://user.qzone.qq.com/2283758339)呵呵，我拍的。。。
-*  [Slim~Stan](https://user.qzone.qq.com/2682796328)：没以前帅了
-
+* [胡喆英](https://user.qzone.qq.com/1025682220)：感觉ja和明大放长高了
+* [码路](https://user.qzone.qq.com/2283758339)：宋腐娼呢？
+  * [★宋府昌 Ⅱ ](https://user.qzone.qq.com/2409230025)：[@码路](https://user.qzone.qq.com/2283758339)呵呵，我拍的。。。
+* [Slim~Stan](https://user.qzone.qq.com/2682796328)：没以前帅了
 
 ---
-### 6月
-> 2015-06-29 12:44:21
 
+### 6月
+
+> 2015-06-29 12:44:21
 
 离校之前还可以感受一下憋了几天高温后的一阵急雨淋成落汤鸡的感觉。。。不发了，手机要进水了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e162.gif)
 
 > 评论(0)
 
-
-
-
 ---
-> 2015-06-23 19:08:15
 
+> 2015-06-23 19:08:15
 
 调戏小娜好好玩![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e7013.gif)
 
-
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/A274D266.png)
-!()[https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/0B5561D9.png)
-!()[https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/8843474E.png)
+
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/0B5561D9.png)
+
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/8843474E.png)
 
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/A5BB78A5.png)
-!()[https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/B5A3452E.png)
-!()[https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/715D5F96.png)
+
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/B5A3452E.png)
+
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/715D5F96.png)
 
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/3395A413.png)
-!()[https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/4FD1E88F.png)
-!()[https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/F7E784B4.png)
 
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/4FD1E88F.png)
 
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/F7E784B4.png)
 
 > 评论(0)
 
-
-
-
 ---
-> 2015-06-23 11:41:45
 
+> 2015-06-23 11:41:45
 
 手贱装win10预览版，用了不到一小时蓝屏死机了！老毛桃再次拯救了我![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e134.gif) 继续手贱
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/9192EEE1.jpeg)
+
 > 评论(3)
 
-
-*  [邓皓文](https://user.qzone.qq.com/764690654)：我装了都没事
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@邓皓文](https://user.qzone.qq.com/764690654) 你啥时候装的？
-	* [邓皓文](https://user.qzone.qq.com/764690654)：[@ArthurFSY](https://user.qzone.qq.com/254904240)回家没多久，你在学校了？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@邓皓文](https://user.qzone.qq.com/764690654) 回来都几天了
-	* [邓皓文](https://user.qzone.qq.com/764690654)：[@ArthurFSY](https://user.qzone.qq.com/254904240)小明呢
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@邓皓文](https://user.qzone.qq.com/764690654) 也在寝室啊
-*  [★金小松 Ⅱ](https://user.qzone.qq.com/179523774)：好用不
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@★金小松 Ⅱ](https://user.qzone.qq.com/179523774) 还可以，就是还是不够稳定
-*  [1757506533](https://user.qzone.qq.com/1757506533)：哎，你何时去澳门，
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@1757506533](https://user.qzone.qq.com/1757506533)我基友啥时候去报道我才能去。。。我都被拒了
-
+* [邓皓文](https://user.qzone.qq.com/764690654)：我装了都没事
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@邓皓文](https://user.qzone.qq.com/764690654) 你啥时候装的？
+  * [邓皓文](https://user.qzone.qq.com/764690654)：[@ArthurFSY](https://user.qzone.qq.com/254904240)回家没多久，你在学校了？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@邓皓文](https://user.qzone.qq.com/764690654) 回来都几天了
+  * [邓皓文](https://user.qzone.qq.com/764690654)：[@ArthurFSY](https://user.qzone.qq.com/254904240)小明呢
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@邓皓文](https://user.qzone.qq.com/764690654) 也在寝室啊
+* [★金小松 Ⅱ](https://user.qzone.qq.com/179523774)：好用不
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@★金小松 Ⅱ](https://user.qzone.qq.com/179523774) 还可以，就是还是不够稳定
+* [1757506533](https://user.qzone.qq.com/1757506533)：哎，你何时去澳门，
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@1757506533](https://user.qzone.qq.com/1757506533)我基友啥时候去报道我才能去。。。我都被拒了
 
 ---
-> 2015-06-11 16:30:32
 
+> 2015-06-11 16:30:32
 
 公司下午茶福利（因为部门申请一个课题获奖了得了奖金请客![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)）
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/F5ECE064.jpeg)
-!()[https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/343813E2.jpeg)
+
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/343813E2.jpeg)
 
 > 评论(2)
 
-
-*  [冯依琳](https://user.qzone.qq.com/122730568)：在哪工作，我怎么不知道～
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@冯依琳](https://user.qzone.qq.com/122730568) 深圳……
-	* [冯依琳](https://user.qzone.qq.com/122730568)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 直接在深圳工作![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e116.gif)那不久更少回来
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@冯依琳](https://user.qzone.qq.com/122730568) 明天就实习完了。正式工作要到7月份
-	* [冯依琳](https://user.qzone.qq.com/122730568)：[@ArthurFSY](https://user.qzone.qq.com/254904240) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e328529.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e328543.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e328530.gif)
-*  [李奡舟](https://user.qzone.qq.com/416188374)：不出国了？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李奡舟](https://user.qzone.qq.com/416188374)出不来工作了
-
+* [冯依琳](https://user.qzone.qq.com/122730568)：在哪工作，我怎么不知道～
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@冯依琳](https://user.qzone.qq.com/122730568) 深圳……
+  * [冯依琳](https://user.qzone.qq.com/122730568)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 直接在深圳工作![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e116.gif)那不久更少回来
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@冯依琳](https://user.qzone.qq.com/122730568) 明天就实习完了。正式工作要到7月份
+  * [冯依琳](https://user.qzone.qq.com/122730568)：[@ArthurFSY](https://user.qzone.qq.com/254904240) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e328529.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e328543.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e328530.gif)
+* [李奡舟](https://user.qzone.qq.com/416188374)：不出国了？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李奡舟](https://user.qzone.qq.com/416188374)出不来工作了
 
 ---
-> 2015-06-10 19:24:30
 
+> 2015-06-10 19:24:30
 
 今日菜单：胡萝卜可乐鸭腿薯粉 胡萝卜还不是很嫩，不够火候。。。总成本8.5rmb（总算不败家了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)）
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/39C240BE.jpeg)
+
 > 评论(3)
 
-
-*  [邓皓文](https://user.qzone.qq.com/764690654)：尼玛，就没做给我吃
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@邓皓文](https://user.qzone.qq.com/764690654) 就只做给我自己吃。。。
-	* [邓皓文](https://user.qzone.qq.com/764690654)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 呵，贱人
-*  [李敏杰](https://user.qzone.qq.com/1312561826)：你俩这么快就暴露了……[@邓皓文](https://user.qzone.qq.com/764690654)
-	* [邓皓文](https://user.qzone.qq.com/764690654)：[@李敏杰](https://user.qzone.qq.com/1312561826) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)讨厌
-	* [李敏杰](https://user.qzone.qq.com/1312561826)：[@邓皓文](https://user.qzone.qq.com/764690654)你们吓到了我了，我急需精神损失费![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e102.gif)
-	* [邓皓文](https://user.qzone.qq.com/764690654)：[@李敏杰](https://user.qzone.qq.com/1312561826) [@ArthurFSY](https://user.qzone.qq.com/254904240) 找他就对了
-*  [赖媛媛](https://user.qzone.qq.com/343757524)：你这厨艺还不错啊，哪天可否蹭饭？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赖媛媛](https://user.qzone.qq.com/343757524) 你也在深圳吗![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif) 哈哈可以呀
-	* [赖媛媛](https://user.qzone.qq.com/343757524)：[@ArthurFSY](https://user.qzone.qq.com/254904240)端午回家吗？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赖媛媛](https://user.qzone.qq.com/343757524) 回海口啊
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赖媛媛](https://user.qzone.qq.com/343757524) 呃看错了，端午从海口又飞学校了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif) 要跟我妹纸去玩![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e328516.gif)
-	* [赖媛媛](https://user.qzone.qq.com/343757524)：[@ArthurFSY](https://user.qzone.qq.com/254904240)端午都敢出去玩![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e183.gif)
-
+* [邓皓文](https://user.qzone.qq.com/764690654)：尼玛，就没做给我吃
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@邓皓文](https://user.qzone.qq.com/764690654) 就只做给我自己吃。。。
+  * [邓皓文](https://user.qzone.qq.com/764690654)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 呵，贱人
+* [李敏杰](https://user.qzone.qq.com/1312561826)：你俩这么快就暴露了……[@邓皓文](https://user.qzone.qq.com/764690654)
+  * [邓皓文](https://user.qzone.qq.com/764690654)：[@李敏杰](https://user.qzone.qq.com/1312561826) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)讨厌
+  * [李敏杰](https://user.qzone.qq.com/1312561826)：[@邓皓文](https://user.qzone.qq.com/764690654)你们吓到了我了，我急需精神损失费![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e102.gif)
+  * [邓皓文](https://user.qzone.qq.com/764690654)：[@李敏杰](https://user.qzone.qq.com/1312561826) [@ArthurFSY](https://user.qzone.qq.com/254904240) 找他就对了
+* [赖媛媛](https://user.qzone.qq.com/343757524)：你这厨艺还不错啊，哪天可否蹭饭？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赖媛媛](https://user.qzone.qq.com/343757524) 你也在深圳吗![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif) 哈哈可以呀
+  * [赖媛媛](https://user.qzone.qq.com/343757524)：[@ArthurFSY](https://user.qzone.qq.com/254904240)端午回家吗？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赖媛媛](https://user.qzone.qq.com/343757524) 回海口啊
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赖媛媛](https://user.qzone.qq.com/343757524) 呃看错了，端午从海口又飞学校了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif) 要跟我妹纸去玩![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e328516.gif)
+  * [赖媛媛](https://user.qzone.qq.com/343757524)：[@ArthurFSY](https://user.qzone.qq.com/254904240)端午都敢出去玩![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e183.gif)
 
 ---
-> 2015-06-09 19:17:00
 
+> 2015-06-09 19:17:00
 
 今日菜单：杂菌猪骨面
 
-
  因为没时间只中火熬了20分钟（请教了我老妈的![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)） ,最后淋了点酱油
-
 
  总成本：23rmb
 
-
  排骨买的有点多，其实都够两个人吃啦
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/FD4FE798.jpeg)
+
 > 评论(3)
 
-
-*  [刘星](https://user.qzone.qq.com/982410126)：实在是因为7楼太难走
-*  [赖媛媛](https://user.qzone.qq.com/343757524)：这是啥节奏啊
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赖媛媛](https://user.qzone.qq.com/343757524) 这是工作住单身宿舍的节奏……
-	* [赖媛媛](https://user.qzone.qq.com/343757524)：[@ArthurFSY](https://user.qzone.qq.com/254904240)在深圳啊？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赖媛媛](https://user.qzone.qq.com/343757524) 是啊。。。
-	* [赖媛媛](https://user.qzone.qq.com/343757524)：[@ArthurFSY](https://user.qzone.qq.com/254904240)找你玩呗
-*  [赵雪君](https://user.qzone.qq.com/476343125)：开始自己研究厨艺了呦~
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵雪君](https://user.qzone.qq.com/476343125) 是的！汉子上班也要爱护好自己的胃的！
-
+* [刘星](https://user.qzone.qq.com/982410126)：实在是因为7楼太难走
+* [赖媛媛](https://user.qzone.qq.com/343757524)：这是啥节奏啊
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赖媛媛](https://user.qzone.qq.com/343757524) 这是工作住单身宿舍的节奏……
+  * [赖媛媛](https://user.qzone.qq.com/343757524)：[@ArthurFSY](https://user.qzone.qq.com/254904240)在深圳啊？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赖媛媛](https://user.qzone.qq.com/343757524) 是啊。。。
+  * [赖媛媛](https://user.qzone.qq.com/343757524)：[@ArthurFSY](https://user.qzone.qq.com/254904240)找你玩呗
+* [赵雪君](https://user.qzone.qq.com/476343125)：开始自己研究厨艺了呦~
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵雪君](https://user.qzone.qq.com/476343125) 是的！汉子上班也要爱护好自己的胃的！
 
 ---
-> 2015-06-08 18:53:35
 
+> 2015-06-08 18:53:35
 
 今日菜单:海带鲜虾（鱿）鱼板面 不得不说吃海鲜还是略贵![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif) 自己总成本做成本25rmb
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/B40EB6E3.jpeg)
+
 > 评论(2)
 
-
-*  [李敏杰](https://user.qzone.qq.com/1312561826)：练好厨艺，到深圳求罩
-*  [邓皓文](https://user.qzone.qq.com/764690654)：重口
-
+* [李敏杰](https://user.qzone.qq.com/1312561826)：练好厨艺，到深圳求罩
+* [邓皓文](https://user.qzone.qq.com/764690654)：重口
 
 ---
-> 2015-06-07 19:26:19
 
+> 2015-06-07 19:26:19
 
 我的厨艺又见长了？ 新菜单:青菜鸡翅米线
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/D9DDDCDB.jpeg)
+
 > 评论(2)
 
-
-*  [冯杰](https://user.qzone.qq.com/1584438972)：哎哟，看起来不错
-*  [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李敏杰](https://user.qzone.qq.com/1312561826) 太远罩不了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e128.gif)
-
+* [冯杰](https://user.qzone.qq.com/1584438972)：哎哟，看起来不错
+* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李敏杰](https://user.qzone.qq.com/1312561826) 太远罩不了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e128.gif)
 
 ---
-> 2015-06-03 07:29:16
 
+> 2015-06-03 07:29:16
 
 这几天深圳的早上热的要死。。。[@刘星](https://user.qzone.qq.com/982410126)
 
 > 评论(0)
 
-
-
-
 ---
-### 5月
-> 2015-05-31 08:48:54
 
+### 5月
+
+> 2015-05-31 08:48:54
 
 感觉每次坐火车都像看一部超长家庭伦理剧＋育儿史（对比、反衬）。。。
 
 > 评论(0)
 
-
-
-
 ---
-> 2015-05-26 13:00:30
 
+> 2015-05-26 13:00:30
 
 钱包在洗衣机里面泡了……
 
 > 评论(0)
 
-
-
-
 ---
-> 2015-05-23 10:04:57
 
+> 2015-05-23 10:04:57
 
 两次答辩流两次鼻血。。。毕设应该就这样结束了？
 
 > 评论(3)
 
-
-*  [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：怎么你两次答辩？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@11 历史 张俊骏](https://user.qzone.qq.com/420998529) 毕业答辩下次推优一次
-	* [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：[@ArthurFSY](https://user.qzone.qq.com/254904240)你找工作了？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@11 历史 张俊骏](https://user.qzone.qq.com/420998529) 找到啦，在深圳那边
-	* [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：[@ArthurFSY](https://user.qzone.qq.com/254904240)不读研了？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@11 历史 张俊骏](https://user.qzone.qq.com/420998529) 学校那边还在等消息，不过被录取几率应该不大了……
-*  [李敏杰](https://user.qzone.qq.com/1312561826)：深圳约约约
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李敏杰](https://user.qzone.qq.com/1312561826) 准备啥时候又回深圳？
-	* [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：[@李敏杰](https://user.qzone.qq.com/1312561826)深圳约约约
-*  [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：深圳约约约
-
+* [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：怎么你两次答辩？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@11 历史 张俊骏](https://user.qzone.qq.com/420998529) 毕业答辩下次推优一次
+  * [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：[@ArthurFSY](https://user.qzone.qq.com/254904240)你找工作了？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@11 历史 张俊骏](https://user.qzone.qq.com/420998529) 找到啦，在深圳那边
+  * [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：[@ArthurFSY](https://user.qzone.qq.com/254904240)不读研了？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@11 历史 张俊骏](https://user.qzone.qq.com/420998529) 学校那边还在等消息，不过被录取几率应该不大了……
+* [李敏杰](https://user.qzone.qq.com/1312561826)：深圳约约约
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李敏杰](https://user.qzone.qq.com/1312561826) 准备啥时候又回深圳？
+  * [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：[@李敏杰](https://user.qzone.qq.com/1312561826)深圳约约约
+* [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：深圳约约约
 
 ---
-> 2015-05-13 15:15:14
 
+> 2015-05-13 15:15:14
 
 改论文格式改到流鼻血也是醉了
 
 > 评论(3)
 
-
-*  [刘兴建](https://user.qzone.qq.com/2501513181)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e133.gif)
-*  [胡喆英](https://user.qzone.qq.com/1025682220)：长痘痘也是醉了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e150.gif)
-*  [李敏杰](https://user.qzone.qq.com/1312561826)：改睡着了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e115.gif)
-
+* [刘兴建](https://user.qzone.qq.com/2501513181)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e133.gif)
+* [胡喆英](https://user.qzone.qq.com/1025682220)：长痘痘也是醉了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e150.gif)
+* [李敏杰](https://user.qzone.qq.com/1312561826)：改睡着了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e115.gif)
 
 ---
-> 2015-05-12 18:54:37
 
+> 2015-05-12 18:54:37
 
 这毕业论文格式改的让人酸爽。。。
 
 > 评论(1)
 
-
-*  [李敏杰](https://user.qzone.qq.com/1312561826)：怎么咯
-
+* [李敏杰](https://user.qzone.qq.com/1312561826)：怎么咯
 
 ---
-### 4月
-> 2015-04-30 19:24:09
 
+### 4月
+
+> 2015-04-30 19:24:09
 
 请问百日咳发病年龄段是多少……
 
 > 评论(5)
 
-
-*  [★宋府昌 Ⅱ ](https://user.qzone.qq.com/2409230025)：看名字嘛，多半是出生100日的时候。。。
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@★宋府昌 Ⅱ ](https://user.qzone.qq.com/2409230025) 最近老是咳嗽。。。然后这几天在玩炉石
-	* [★宋府昌 Ⅱ ](https://user.qzone.qq.com/2409230025)：[@ArthurFSY](https://user.qzone.qq.com/254904240)这个不是婴儿得的病么。。。
-*  [ArthurFSY](https://user.qzone.qq.com/254904240)：这是吐槽。。。
-*  [王志](https://user.qzone.qq.com/845471879)：咳一百天就发病！
-*  [赵琛](https://user.qzone.qq.com/664503485)：每百日发一次![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)
-*  [芳姐](https://user.qzone.qq.com/619209154)：2-5岁小儿在冬春两季多见。
-
+* [★宋府昌 Ⅱ ](https://user.qzone.qq.com/2409230025)：看名字嘛，多半是出生100日的时候。。。
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@★宋府昌 Ⅱ ](https://user.qzone.qq.com/2409230025) 最近老是咳嗽。。。然后这几天在玩炉石
+  * [★宋府昌 Ⅱ ](https://user.qzone.qq.com/2409230025)：[@ArthurFSY](https://user.qzone.qq.com/254904240)这个不是婴儿得的病么。。。
+* [ArthurFSY](https://user.qzone.qq.com/254904240)：这是吐槽。。。
+* [王志](https://user.qzone.qq.com/845471879)：咳一百天就发病！
+* [赵琛](https://user.qzone.qq.com/664503485)：每百日发一次![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)
+* [芳姐](https://user.qzone.qq.com/619209154)：2-5岁小儿在冬春两季多见。
 
 ---
-> 2015-04-27 10:37:28
 
+> 2015-04-27 10:37:28
 
 感冒喝王老吉有用吗![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)
 
 > 评论(3)
 
-
-*  [赵韵](https://user.qzone.qq.com/496639533)：然而这并没有什么卵用
-*  [安知鱼_](https://user.qzone.qq.com/740050787)：喝可乐有用
-*  [赵琛](https://user.qzone.qq.com/664503485)：为啥不喝加多宝？
-
+* [赵韵](https://user.qzone.qq.com/496639533)：然而这并没有什么卵用
+* [安知鱼_](https://user.qzone.qq.com/740050787)：喝可乐有用
+* [赵琛](https://user.qzone.qq.com/664503485)：为啥不喝加多宝？
 
 ---
-> 2015-04-20 20:02:56
 
+> 2015-04-20 20:02:56
 
 这两天在看一本小说《十宗罪》，作者：蜘蛛。人类最阴暗面和最光明面完美统一的恐怖小说
 
 > 评论(2)
 
-
-*  [李嘉琪](https://user.qzone.qq.com/505472883)：超好看
-*  [赵琛](https://user.qzone.qq.com/664503485)：电子版？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵琛](https://user.qzone.qq.com/664503485) 网上直接看的……
-	* [赵琛](https://user.qzone.qq.com/664503485)：[@ArthurFSY](https://user.qzone.qq.com/254904240) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)噢噢噢噢
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵琛](https://user.qzone.qq.com/664503485)琛哥你也看过吗。。。
-	* [赵琛](https://user.qzone.qq.com/664503485)：[@ArthurFSY](https://user.qzone.qq.com/254904240)网上看过电影，七宗罪
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵琛](https://user.qzone.qq.com/664503485)好吧。。。这个小说口味挺重的。拍了电影也属于禁播类型的![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e107.gif)
-	* [赵琛](https://user.qzone.qq.com/664503485)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 那你咋看的？翻墙？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵琛](https://user.qzone.qq.com/664503485)呃，没拍成电影。。忘记加“就算”两个字了。。
-	* [赵琛](https://user.qzone.qq.com/664503485)：[@ArthurFSY](https://user.qzone.qq.com/254904240) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e110.gif)好吧\~\~
-
+* [李嘉琪](https://user.qzone.qq.com/505472883)：超好看
+* [赵琛](https://user.qzone.qq.com/664503485)：电子版？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵琛](https://user.qzone.qq.com/664503485) 网上直接看的……
+  * [赵琛](https://user.qzone.qq.com/664503485)：[@ArthurFSY](https://user.qzone.qq.com/254904240) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)噢噢噢噢
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵琛](https://user.qzone.qq.com/664503485)琛哥你也看过吗。。。
+  * [赵琛](https://user.qzone.qq.com/664503485)：[@ArthurFSY](https://user.qzone.qq.com/254904240)网上看过电影，七宗罪
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵琛](https://user.qzone.qq.com/664503485)好吧。。。这个小说口味挺重的。拍了电影也属于禁播类型的![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e107.gif)
+  * [赵琛](https://user.qzone.qq.com/664503485)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 那你咋看的？翻墙？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵琛](https://user.qzone.qq.com/664503485)呃，没拍成电影。。忘记加“就算”两个字了。。
+  * [赵琛](https://user.qzone.qq.com/664503485)：[@ArthurFSY](https://user.qzone.qq.com/254904240) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e110.gif)好吧\~\~
 
 ---
-> 2015-04-17 09:39:07
 
+> 2015-04-17 09:39:07
 
 我看到了2011年我的日记“高中三年”，然后现在已经到了可以写“大学四年”的时间了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e162.gif)
 
 > 评论(0)
 
-
-
-
 ---
-> 2015-04-01 13:29:58
 
+> 2015-04-01 13:29:58
 
 刷机有风险，刷机需谨慎。。。差点又砖了
 
 > 评论(0)
 
-
-
-
 ---
-### 3月
-> 2015-03-31 12:39:35
 
+### 3月
+
+> 2015-03-31 12:39:35
 
 我感觉我的芯片给我玩坏了！
 
 > 评论(0)
 
-
-
-
 ---
-### 2月
-> 2015-02-28 09:22:09
 
+### 2月
+
+> 2015-02-28 09:22:09
 
 六级口语考试真心水！15分钟考试就算了，还什么信息都没显示就显示个等级A![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e7009.gif)
 
 > 评论(1)
 
-
-*  [李奡舟](https://user.qzone.qq.com/416188374)：你6级考了好多哦
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李奡舟](https://user.qzone.qq.com/416188374) 465。。。
-	* [李奡舟](https://user.qzone.qq.com/416188374)：[@ArthurFSY](https://user.qzone.qq.com/254904240)66666666
-
+* [李奡舟](https://user.qzone.qq.com/416188374)：你6级考了好多哦
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李奡舟](https://user.qzone.qq.com/416188374) 465。。。
+  * [李奡舟](https://user.qzone.qq.com/416188374)：[@ArthurFSY](https://user.qzone.qq.com/254904240)66666666
 
 ---
+
 > 2015-02-22 11:16:15
 
-
 亚龙湾森林公园外省的旅客超多![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)
+
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/54BC1816.jpeg)
+
 > 评论(0)
 
-
-
-
 ---
-> 2015-02-15 12:49:24
 
+> 2015-02-15 12:49:24
 
 我勒个去……自行车给偷了……
 
 > 评论(3)
 
-
-*  [方正威、](https://user.qzone.qq.com/395655864)：。
-*  [赵琛](https://user.qzone.qq.com/664503485)：偷回来！
-*  [Slim~Stan](https://user.qzone.qq.com/2682796328)：必须点个赞
-
+* [方正威、](https://user.qzone.qq.com/395655864)：。
+* [赵琛](https://user.qzone.qq.com/664503485)：偷回来！
+* [Slim~Stan](https://user.qzone.qq.com/2682796328)：必须点个赞
 
 ---
-> 2015-02-13 09:30:51
 
+> 2015-02-13 09:30:51
 
 才发现微信现在也有windows版本了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)
 
 > 评论(0)
 
-
-
-
 ---
+
 > 2015-02-11 13:47:00
 
-
 有一种灵魂理发师剪完头让你有种穿越的感觉。。。我妈觉得头型有点毁，你们觉得呢![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e153.gif)
+
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/E9238045.jpeg)
+
 > 评论(13)
 
-
-*  [{text}](https://user.qzone.qq.com/undefined)：其实还可以吧。。。
-*  [{text}](https://user.qzone.qq.com/undefined)：主要是得看脸![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e151.gif)
-*  [{text}](https://user.qzone.qq.com/undefined)：我觉得可以，再唱一首《李白》
-*  [{text}](https://user.qzone.qq.com/undefined)：后面那个是电扇还是电灯！![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)
-*  [{text}](https://user.qzone.qq.com/undefined)：杀马特
-*  [{text}](https://user.qzone.qq.com/undefined)：摩擦摩擦
-*  [{text}](https://user.qzone.qq.com/undefined)：必须点个赞
-*  [{text}](https://user.qzone.qq.com/undefined)：赞~
-*  [{text}](https://user.qzone.qq.com/undefined)：毁了
-*  [{text}](https://user.qzone.qq.com/undefined)：海魂衫不错。。。咳咳咳
-*  [{text}](https://user.qzone.qq.com/undefined)：发哥~
-*  [{text}](https://user.qzone.qq.com/undefined)：有点屌！666
-*  [{text}](https://user.qzone.qq.com/undefined)：冯麦郎
-
+* [{text}](https://user.qzone.qq.com/undefined)：其实还可以吧。。。
+* [{text}](https://user.qzone.qq.com/undefined)：主要是得看脸![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e151.gif)
+* [{text}](https://user.qzone.qq.com/undefined)：我觉得可以，再唱一首《李白》
+* [{text}](https://user.qzone.qq.com/undefined)：后面那个是电扇还是电灯！![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)
+* [{text}](https://user.qzone.qq.com/undefined)：杀马特
+* [{text}](https://user.qzone.qq.com/undefined)：摩擦摩擦
+* [{text}](https://user.qzone.qq.com/undefined)：必须点个赞
+* [{text}](https://user.qzone.qq.com/undefined)：赞~
+* [{text}](https://user.qzone.qq.com/undefined)：毁了
+* [{text}](https://user.qzone.qq.com/undefined)：海魂衫不错。。。咳咳咳
+* [{text}](https://user.qzone.qq.com/undefined)：发哥~
+* [{text}](https://user.qzone.qq.com/undefined)：有点屌！666
+* [{text}](https://user.qzone.qq.com/undefined)：冯麦郎
 
 ---
+
 > 2015-02-08 12:29:59
 
-
 我也不知道会签到什么玩意 [—— 桃花签](http://h5.qzone.qq.com/ta/il/10008?g=1475)
+
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/0C43DEF2.png)
+
 > 评论(0)
 
-
-
-
 ---
-> 2015-02-05 09:48:05
 
+> 2015-02-05 09:48:05
 
 我妈今天煮的红豆汤味道超像加多宝or王老吉！！
 
 > 评论(3)
 
-
-*  [冯依琳](https://user.qzone.qq.com/122730568)：回来啦
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@冯依琳](https://user.qzone.qq.com/122730568) 是呀!双岛现在放假了？
-	* [冯依琳](https://user.qzone.qq.com/122730568)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 放啦，春节你会带那个回家啊？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@冯依琳](https://user.qzone.qq.com/122730568) 不会啊。。。对了浩源哥的健身卡在家不？？
-	* [冯依琳](https://user.qzone.qq.com/122730568)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 我哥不在家，不懂噢
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@冯依琳](https://user.qzone.qq.com/122730568) 行吧。。等过几天再联系他。
-*  [王志](https://user.qzone.qq.com/845471879)：肯定是按照王老吉的配方做的
-*  [赵琛](https://user.qzone.qq.com/664503485)：还是熟悉的配方，还是熟悉的味道。。。
-
+* [冯依琳](https://user.qzone.qq.com/122730568)：回来啦
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@冯依琳](https://user.qzone.qq.com/122730568) 是呀!双岛现在放假了？
+  * [冯依琳](https://user.qzone.qq.com/122730568)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 放啦，春节你会带那个回家啊？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@冯依琳](https://user.qzone.qq.com/122730568) 不会啊。。。对了浩源哥的健身卡在家不？？
+  * [冯依琳](https://user.qzone.qq.com/122730568)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 我哥不在家，不懂噢
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@冯依琳](https://user.qzone.qq.com/122730568) 行吧。。等过几天再联系他。
+* [王志](https://user.qzone.qq.com/845471879)：肯定是按照王老吉的配方做的
+* [赵琛](https://user.qzone.qq.com/664503485)：还是熟悉的配方，还是熟悉的味道。。。
 
 ---
-### 1月
-> 2015-01-29 11:17:31
 
+### 1月
+
+> 2015-01-29 11:17:31
 
 刚有个显示香港的电话打过来，我凭着调戏骗子的心情接了电话。然后竟然是一个香港的商学院来的，中文说了半天没说明白换英文，后来才知道我是EE专业的就sorry,88了。后面问到怎么得知我电话的，说是TOEFL上面的推送……
 
 > 评论(4)
 
-
-*  [李敏杰](https://user.qzone.qq.com/1312561826)：就凭那一句中文说半天没听懂换英文，拉出去鄙视十分钟![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e148.gif)
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李敏杰](https://user.qzone.qq.com/1312561826) 香港人普通话别扭啊……跟她说我懂粤语又没反应
-*  [李奡舟](https://user.qzone.qq.com/416188374)：你连中文都听不懂，哎，回来挖煤吧
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李奡舟](https://user.qzone.qq.com/416188374) 香港人讲普通话很要命的好不好……我还跟她说我懂粤语她貌似都没反应。
-*  [赵雪君](https://user.qzone.qq.com/476343125)：粤语～普通话～英语～无压力切换啊～![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)
-*  [赖媛媛](https://user.qzone.qq.com/343757524)：把你拉出去毙了！
-
+* [李敏杰](https://user.qzone.qq.com/1312561826)：就凭那一句中文说半天没听懂换英文，拉出去鄙视十分钟![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e148.gif)
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李敏杰](https://user.qzone.qq.com/1312561826) 香港人普通话别扭啊……跟她说我懂粤语又没反应
+* [李奡舟](https://user.qzone.qq.com/416188374)：你连中文都听不懂，哎，回来挖煤吧
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李奡舟](https://user.qzone.qq.com/416188374) 香港人讲普通话很要命的好不好……我还跟她说我懂粤语她貌似都没反应。
+* [赵雪君](https://user.qzone.qq.com/476343125)：粤语～普通话～英语～无压力切换啊～![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)
+* [赖媛媛](https://user.qzone.qq.com/343757524)：把你拉出去毙了！
 
 ---
-> 2015-01-25 13:21:49
 
+> 2015-01-25 13:21:49
 
 快毕业了，才又看起了艰涩的VHDL……
 
 > 评论(2)
 
-
-*  [许雅明](https://user.qzone.qq.com/845700924)：FPGA
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@许雅明](https://user.qzone.qq.com/845700924)CPLD...
-*  [刘兴建](https://user.qzone.qq.com/2501513181)：与非门，三人表决器。
-
+* [许雅明](https://user.qzone.qq.com/845700924)：FPGA
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@许雅明](https://user.qzone.qq.com/845700924)CPLD...
+* [刘兴建](https://user.qzone.qq.com/2501513181)：与非门，三人表决器。
 
 ---
-> 2015-01-15 21:43:57
 
+> 2015-01-15 21:43:57
 
 刚刚我妈蒸橙子给我吃!对你没看错！是蒸！味道想不到的好吃！太神奇了！![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)
 
 > 评论(0)
 
-
-
-
 ---
-> 2015-01-15 21:12:51
 
+> 2015-01-15 21:12:51
 
 突然发现家里的电视竟然能识别U盘里的视频!下个高清电影买几瓶饮料家里也可以舒服看大片了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)
 
 > 评论(1)
 
-
-*  [码路](https://user.qzone.qq.com/2283758339)：啊？你才发现，现在的电视都可以啊，我也经常把U盘插到电视上看大片，比用电脑看爽！！
-	* [赵琛](https://user.qzone.qq.com/664503485)：[@码路](https://user.qzone.qq.com/2283758339) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e120.gif)屏大，任性~！
-	* [码路](https://user.qzone.qq.com/2283758339)：[@赵琛](https://user.qzone.qq.com/664503485) 就是啊![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e257431.gif)
-	* [赵琛](https://user.qzone.qq.com/664503485)：[@码路](https://user.qzone.qq.com/2283758339) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)
-
+* [码路](https://user.qzone.qq.com/2283758339)：啊？你才发现，现在的电视都可以啊，我也经常把U盘插到电视上看大片，比用电脑看爽！！
+  * [赵琛](https://user.qzone.qq.com/664503485)：[@码路](https://user.qzone.qq.com/2283758339) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e120.gif)屏大，任性~！
+  * [码路](https://user.qzone.qq.com/2283758339)：[@赵琛](https://user.qzone.qq.com/664503485) 就是啊![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e257431.gif)
+  * [赵琛](https://user.qzone.qq.com/664503485)：[@码路](https://user.qzone.qq.com/2283758339) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)
 
 ---
-> 2015-01-02 12:17:07
 
+> 2015-01-02 12:17:07
 
 梦幻西游竟然出动画片了！网易好高能！
 
 > 评论(0)
 
-
-
-
 ---
-## 2014年
-### 12月
-> 2014-12-20 22:52:33
 
+## 2014年
+
+### 12月
+
+> 2014-12-20 22:52:33
 
 右手貌似要长冻疮换成左手操作鼠标发现还挺顺手的？！
 
 > 评论(3)
 
-
-*  [赵琛](https://user.qzone.qq.com/664503485)：重点不是应该治冻疮么→_→
-*  [赖媛媛](https://user.qzone.qq.com/343757524)：主要还开发右脑！
-*  [冯杰](https://user.qzone.qq.com/1584438972)：还在学校？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@冯杰](https://user.qzone.qq.com/1584438972) 在啊，重修的都没考呢。这学期你还回来吗？
-	* [冯杰](https://user.qzone.qq.com/1584438972)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 不知道，看情况
-
+* [赵琛](https://user.qzone.qq.com/664503485)：重点不是应该治冻疮么→_→
+* [赖媛媛](https://user.qzone.qq.com/343757524)：主要还开发右脑！
+* [冯杰](https://user.qzone.qq.com/1584438972)：还在学校？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@冯杰](https://user.qzone.qq.com/1584438972) 在啊，重修的都没考呢。这学期你还回来吗？
+  * [冯杰](https://user.qzone.qq.com/1584438972)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 不知道，看情况
 
 ---
-> 2014-12-08 11:29:29
 
+> 2014-12-08 11:29:29
 
 校园网登录器抽了一上午!!烦躁的很啊！
 
 > 评论(3)
 
-
-*  [刘兴建](https://user.qzone.qq.com/2501513181)：就是，老断。
-*  [李奡舟](https://user.qzone.qq.com/416188374)：现在来了吗？我们这边断了一上午了
-*  [任连松](https://user.qzone.qq.com/136246849)：不能上网了，好郁闷
-
+* [刘兴建](https://user.qzone.qq.com/2501513181)：就是，老断。
+* [李奡舟](https://user.qzone.qq.com/416188374)：现在来了吗？我们这边断了一上午了
+* [任连松](https://user.qzone.qq.com/136246849)：不能上网了，好郁闷
 
 ---
-### 11月
-> 2014-11-23 12:20:25
 
+### 11月
+
+> 2014-11-23 12:20:25
 
 重大虎溪校区还挺好的，里面的食堂好大！饭也好吃，更好的是有免费wifi![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)
 
 > 评论(0)
 
-
-
-
 ---
-> 2014-11-08 14:27:06
 
+> 2014-11-08 14:27:06
 
 好了，终于忙完托福考试了！复习一个多月感觉还是有效果的！不像第一次那么紧张，发挥出正常水平![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e112.gif)
 
 > 评论(2)
 
-
-*  [Maosir ✿](https://user.qzone.qq.com/2476916837)：看好你哟~
-*  [卓菲菲](https://user.qzone.qq.com/415918436)：要出国？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@卓菲菲](https://user.qzone.qq.com/415918436)有这个打算
-
+* [Maosir ✿](https://user.qzone.qq.com/2476916837)：看好你哟~
+* [卓菲菲](https://user.qzone.qq.com/415918436)：要出国？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@卓菲菲](https://user.qzone.qq.com/415918436)有这个打算
 
 ---
-> 2014-11-05 20:52:14
 
+> 2014-11-05 20:52:14
 
 有哪位朋友需要正版托福模考软件的吗？真正需要的可以联系我！不！要！钱！免！费！——伟大的店主在我的杰出的错误反馈的功劳下不仅不收费还送了我一套![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)(就一套哦！)
 
 > 评论(3)
 
-
-*  [11文社院周庭望](https://user.qzone.qq.com/598417448)：能送给我卖吗![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e139.gif)
-*  [孙嘉祺](https://user.qzone.qq.com/1769392852)：有雅思的么？
-*  [李敏杰](https://user.qzone.qq.com/1312561826)：求送！我是真诚的！
-
+* [11文社院周庭望](https://user.qzone.qq.com/598417448)：能送给我卖吗![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e139.gif)
+* [孙嘉祺](https://user.qzone.qq.com/1769392852)：有雅思的么？
+* [李敏杰](https://user.qzone.qq.com/1312561826)：求送！我是真诚的！
 
 ---
-### 10月
-> 2014-10-11 20:12:54
 
+### 10月
+
+> 2014-10-11 20:12:54
 
 图书馆：坐在我对面的哥们真可怜，老是给他旁边的妹纸（GF?）捶打（狠狠地）![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e114.gif)
 
 > 评论(1)
 
-
-*  [潘高峰](https://user.qzone.qq.com/562300117)：这就是你的不对了嘛，应该学习雷锋，见义勇为，帮帮忙啦
-
+* [潘高峰](https://user.qzone.qq.com/562300117)：这就是你的不对了嘛，应该学习雷锋，见义勇为，帮帮忙啦
 
 ---
-> 2014-10-04 19:29:51
 
+> 2014-10-04 19:29:51
 
 [##空间时光轴##](http://rc.qzone.qq.com/qzonesoso/?search=%E7%A9%BA%E9%97%B4%E6%97%B6%E5%85%89%E8%BD%B4) 【2014年10月03日】[已读]Water politics must adapt to a warming world
 
 > 评论(0)
 
-
-
-
 ---
-> 2014-10-04 19:29:18
 
+> 2014-10-04 19:29:18
 
 [##空间时光轴##](http://rc.qzone.qq.com/qzonesoso/?search=%E7%A9%BA%E9%97%B4%E6%97%B6%E5%85%89%E8%BD%B4) 【2014年10月04日】[已读]Evolutionary biology-Survival of the fittest group
 
 > 评论(0)
 
-
-
-
 ---
-> 2014-10-03 10:47:26
 
+> 2014-10-03 10:47:26
 
 [##空间时光轴##](http://rc.qzone.qq.com/qzonesoso/?search=%E7%A9%BA%E9%97%B4%E6%97%B6%E5%85%89%E8%BD%B4) 【2014年10月02日】[已读]Chinese science gets mass transformation
 
 > 评论(0)
 
-
-
-
 ---
-> 2014-10-03 10:47:02
 
+> 2014-10-03 10:47:02
 
 [##空间时光轴##](http://rc.qzone.qq.com/qzonesoso/?search=%E7%A9%BA%E9%97%B4%E6%97%B6%E5%85%89%E8%BD%B4) 【2014年10月01日】[已读]Sugar substitutes linked to obesity
 
 > 评论(0)
 
-
-
-
 ---
-> 2014-10-03 10:46:38
 
+> 2014-10-03 10:46:38
 
 [##空间时光轴##](http://rc.qzone.qq.com/qzonesoso/?search=%E7%A9%BA%E9%97%B4%E6%97%B6%E5%85%89%E8%BD%B4) 【2014年09月30日10时】[已读]EBOLA’S LOST WARD
 
 > 评论(0)
 
-
-
-
 ---
-### 9月
-> 2014-09-30 08:07:09
 
+### 9月
+
+> 2014-09-30 08:07:09
 
 感觉现在起床越来越没有动力了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)图书馆7日游一定要坚持下去啊！！
 
 > 评论(2)
 
-
-*  [★金小松 Ⅱ](https://user.qzone.qq.com/179523774)：学霸，要不要这么用功，让我等学渣怎么自容
-*  [11文社院周庭望](https://user.qzone.qq.com/598417448)：喂喂，你这就有点。。。
-
+* [★金小松 Ⅱ](https://user.qzone.qq.com/179523774)：学霸，要不要这么用功，让我等学渣怎么自容
+* [11文社院周庭望](https://user.qzone.qq.com/598417448)：喂喂，你这就有点。。。
 
 ---
-> 2014-09-27 19:24:53
 
+> 2014-09-27 19:24:53
 
 刚刚在中图坐电梯的时候看到一个哥们拿着有道背单词，看着背影超!像!你！的！[@孙嘉祺](https://user.qzone.qq.com/1769392852)
 
 > 评论(2)
 
-
-*  [孙嘉祺](https://user.qzone.qq.com/1769392852)：我也在纳闷。。。你下电梯，我看到电梯门口的背影也超像你！![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e141.gif)
-*  [孙嘉祺](https://user.qzone.qq.com/1769392852)：应该就是你。黑白条纹好像是。
-
+* [孙嘉祺](https://user.qzone.qq.com/1769392852)：我也在纳闷。。。你下电梯，我看到电梯门口的背影也超像你！![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e141.gif)
+* [孙嘉祺](https://user.qzone.qq.com/1769392852)：应该就是你。黑白条纹好像是。
 
 ---
-> 2014-09-17 17:28:17
 
+> 2014-09-17 17:28:17
 
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e125.gif) Argument &amp; Issue 还在看啊还在看……
 
 > 评论(0)
 
-
-
-
 ---
-> 2014-09-11 18:54:29
 
+> 2014-09-11 18:54:29
 
 潘总的课竟然只有四个人来……你们给点面子啊喂![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e105.gif) 空调都吹冷了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e115.gif)
 
 > 评论(0)
 
-
-
-
 ---
-> 2014-09-10 18:25:47
 
+> 2014-09-10 18:25:47
 
 刚图书馆，登陆校园网的时候发现跟另外一个不知道是谁的包月账号串号了，然后就来下电影……
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/45897C9A.png)
+
 > 评论(1)
 
-
-*  [李奡舟](https://user.qzone.qq.com/416188374)：我比较关心你在哪里找的种子
-
+* [李奡舟](https://user.qzone.qq.com/416188374)：我比较关心你在哪里找的种子
 
 ---
-> 2014-09-08 07:34:07
 
+> 2014-09-08 07:34:07
 
 昨晚三更半夜拉了两次肚子，今天一觉起来竟然好了！![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e125.gif)
 
 > 评论(1)
 
-
-*  [Scarlett](https://user.qzone.qq.com/475126857)：我也拉了一晚上的肚子
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@Scarlett](https://user.qzone.qq.com/475126857) 这么同病相怜吗![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e109.gif)
-	* [Scarlett](https://user.qzone.qq.com/475126857)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 现在还在拉
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@Scarlett](https://user.qzone.qq.com/475126857) 那赶紧去吃点药要不就去看医生吧！！
-
+* [Scarlett](https://user.qzone.qq.com/475126857)：我也拉了一晚上的肚子
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@Scarlett](https://user.qzone.qq.com/475126857) 这么同病相怜吗![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e109.gif)
+  * [Scarlett](https://user.qzone.qq.com/475126857)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 现在还在拉
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@Scarlett](https://user.qzone.qq.com/475126857) 那赶紧去吃点药要不就去看医生吧！！
 
 ---
-> 2014-09-05 09:59:30
 
+> 2014-09-05 09:59:30
 
 感觉又要拉肚子拉几天的节奏……![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e328561.gif)
 
 > 评论(2)
 
-
-*  [李奡舟](https://user.qzone.qq.com/416188374)：二次托福考了没嘛？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李奡舟](https://user.qzone.qq.com/416188374) 没呢 11月份才考
-*  [李奡舟](https://user.qzone.qq.com/416188374)：二次托福考了没嘛？
-
+* [李奡舟](https://user.qzone.qq.com/416188374)：二次托福考了没嘛？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李奡舟](https://user.qzone.qq.com/416188374) 没呢 11月份才考
+* [李奡舟](https://user.qzone.qq.com/416188374)：二次托福考了没嘛？
 
 ---
-### 8月
-> 2014-08-26 22:50:05
 
+### 8月
+
+> 2014-08-26 22:50:05
 
 哟呵~暑假最后一个月体重终于回升到65kg了！果然坚持锻炼好处大大啊！俯卧撑要继续坚持下去，现在一次勉强40个，看练几天后能不能突破50……
 
 > 评论(1)
 
-
-*  [ArthurFSY](https://user.qzone.qq.com/254904240)：骚年，你现在71kg了都，坚持去健身房1个月了还不错哦![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e144.gif)
-
+* [ArthurFSY](https://user.qzone.qq.com/254904240)：骚年，你现在71kg了都，坚持去健身房1个月了还不错哦![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e144.gif)
 
 ---
+
 > 2014-08-22 21:36:58
 
-
 刚刚教我爸怎么在淘宝上面买东西，然后偷偷用他的支付宝给他（wo）买了一套骑车用具![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e104.gif)
+
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/CB4E0DDB.png)
-!()[https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/38C50A87.png)
+
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/38C50A87.png)
 
 > 评论(2)
 
-
-*  [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：你也成玩车一族了？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@11 历史 张俊骏](https://user.qzone.qq.com/420998529) 老爸买了一辆山地车流就随便玩玩呗
-	* [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 以后可以一起 玩撒
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@11 历史 张俊骏](https://user.qzone.qq.com/420998529) 哈哈可以呀！我今天来回又骑了16公里……新手感觉这么点路就累了……
-	* [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 我还没买车，你懂车不？有没有啥推荐的？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@11 历史 张俊骏](https://user.qzone.qq.com/420998529) 我也不懂……只是小区楼下刚好有个捷安特自行车专卖店就顺手买了。买的是山地车
-	* [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 多少钱入的？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@11 历史 张俊骏](https://user.qzone.qq.com/420998529) 我爸在我的教唆下花2850买的……
-*  [赖峻豪](https://user.qzone.qq.com/780209069)：你应该教你爸学会看你的qq动态
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赖峻豪](https://user.qzone.qq.com/780209069) 我爸又没qq……
-
+* [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：你也成玩车一族了？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@11 历史 张俊骏](https://user.qzone.qq.com/420998529) 老爸买了一辆山地车流就随便玩玩呗
+  * [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 以后可以一起 玩撒
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@11 历史 张俊骏](https://user.qzone.qq.com/420998529) 哈哈可以呀！我今天来回又骑了16公里……新手感觉这么点路就累了……
+  * [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 我还没买车，你懂车不？有没有啥推荐的？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@11 历史 张俊骏](https://user.qzone.qq.com/420998529) 我也不懂……只是小区楼下刚好有个捷安特自行车专卖店就顺手买了。买的是山地车
+  * [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 多少钱入的？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@11 历史 张俊骏](https://user.qzone.qq.com/420998529) 我爸在我的教唆下花2850买的……
+* [赖峻豪](https://user.qzone.qq.com/780209069)：你应该教你爸学会看你的qq动态
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赖峻豪](https://user.qzone.qq.com/780209069) 我爸又没qq……
 
 ---
+
 > 2014-08-22 18:01:12
 
-
 刚出去还是太阳晒晒的骑到一半要雷暴天气！幸好最后还是及时回到家![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e105.gif)
+
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/C6CEBD3D.jpeg)
+
 > 评论(1)
 
-
-*  [赖峻豪](https://user.qzone.qq.com/780209069)：10km要骑多久啊
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赖峻豪](https://user.qzone.qq.com/780209069) 因为那次选错路了人超多所以骑得比较慢，10km/49min.后来选对路了16km/53min
-	* [赖峻豪](https://user.qzone.qq.com/780209069)：[@ArthurFSY](https://user.qzone.qq.com/254904240)全速还是慢行啊？
-	* [赖峻豪](https://user.qzone.qq.com/780209069)：[@ArthurFSY](https://user.qzone.qq.com/254904240)我现在都不敢晒太阳
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赖峻豪](https://user.qzone.qq.com/780209069) 中高速吧，那个16公里是来回的，回来逆风没力飚速
-
+* [赖峻豪](https://user.qzone.qq.com/780209069)：10km要骑多久啊
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赖峻豪](https://user.qzone.qq.com/780209069) 因为那次选错路了人超多所以骑得比较慢，10km/49min.后来选对路了16km/53min
+  * [赖峻豪](https://user.qzone.qq.com/780209069)：[@ArthurFSY](https://user.qzone.qq.com/254904240)全速还是慢行啊？
+  * [赖峻豪](https://user.qzone.qq.com/780209069)：[@ArthurFSY](https://user.qzone.qq.com/254904240)我现在都不敢晒太阳
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赖峻豪](https://user.qzone.qq.com/780209069) 中高速吧，那个16公里是来回的，回来逆风没力飚速
 
 ---
-> 2014-08-22 10:17:17
 
+> 2014-08-22 10:17:17
 
 纳米核心第4-6集今天更新哦
 
 > 评论(1)
 
-
-*  [刘兴建](https://user.qzone.qq.com/2501513181)：真的吗？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@刘兴建](https://user.qzone.qq.com/2501513181) 现在好像只有第四集放出来了，后面每个一个星期当初第五第六集
-
+* [刘兴建](https://user.qzone.qq.com/2501513181)：真的吗？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@刘兴建](https://user.qzone.qq.com/2501513181) 现在好像只有第四集放出来了，后面每个一个星期当初第五第六集
 
 ---
-> 2014-08-20 09:00:09
 
+> 2014-08-20 09:00:09
 
 擦CET6刷分失败反降10分……
 
 > 评论(2)
 
-
-*  [冯依琳](https://user.qzone.qq.com/122730568)：赞
-*  [张海荣](https://user.qzone.qq.com/1013603044)：怎么查
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@张海荣](https://user.qzone.qq.com/1013603044) 有准考证号码后到百度搜索 英语六级查分 就有网址可以查了
-	* [张海荣](https://user.qzone.qq.com/1013603044)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 果断没过～
-
+* [冯依琳](https://user.qzone.qq.com/122730568)：赞
+* [张海荣](https://user.qzone.qq.com/1013603044)：怎么查
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@张海荣](https://user.qzone.qq.com/1013603044) 有准考证号码后到百度搜索 英语六级查分 就有网址可以查了
+  * [张海荣](https://user.qzone.qq.com/1013603044)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 果断没过～
 
 ---
-> 2014-08-10 06:53:54
 
+> 2014-08-10 06:53:54
 
 qq号给盗了？！！
 
 > 评论(1)
 
-
-*  [邓皓文](https://user.qzone.qq.com/764690654)：淘宝购物群是什麽
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@邓皓文](https://user.qzone.qq.com/764690654) 不知道，尼玛今天一起来就看到了。赶紧给密码改了
-
+* [邓皓文](https://user.qzone.qq.com/764690654)：淘宝购物群是什麽
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@邓皓文](https://user.qzone.qq.com/764690654) 不知道，尼玛今天一起来就看到了。赶紧给密码改了
 
 ---
-> 2014-08-02 07:48:43
 
+> 2014-08-02 07:48:43
 
 自从回到家都是11点睡7点多起，感觉自己萌萌哒![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)
 
 > 评论(4)
 
-
-*  [邓皓文](https://user.qzone.qq.com/764690654)：可耻
-*  [龙煜](https://user.qzone.qq.com/410854325)：10点睡8点起![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e116.gif)
-*  [吕方](https://user.qzone.qq.com/664882496)：可恨
-*  [刘兴建](https://user.qzone.qq.com/2501513181)：piapiapia
-
+* [邓皓文](https://user.qzone.qq.com/764690654)：可耻
+* [龙煜](https://user.qzone.qq.com/410854325)：10点睡8点起![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e116.gif)
+* [吕方](https://user.qzone.qq.com/664882496)：可恨
+* [刘兴建](https://user.qzone.qq.com/2501513181)：piapiapia
 
 ---
+
 ### 7月
+
 > 2014-07-27 20:22:54
 
-
 哈哈，第一次有人夸我英文书写。看来练那么1个多月还是有用的！![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)
+
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/C3CF7909.jpeg)
+
 > 评论(1)
 
-
-*  [李奡舟](https://user.qzone.qq.com/416188374)：说不定人家只是虚伪的奉承LOL~她怎么和学姐一个名
-
+* [李奡舟](https://user.qzone.qq.com/416188374)：说不定人家只是虚伪的奉承LOL~她怎么和学姐一个名
 
 ---
-> 2014-07-23 07:21:14
 
+> 2014-07-23 07:21:14
 
 唉，托福第一次考才78分，不给我过啊！！！
 
 > 评论(4)
 
-
-*  [ArthurFSY](https://user.qzone.qq.com/254904240)：[@Bruce](https://user.qzone.qq.com/453665764) 今天你查成绩了吗
-	* [Bruce](https://user.qzone.qq.com/453665764)：[@ArthurFSY](https://user.qzone.qq.com/254904240)看了你说说之后查了
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@Bruce](https://user.qzone.qq.com/453665764) 有80分吗
-	* [Bruce](https://user.qzone.qq.com/453665764)：[@ArthurFSY](https://user.qzone.qq.com/254904240)你在开玩笑哦(⊙o⊙)哦，没你学得好好吗
-*  [Bruce](https://user.qzone.qq.com/453665764)：我70
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@Bruce](https://user.qzone.qq.com/453665764) 看来都要考第二次了……
-	* [Bruce](https://user.qzone.qq.com/453665764)：[@ArthurFSY](https://user.qzone.qq.com/254904240)必须的
-*  [潘高峰](https://user.qzone.qq.com/562300117)：加油再来，小朋友
-*  [赵琛](https://user.qzone.qq.com/664503485)：加油再来，小朋友
-
+* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@Bruce](https://user.qzone.qq.com/453665764) 今天你查成绩了吗
+  * [Bruce](https://user.qzone.qq.com/453665764)：[@ArthurFSY](https://user.qzone.qq.com/254904240)看了你说说之后查了
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@Bruce](https://user.qzone.qq.com/453665764) 有80分吗
+  * [Bruce](https://user.qzone.qq.com/453665764)：[@ArthurFSY](https://user.qzone.qq.com/254904240)你在开玩笑哦(⊙o⊙)哦，没你学得好好吗
+* [Bruce](https://user.qzone.qq.com/453665764)：我70
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@Bruce](https://user.qzone.qq.com/453665764) 看来都要考第二次了……
+  * [Bruce](https://user.qzone.qq.com/453665764)：[@ArthurFSY](https://user.qzone.qq.com/254904240)必须的
+* [潘高峰](https://user.qzone.qq.com/562300117)：加油再来，小朋友
+* [赵琛](https://user.qzone.qq.com/664503485)：加油再来，小朋友
 
 ---
-> 2014-07-20 10:41:10
 
+> 2014-07-20 10:41:10
 
 海口断电断水两日，汽车无处可以加油。交通接近瘫痪。
 
 > 评论(3)
 
-
-*  [码路](https://user.qzone.qq.com/2283758339)：啊![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e114.gif)你要挺住！重庆人民欢迎你……
-*  [邓皓文](https://user.qzone.qq.com/764690654)：海口不哭
-*  [宋倩雯](https://user.qzone.qq.com/825796915)：……步行节碳
-
+* [码路](https://user.qzone.qq.com/2283758339)：啊![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e114.gif)你要挺住！重庆人民欢迎你……
+* [邓皓文](https://user.qzone.qq.com/764690654)：海口不哭
+* [宋倩雯](https://user.qzone.qq.com/825796915)：……步行节碳
 
 ---
-> 2014-07-18 19:11:19
 
+> 2014-07-18 19:11:19
 
 我家的乌龟还一直趴着阳台的门想往外面跑，刚刚还差点掉出阳台了！第二次把它往家里面放还是跑过来！这个是什么灵异现象![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)
 
 > 评论(4)
 
-
-*  [11文社院周庭望](https://user.qzone.qq.com/598417448)：你家不安全，想逃走→_→
-*  [赵琛](https://user.qzone.qq.com/664503485)：会有台风，，，撤
-*  [Scarlett](https://user.qzone.qq.com/475126857)：我家乌龟以前掉出过阳台
-*  [李奡舟](https://user.qzone.qq.com/416188374)：想我了撒。想爬过来看我
-
+* [11文社院周庭望](https://user.qzone.qq.com/598417448)：你家不安全，想逃走→_→
+* [赵琛](https://user.qzone.qq.com/664503485)：会有台风，，，撤
+* [Scarlett](https://user.qzone.qq.com/475126857)：我家乌龟以前掉出过阳台
+* [李奡舟](https://user.qzone.qq.com/416188374)：想我了撒。想爬过来看我
 
 ---
-> 2014-07-18 17:07:57
 
+> 2014-07-18 17:07:57
 
 海口16级台风![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)
 
 > 评论(1)
 
-
-*  [Bruce](https://user.qzone.qq.com/453665764)：好爽
-
+* [Bruce](https://user.qzone.qq.com/453665764)：好爽
 
 ---
-> 2014-07-12 13:19:12
 
+> 2014-07-12 13:19:12
 
 看完考试后终于可以轻松两天！
 
 > 评论(1)
 
-
-*  [刘兴建](https://user.qzone.qq.com/2501513181)：看完考试？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@刘兴建](https://user.qzone.qq.com/2501513181)考完……
-
+* [刘兴建](https://user.qzone.qq.com/2501513181)：看完考试？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@刘兴建](https://user.qzone.qq.com/2501513181)考完……
 
 ---
-> 2014-07-11 11:21:04
 
+> 2014-07-11 11:21:04
 
 呵呵，看个1小时停电2次……
 
 > 评论(1)
 
-
-*  [Maosir ✿](https://user.qzone.qq.com/2476916837)：有一次看电影影院停了3次电，忍无可忍，不看了。。。。
-
+* [Maosir ✿](https://user.qzone.qq.com/2476916837)：有一次看电影影院停了3次电，忍无可忍，不看了。。。。
 
 ---
-> 2014-07-10 18:43:45
 
+> 2014-07-10 18:43:45
 
 今天跟我爸去吃了一顿斋![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)
 
 > 评论(2)
 
-
-*  [赵瑞婷](https://user.qzone.qq.com/283244900)：于是看破红尘了？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵瑞婷](https://user.qzone.qq.com/283244900) 木有……只是中午吃太多油想清一下肠子而已而已
-*  [赵琛](https://user.qzone.qq.com/664503485)：nice\~\~然后你过一会就饿了，就跟吃了清汤河粉一样- -
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵琛](https://user.qzone.qq.com/664503485)也许就真相了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)
-	* [赵琛](https://user.qzone.qq.com/664503485)：[@ArthurFSY](https://user.qzone.qq.com/254904240) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e151.gif)
-
+* [赵瑞婷](https://user.qzone.qq.com/283244900)：于是看破红尘了？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵瑞婷](https://user.qzone.qq.com/283244900) 木有……只是中午吃太多油想清一下肠子而已而已
+* [赵琛](https://user.qzone.qq.com/664503485)：nice\~\~然后你过一会就饿了，就跟吃了清汤河粉一样- -
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵琛](https://user.qzone.qq.com/664503485)也许就真相了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)
+  * [赵琛](https://user.qzone.qq.com/664503485)：[@ArthurFSY](https://user.qzone.qq.com/254904240) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e151.gif)
 
 ---
-> 2014-07-09 12:44:41
 
+> 2014-07-09 12:44:41
 
 收拾东西，准备回家。对现在所呆的地方也心灰意冷了
 
 > 评论(2)
 
-
-*  [任连松](https://user.qzone.qq.com/136246849)：至于么
-*  [谁人浮生乱流年](https://user.qzone.qq.com/51671534)：。。。。又怎么了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e132.gif)
-
+* [任连松](https://user.qzone.qq.com/136246849)：至于么
+* [谁人浮生乱流年](https://user.qzone.qq.com/51671534)：。。。。又怎么了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e132.gif)
 
 ---
-### 6月
-> 2014-06-29 17:48:39
 
+### 6月
+
+> 2014-06-29 17:48:39
 
 在大家只剩1科程控的时候，我还有额外2门缓考……好悲哀![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)
 
 > 评论(3)
 
-
-*  [赵韵](https://user.qzone.qq.com/496639533)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)
-*  [李敏杰](https://user.qzone.qq.com/1312561826)：为啥？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李敏杰](https://user.qzone.qq.com/1312561826) 去年的微机和高频到今年才缓考……
-	* [李敏杰](https://user.qzone.qq.com/1312561826)：[@ArthurFSY](https://user.qzone.qq.com/254904240)你高频啥时候考，我有高频详细复习资料……
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李敏杰](https://user.qzone.qq.com/1312561826) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)7.1号考……求详细复习资料T^T
-	* [李敏杰](https://user.qzone.qq.com/1312561826)：[@ArthurFSY](https://user.qzone.qq.com/254904240)明天考完试我回寝室给你找哈
-	* [李敏杰](https://user.qzone.qq.com/1312561826)：[@李敏杰](https://user.qzone.qq.com/1312561826)实在是太对不起了，，，我来回搬家搬的好像找不见了，。。。。
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李敏杰](https://user.qzone.qq.com/1312561826) 没事哈，其实我也自己准备了一下应该没问题
-	* [李敏杰](https://user.qzone.qq.com/1312561826)：[@ArthurFSY](https://user.qzone.qq.com/254904240)祝福马到成功^O^
-*  [ArthurFSY](https://user.qzone.qq.com/254904240)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e328076.gif)谢谢啦
-
+* [赵韵](https://user.qzone.qq.com/496639533)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)
+* [李敏杰](https://user.qzone.qq.com/1312561826)：为啥？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李敏杰](https://user.qzone.qq.com/1312561826) 去年的微机和高频到今年才缓考……
+  * [李敏杰](https://user.qzone.qq.com/1312561826)：[@ArthurFSY](https://user.qzone.qq.com/254904240)你高频啥时候考，我有高频详细复习资料……
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李敏杰](https://user.qzone.qq.com/1312561826) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)7.1号考……求详细复习资料T^T
+  * [李敏杰](https://user.qzone.qq.com/1312561826)：[@ArthurFSY](https://user.qzone.qq.com/254904240)明天考完试我回寝室给你找哈
+  * [李敏杰](https://user.qzone.qq.com/1312561826)：[@李敏杰](https://user.qzone.qq.com/1312561826)实在是太对不起了，，，我来回搬家搬的好像找不见了，。。。。
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李敏杰](https://user.qzone.qq.com/1312561826) 没事哈，其实我也自己准备了一下应该没问题
+  * [李敏杰](https://user.qzone.qq.com/1312561826)：[@ArthurFSY](https://user.qzone.qq.com/254904240)祝福马到成功^O^
+* [ArthurFSY](https://user.qzone.qq.com/254904240)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e328076.gif)谢谢啦
 
 ---
+
 > 2014-06-24 12:31:18【转发】
 
-
 脑洞无限大……
-> 原文:
 
+> 原文:
 
 [安知鱼_](https://user.qzone.qq.com/740050787)：脑洞太大，实在忍不住转了2333333
 
-
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/3B4712A8.jpeg)
-!()[https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/B9EF8138.jpeg)
-!()[https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/F4B43350.jpeg)
+
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/B9EF8138.jpeg)
+
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/F4B43350.jpeg)
 
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/71D9199A.jpeg)
-!()[https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/EE82B763.jpeg)
-!()[https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/237A528F.jpeg)
+
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/EE82B763.jpeg)
+
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/237A528F.jpeg)
 
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/C0749B65.jpeg)
-!()[https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/F3A37564.jpeg)
-!()[https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/45CC5706.jpeg)
 
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/F3A37564.jpeg)
 
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/45CC5706.jpeg)
 
 > 评论(0)
 
-
-
-
 ---
-> 2014-06-20 11:08:00
 
+> 2014-06-20 11:08:00
 
 才知道BORSCHT是罗宋汤的意思……
 
 > 评论(0)
 
-
-
-
 ---
-> 2014-06-19 19:29:03
 
+> 2014-06-19 19:29:03
 
 有谁知道钢笔是神马牌子比较好的吗…
 
 > 评论(8)
 
-
-*  [宋倩雯](https://user.qzone.qq.com/825796915)：派克～
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@宋倩雯](https://user.qzone.qq.com/825796915) 派克刚刚在淘宝看了一下30-300的都有，还都号称是正品![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e115.gif)好纠结
-	* [宋倩雯](https://user.qzone.qq.com/825796915)：[@ArthurFSY](https://user.qzone.qq.com/254904240)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e120.gif)天猫真假掺半需谨慎啊。应该是最便宜400左右吧？
-*  [李奡舟](https://user.qzone.qq.com/416188374)：Arthur~
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李奡舟](https://user.qzone.qq.com/416188374) 好吧……上次图书馆看到你你都没请我吃饭![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e115.gif)
-	* [李奡舟](https://user.qzone.qq.com/416188374)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 厂长请客啊
-*  [李奡舟](https://user.qzone.qq.com/416188374)：Arthur~
-*  [吕方](https://user.qzone.qq.com/664882496)：英雄牌！！
-*  [无非](https://user.qzone.qq.com/624504099)：每个牌子都有不同价位不同品质的
-*  [熊方舟](https://user.qzone.qq.com/2467205843)：我用的毕加索的，可以定制，也很流畅
-*  [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：一定要钢笔吗？我有一支派克的碳素笔，很好用。
-*  [11数学周雅璐](https://user.qzone.qq.com/852489490)：貌似毕加索好用
-
+* [宋倩雯](https://user.qzone.qq.com/825796915)：派克～
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@宋倩雯](https://user.qzone.qq.com/825796915) 派克刚刚在淘宝看了一下30-300的都有，还都号称是正品![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e115.gif)好纠结
+  * [宋倩雯](https://user.qzone.qq.com/825796915)：[@ArthurFSY](https://user.qzone.qq.com/254904240)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e120.gif)天猫真假掺半需谨慎啊。应该是最便宜400左右吧？
+* [李奡舟](https://user.qzone.qq.com/416188374)：Arthur~
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李奡舟](https://user.qzone.qq.com/416188374) 好吧……上次图书馆看到你你都没请我吃饭![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e115.gif)
+  * [李奡舟](https://user.qzone.qq.com/416188374)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 厂长请客啊
+* [李奡舟](https://user.qzone.qq.com/416188374)：Arthur~
+* [吕方](https://user.qzone.qq.com/664882496)：英雄牌！！
+* [无非](https://user.qzone.qq.com/624504099)：每个牌子都有不同价位不同品质的
+* [熊方舟](https://user.qzone.qq.com/2467205843)：我用的毕加索的，可以定制，也很流畅
+* [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：一定要钢笔吗？我有一支派克的碳素笔，很好用。
+* [11数学周雅璐](https://user.qzone.qq.com/852489490)：貌似毕加索好用
 
 ---
-> 2014-06-16 15:58:45
 
+> 2014-06-16 15:58:45
 
 在图书馆算题，一支笔笔芯用完了。。嗯，我掏出另外一支笔。我去，又是用到底了……呵呵，我大学的币都是摔坏和弄丢的好么！还让不让人复习了……
 
 > 评论(2)
 
-
-*  [陈文艳](https://user.qzone.qq.com/503669886)：看前面我还以为你在强调自己非常好学
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@陈文艳](https://user.qzone.qq.com/503669886) 不可能的事o(╯□╰)o 要考试了才开始预习……
-*  [无非](https://user.qzone.qq.com/624504099)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e146.gif)
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@无非](https://user.qzone.qq.com/624504099) 今天坐我对面三个都是美女耶![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e112.gif)做题都烦不起来了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)
-
+* [陈文艳](https://user.qzone.qq.com/503669886)：看前面我还以为你在强调自己非常好学
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@陈文艳](https://user.qzone.qq.com/503669886) 不可能的事o(╯□╰)o 要考试了才开始预习……
+* [无非](https://user.qzone.qq.com/624504099)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e146.gif)
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@无非](https://user.qzone.qq.com/624504099) 今天坐我对面三个都是美女耶![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e112.gif)做题都烦不起来了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)
 
 ---
-> 2014-06-14 17:33:56
 
+> 2014-06-14 17:33:56
 
 这次六级的阅读怎么这么难！！
 
 > 评论(2)
 
-
-*  [李嘉琪](https://user.qzone.qq.com/505472883)：听力难！！！！
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李嘉琪](https://user.qzone.qq.com/505472883) 好吧……听力也难，但是阅读更坑爹
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李嘉琪](https://user.qzone.qq.com/505472883) 你不是过了嘛![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)怎么还考
-	* [李嘉琪](https://user.qzone.qq.com/505472883)：[@ArthurFSY](https://user.qzone.qq.com/254904240)我第一次考…………
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李嘉琪](https://user.qzone.qq.com/505472883) 大二才发一次考啊……
-	* [李嘉琪](https://user.qzone.qq.com/505472883)：[@ArthurFSY](https://user.qzone.qq.com/254904240)是噻！
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李嘉琪](https://user.qzone.qq.com/505472883) 大二才让考么……我包这次都考了4次六级了o(╯□╰)o
-	* [李嘉琪](https://user.qzone.qq.com/505472883)：[@ArthurFSY](https://user.qzone.qq.com/254904240)……对滴……你都比我多上一年好不好……
-*  [★金小松 Ⅱ](https://user.qzone.qq.com/179523774)：幸好我没报![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)
-
+* [李嘉琪](https://user.qzone.qq.com/505472883)：听力难！！！！
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李嘉琪](https://user.qzone.qq.com/505472883) 好吧……听力也难，但是阅读更坑爹
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李嘉琪](https://user.qzone.qq.com/505472883) 你不是过了嘛![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)怎么还考
+  * [李嘉琪](https://user.qzone.qq.com/505472883)：[@ArthurFSY](https://user.qzone.qq.com/254904240)我第一次考…………
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李嘉琪](https://user.qzone.qq.com/505472883) 大二才发一次考啊……
+  * [李嘉琪](https://user.qzone.qq.com/505472883)：[@ArthurFSY](https://user.qzone.qq.com/254904240)是噻！
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李嘉琪](https://user.qzone.qq.com/505472883) 大二才让考么……我包这次都考了4次六级了o(╯□╰)o
+  * [李嘉琪](https://user.qzone.qq.com/505472883)：[@ArthurFSY](https://user.qzone.qq.com/254904240)……对滴……你都比我多上一年好不好……
+* [★金小松 Ⅱ](https://user.qzone.qq.com/179523774)：幸好我没报![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)
 
 ---
+
 > 2014-06-12 10:57:21
 
-
 咋一看还可以吧(^_^)，各位猜测一下我哪张是最后写的![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e100.gif)
+
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/A2894A14.jpeg)
+
 > 评论(0)
 
-
-
-
 ---
-> 2014-06-11 21:34:46【[中心图书馆](https://apis.map.qq.com/uri/v1/marker?marker=coord:29.823709,106.417823;title:中心图书馆;addr:中心图书馆)】
 
+> 2014-06-11 21:34:46【[中心图书馆](https://apis.map.qq.com/uri/v1/marker?marker=coord:29.823709,106.417823;title:中心图书馆;addr:中心图书馆)】
 
 练了一个晚上的意大利体……好像木有那么难看的！
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/ED3B8E69.jpeg)
+
 > 评论(2)
 
-
-*  [Bruce](https://user.qzone.qq.com/453665764)：还可以的
-*  [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：那个r的小撇。。。有点小风骚的感觉，哈哈
-
+* [Bruce](https://user.qzone.qq.com/453665764)：还可以的
+* [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：那个r的小撇。。。有点小风骚的感觉，哈哈
 
 ---
-> 2014-06-10 15:39:34
 
+> 2014-06-10 15:39:34
 
 图书馆是一个有相当一部分装×，相当一部分觉醒学霸之魂的地方。另外，它还有另外一个作用——估算学校男女比例
 
 > 评论(0)
 
-
-
-
 ---
-> 2014-06-06 17:14:07
 
+> 2014-06-06 17:14:07
 
 我去……26教停电了……
 
 > 评论(0)
 
-
-
-
 ---
-> 2014-06-04 19:55:41
 
+> 2014-06-04 19:55:41
 
 中图坐在我旁边的女生暴露了她的年级了！！信号与系统……
 
 > 评论(1)
 
-
-*  [赵琛](https://user.qzone.qq.com/664503485)：莫非你也在看信号系统？哎呀，好巧吖
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵琛](https://user.qzone.qq.com/664503485) 我在做阅读而已……
-	* [赵琛](https://user.qzone.qq.com/664503485)：[@ArthurFSY](https://user.qzone.qq.com/254904240) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e196.gif)
-
+* [赵琛](https://user.qzone.qq.com/664503485)：莫非你也在看信号系统？哎呀，好巧吖
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵琛](https://user.qzone.qq.com/664503485) 我在做阅读而已……
+  * [赵琛](https://user.qzone.qq.com/664503485)：[@ArthurFSY](https://user.qzone.qq.com/254904240) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e196.gif)
 
 ---
-### 5月
-> 2014-05-28 21:29:49
 
+### 5月
+
+> 2014-05-28 21:29:49
 
 [##空间时光轴##](http://rc.qzone.qq.com/qzonesoso/?search=%E7%A9%BA%E9%97%B4%E6%97%B6%E5%85%89%E8%BD%B4) 【2014年05月28日】改了半小时的作文才提高1分啊……
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/3EDD73FC.jpeg)
+
 > 评论(2)
 
-
-*  [孙嘉祺](https://user.qzone.qq.com/1769392852)：这是什么学英语的软件啊……
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@孙嘉祺](https://user.qzone.qq.com/1769392852) 这个是在线的作文批改网呀，其实也不知道准不准就是给它改来玩玩
-*  [李奡舟](https://user.qzone.qq.com/416188374)：同问，
-
+* [孙嘉祺](https://user.qzone.qq.com/1769392852)：这是什么学英语的软件啊……
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@孙嘉祺](https://user.qzone.qq.com/1769392852) 这个是在线的作文批改网呀，其实也不知道准不准就是给它改来玩玩
+* [李奡舟](https://user.qzone.qq.com/416188374)：同问，
 
 ---
-> 2014-05-26 17:24:00
 
+> 2014-05-26 17:24:00
 
 刷了一个下午才刷成功的kindle fire hd7 平板告诉我们闭源的bootloader简直是人神共愤啊！
 
 > 评论(0)
 
-
-
-
 ---
-> 2014-05-16 23:15:02
 
+> 2014-05-16 23:15:02
 
 用平板打字真恶心-_-||尤其是写300单词作文的时候！
 
 > 评论(4)
 
-
-*  [冯依琳](https://user.qzone.qq.com/122730568)：哈哈哈哈
-*  [Bruce](https://user.qzone.qq.com/453665764)：快些疯了，才写一篇
-*  [ArthurFSY](https://user.qzone.qq.com/254904240)：[@Bruce](https://user.qzone.qq.com/453665764) 不好意思……我都忘记发题目给你了，明天直接给你看题？
-	* [Bruce](https://user.qzone.qq.com/453665764)：[@ArthurFSY](https://user.qzone.qq.com/254904240)我知道了，阅读和写作嘛，写作我只写了一篇，阅读正在做
-*  [李嘉琪](https://user.qzone.qq.com/505472883)：还有这作业……
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李嘉琪](https://user.qzone.qq.com/505472883) 学托福老师布置的作文……本来还要求一篇400字以上的但是实在憋不出来T^T
-
+* [冯依琳](https://user.qzone.qq.com/122730568)：哈哈哈哈
+* [Bruce](https://user.qzone.qq.com/453665764)：快些疯了，才写一篇
+* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@Bruce](https://user.qzone.qq.com/453665764) 不好意思……我都忘记发题目给你了，明天直接给你看题？
+  * [Bruce](https://user.qzone.qq.com/453665764)：[@ArthurFSY](https://user.qzone.qq.com/254904240)我知道了，阅读和写作嘛，写作我只写了一篇，阅读正在做
+* [李嘉琪](https://user.qzone.qq.com/505472883)：还有这作业……
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李嘉琪](https://user.qzone.qq.com/505472883) 学托福老师布置的作文……本来还要求一篇400字以上的但是实在憋不出来T^T
 
 ---
-> 2014-05-08 16:48:30
 
+> 2014-05-08 16:48:30
 
 幸好我的ppt就是五分钟……刚刚讲完(&gt;﹏&lt;)
 
 > 评论(1)
 
-
-*  [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：啥子？ 换手机拉？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@11 历史 张俊骏](https://user.qzone.qq.com/420998529) 去年就换啦 是专业课的演讲
-
+* [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：啥子？ 换手机拉？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@11 历史 张俊骏](https://user.qzone.qq.com/420998529) 去年就换啦 是专业课的演讲
 
 ---
-> 2014-05-04 20:53:54
 
+> 2014-05-04 20:53:54
 
 啊啊啊！打了一晚上喷嚏流了一晚上的鼻涕了(&gt;﹏&lt;)
 
 > 评论(1)
 
-
-*  [冯依琳](https://user.qzone.qq.com/122730568)：干的漂亮![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e104.gif)
-
+* [冯依琳](https://user.qzone.qq.com/122730568)：干的漂亮![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e104.gif)
 
 ---
-> 2014-05-04 12:02:19
 
+> 2014-05-04 12:02:19
 
 谢谢各位昨天晚上的陪伴和礼物![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e144.gif)今天早上起来发现流鼻涕简直停不下来啊(&gt;﹏&lt;)
 
 > 评论(1)
 
-
-*  [冯依琳](https://user.qzone.qq.com/122730568)：昨天晚上干嘛了
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@冯依琳](https://user.qzone.qq.com/122730568) 昨晚我生日请同学吃饭了
-	* [冯依琳](https://user.qzone.qq.com/122730568)：[@ArthurFSY](https://user.qzone.qq.com/254904240)一哟
-
+* [冯依琳](https://user.qzone.qq.com/122730568)：昨天晚上干嘛了
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@冯依琳](https://user.qzone.qq.com/122730568) 昨晚我生日请同学吃饭了
+  * [冯依琳](https://user.qzone.qq.com/122730568)：[@ArthurFSY](https://user.qzone.qq.com/254904240)一哟
 
 ---
-### 4月
-> 2014-04-27 20:14:29
 
+### 4月
+
+> 2014-04-27 20:14:29
 
 在中图自习的时候看到一对好基友在背单词估计是在准备6级，突然想起一年前的自己也是这样每天都在认真地准备……
 
 > 评论(0)
 
-
-
-
 ---
-> 2014-04-11 15:47:48
 
+> 2014-04-11 15:47:48
 
 呵呵……61.7KG了我要重回人干的节奏啊……
 
 > 评论(5)
 
-
-*  [李嘉琪](https://user.qzone.qq.com/505472883)：尼玛
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李嘉琪](https://user.qzone.qq.com/505472883) 对了我初中的时候是多重啊……
-	* [李嘉琪](https://user.qzone.qq.com/505472883)：[@ArthurFSY](https://user.qzone.qq.com/254904240)100多？……
-*  [Maosir ✿](https://user.qzone.qq.com/2476916837)：那请问你多高啊？![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e114.gif)
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@Maosir ✿](https://user.qzone.qq.com/2476916837) 180cm……
-	* [Maosir ✿](https://user.qzone.qq.com/2476916837)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 额，风一吹，你会倒么？
-*  [冯依琳](https://user.qzone.qq.com/122730568)：那么重？
-*  [冯依琳](https://user.qzone.qq.com/122730568)：你是我两倍。。
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@冯依琳](https://user.qzone.qq.com/122730568) 女孩子不是都比较轻的么……
-	* [冯依琳](https://user.qzone.qq.com/122730568)：[@ArthurFSY](https://user.qzone.qq.com/254904240)。。。
-*  [赵琛](https://user.qzone.qq.com/664503485)：求减肥秘诀
-
+* [李嘉琪](https://user.qzone.qq.com/505472883)：尼玛
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李嘉琪](https://user.qzone.qq.com/505472883) 对了我初中的时候是多重啊……
+  * [李嘉琪](https://user.qzone.qq.com/505472883)：[@ArthurFSY](https://user.qzone.qq.com/254904240)100多？……
+* [Maosir ✿](https://user.qzone.qq.com/2476916837)：那请问你多高啊？![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e114.gif)
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@Maosir ✿](https://user.qzone.qq.com/2476916837) 180cm……
+  * [Maosir ✿](https://user.qzone.qq.com/2476916837)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 额，风一吹，你会倒么？
+* [冯依琳](https://user.qzone.qq.com/122730568)：那么重？
+* [冯依琳](https://user.qzone.qq.com/122730568)：你是我两倍。。
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@冯依琳](https://user.qzone.qq.com/122730568) 女孩子不是都比较轻的么……
+  * [冯依琳](https://user.qzone.qq.com/122730568)：[@ArthurFSY](https://user.qzone.qq.com/254904240)。。。
+* [赵琛](https://user.qzone.qq.com/664503485)：求减肥秘诀
 
 ---
-> 2014-04-03 22:05:03
 
+> 2014-04-03 22:05:03
 
 这样的写法和题材好痛苦！！！憋了2个小时才憋了500多字，呵呵……
 
 > 评论(0)
 
-
-
-
 ---
-### 3月
-> 2014-03-30 23:39:45
 
+### 3月
+
+> 2014-03-30 23:39:45
 
 有一天你所依赖父母会离你而去，有一天你所深爱的恋人会离你而去，有一天你所羁绊的朋友会离你而去，最后陪伴在你身边的还剩什么？活下去的勇气吗？不，是现在就无比珍惜的心
 
 > 评论(0)
 
-
-
-
 ---
-> 2014-03-29 16:32:56
 
+> 2014-03-29 16:32:56
 
 今天上课老师问我哪里人，我说我是广东的 。他哦了一声后：“哈？听口音不像啊？”呵呵……彼此彼此，你也让我无法想象你是本地的![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)
 
 > 评论(1)
 
-
-*  [赵瑞婷](https://user.qzone.qq.com/283244900)：你看我像哪里人？~![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e144.gif)
-
+* [赵瑞婷](https://user.qzone.qq.com/283244900)：你看我像哪里人？~![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e144.gif)
 
 ---
-> 2014-03-25 22:25:51
 
+> 2014-03-25 22:25:51
 
 这几天都是晚饭没胃口晚上饿的慌![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e105.gif)
 
 > 评论(1)
 
-
-*  [Scarlett](https://user.qzone.qq.com/475126857)：买不买柠檬杯啊亲
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@Scarlett](https://user.qzone.qq.com/475126857) 我用不了这么萌的杯子![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)
-	* [Scarlett](https://user.qzone.qq.com/475126857)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 给女朋友买，笨！
-
+* [Scarlett](https://user.qzone.qq.com/475126857)：买不买柠檬杯啊亲
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@Scarlett](https://user.qzone.qq.com/475126857) 我用不了这么萌的杯子![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)
+  * [Scarlett](https://user.qzone.qq.com/475126857)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 给女朋友买，笨！
 
 ---
-> 2014-03-23 17:53:37
 
+> 2014-03-23 17:53:37
 
 今天午觉做了一个梦，梦到错过回家最后一辆车，并且和最重要的人渐行渐远，一个人给黑暗淹没。吓死了！![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)
 
 > 评论(1)
 
-
-*  [李奡舟](https://user.qzone.qq.com/416188374)：Arthur~
-
+* [李奡舟](https://user.qzone.qq.com/416188374)：Arthur~
 
 ---
-> 2014-03-22 10:46:36
 
+> 2014-03-22 10:46:36
 
 我很喜欢春游，这个词本身就有让我回味无比的童趣。另一方面，它让我想起了我小时候在春天的一切简单的美好。
 
 > 评论(0)
 
-
-
-
 ---
-> 2014-03-03 23:02:11
 
+> 2014-03-03 23:02:11
 
 第一天实习完，想到的不是有多累——这对于我这个曾经一天站12个小时洗碗的人来说根本不算什么。也没用多感觉自己多大材小用，而是深深感觉到就算是平凡的劳动人民她们的某些教育观念不知道要比一些有钱的父母要好多少。我十分期待我这两天的劳动能为她们减轻点负担——谁生活在这世上都不容易，而我们相对来说没那么苦涩一些
 
 > 评论(2)
 
-
-*  [陈新](https://user.qzone.qq.com/442404530)：你们怎么现在就去实习了
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@陈新](https://user.qzone.qq.com/442404530) 小实习2周而已
-	* [陈新](https://user.qzone.qq.com/442404530)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 哦。然后回来继续读书啊
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@陈新](https://user.qzone.qq.com/442404530) 是啊……
-*  [谁人浮生乱流年](https://user.qzone.qq.com/51671534)：长大了哟![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)
-
+* [陈新](https://user.qzone.qq.com/442404530)：你们怎么现在就去实习了
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@陈新](https://user.qzone.qq.com/442404530) 小实习2周而已
+  * [陈新](https://user.qzone.qq.com/442404530)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 哦。然后回来继续读书啊
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@陈新](https://user.qzone.qq.com/442404530) 是啊……
+* [谁人浮生乱流年](https://user.qzone.qq.com/51671534)：长大了哟![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)
 
 ---
-> 2014-03-01 10:15:51
 
+> 2014-03-01 10:15:51
 
 感觉差不多要好了……
 
 > 评论(0)
 
-
-
-
 ---
-### 2月
-> 2014-02-27 16:58:43
 
+### 2月
+
+> 2014-02-27 16:58:43
 
 这两天人品不好啊……拉肚子好难受啊……
 
 > 评论(1)
 
-
-*  [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：我刚来也这样，我怎么觉得你是受凉了。一盒藿香正气丸包好，我昨天好的。试试，中成药温和一点。早点好吧，小伙伴！
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591) 我吃了正气丸的……味道太冲让我吐了……吐了之反而舒服了点
-	* [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：[@ArthurFSY](https://user.qzone.qq.com/254904240)这么晚还没睡是同道中猫啊！吃清淡点，没事的，小问题，别担心！
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591) 在拉肚子……
-
+* [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：我刚来也这样，我怎么觉得你是受凉了。一盒藿香正气丸包好，我昨天好的。试试，中成药温和一点。早点好吧，小伙伴！
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591) 我吃了正气丸的……味道太冲让我吐了……吐了之反而舒服了点
+  * [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：[@ArthurFSY](https://user.qzone.qq.com/254904240)这么晚还没睡是同道中猫啊！吃清淡点，没事的，小问题，别担心！
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591) 在拉肚子……
 
 ---
-> 2014-02-25 19:46:30
 
+> 2014-02-25 19:46:30
 
 我想成为一个认真起来连我自己都害怕的男人
 
 > 评论(0)
 
-
-
-
 ---
-> 2014-02-24 10:14:57
 
+> 2014-02-24 10:14:57
 
 在北碚电信实习的最大好处是有一个网速为1.8m/s的 CHINANET-FREE
 
 > 评论(2)
 
-
-*  [赵韵](https://user.qzone.qq.com/496639533)：你实习了？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵韵](https://user.qzone.qq.com/496639533)才2周的小实习
-*  [陈文艳](https://user.qzone.qq.com/503669886)：1.8m/s，是什么的单位？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@陈文艳](https://user.qzone.qq.com/503669886) 1.8MB/s……
-
+* [赵韵](https://user.qzone.qq.com/496639533)：你实习了？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵韵](https://user.qzone.qq.com/496639533)才2周的小实习
+* [陈文艳](https://user.qzone.qq.com/503669886)：1.8m/s，是什么的单位？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@陈文艳](https://user.qzone.qq.com/503669886) 1.8MB/s……
 
 ---
-> 2014-02-23 12:01:02
 
+> 2014-02-23 12:01:02
 
 我祝愿住我楼上天天扰民的人今天出门就被人吐口水淹死
 
 > 评论(0)
 
-
-
-
 ---
-> 2014-02-21 09:02:46
 
+> 2014-02-21 09:02:46
 
 6级过了！尼玛465比四级还高……
 
 > 评论(4)
 
-
-*  [陈文艳](https://user.qzone.qq.com/503669886)：暑假的经历还是很好使的
-*  [11文社院周庭望](https://user.qzone.qq.com/598417448)：赞
-*  [谁人浮生乱流年](https://user.qzone.qq.com/51671534)：去米国还是很有效果的。
-*  [宋倩雯](https://user.qzone.qq.com/825796915)：被6级刷屏了……几家欢喜几家愁
-
+* [陈文艳](https://user.qzone.qq.com/503669886)：暑假的经历还是很好使的
+* [11文社院周庭望](https://user.qzone.qq.com/598417448)：赞
+* [谁人浮生乱流年](https://user.qzone.qq.com/51671534)：去米国还是很有效果的。
+* [宋倩雯](https://user.qzone.qq.com/825796915)：被6级刷屏了……几家欢喜几家愁
 
 ---
-> 2014-02-18 22:13:28
 
+> 2014-02-18 22:13:28
 
 一个人坐火车好无聊~_~ 做点什么好呢？编小故事？
 
 > 评论(2)
 
-
-*  [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：可以玩脑补摇色子
-*  [冯依琳](https://user.qzone.qq.com/122730568)：靠。。。。
-
+* [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：可以玩脑补摇色子
+* [冯依琳](https://user.qzone.qq.com/122730568)：靠。。。。
 
 ---
-> 2014-02-16 12:49:21
 
+> 2014-02-16 12:49:21
 
 大包小包过江过海泥路土路回湛江
 
 > 评论(2)
 
-
-*  [冯依琳](https://user.qzone.qq.com/122730568)：。。。
-*  [吴璐瑶](https://user.qzone.qq.com/289992322)：又回来啦？！
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@吴璐瑶](https://user.qzone.qq.com/289992322) 是哇 今天回来18号再从湛江坐火车回重庆
-	* [吴璐瑶](https://user.qzone.qq.com/289992322)：[@ArthurFSY](https://user.qzone.qq.com/254904240)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e142.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e142.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e142.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e142.gif)
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@吴璐瑶](https://user.qzone.qq.com/289992322) 刚刚不久前才回到家……你呢？回学校了吗
-
+* [冯依琳](https://user.qzone.qq.com/122730568)：。。。
+* [吴璐瑶](https://user.qzone.qq.com/289992322)：又回来啦？！
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@吴璐瑶](https://user.qzone.qq.com/289992322) 是哇 今天回来18号再从湛江坐火车回重庆
+  * [吴璐瑶](https://user.qzone.qq.com/289992322)：[@ArthurFSY](https://user.qzone.qq.com/254904240)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e142.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e142.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e142.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e142.gif)
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@吴璐瑶](https://user.qzone.qq.com/289992322) 刚刚不久前才回到家……你呢？回学校了吗
 
 ---
-> 2014-02-15 22:50:18
 
+> 2014-02-15 22:50:18
 
 这是我过的最无聊的一个暑假……呃其实也不是非常无聊 起码聚会了一次是吧……
 
 > 评论(2)
 
-
-*  [冯依琳](https://user.qzone.qq.com/122730568)：这焚蛋。。这是寒假啊
-*  [ArthurFSY](https://user.qzone.qq.com/254904240)：好吧 有是错别字……嘿嘿8月17日那天记得叫我
-
+* [冯依琳](https://user.qzone.qq.com/122730568)：这焚蛋。。这是寒假啊
+* [ArthurFSY](https://user.qzone.qq.com/254904240)：好吧 有是错别字……嘿嘿8月17日那天记得叫我
 
 ---
-> 2014-02-14 09:32:55
 
+> 2014-02-14 09:32:55
 
 纳米核心今天十点开播……
 
 > 评论(0)
 
-
-
-
 ---
-> 2014-02-11 12:03:35
 
+> 2014-02-11 12:03:35
 
 擦 挂了 倒车都没过
 
 > 评论(4)
 
-
-*  [刘兴建](https://user.qzone.qq.com/2501513181)：我第一次也没过，第二次就对了。
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@刘兴建](https://user.qzone.qq.com/2501513181) 擦擦擦 第二次还要花200补考都没时间了……到下学期回来再考……
-	* [刘兴建](https://user.qzone.qq.com/2501513181)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 恩，那个没问题的，仔细点就对了。
-*  [芳姐](https://user.qzone.qq.com/619209154)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e120.gif)
-*  [昌洪](https://user.qzone.qq.com/512417848)：马路杀手![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)
-*  [冯依琳](https://user.qzone.qq.com/122730568)：。。。
-
+* [刘兴建](https://user.qzone.qq.com/2501513181)：我第一次也没过，第二次就对了。
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@刘兴建](https://user.qzone.qq.com/2501513181) 擦擦擦 第二次还要花200补考都没时间了……到下学期回来再考……
+  * [刘兴建](https://user.qzone.qq.com/2501513181)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 恩，那个没问题的，仔细点就对了。
+* [芳姐](https://user.qzone.qq.com/619209154)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e120.gif)
+* [昌洪](https://user.qzone.qq.com/512417848)：马路杀手![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)
+* [冯依琳](https://user.qzone.qq.com/122730568)：。。。
 
 ---
-> 2014-02-10 20:15:59
 
+> 2014-02-10 20:15:59
 
 明天就考科目二了……超级紧张
 
 > 评论(3)
 
-
-*  [芳姐](https://user.qzone.qq.com/619209154)：加油！
-*  [林小丁](https://user.qzone.qq.com/375315065)：过！！
-*  [无非](https://user.qzone.qq.com/624504099)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e7057.gif)加油
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@无非](https://user.qzone.qq.com/624504099)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e121.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e144.gif)
-
+* [芳姐](https://user.qzone.qq.com/619209154)：加油！
+* [林小丁](https://user.qzone.qq.com/375315065)：过！！
+* [无非](https://user.qzone.qq.com/624504099)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e7057.gif)加油
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@无非](https://user.qzone.qq.com/624504099)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e121.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e144.gif)
 
 ---
+
 > 2014-02-03 22:05:02
 
-
 今天跟堂妹去电影院看爸爸去哪儿 挺好玩的~[@冯依琳](https://user.qzone.qq.com/122730568)
+
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/95A8FD0B.jpeg)
+
 > 评论(14)
 
-
-*  [{text}](https://user.qzone.qq.com/undefined)：卧槽。。。
-*  [{text}](https://user.qzone.qq.com/undefined)：你怎么传上去了。。
-*  [{text}](https://user.qzone.qq.com/undefined)：禽兽
-*  [{text}](https://user.qzone.qq.com/undefined)：禽兽
-*  [{text}](https://user.qzone.qq.com/undefined)：禽兽！放开那表妹让我来
-*  [{text}](https://user.qzone.qq.com/undefined)：噢表妹
-*  [{text}](https://user.qzone.qq.com/undefined)：禽兽～
-*  [{text}](https://user.qzone.qq.com/undefined)：禽兽
-*  [{text}](https://user.qzone.qq.com/undefined)：口味真重
-*  [{text}](https://user.qzone.qq.com/undefined)：[@无非](https://user.qzone.qq.com/624504099)
-*  [{text}](https://user.qzone.qq.com/undefined)：禽兽
-*  [{text}](https://user.qzone.qq.com/undefined)：果然妹妹神马的。。最容易拉仇恨了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)
-*  [{text}](https://user.qzone.qq.com/undefined)：禽兽
-*  [{text}](https://user.qzone.qq.com/undefined)：晒妹十天
-
+* [{text}](https://user.qzone.qq.com/undefined)：卧槽。。。
+* [{text}](https://user.qzone.qq.com/undefined)：你怎么传上去了。。
+* [{text}](https://user.qzone.qq.com/undefined)：禽兽
+* [{text}](https://user.qzone.qq.com/undefined)：禽兽
+* [{text}](https://user.qzone.qq.com/undefined)：禽兽！放开那表妹让我来
+* [{text}](https://user.qzone.qq.com/undefined)：噢表妹
+* [{text}](https://user.qzone.qq.com/undefined)：禽兽～
+* [{text}](https://user.qzone.qq.com/undefined)：禽兽
+* [{text}](https://user.qzone.qq.com/undefined)：口味真重
+* [{text}](https://user.qzone.qq.com/undefined)：[@无非](https://user.qzone.qq.com/624504099)
+* [{text}](https://user.qzone.qq.com/undefined)：禽兽
+* [{text}](https://user.qzone.qq.com/undefined)：果然妹妹神马的。。最容易拉仇恨了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)
+* [{text}](https://user.qzone.qq.com/undefined)：禽兽
+* [{text}](https://user.qzone.qq.com/undefined)：晒妹十天
 
 ---
-### 1月
-> 2014-01-31 00:25:45
 
+### 1月
+
+> 2014-01-31 00:25:45
 
 每年春节放鞭炮就像打战一样喧嚣![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e126.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e110.gif)
 
 > 评论(0)
 
-
-
-
 ---
-> 2014-01-30 11:54:13
 
+> 2014-01-30 11:54:13
 
 海南春节是要穿短袖过的吗……
 
 > 评论(0)
 
-
-
-
 ---
-> 2014-01-28 22:52:46
 
+> 2014-01-28 22:52:46
 
 体验了一下ubuntu touch 最新版 比以前流畅得多！
 
 > 评论(0)
 
-
-
-
 ---
-> 2014-01-21 20:28:04
 
+> 2014-01-21 20:28:04
 
 保持健康，幸福一生
 
 > 评论(0)
 
-
-
-
 ---
-> 2014-01-21 17:31:02
 
+> 2014-01-21 17:31:02
 
 幸好不是甲亢 但是是什么桥本甲状腺炎……坑爹
 
 > 评论(2)
 
-
-*  [赵琛](https://user.qzone.qq.com/664503485)：好高端！
-*  [方正威、](https://user.qzone.qq.com/395655864)：这病一发现就是晚期，珍重![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e141.gif)
-
+* [赵琛](https://user.qzone.qq.com/664503485)：好高端！
+* [方正威、](https://user.qzone.qq.com/395655864)：这病一发现就是晚期，珍重![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e141.gif)
 
 ---
-> 2014-01-20 20:58:49
 
+> 2014-01-20 20:58:49
 
 我可不希望我是因为甲状腺异常产生甲亢而瘦了10多斤……
 
 > 评论(2)
 
-
-*  [叶雯](https://user.qzone.qq.com/376021194)：任重而道远务必要保重身体！
-*  [蓝培文](https://user.qzone.qq.com/514591062)：果然和CJH一样了么。
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@蓝培文](https://user.qzone.qq.com/514591062)擦 ……
-
+* [叶雯](https://user.qzone.qq.com/376021194)：任重而道远务必要保重身体！
+* [蓝培文](https://user.qzone.qq.com/514591062)：果然和CJH一样了么。
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@蓝培文](https://user.qzone.qq.com/514591062)擦 ……
 
 ---
-> 2014-01-19 09:48:45
 
+> 2014-01-19 09:48:45
 
 今天回海南
 
 > 评论(1)
 
-
-*  [昌洪](https://user.qzone.qq.com/512417848)：我去。你还没回。还在哪里潇洒？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@昌洪](https://user.qzone.qq.com/512417848) 之前在广东湛江 我妈妈那……
-	* [昌洪](https://user.qzone.qq.com/512417848)：差不多啦。![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e141.gif)
-
+* [昌洪](https://user.qzone.qq.com/512417848)：我去。你还没回。还在哪里潇洒？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@昌洪](https://user.qzone.qq.com/512417848) 之前在广东湛江 我妈妈那……
+  * [昌洪](https://user.qzone.qq.com/512417848)：差不多啦。![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e141.gif)
 
 ---
-> 2014-01-18 21:38:26
 
+> 2014-01-18 21:38:26
 
 我发现新版PC版QQ也能像手机这样显示可爱的对话框了
 
 > 评论(0)
 
-
-
-
 ---
-> 2014-01-15 00:43:42
 
+> 2014-01-15 00:43:42
 
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e41003.gif) 困 终于安全到家 老妈的药材炖羊肉很滋补！好困终于可以睡好觉了～
 
 > 评论(1)
 
-
-*  [李奡舟](https://user.qzone.qq.com/416188374)：你干了什么需要大补？
-
+* [李奡舟](https://user.qzone.qq.com/416188374)：你干了什么需要大补？
 
 ---
-> 2014-01-13 15:58:25
 
+> 2014-01-13 15:58:25
 
 今晚坐火车回家 一个人27小时单独旅程
 
 > 评论(0)
 
-
-
-
 ---
-> 2014-01-12 21:03:17
 
+> 2014-01-12 21:03:17
 
 好吧30块钱坐黑车从礼嘉到北碚我认了…谁叫我今天这么二…
 
 > 评论(0)
 
-
-
-
 ---
-> 2014-01-12 20:26:55
 
+> 2014-01-12 20:26:55
 
 我要遗失到礼嘉了吗…北碚轻轨竟然只开到8:06分！坑爹呐！不是写了十点吗！
 
 > 评论(2)
 
-
-*  [赵韵](https://user.qzone.qq.com/496639533)：不是 六号线是8点就没了
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵韵](https://user.qzone.qq.com/496639533) 刚回到寝室……8点是不到北碚还可以到不超过利嘉的站……
-*  [11数学周雅璐](https://user.qzone.qq.com/852489490)：地铁工作人员说开到八点半啊。。。
-
+* [赵韵](https://user.qzone.qq.com/496639533)：不是 六号线是8点就没了
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵韵](https://user.qzone.qq.com/496639533) 刚回到寝室……8点是不到北碚还可以到不超过利嘉的站……
+* [11数学周雅璐](https://user.qzone.qq.com/852489490)：地铁工作人员说开到八点半啊。。。
 
 ---
-> 2014-01-03 12:10:40
 
+> 2014-01-03 12:10:40
 
 我不想考试前几天感冒发烧啊……
 
 > 评论(0)
 
-
-
-
 ---
-## 2013年
-### 12月
-> 2013-12-15 20:58:36
 
+## 2013年
+
+### 12月
+
+> 2013-12-15 20:58:36
 
 十分艰难地把电磁作业抄完了…
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-12-15 13:19:29
 
+> 2013-12-15 13:19:29
 
 头晕去睡觉…
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-12-14 17:30:35
 
+> 2013-12-14 17:30:35
 
 感觉6级简单了？
 
 > 评论(1)
 
-
-*  [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：简单不代表容易过，具体参考高考
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@11 历史 张俊骏](https://user.qzone.qq.com/420998529) 我也是这么想的 不过当年高考英语感觉有点难啊…
-	* [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 感觉听力越来越难了
-
+* [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：简单不代表容易过，具体参考高考
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@11 历史 张俊骏](https://user.qzone.qq.com/420998529) 我也是这么想的 不过当年高考英语感觉有点难啊…
+  * [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 感觉听力越来越难了
 
 ---
-> 2013-12-13 21:53:47
 
+> 2013-12-13 21:53:47
 
 我的中文口语技巧还得提升！要不话都说不清楚…
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-12-10 21:34:31
 
+> 2013-12-10 21:34:31
 
 这几天下雨好冷啊！新图书馆没空调！
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-12-09 19:39:27
 
+> 2013-12-09 19:39:27
 
 很高兴今天一下子收到了三封外国陌生人的明信片！然后整理明信片的时候有很多美好的回忆涌现出来
 
 > 评论(1)
 
-
-*  [张海荣](https://user.qzone.qq.com/1013603044)：洋气啊
-
+* [张海荣](https://user.qzone.qq.com/1013603044)：洋气啊
 
 ---
-### 11月
-> 2013-11-19 23:37:38
 
+### 11月
+
+> 2013-11-19 23:37:38
 
 回学校竟然还继续降体重好恐怖…现在才66.6kg了！
 
 > 评论(1)
 
-
-*  [邓皓文](https://user.qzone.qq.com/764690654)：某人是在干嘛
-
+* [邓皓文](https://user.qzone.qq.com/764690654)：某人是在干嘛
 
 ---
-> 2013-11-17 16:24:06
 
+> 2013-11-17 16:24:06
 
 今天感觉有点怪
 
 > 评论(1)
 
-
-*  [刘兴建](https://user.qzone.qq.com/2501513181)：怪？
-
+* [刘兴建](https://user.qzone.qq.com/2501513181)：怪？
 
 ---
-> 2013-11-13 20:06:58
 
+> 2013-11-13 20:06:58
 
 写嵌入式作业权当练字……专业没学好字也写的难看-_-||
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-11-13 17:26:23
 
+> 2013-11-13 17:26:23
 
 今晚实验竟然不要做……
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-11-12 23:49:39
 
+> 2013-11-12 23:49:39
 
 希望明天的红豆面包能做成功……
 
 > 评论(1)
 
-
-*  [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：学会了教我做一下
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@11 历史 张俊骏](https://user.qzone.qq.com/420998529) 拿面包机做的……红豆被搅的太碎了 都没看到有红豆
-
+* [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：学会了教我做一下
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@11 历史 张俊骏](https://user.qzone.qq.com/420998529) 拿面包机做的……红豆被搅的太碎了 都没看到有红豆
 
 ---
-> 2013-11-11 12:59:43
 
+> 2013-11-11 12:59:43
 
 怎么这么衰 一卡通又找不到了
 
 > 评论(1)
 
-
-*  [李奡舟](https://user.qzone.qq.com/416188374)：我也是T^T
-
+* [李奡舟](https://user.qzone.qq.com/416188374)：我也是T^T
 
 ---
-> 2013-11-10 19:11:30
 
+> 2013-11-10 19:11:30
 
 今天登山回来就睡了个觉 然后给一个打错电话的电话吵醒了……
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-11-07 23:07:18
 
+> 2013-11-07 23:07:18
 
 最近好困……
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-11-06 23:15:11
 
+> 2013-11-06 23:15:11
 
 我去……忘记带鼠标回来了
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-11-03 19:29:10
 
+> 2013-11-03 19:29:10
 
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e41004.gif) 发呆 今天下午逛不成只好到八教进行奇妙的自然科学之旅
 
 > 评论(0)
 
-
-
-
 ---
-### 10月
-> 2013-10-28 23:30:36
 
+### 10月
+
+> 2013-10-28 23:30:36
 
 今天又文艺了一脸
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-10-26 19:17:01
 
+> 2013-10-26 19:17:01
 
 呵呵！难得有心事打算出来看书结果八教给封了！转战26教！
 
 > 评论(1)
 
-
-*  [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：技术宅变学霸啊，刚刚好像看到你了。
-
+* [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：技术宅变学霸啊，刚刚好像看到你了。
 
 ---
-> 2013-10-21 23:03:19
 
+> 2013-10-21 23:03:19
 
 擦嘞 今天差点忘记背单词了
 
 > 评论(2)
 
-
-*  [赵雪君](https://user.qzone.qq.com/476343125)：学霸啊。。。。。
-*  [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：这是要杀g的节奏啊
-
+* [赵雪君](https://user.qzone.qq.com/476343125)：学霸啊。。。。。
+* [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：这是要杀g的节奏啊
 
 ---
-> 2013-10-17 21:52:29
 
+> 2013-10-17 21:52:29
 
 傻｜还是没有压扁的香蕉好吃
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-10-15 10:00:16
 
+> 2013-10-15 10:00:16
 
 前两天做了30个仰卧起坐现在腹部还有点酸……果然体质有待加强
 
 > 评论(1)
 
-
-*  [ArthurFSY](https://user.qzone.qq.com/254904240)：看了一年前的说说，发现自己的体质还稍微有那么点提升了！![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)今早起来做了40个俯卧撑才去图书馆的![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e114.gif)
-
+* [ArthurFSY](https://user.qzone.qq.com/254904240)：看了一年前的说说，发现自己的体质还稍微有那么点提升了！![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)今早起来做了40个俯卧撑才去图书馆的![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e114.gif)
 
 ---
-> 2013-10-12 20:03:32
 
+> 2013-10-12 20:03:32
 
 大礼堂的仙剑晚会好像很神奇的样子耶
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-10-10 20:05:38
 
+> 2013-10-10 20:05:38
 
 擦 香蕉和苹果放书包给压扁了……
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-10-07 16:11:19
 
+> 2013-10-07 16:11:19
 
 光芒总会黯淡,星辰也终将陨落,但是暗淡的光芒后面,定会出现更夺目的星光
 
 > 评论(1)
 
-
-*  [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：嘻嘻，我知道你的秘密。。。
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591) 这句话没秘密……另外的秘密嘛，都已经不算秘密了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e120.gif)
-
+* [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：嘻嘻，我知道你的秘密。。。
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591) 这句话没秘密……另外的秘密嘛，都已经不算秘密了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e120.gif)
 
 ---
-> 2013-10-06 13:47:20
 
+> 2013-10-06 13:47:20
 
 裤头都宽不合穿了……又得破财买裤子啊…………
 
 > 评论(1)
 
-
-*  [孙嘉祺](https://user.qzone.qq.com/1769392852)：瘦了？![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e141.gif)
-
+* [孙嘉祺](https://user.qzone.qq.com/1769392852)：瘦了？![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e141.gif)
 
 ---
-> 2013-10-01 06:53:27
 
+> 2013-10-01 06:53:27
 
 今晚尝试睡觉
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-10-01 04:03:39
 
+> 2013-10-01 04:03:39
 
 睡不着 睡醒了 睡不着 睡醒了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e109.gif)
 
 > 评论(1)
 
-
-*  [★金小松 Ⅱ](https://user.qzone.qq.com/179523774)：真早
-
+* [★金小松 Ⅱ](https://user.qzone.qq.com/179523774)：真早
 
 ---
-### 9月
-> 2013-09-29 05:21:37
 
+### 9月
+
+> 2013-09-29 05:21:37
 
 又是这个点自然醒…
 
 > 评论(1)
 
-
-*  [陈文艳](https://user.qzone.qq.com/503669886)：看着你的点，我感觉自己好幸福，我六点醒。嘎嘎
-
+* [陈文艳](https://user.qzone.qq.com/503669886)：看着你的点，我感觉自己好幸福，我六点醒。嘎嘎
 
 ---
-> 2013-09-28 07:01:19
 
+> 2013-09-28 07:01:19
 
 发现自己的自然醒时间越发变态起来了……
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-09-26 10:41:20
 
+> 2013-09-26 10:41:20
 
 回来上的第一节课就给老师用名字举例子了…
 
 > 评论(1)
 
-
-*  [陈文艳](https://user.qzone.qq.com/503669886)：好少年，一回去就上课啦
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@陈文艳](https://user.qzone.qq.com/503669886) 是的…今晚还要去图书馆…
-	* [陈文艳](https://user.qzone.qq.com/503669886)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 哇。好棒，鼓掌
-
+* [陈文艳](https://user.qzone.qq.com/503669886)：好少年，一回去就上课啦
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@陈文艳](https://user.qzone.qq.com/503669886) 是的…今晚还要去图书馆…
+  * [陈文艳](https://user.qzone.qq.com/503669886)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 哇。好棒，鼓掌
 
 ---
-> 2013-09-25 14:41:51
 
+> 2013-09-25 14:41:51
 
 艰难地回来了……
 
 > 评论(2)
 
-
-*  [孙嘉祺](https://user.qzone.qq.com/1769392852)：我也是！
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：刚到学校吗
-	* [孙嘉祺](https://user.qzone.qq.com/1769392852)：刚到重庆机场
-*  [陈文艳](https://user.qzone.qq.com/503669886)：表示，已经回家24个小时
-
+* [孙嘉祺](https://user.qzone.qq.com/1769392852)：我也是！
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：刚到学校吗
+  * [孙嘉祺](https://user.qzone.qq.com/1769392852)：刚到重庆机场
+* [陈文艳](https://user.qzone.qq.com/503669886)：表示，已经回家24个小时
 
 ---
-> 2013-09-23 20:51:21
 
+> 2013-09-23 20:51:21
 
 准备回国！心中有所挂念，国内的你们才是我我心中的根
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-09-20 00:14:33
 
+> 2013-09-20 00:14:33
 
 来美国三个月竟然瘦了3公斤！
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-09-19 20:11:23
 
+> 2013-09-19 20:11:23
 
 车上补觉…补觉…
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-09-18 05:50:18
 
+> 2013-09-18 05:50:18
 
 找到酒店啦
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-09-18 04:21:31
 
+> 2013-09-18 04:21:31
 
 好了到纽约了 但愿能顺利找到坑爹的酒店…
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-09-18 00:33:28
 
+> 2013-09-18 00:33:28
 
 现在在等转机到纽约 途中遇到一个女生，当我说到我是西南大学的时候她惊讶地说：“你们西南大学参加这个项目的同学好多呀！”
 
 > 评论(2)
 
-
-*  [思颀](https://user.qzone.qq.com/403933037)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)什么时候到？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@思颀](https://user.qzone.qq.com/403933037)下午4点到纽约吧 去那玩几天 等25号才回学校
-	* [思颀](https://user.qzone.qq.com/403933037)：[@ArthurFSY](https://user.qzone.qq.com/254904240) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)四块你那边几点现在？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@思颀](https://user.qzone.qq.com/403933037) 刚刚到纽约下飞机入住酒店……现在是下午5点49分……
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：才发现今天坐了两趟飞机经历了一小时的时区区间……本来是和北京时间差13个小时的现在刚好变12了
-	* [思颀](https://user.qzone.qq.com/403933037)：[@ArthurFSY](https://user.qzone.qq.com/254904240) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e140.gif)平白丢了一个小时
-*  [ArthurFSY](https://user.qzone.qq.com/254904240)：当时回你留言的时候是早上11点快十二点的样子 现在是下午快两点了 飞机上面竟然有wifi不过要钱…
-
+* [思颀](https://user.qzone.qq.com/403933037)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)什么时候到？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@思颀](https://user.qzone.qq.com/403933037)下午4点到纽约吧 去那玩几天 等25号才回学校
+  * [思颀](https://user.qzone.qq.com/403933037)：[@ArthurFSY](https://user.qzone.qq.com/254904240) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)四块你那边几点现在？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@思颀](https://user.qzone.qq.com/403933037) 刚刚到纽约下飞机入住酒店……现在是下午5点49分……
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：才发现今天坐了两趟飞机经历了一小时的时区区间……本来是和北京时间差13个小时的现在刚好变12了
+  * [思颀](https://user.qzone.qq.com/403933037)：[@ArthurFSY](https://user.qzone.qq.com/254904240) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e140.gif)平白丢了一个小时
+* [ArthurFSY](https://user.qzone.qq.com/254904240)：当时回你留言的时候是早上11点快十二点的样子 现在是下午快两点了 飞机上面竟然有wifi不过要钱…
 
 ---
-> 2013-09-17 22:26:03
 
+> 2013-09-17 22:26:03
 
 嗯 等飞机飞纽约了 失踪半天
 
 > 评论(1)
 
-
-*  [赵韵](https://user.qzone.qq.com/496639533)：我电话掉了怎么办![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e105.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e105.gif)
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵韵](https://user.qzone.qq.com/496639533)你现在在哪…
-
+* [赵韵](https://user.qzone.qq.com/496639533)：我电话掉了怎么办![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e105.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e105.gif)
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵韵](https://user.qzone.qq.com/496639533)你现在在哪…
 
 ---
-> 2013-09-16 23:16:34
 
+> 2013-09-16 23:16:34
 
 行李愁着怎么收拾…
 
 > 评论(2)
 
-
-*  [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：中秋回的来不？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：回不来……
-*  [☆李奕彤 Ⅱ](https://user.qzone.qq.com/78782158)：托运成么。哈哈
-
+* [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：中秋回的来不？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：回不来……
+* [☆李奕彤 Ⅱ](https://user.qzone.qq.com/78782158)：托运成么。哈哈
 
 ---
-> 2013-09-15 12:15:26
 
+> 2013-09-15 12:15:26
 
 [http://url.cn/U8sgsv](http://url.cn/U8sgsv) VID_20130914_204917
 
-
-<a href="http://player.youku.com/player.php/sid/XNjA5MjkwOTQ0/v.swf" target="_blank">!()[https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/4F6D81CE.jpeg" width="600px" height="400px" align="center" /></a>
-
+<a href="http://player.youku.com/player.php/sid/XNjA5MjkwOTQ0/v.swf" target="_blank">![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/4F6D81CE.jpeg" width="600px" height="400px" align="center" /></a>
 
 > 评论(3)
 
-
-*  [何书玉](https://user.qzone.qq.com/460236438)：Hope you don't have to retake any courses![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)
-*  [赵琛](https://user.qzone.qq.com/664503485)：英文好流利=。=
-*  [哲](https://user.qzone.qq.com/648958581)：ahahahahahahaha Fensi is speaking english ohhhhhhhhh!!!!!!!!!!
-
+* [何书玉](https://user.qzone.qq.com/460236438)：Hope you don't have to retake any courses![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)
+* [赵琛](https://user.qzone.qq.com/664503485)：英文好流利=。=
+* [哲](https://user.qzone.qq.com/648958581)：ahahahahahahaha Fensi is speaking english ohhhhhhhhh!!!!!!!!!!
 
 ---
-> 2013-09-15 10:14:14
 
+> 2013-09-15 10:14:14
 
 哈哈 明天就不要上班咯
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-09-14 22:34:24
 
+> 2013-09-14 22:34:24
 
 昨晚有点小失眠…
 
 > 评论(1)
 
-
-*  [王炎](https://user.qzone.qq.com/379200156)：是因为要回去了嘛？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@王炎](https://user.qzone.qq.com/379200156)嘻嘻 不止这点
-
+* [王炎](https://user.qzone.qq.com/379200156)：是因为要回去了嘛？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@王炎](https://user.qzone.qq.com/379200156)嘻嘻 不止这点
 
 ---
-> 2013-09-11 22:55:57
 
+> 2013-09-11 22:55:57
 
 14 days left
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-09-10 13:12:41
 
+> 2013-09-10 13:12:41
 
 Nick和Arthur 的袜子是一个款式的 请问如果他们想把袜子扔进洗衣机里面洗后应该怎么才能迅速而准确地区分出彼此的袜子？(袜子同颜色同大小)
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-09-10 11:25:08
 
+> 2013-09-10 11:25:08
 
 万万没想到 王大锤…………
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-09-09 23:42:20
 
+> 2013-09-09 23:42:20
 
 现在突然感觉到一天只要上6小时班是多么轻松的一件事情……
 
 > 评论(1)
 
-
-*  [何明波](https://user.qzone.qq.com/969428439)：呵呵   你还不回来？缓考都快完了
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@何明波](https://user.qzone.qq.com/969428439) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e115.gif)缓考那天回不去……机票改签不了
-
+* [何明波](https://user.qzone.qq.com/969428439)：呵呵   你还不回来？缓考都快完了
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@何明波](https://user.qzone.qq.com/969428439) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e115.gif)缓考那天回不去……机票改签不了
 
 ---
-> 2013-09-05 12:21:39
 
+> 2013-09-05 12:21:39
 
 一个很有爱的工友作品
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/1432482D.jpeg)
-!()[https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/06481A77.jpeg)
+
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/06481A77.jpeg)
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-09-03 02:46:57
 
+> 2013-09-03 02:46:57
 
 我去这么劲爆？错过缓考要重修么……尼玛6科啊！
 
 > 评论(5)
 
-
-*  [孙嘉祺](https://user.qzone.qq.com/1769392852)：哎？！什么情况！！
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@孙嘉祺](https://user.qzone.qq.com/1769392852)我们班班长跟我说的……
-*  [☆李奕彤 Ⅱ](https://user.qzone.qq.com/78782158)：不科学啊！！！！
-*  [纪](https://user.qzone.qq.com/731394081)：你们那里也是啊！
-*  [邓皓文](https://user.qzone.qq.com/764690654)：请假回来啊，重修的钱都够你那几天工资了
-*  [赵韵](https://user.qzone.qq.com/496639533)：...求辟谣！！！！[@丁兔子![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e257868.gif)](https://user.qzone.qq.com/494746354)  信誓旦旦给的承诺却被时间扑了空
-	* [丁兔子![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e257868.gif)](https://user.qzone.qq.com/494746354)：[@赵韵](https://user.qzone.qq.com/496639533) 什么啊
-	* [赵韵](https://user.qzone.qq.com/496639533)：[@丁兔子![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e257868.gif)](https://user.qzone.qq.com/494746354) ..关于考试你不是说我们这种人自有政策神马的。- -
-	* [丁兔子![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e257868.gif)](https://user.qzone.qq.com/494746354)：[@赵韵](https://user.qzone.qq.com/496639533) 对啊
-	* [丁兔子![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e257868.gif)](https://user.qzone.qq.com/494746354)：[@赵韵](https://user.qzone.qq.com/496639533) 本来就是啊，考试科的人说的
-
+* [孙嘉祺](https://user.qzone.qq.com/1769392852)：哎？！什么情况！！
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@孙嘉祺](https://user.qzone.qq.com/1769392852)我们班班长跟我说的……
+* [☆李奕彤 Ⅱ](https://user.qzone.qq.com/78782158)：不科学啊！！！！
+* [纪](https://user.qzone.qq.com/731394081)：你们那里也是啊！
+* [邓皓文](https://user.qzone.qq.com/764690654)：请假回来啊，重修的钱都够你那几天工资了
+* [赵韵](https://user.qzone.qq.com/496639533)：...求辟谣！！！！[@丁兔子![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e257868.gif)](https://user.qzone.qq.com/494746354)  信誓旦旦给的承诺却被时间扑了空
+  * [丁兔子![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e257868.gif)](https://user.qzone.qq.com/494746354)：[@赵韵](https://user.qzone.qq.com/496639533) 什么啊
+  * [赵韵](https://user.qzone.qq.com/496639533)：[@丁兔子![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e257868.gif)](https://user.qzone.qq.com/494746354) ..关于考试你不是说我们这种人自有政策神马的。- -
+  * [丁兔子![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e257868.gif)](https://user.qzone.qq.com/494746354)：[@赵韵](https://user.qzone.qq.com/496639533) 对啊
+  * [丁兔子![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e257868.gif)](https://user.qzone.qq.com/494746354)：[@赵韵](https://user.qzone.qq.com/496639533) 本来就是啊，考试科的人说的
 
 ---
-> 2013-09-01 09:33:47
 
+> 2013-09-01 09:33:47
 
 听说新学期西南大学校园网坑爹了？
 
 > 评论(2)
 
-
-*  [赵韵](https://user.qzone.qq.com/496639533)：何止坑爹 ！！！
-*  [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：是根本上不了
-
+* [赵韵](https://user.qzone.qq.com/496639533)：何止坑爹 ！！！
+* [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：是根本上不了
 
 ---
-### 8月
-> 2013-08-30 15:17:20
 
+### 8月
+
+> 2013-08-30 15:17:20
 
 玩postcrossing 几个月了终于收到一个德国一个新西兰朋友给我发的明信片……
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-08-26 12:17:50
 
+> 2013-08-26 12:17:50
 
 尼玛今天给滚油烫到手了 感谢nick帮我dishes
 
 > 评论(2)
 
-
-*  [冯杰](https://user.qzone.qq.com/1584438972)：表示同情
-*  [李奡舟](https://user.qzone.qq.com/416188374)：没办法，只有我帮你撸了
-
+* [冯杰](https://user.qzone.qq.com/1584438972)：表示同情
+* [李奡舟](https://user.qzone.qq.com/416188374)：没办法，只有我帮你撸了
 
 ---
-> 2013-08-25 10:35:43
 
+> 2013-08-25 10:35:43
 
 感觉头发长了些好看多了！
 
 > 评论(1)
 
-
-*  [卓菲菲](https://user.qzone.qq.com/415918436)：有多长
-
+* [卓菲菲](https://user.qzone.qq.com/415918436)：有多长
 
 ---
-> 2013-08-20 01:29:01
 
+> 2013-08-20 01:29:01
 
 我现在可以说我看过Midland的2点钟的月亮了
 
 > 评论(1)
 
-
-*  [孙嘉祺](https://user.qzone.qq.com/1769392852)：天天看……
-	* [赵雪君](https://user.qzone.qq.com/476343125)：[@孙嘉祺](https://user.qzone.qq.com/1769392852) 哈哈
-
+* [孙嘉祺](https://user.qzone.qq.com/1769392852)：天天看……
+  * [赵雪君](https://user.qzone.qq.com/476343125)：[@孙嘉祺](https://user.qzone.qq.com/1769392852) 哈哈
 
 ---
+
 > 2013-08-18 08:05:48
 
-
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)不知道能不能到……[@赵琛](https://user.qzone.qq.com/664503485) [@赖峻豪](https://user.qzone.qq.com/780209069)
+
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/2FA59CA3.jpeg)
+
 > 评论(5)
 
-
-*  [邓皓文](https://user.qzone.qq.com/764690654)：禽兽
-*  [方正威、](https://user.qzone.qq.com/395655864)：禽兽
-*  [思颀](https://user.qzone.qq.com/403933037)：禽兽
-*  [赵琛](https://user.qzone.qq.com/664503485)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e141.gif)冯小远又调皮了
-*  [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：我能说我看懂内容了不
-
+* [邓皓文](https://user.qzone.qq.com/764690654)：禽兽
+* [方正威、](https://user.qzone.qq.com/395655864)：禽兽
+* [思颀](https://user.qzone.qq.com/403933037)：禽兽
+* [赵琛](https://user.qzone.qq.com/664503485)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e141.gif)冯小远又调皮了
+* [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：我能说我看懂内容了不
 
 ---
-> 2013-08-13 12:09:28
 
+> 2013-08-13 12:09:28
 
 买完机票卡里就没剩多少钱了……
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/435C6E54.jpeg)
+
 > 评论(1)
 
-
-*  [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：多少钱机票呀？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：318.8美元……从德州一个城市到纽约
-
+* [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：多少钱机票呀？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：318.8美元……从德州一个城市到纽约
 
 ---
-> 2013-08-13 11:22:25
 
+> 2013-08-13 11:22:25
 
 今天下午照嘀，如果1个月后没收到就那这个聊表心意吧……
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/0541D971.jpeg)
+
 > 评论(2)
 
-
-*  [宋倩雯](https://user.qzone.qq.com/825796915)：我在努力看清写的是什么    (+﹏+)~
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@宋倩雯](https://user.qzone.qq.com/825796915) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)我到时候也给你寄张吧，有空就私下发地址给我
-	* [宋倩雯](https://user.qzone.qq.com/825796915)：[@ArthurFSY](https://user.qzone.qq.com/254904240)太麻烦啦！不用的啦～![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e106.gif)
-*  [邓皓文](https://user.qzone.qq.com/764690654)：难道有我们的？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@邓皓文](https://user.qzone.qq.com/764690654)不好意思木有……
-	* [邓皓文](https://user.qzone.qq.com/764690654)：重色轻友，禽兽
-
+* [宋倩雯](https://user.qzone.qq.com/825796915)：我在努力看清写的是什么    (+﹏+)~
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@宋倩雯](https://user.qzone.qq.com/825796915) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)我到时候也给你寄张吧，有空就私下发地址给我
+  * [宋倩雯](https://user.qzone.qq.com/825796915)：[@ArthurFSY](https://user.qzone.qq.com/254904240)太麻烦啦！不用的啦～![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e106.gif)
+* [邓皓文](https://user.qzone.qq.com/764690654)：难道有我们的？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@邓皓文](https://user.qzone.qq.com/764690654)不好意思木有……
+  * [邓皓文](https://user.qzone.qq.com/764690654)：重色轻友，禽兽
 
 ---
-> 2013-08-13 05:23:40
 
+> 2013-08-13 05:23:40
 
 暂时只知道三个人的地址所以今天就只发出3份明信片……[@☆李奕彤 Ⅱ](https://user.qzone.qq.com/78782158) [@喵大王](https://user.qzone.qq.com/359580225) [@思颀](https://user.qzone.qq.com/403933037)
 
 > 评论(1)
 
-
-*  [☆李奕彤 Ⅱ](https://user.qzone.qq.com/78782158)：坐等啦\~\~
-	* [喵大王](https://user.qzone.qq.com/359580225)：[@☆李奕彤 Ⅱ](https://user.qzone.qq.com/78782158) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e104.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e104.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e104.gif)坐等明信片
-
+* [☆李奕彤 Ⅱ](https://user.qzone.qq.com/78782158)：坐等啦\~\~
+  * [喵大王](https://user.qzone.qq.com/359580225)：[@☆李奕彤 Ⅱ](https://user.qzone.qq.com/78782158) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e104.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e104.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e104.gif)坐等明信片
 
 ---
-> 2013-08-04 06:41:24
 
+> 2013-08-04 06:41:24
 
 请随意吐槽……
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/959309CF.jpeg)
+
 > 评论(11)
 
-
-*  [{text}](https://user.qzone.qq.com/undefined)：左边很赞
-*  [{text}](https://user.qzone.qq.com/undefined)：发型有点亮
-*  [{text}](https://user.qzone.qq.com/undefined)：这不是你
-*  [{text}](https://user.qzone.qq.com/undefined)：丰满了不少
-*  [{text}](https://user.qzone.qq.com/undefined)：我也想要那样的发型
-*  [{text}](https://user.qzone.qq.com/undefined)：尼玛裤子都脱了你就让我看这些
-*  [{text}](https://user.qzone.qq.com/undefined)：粉丝你发福了
-*  [{text}](https://user.qzone.qq.com/undefined)：这你哥？
-*  [{text}](https://user.qzone.qq.com/undefined)：你的发型![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)
-*  [{text}](https://user.qzone.qq.com/undefined)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)这个发型也没你说的那么搓。
-*  [{text}](https://user.qzone.qq.com/undefined)：哈哈哈
-
+* [{text}](https://user.qzone.qq.com/undefined)：左边很赞
+* [{text}](https://user.qzone.qq.com/undefined)：发型有点亮
+* [{text}](https://user.qzone.qq.com/undefined)：这不是你
+* [{text}](https://user.qzone.qq.com/undefined)：丰满了不少
+* [{text}](https://user.qzone.qq.com/undefined)：我也想要那样的发型
+* [{text}](https://user.qzone.qq.com/undefined)：尼玛裤子都脱了你就让我看这些
+* [{text}](https://user.qzone.qq.com/undefined)：粉丝你发福了
+* [{text}](https://user.qzone.qq.com/undefined)：这你哥？
+* [{text}](https://user.qzone.qq.com/undefined)：你的发型![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)
+* [{text}](https://user.qzone.qq.com/undefined)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)这个发型也没你说的那么搓。
+* [{text}](https://user.qzone.qq.com/undefined)：哈哈哈
 
 ---
-> 2013-08-03 07:34:33
 
+> 2013-08-03 07:34:33
 
 尼玛 阿塞拜疆哥们给我理的光头好喜感![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e110080.gif)
 
 > 评论(2)
 
-
-*  [胡文高](https://user.qzone.qq.com/2444642537)：求爆照！
-*  [赵琛](https://user.qzone.qq.com/664503485)：求照
-
+* [胡文高](https://user.qzone.qq.com/2444642537)：求爆照！
+* [赵琛](https://user.qzone.qq.com/664503485)：求照
 
 ---
-### 7月
-> 2013-07-29 06:29:32
 
+### 7月
+
+> 2013-07-29 06:29:32
 
 明天又到day off了……准备继续看书么……
 
 > 评论(1)
 
-
-*  [孙嘉祺](https://user.qzone.qq.com/1769392852)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e144.gif)啥子书？
-
+* [孙嘉祺](https://user.qzone.qq.com/1769392852)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e144.gif)啥子书？
 
 ---
-> 2013-07-24 09:58:49
 
+> 2013-07-24 09:58:49
 
 呵呵……今天看微机看了一天了 Burger King的Iced tea 都续杯2次了……晚上不去了
 
 > 评论(3)
 
-
-*  [吕方](https://user.qzone.qq.com/664882496)：你把书都带过去了？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：是啊……带个书包做了一个中午和下午……然后今天早上提前2小时去看书再上班的
-*  [☆李奕彤 Ⅱ](https://user.qzone.qq.com/78782158)：我一直想问汉堡王的burger好吃么？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：感觉没麦当劳的板烧鸡腿堡好吃……
-*  [赵琛](https://user.qzone.qq.com/664503485)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)高端霸气上档次
-
+* [吕方](https://user.qzone.qq.com/664882496)：你把书都带过去了？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：是啊……带个书包做了一个中午和下午……然后今天早上提前2小时去看书再上班的
+* [☆李奕彤 Ⅱ](https://user.qzone.qq.com/78782158)：我一直想问汉堡王的burger好吃么？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：感觉没麦当劳的板烧鸡腿堡好吃……
+* [赵琛](https://user.qzone.qq.com/664503485)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e103.gif)高端霸气上档次
 
 ---
-> 2013-07-23 04:24:29
 
+> 2013-07-23 04:24:29
 
 呵呵……看来是天意么 一天2部电影好爽的样子……
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-07-23 01:08:11
 
+> 2013-07-23 01:08:11
 
 呵呵……电影院卖的热狗比电影票还贵……
 
 > 评论(0)
 
-
-
-
 ---
+
 > 2013-07-22 12:02:43
 
-
 看来玩postcrossing就是要耐心么……2个月了那个美国大妈才收到……尼玛我人都在美国了!开学坐等哪个国家的明信片![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e142.gif)
+
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/D711BCF5.jpeg)
+
 > 评论(0)
 
-
-
-
 ---
-> 2013-07-19 09:32:23
 
+> 2013-07-19 09:32:23
 
 The turkey boy is cooking a turkey
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-07-14 10:25:00
 
+> 2013-07-14 10:25:00
 
 进击的巨人新OP不够燃
 
 > 评论(3)
 
-
-*  [赵琛](https://user.qzone.qq.com/664503485)：我也觉得0.0
-*  [思颀](https://user.qzone.qq.com/403933037)：！！好看！！
-*  [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：你也看巨人？
-
+* [赵琛](https://user.qzone.qq.com/664503485)：我也觉得0.0
+* [思颀](https://user.qzone.qq.com/403933037)：！！好看！！
+* [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：你也看巨人？
 
 ---
-> 2013-07-14 08:50:41
 
+> 2013-07-14 08:50:41
 
 呵呵……用英文例句背新单词真刺激……
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-07-12 10:51:04
 
+> 2013-07-12 10:51:04
 
 呵呵现在要翻墙回国听歌么
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-07-11 07:27:04
 
+> 2013-07-11 07:27:04
 
 呵呵只收到前两周的工资
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-07-10 13:01:40
 
+> 2013-07-10 13:01:40
 
 希望明天不要放我们鸽子！上班都快一个月了！
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-07-05 07:10:28
 
+> 2013-07-05 07:10:28
 
 今天break time的时候随手照了张……
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/6C6375D7.jpeg)
+
 > 评论(5)
 
-
-*  [11文社院周庭望](https://user.qzone.qq.com/598417448)：帅气
-*  [邓皓文](https://user.qzone.qq.com/764690654)：哈哈，帅了啊
-*  [☆李奕彤 Ⅱ](https://user.qzone.qq.com/78782158)：好像游戏服
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@☆李奕彤 Ⅱ](https://user.qzone.qq.com/78782158) 做汉堡游戏么……
-*  [瓜皮](https://user.qzone.qq.com/357218004)：打工的魔王！
-*  [杨昭桦](https://user.qzone.qq.com/476249516)：冯思软=。。=感觉你苍老很多阿……
-
+* [11文社院周庭望](https://user.qzone.qq.com/598417448)：帅气
+* [邓皓文](https://user.qzone.qq.com/764690654)：哈哈，帅了啊
+* [☆李奕彤 Ⅱ](https://user.qzone.qq.com/78782158)：好像游戏服
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@☆李奕彤 Ⅱ](https://user.qzone.qq.com/78782158) 做汉堡游戏么……
+* [瓜皮](https://user.qzone.qq.com/357218004)：打工的魔王！
+* [杨昭桦](https://user.qzone.qq.com/476249516)：冯思软=。。=感觉你苍老很多阿……
 
 ---
-> 2013-07-04 12:25:07
 
+> 2013-07-04 12:25:07
 
 今天又死了不少脑细胞……
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-07-04 09:03:54
 
+> 2013-07-04 09:03:54
 
 第二章52%
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-07-01 11:58:53
 
+> 2013-07-01 11:58:53
 
 两周上班成果，可惜听说下周四才发工资……
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/148D6C8D.jpeg)
+
 > 评论(3)
 
-
-*  [陈新](https://user.qzone.qq.com/442404530)：好多一个小时
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@陈新](https://user.qzone.qq.com/442404530) 一个小时是工作这么久后主管看到没人后就叫我break了……
-*  [赵韵](https://user.qzone.qq.com/496639533)：呵呵我也是从16号到现在 才56h
-*  [孙嘉祺](https://user.qzone.qq.com/1769392852)：我才51~
-
+* [陈新](https://user.qzone.qq.com/442404530)：好多一个小时
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@陈新](https://user.qzone.qq.com/442404530) 一个小时是工作这么久后主管看到没人后就叫我break了……
+* [赵韵](https://user.qzone.qq.com/496639533)：呵呵我也是从16号到现在 才56h
+* [孙嘉祺](https://user.qzone.qq.com/1769392852)：我才51~
 
 ---
-### 6月
-> 2013-06-30 12:34:14
 
+### 6月
+
+> 2013-06-30 12:34:14
 
 看来番外可以成为另外一本小说了……第二章大纲都写了35分钟了擦…看来第二章字数还能写不少…
 
 > 评论(2)
 
-
-*  [邓皓文](https://user.qzone.qq.com/764690654)：太监了
-*  [冯杰](https://user.qzone.qq.com/1584438972)：话说去美利坚能玩九阴么
-
+* [邓皓文](https://user.qzone.qq.com/764690654)：太监了
+* [冯杰](https://user.qzone.qq.com/1584438972)：话说去美利坚能玩九阴么
 
 ---
-> 2013-06-27 13:12:20
 
+> 2013-06-27 13:12:20
 
 打卡403天
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-06-25 14:40:05
 
+> 2013-06-25 14:40:05
 
 番外前前后后写了4小时太伤神了……发现几个错别字明天再改……
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-06-20 21:44:41
 
+> 2013-06-20 21:44:41
 
 there is no luck there is only work
 
 > 评论(2)
 
-
-*  [邓皓文](https://user.qzone.qq.com/764690654)：there is no cool there is only hot
-*  [冯杰](https://user.qzone.qq.com/1584438972)：can i infer that you will earn too much money from your sentence?
-
+* [邓皓文](https://user.qzone.qq.com/764690654)：there is no cool there is only hot
+* [冯杰](https://user.qzone.qq.com/1584438972)：can i infer that you will earn too much money from your sentence?
 
 ---
-> 2013-06-20 06:07:56
 
+> 2013-06-20 06:07:56
 
 我给我们寝室寄明信片了，你们下学期回来的时候收吧……[@邓皓文](https://user.qzone.qq.com/764690654) [@★宋府昌 Ⅱ ](https://user.qzone.qq.com/2409230025) [@冯杰](https://user.qzone.qq.com/1584438972) [@明大放](https://user.qzone.qq.com/1184654665)
 
 > 评论(5)
 
-
-*  [赵韵](https://user.qzone.qq.com/496639533)：哪来的明信片啊 我也想买
-*  [★宋府昌 Ⅱ ](https://user.qzone.qq.com/2409230025)：好吧，但愿宿管大妈能把它们保留一个暑假。。。
-*  [谢权](https://user.qzone.qq.com/190460091)：哥，我有吗？
-*  [邓皓文](https://user.qzone.qq.com/764690654)：内容是啥？
-	* [冯杰](https://user.qzone.qq.com/1584438972)：[@邓皓文](https://user.qzone.qq.com/764690654) 冯思远：其实我爱你很久了，但一直没有说出口，现在受西方开放思潮的影响，我终于敢直视我们之间的爱情了，邓皓文，i love you
-	* [★宋府昌 Ⅱ ](https://user.qzone.qq.com/2409230025)：[@冯杰](https://user.qzone.qq.com/1584438972) 好顶赞。。![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e179.gif)
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@冯杰](https://user.qzone.qq.com/1584438972) 你的口味如同以往一样重啊……
-*  [冯杰](https://user.qzone.qq.com/1584438972)：千万不要毕业了都没收到
-
+* [赵韵](https://user.qzone.qq.com/496639533)：哪来的明信片啊 我也想买
+* [★宋府昌 Ⅱ ](https://user.qzone.qq.com/2409230025)：好吧，但愿宿管大妈能把它们保留一个暑假。。。
+* [谢权](https://user.qzone.qq.com/190460091)：哥，我有吗？
+* [邓皓文](https://user.qzone.qq.com/764690654)：内容是啥？
+  * [冯杰](https://user.qzone.qq.com/1584438972)：[@邓皓文](https://user.qzone.qq.com/764690654) 冯思远：其实我爱你很久了，但一直没有说出口，现在受西方开放思潮的影响，我终于敢直视我们之间的爱情了，邓皓文，i love you
+  * [★宋府昌 Ⅱ ](https://user.qzone.qq.com/2409230025)：[@冯杰](https://user.qzone.qq.com/1584438972) 好顶赞。。![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e179.gif)
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@冯杰](https://user.qzone.qq.com/1584438972) 你的口味如同以往一样重啊……
+* [冯杰](https://user.qzone.qq.com/1584438972)：千万不要毕业了都没收到
 
 ---
-> 2013-06-20 00:46:38
 
+> 2013-06-20 00:46:38
 
 今早打扫了一个小时的厨房 在身疲之际不知为何有种丧魂之感
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-06-18 00:47:13
 
+> 2013-06-18 00:47:13
 
 今天老板培训新人 所以我这个半新人只能等到下午1点到5点才能上班……少了＄27
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-06-17 22:49:48
 
+> 2013-06-17 22:49:48
 
 最近看到各种吐槽重庆温度的签名 我这也不好过啊 被空调弄咳嗽了……哈哈
 
 > 评论(4)
 
-
-*  [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：提拉 热翔了
-*  [王皓博](https://user.qzone.qq.com/416497502)：深感鄙视啊啊啊啊啊
-*  [赵瑞婷](https://user.qzone.qq.com/283244900)：炫耀自重阿喂！！！！
-*  [邓皓文](https://user.qzone.qq.com/764690654)：次奥，在外面阳台静站中
-
+* [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：提拉 热翔了
+* [王皓博](https://user.qzone.qq.com/416497502)：深感鄙视啊啊啊啊啊
+* [赵瑞婷](https://user.qzone.qq.com/283244900)：炫耀自重阿喂！！！！
+* [邓皓文](https://user.qzone.qq.com/764690654)：次奥，在外面阳台静站中
 
 ---
-> 2013-06-14 01:53:38
 
+> 2013-06-14 01:53:38
 
 又换寝室了……不过离工作地点很近！而且有网
 
 > 评论(4)
 
-
-*  [冯杰](https://user.qzone.qq.com/1584438972)：美利坚的日子是不是水生火热？
-*  [赵琛](https://user.qzone.qq.com/664503485)：不错嘿
-*  [何明波](https://user.qzone.qq.com/969428439)：带个美国妹子回来哈！
-*  [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：啥时候回来呀？
-
+* [冯杰](https://user.qzone.qq.com/1584438972)：美利坚的日子是不是水生火热？
+* [赵琛](https://user.qzone.qq.com/664503485)：不错嘿
+* [何明波](https://user.qzone.qq.com/969428439)：带个美国妹子回来哈！
+* [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：啥时候回来呀？
 
 ---
-> 2013-06-12 00:29:28
 
+> 2013-06-12 00:29:28
 
 到了芝加哥了！等下继续转机去德州……
 
 > 评论(3)
 
-
-*  [王皓博](https://user.qzone.qq.com/416497502)：好样的
-*  [码路](https://user.qzone.qq.com/2283758339)：感觉咋样啊
-*  [码路](https://user.qzone.qq.com/2283758339)：思远兄，端午节快乐哟![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)
-
+* [王皓博](https://user.qzone.qq.com/416497502)：好样的
+* [码路](https://user.qzone.qq.com/2283758339)：感觉咋样啊
+* [码路](https://user.qzone.qq.com/2283758339)：思远兄，端午节快乐哟![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)
 
 ---
-> 2013-06-11 05:32:39
 
+> 2013-06-11 05:32:39
 
 昨晚10点睡 今早5点半起来赶机……
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-06-09 18:45:05
 
+> 2013-06-09 18:45:05
 
 到北京啦！手机快没电了……
 
 > 评论(2)
 
-
-*  [李嘉琪](https://user.qzone.qq.com/505472883)：北京0 0……转机？
-*  [王皓博](https://user.qzone.qq.com/416497502)：加油！
-
+* [李嘉琪](https://user.qzone.qq.com/505472883)：北京0 0……转机？
+* [王皓博](https://user.qzone.qq.com/416497502)：加油！
 
 ---
-> 2013-06-08 10:34:18
 
+> 2013-06-08 10:34:18
 
 今晚开始收拾行李
 
 > 评论(4)
 
-
-*  [王明阳](https://user.qzone.qq.com/408499907)：一路顺风，友谊地久天长！
-*  [赵瑞婷](https://user.qzone.qq.com/283244900)：记得带个外国妹纸回来啊\~\~
-*  [☆李奕彤 Ⅱ](https://user.qzone.qq.com/78782158)：楼上说出了心声啊！
-*  [吴璐瑶](https://user.qzone.qq.com/289992322)：粉丝要去边？
-
+* [王明阳](https://user.qzone.qq.com/408499907)：一路顺风，友谊地久天长！
+* [赵瑞婷](https://user.qzone.qq.com/283244900)：记得带个外国妹纸回来啊\~\~
+* [☆李奕彤 Ⅱ](https://user.qzone.qq.com/78782158)：楼上说出了心声啊！
+* [吴璐瑶](https://user.qzone.qq.com/289992322)：粉丝要去边？
 
 ---
-> 2013-06-05 22:15:09
 
+> 2013-06-05 22:15:09
 
 [@胡喆英](https://user.qzone.qq.com/1025682220)你送的蛋不是双黄的 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e120.gif)
 
 > 评论(5)
 
-
-*  [宗万里](https://user.qzone.qq.com/372848250)：有妹子送蛋給你！！！！
-*  [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：评论亮了。。。
-*  [李嘉琪](https://user.qzone.qq.com/505472883)：蛋![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)
-*  [胡喆英](https://user.qzone.qq.com/1025682220)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e1000008.gif)
-*  [胡喆英](https://user.qzone.qq.com/1025682220)：是你运气不好啦![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e141.gif)
-
+* [宗万里](https://user.qzone.qq.com/372848250)：有妹子送蛋給你！！！！
+* [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：评论亮了。。。
+* [李嘉琪](https://user.qzone.qq.com/505472883)：蛋![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)
+* [胡喆英](https://user.qzone.qq.com/1025682220)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e1000008.gif)
+* [胡喆英](https://user.qzone.qq.com/1025682220)：是你运气不好啦![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e141.gif)
 
 ---
-> 2013-06-05 22:14:02
 
+> 2013-06-05 22:14:02
 
 谢谢某人今天送的蛋
 
 > 评论(1)
 
-
-*  [胡喆英](https://user.qzone.qq.com/1025682220)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e128.gif)她说不谢哈，带个金发碧眼美女回来谢恩就好了哈![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e141.gif)
-
+* [胡喆英](https://user.qzone.qq.com/1025682220)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e128.gif)她说不谢哈，带个金发碧眼美女回来谢恩就好了哈![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e141.gif)
 
 ---
-> 2013-06-04 22:47:01
 
+> 2013-06-04 22:47:01
 
 倒计时5天
 
 > 评论(5)
 
-
-*  [任连松](https://user.qzone.qq.com/136246849)：一路走好哈，带个洋妞回来
-*  [胡喆英](https://user.qzone.qq.com/1025682220)：一路走好哈，带个洋妞回来
-*  [赵瑞婷](https://user.qzone.qq.com/283244900)：一路走好哈，带个洋妞回来
-*  [码路](https://user.qzone.qq.com/2283758339)：一路走好哈，带个洋man 回来。
-*  [吴定武](https://user.qzone.qq.com/1565142672)：一路顺风啊，带个洋妞回来
-
+* [任连松](https://user.qzone.qq.com/136246849)：一路走好哈，带个洋妞回来
+* [胡喆英](https://user.qzone.qq.com/1025682220)：一路走好哈，带个洋妞回来
+* [赵瑞婷](https://user.qzone.qq.com/283244900)：一路走好哈，带个洋妞回来
+* [码路](https://user.qzone.qq.com/2283758339)：一路走好哈，带个洋man 回来。
+* [吴定武](https://user.qzone.qq.com/1565142672)：一路顺风啊，带个洋妞回来
 
 ---
-> 2013-06-01 23:08:54
 
+> 2013-06-01 23:08:54
 
 喝酒回来才发现还要打卡……悲催
 
 > 评论(0)
 
-
-
-
 ---
-### 5月
-> 2013-05-26 22:48:25
 
+### 5月
+
+> 2013-05-26 22:48:25
 
 行前激动变焦虑
 
 > 评论(1)
 
-
-*  [孙嘉祺](https://user.qzone.qq.com/1769392852)：还早吧？你要走了？？
-
+* [孙嘉祺](https://user.qzone.qq.com/1769392852)：还早吧？你要走了？？
 
 ---
-> 2013-05-25 16:26:58
 
+> 2013-05-25 16:26:58
 
 细雨成丝
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-05-23 12:47:13
 
+> 2013-05-23 12:47:13
 
 收到一张明信片 蝈蝈看起来没这么丑了
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-05-23 07:44:06
 
+> 2013-05-23 07:44:06
 
 啊啊啊！昨晚好久都没睡着啊！该死的气温！
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-05-21 18:12:39
 
+> 2013-05-21 18:12:39
 
 今天热si了
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-05-20 19:09:56
 
+> 2013-05-20 19:09:56
 
 还有3张明信片坑在路上啊！我不希望到时候走了都没收到……
 
 > 评论(2)
 
-
-*  [思颀](https://user.qzone.qq.com/403933037)：= =我的都还没收到么…
-*  [王露](https://user.qzone.qq.com/827018764)：你要去哪=_,
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@王露](https://user.qzone.qq.com/827018764) 我参加了今年的暑期赴美实习项目……
-	* [王露](https://user.qzone.qq.com/827018764)：好高端洋气上档次的赶脚0.0那你暑假不回来了是么
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@王露](https://user.qzone.qq.com/827018764)是啊 9.23才回国……幸好书玉跑北京玩去了 到时候去北京坐飞机可以跟他玩一下
-	* [王露](https://user.qzone.qq.com/827018764)：果然是好机油。。那岂不是有一年不见你了么
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@王露](https://user.qzone.qq.com/827018764)是呀……不出意外明年春节才回海南了
-	* [王露](https://user.qzone.qq.com/827018764)：支书T.T
-
+* [思颀](https://user.qzone.qq.com/403933037)：= =我的都还没收到么…
+* [王露](https://user.qzone.qq.com/827018764)：你要去哪=_,
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@王露](https://user.qzone.qq.com/827018764) 我参加了今年的暑期赴美实习项目……
+  * [王露](https://user.qzone.qq.com/827018764)：好高端洋气上档次的赶脚0.0那你暑假不回来了是么
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@王露](https://user.qzone.qq.com/827018764)是啊 9.23才回国……幸好书玉跑北京玩去了 到时候去北京坐飞机可以跟他玩一下
+  * [王露](https://user.qzone.qq.com/827018764)：果然是好机油。。那岂不是有一年不见你了么
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@王露](https://user.qzone.qq.com/827018764)是呀……不出意外明年春节才回海南了
+  * [王露](https://user.qzone.qq.com/827018764)：支书T.T
 
 ---
-> 2013-05-14 18:43:46
 
+> 2013-05-14 18:43:46
 
 打卡365天
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-05-01 23:13:10
 
+> 2013-05-01 23:13:10
 
 5.1就这样神奇的过完了 晚安各位 早睡早起身体棒
 
 > 评论(0)
 
-
-
-
 ---
-### 4月
-> 2013-04-27 11:14:45
 
+### 4月
+
+> 2013-04-27 11:14:45
 
 对不同情谊的对待：真诚 猥琐 猥琐而真诚 真诚而猥琐
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-04-22 16:35:10
 
+> 2013-04-22 16:35:10
 
 我擦 买到动车第一个车厢 第一排位置！
 
 > 评论(1)
 
-
-*  [林小丁](https://user.qzone.qq.com/375315065)：我坐飞机的位置！
-
+* [林小丁](https://user.qzone.qq.com/375315065)：我坐飞机的位置！
 
 ---
-> 2013-04-22 10:12:14
 
+> 2013-04-22 10:12:14
 
 人品不错 签证险过！
 
 > 评论(3)
 
-
-*  [ArthurFSY](https://user.qzone.qq.com/254904240)：女签证官很严！吓死我了
-*  [邓皓文](https://user.qzone.qq.com/764690654)：我凑，我还以为必过
-*  [王炎](https://user.qzone.qq.com/379200156)：你要出国啊？~
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：暑假去美国打工3个月而已……不是去读书
-	* [王炎](https://user.qzone.qq.com/379200156)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 专门去的嘛？~ 你去哪个州丫？
-
+* [ArthurFSY](https://user.qzone.qq.com/254904240)：女签证官很严！吓死我了
+* [邓皓文](https://user.qzone.qq.com/764690654)：我凑，我还以为必过
+* [王炎](https://user.qzone.qq.com/379200156)：你要出国啊？~
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：暑假去美国打工3个月而已……不是去读书
+  * [王炎](https://user.qzone.qq.com/379200156)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 专门去的嘛？~ 你去哪个州丫？
 
 ---
-> 2013-04-21 14:21:14
 
+> 2013-04-21 14:21:14
 
 终于到成都了……
 
 > 评论(2)
 
-
-*  [孙嘉祺](https://user.qzone.qq.com/1769392852)：坐的动车还是？？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@孙嘉祺](https://user.qzone.qq.com/1769392852) 动车 不过晚点1小时
-	* [孙嘉祺](https://user.qzone.qq.com/1769392852)：哦哦~
-*  [林小丁](https://user.qzone.qq.com/375315065)：你去哪儿了？？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@林小丁](https://user.qzone.qq.com/375315065) 去成都办点事……没去什么地方玩……
-	* [林小丁](https://user.qzone.qq.com/375315065)：这样哈。有没有感觉到震？？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@林小丁](https://user.qzone.qq.com/375315065) 没有啦……只是动车晚点1小时而已
-	* [林小丁](https://user.qzone.qq.com/375315065)：好吧。记得不要裸睡吼(*¯︶¯*)
-
+* [孙嘉祺](https://user.qzone.qq.com/1769392852)：坐的动车还是？？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@孙嘉祺](https://user.qzone.qq.com/1769392852) 动车 不过晚点1小时
+  * [孙嘉祺](https://user.qzone.qq.com/1769392852)：哦哦~
+* [林小丁](https://user.qzone.qq.com/375315065)：你去哪儿了？？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@林小丁](https://user.qzone.qq.com/375315065) 去成都办点事……没去什么地方玩……
+  * [林小丁](https://user.qzone.qq.com/375315065)：这样哈。有没有感觉到震？？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@林小丁](https://user.qzone.qq.com/375315065) 没有啦……只是动车晚点1小时而已
+  * [林小丁](https://user.qzone.qq.com/375315065)：好吧。记得不要裸睡吼(*¯︶¯*)
 
 ---
-> 2013-04-20 08:25:12
 
+> 2013-04-20 08:25:12
 
 大难不死
 
 > 评论(2)
 
-
-*  [☆李奕彤 Ⅱ](https://user.qzone.qq.com/78782158)：必有后福！！
-*  [王冬梅](https://user.qzone.qq.com/1020347941)：必有后福![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e100.gif)
-
+* [☆李奕彤 Ⅱ](https://user.qzone.qq.com/78782158)：必有后福！！
+* [王冬梅](https://user.qzone.qq.com/1020347941)：必有后福![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e100.gif)
 
 ---
-> 2013-04-10 18:24:16
 
+> 2013-04-10 18:24:16
 
 艾玛 流鼻涕流一天了……
 
 > 评论(1)
 
-
-*  [胡喆英](https://user.qzone.qq.com/1025682220)：吃药啊多喝热水啊
-
+* [胡喆英](https://user.qzone.qq.com/1025682220)：吃药啊多喝热水啊
 
 ---
-> 2013-04-05 21:57:21
 
+> 2013-04-05 21:57:21
 
 Animal Farm;The Wind In The Willows
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-04-04 19:02:16
 
+> 2013-04-04 19:02:16
 
 从金刀峡回来啦！！今天淋了很多雨 吸了很多氧！
 
 > 评论(1)
 
-
-*  [邓皓文](https://user.qzone.qq.com/764690654)：受伤的是我好伐
-
+* [邓皓文](https://user.qzone.qq.com/764690654)：受伤的是我好伐
 
 ---
-> 2013-04-01 22:56:34
 
+> 2013-04-01 22:56:34
 
 单词不过关啊 做TP0好不爽啊好不爽……
 
 > 评论(1)
 
-
-*  [赵琛](https://user.qzone.qq.com/664503485)：加油
-
+* [赵琛](https://user.qzone.qq.com/664503485)：加油
 
 ---
-### 3月
-> 2013-03-30 22:16:36
 
+### 3月
+
+> 2013-03-30 22:16:36
 
 我很开心在短短2天之内在几个朋友不开心的时候她们想到了我这个她们认为可以减缓她们郁闷心情的人 （好长！
 
 > 评论(3)
 
-
-*  [胡喆英](https://user.qzone.qq.com/1025682220)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)。。。![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e144.gif)
-*  [赵铭明](https://user.qzone.qq.com/452244397)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e144.gif)
-*  [王志](https://user.qzone.qq.com/845471879)：这是长期看英文从句的结果吧
-
+* [胡喆英](https://user.qzone.qq.com/1025682220)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)。。。![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e144.gif)
+* [赵铭明](https://user.qzone.qq.com/452244397)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e144.gif)
+* [王志](https://user.qzone.qq.com/845471879)：这是长期看英文从句的结果吧
 
 ---
-> 2013-03-25 21:19:19
 
+> 2013-03-25 21:19:19
 
 小王子就这样结束了吗……
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-03-23 21:04:38
 
+> 2013-03-23 21:04:38
 
 最近在看小王子（the little prince）重拾童心
 
 > 评论(1)
 
-
-*  [他か](https://user.qzone.qq.com/845634470)：有什么收获？？
-
+* [他か](https://user.qzone.qq.com/845634470)：有什么收获？？
 
 ---
-> 2013-03-16 19:26:50
 
+> 2013-03-16 19:26:50
 
 今天剪了个毁灭三观的头发 没脸见人
 
 > 评论(2)
 
-
-*  [邓皓文](https://user.qzone.qq.com/764690654)：哦，呵呵，去洗澡
-*  [胡喆英](https://user.qzone.qq.com/1025682220)：来，亮个相吧~
-
+* [邓皓文](https://user.qzone.qq.com/764690654)：哦，呵呵，去洗澡
+* [胡喆英](https://user.qzone.qq.com/1025682220)：来，亮个相吧~
 
 ---
-> 2013-03-15 08:44:33
 
+> 2013-03-15 08:44:33
 
 You're looking mighty good in the light that now surrounds you.
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-03-13 23:07:51
 
+> 2013-03-13 23:07:51
 
 起风了！明天会降温吗？
 
 > 评论(1)
 
-
-*  [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：你想多了。
-
+* [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：你想多了。
 
 ---
-> 2013-03-13 23:07:46
 
+> 2013-03-13 23:07:46
 
 起风了！明天
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-03-06 23:02:27
 
+> 2013-03-06 23:02:27
 
 女生节有福利
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-03-01 09:05:10
 
+> 2013-03-01 09:05:10
 
 尼玛6级399没过 不过比上次进步了点……
 
 > 评论(3)
 
-
-*  [胡文高](https://user.qzone.qq.com/2444642537)：好巧，我上次也是399
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：这次考多少了？看来我要考第三次了
-	* [胡文高](https://user.qzone.qq.com/2444642537)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 这次多了40分左右
-*  [他か](https://user.qzone.qq.com/845634470)：这么厉害
-*  [王露](https://user.qzone.qq.com/827018764)：我才379 T.T综合题我基本都没时间写完全乱猜
-
+* [胡文高](https://user.qzone.qq.com/2444642537)：好巧，我上次也是399
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：这次考多少了？看来我要考第三次了
+  * [胡文高](https://user.qzone.qq.com/2444642537)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 这次多了40分左右
+* [他か](https://user.qzone.qq.com/845634470)：这么厉害
+* [王露](https://user.qzone.qq.com/827018764)：我才379 T.T综合题我基本都没时间写完全乱猜
 
 ---
-### 2月
-> 2013-02-22 14:10:29
 
+### 2月
+
+> 2013-02-22 14:10:29
 
 到重庆了
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-02-21 20:53:27
 
+> 2013-02-21 20:53:27
 
 刷了一天的屏了 ubuntu for phone还没出！！！！
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-02-21 11:05:07
 
+> 2013-02-21 11:05:07
 
 黑镜 黑暗系英剧
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-02-20 13:28:53
 
+> 2013-02-20 13:28:53
 
 cet4/6成绩3.1日公布
 
 > 评论(1)
 
-
-*  [王露](https://user.qzone.qq.com/827018764)：法克。。不要啊
-
+* [王露](https://user.qzone.qq.com/827018764)：法克。。不要啊
 
 ---
-> 2013-02-14 21:46:06
 
+> 2013-02-14 21:46:06
 
 情人节就像清明节一样——不是送吃的就是送花![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e110083.gif)
 
 > 评论(1)
 
-
-*  [赵琛](https://user.qzone.qq.com/664503485)：看来你收了不少耶~
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵琛](https://user.qzone.qq.com/664503485) 肥猪肉都每一块啊![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e107.gif)只是上微博看到有人发这句话感觉好玩而已\~\~
-	* [赵琛](https://user.qzone.qq.com/664503485)：看来我被![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e6014.gif)打败了
-
+* [赵琛](https://user.qzone.qq.com/664503485)：看来你收了不少耶~
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵琛](https://user.qzone.qq.com/664503485) 肥猪肉都每一块啊![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e107.gif)只是上微博看到有人发这句话感觉好玩而已\~\~
+  * [赵琛](https://user.qzone.qq.com/664503485)：看来我被![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e6014.gif)打败了
 
 ---
-> 2013-02-13 11:13:13
 
+> 2013-02-13 11:13:13
 
 这几天终于有点秋天的样子了
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-02-08 23:50:47
 
+> 2013-02-08 23:50:47
 
 [http://www.bilibili.tv/video/av456930/](http://www.bilibili.tv/video/av456930/) 神调教！
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-02-06 13:08:53
 
+> 2013-02-06 13:08:53
 
 海南的冬天热死人！
 
 > 评论(2)
 
-
-*  [胡文高](https://user.qzone.qq.com/2444642537)：难道比重庆夏天还…
-*  [赵铭明](https://user.qzone.qq.com/452244397)：怪不得是暑假![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e120.gif)
-
+* [胡文高](https://user.qzone.qq.com/2444642537)：难道比重庆夏天还…
+* [赵铭明](https://user.qzone.qq.com/452244397)：怪不得是暑假![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e120.gif)
 
 ---
-> 2013-02-05 18:15:20
 
+> 2013-02-05 18:15:20
 
 无所事事！
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-02-03 22:26:17
 
+> 2013-02-03 22:26:17
 
 嗯……一天200单词3阅读的计划真好……看我能坚持完这个暑假不……明天终于有人跟我去看电影了！！
 
 > 评论(2)
 
-
-*  [赵铭明](https://user.qzone.qq.com/452244397)：暑假![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e141.gif)
-	* [宋倩雯](https://user.qzone.qq.com/825796915)：[@赵铭明](https://user.qzone.qq.com/452244397) 温度太高了，跟楼下一样二= =
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@宋倩雯](https://user.qzone.qq.com/825796915) 好吧 打错字了……寒假……暑假估计能坚持背单词都不错了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)
-	* [宋倩雯](https://user.qzone.qq.com/825796915)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 看来是我二了= =
-*  [赵琛](https://user.qzone.qq.com/664503485)：额，暑假。。
-
+* [赵铭明](https://user.qzone.qq.com/452244397)：暑假![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e141.gif)
+  * [宋倩雯](https://user.qzone.qq.com/825796915)：[@赵铭明](https://user.qzone.qq.com/452244397) 温度太高了，跟楼下一样二= =
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@宋倩雯](https://user.qzone.qq.com/825796915) 好吧 打错字了……寒假……暑假估计能坚持背单词都不错了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)
+  * [宋倩雯](https://user.qzone.qq.com/825796915)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 看来是我二了= =
+* [赵琛](https://user.qzone.qq.com/664503485)：额，暑假。。
 
 ---
-> 2013-02-01 13:30:41
 
+> 2013-02-01 13:30:41
 
 十万个冷笑话
 
 > 评论(1)
 
-
-*  [赵琛](https://user.qzone.qq.com/664503485)：出第六集了=。=
-	* [邓皓文](https://user.qzone.qq.com/764690654)：[@赵琛](https://user.qzone.qq.com/664503485) 出了好久了
-	* [赵琛](https://user.qzone.qq.com/664503485)：[@邓皓文](https://user.qzone.qq.com/764690654) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e4011.gif)我以为今天才出的
-	* [邓皓文](https://user.qzone.qq.com/764690654)：[@赵琛](https://user.qzone.qq.com/664503485) 4块之所以发这个说说是因为一月更新一集的冷笑话不远了
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@邓皓文](https://user.qzone.qq.com/764690654) 尼玛不是今天才出的吗
-	* [赵琛](https://user.qzone.qq.com/664503485)：[@邓皓文](https://user.qzone.qq.com/764690654) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e4002.gif)酱紫吖~
-	* [邓皓文](https://user.qzone.qq.com/764690654)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 尼玛还真是啊，过上了快乐X福的生活，结尾太多内涵，无力吐槽
-
+* [赵琛](https://user.qzone.qq.com/664503485)：出第六集了=。=
+  * [邓皓文](https://user.qzone.qq.com/764690654)：[@赵琛](https://user.qzone.qq.com/664503485) 出了好久了
+  * [赵琛](https://user.qzone.qq.com/664503485)：[@邓皓文](https://user.qzone.qq.com/764690654) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e4011.gif)我以为今天才出的
+  * [邓皓文](https://user.qzone.qq.com/764690654)：[@赵琛](https://user.qzone.qq.com/664503485) 4块之所以发这个说说是因为一月更新一集的冷笑话不远了
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@邓皓文](https://user.qzone.qq.com/764690654) 尼玛不是今天才出的吗
+  * [赵琛](https://user.qzone.qq.com/664503485)：[@邓皓文](https://user.qzone.qq.com/764690654) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e4002.gif)酱紫吖~
+  * [邓皓文](https://user.qzone.qq.com/764690654)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 尼玛还真是啊，过上了快乐X福的生活，结尾太多内涵，无力吐槽
 
 ---
-### 1月
-> 2013-01-24 11:36:57
 
+### 1月
+
+> 2013-01-24 11:36:57
 
 差点吓尿了…… 幸好暑假回去后缓考有平时分啊！！！
 
 > 评论(1)
 
-
-*  [11数学周雅璐](https://user.qzone.qq.com/852489490)：你说的是计算机？
-
+* [11数学周雅璐](https://user.qzone.qq.com/852489490)：你说的是计算机？
 
 ---
-> 2013-01-23 21:28:11
 
+> 2013-01-23 21:28:11
 
 国产动漫崛起？侠岚！纳米核心！秦时明月！
 
 > 评论(1)
 
-
-*  [邓皓文](https://user.qzone.qq.com/764690654)：十万个冷笑话
-	* [赵琛](https://user.qzone.qq.com/664503485)：[@邓皓文](https://user.qzone.qq.com/764690654) +1
-
+* [邓皓文](https://user.qzone.qq.com/764690654)：十万个冷笑话
+  * [赵琛](https://user.qzone.qq.com/664503485)：[@邓皓文](https://user.qzone.qq.com/764690654) +1
 
 ---
-> 2013-01-22 11:49:40
 
+> 2013-01-22 11:49:40
 
 发现可以自动改作文的网页 没事干想练练作文的可以看看 貌似还有分析[http://fy.iciba.com/pigai/](http://fy.iciba.com/pigai/)
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-01-22 00:29:00
 
+> 2013-01-22 00:29:00
 
 到海南了！
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-01-21 16:19:56
 
+> 2013-01-21 16:19:56
 
 现在开始回海南
 
 > 评论(1)
 
-
-*  [胡文高](https://user.qzone.qq.com/2444642537)：才回啊！听说海南好暖和哦，羡慕！
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：这几天一直都在广东湛江我妈那里……现在才刚到家 的确挺暖的~
-	* [胡文高](https://user.qzone.qq.com/2444642537)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 哦哦，寒假愉快哈~
-
+* [胡文高](https://user.qzone.qq.com/2444642537)：才回啊！听说海南好暖和哦，羡慕！
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：这几天一直都在广东湛江我妈那里……现在才刚到家 的确挺暖的~
+  * [胡文高](https://user.qzone.qq.com/2444642537)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 哦哦，寒假愉快哈~
 
 ---
-> 2013-01-18 21:46:17
 
+> 2013-01-18 21:46:17
 
 艾玛 家里停电了
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-01-17 15:50:26
 
+> 2013-01-17 15:50:26
 
 好了 面试完了 等通知吧……
 
 > 评论(2)
 
-
-*  [陈忠能](https://user.qzone.qq.com/741214356)：面啥试？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@陈忠能](https://user.qzone.qq.com/741214356) 暑期赴美打工的面试…summer work&amp;travel
-	* [陈忠能](https://user.qzone.qq.com/741214356)：好像很厉害的样子
-*  [他か](https://user.qzone.qq.com/845634470)：你还在重庆？
-
+* [陈忠能](https://user.qzone.qq.com/741214356)：面啥试？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@陈忠能](https://user.qzone.qq.com/741214356) 暑期赴美打工的面试…summer work&amp;travel
+  * [陈忠能](https://user.qzone.qq.com/741214356)：好像很厉害的样子
+* [他か](https://user.qzone.qq.com/845634470)：你还在重庆？
 
 ---
-> 2013-01-17 11:35:20
 
+> 2013-01-17 11:35:20
 
 人倒霉没办法啊！早上断网下午面试尼玛坑爹
 
 > 评论(2)
 
-
-*  [赵琛](https://user.qzone.qq.com/664503485)：面试0.0
-*  [陈新](https://user.qzone.qq.com/442404530)：下午面试啊…？
-
+* [赵琛](https://user.qzone.qq.com/664503485)：面试0.0
+* [陈新](https://user.qzone.qq.com/442404530)：下午面试啊…？
 
 ---
-> 2013-01-15 16:33:32
 
+> 2013-01-15 16:33:32
 
 好无聊啊！有没有勇士一起跟我在扇贝网持续1个月打卡？
 
 > 评论(2)
 
-
-*  [邓皓文](https://user.qzone.qq.com/764690654)：哦
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@邓皓文](https://user.qzone.qq.com/764690654) 哦
-*  [杨新艺](https://user.qzone.qq.com/654609662)：这个可以有嘿嘿，要的话我陪你吧
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：必须要战友啊！
-
+* [邓皓文](https://user.qzone.qq.com/764690654)：哦
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@邓皓文](https://user.qzone.qq.com/764690654) 哦
+* [杨新艺](https://user.qzone.qq.com/654609662)：这个可以有嘿嘿，要的话我陪你吧
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：必须要战友啊！
 
 ---
-> 2013-01-14 18:03:56
 
+> 2013-01-14 18:03:56
 
 我擦！线代87给力
 
 > 评论(2)
 
-
-*  [吕方](https://user.qzone.qq.com/664882496)：我擦！牛气
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@吕方](https://user.qzone.qq.com/664882496) 线代大家应该都考的不错吧？？
-*  [李敬玄](https://user.qzone.qq.com/707212294)：擦　跪了
-
+* [吕方](https://user.qzone.qq.com/664882496)：我擦！牛气
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@吕方](https://user.qzone.qq.com/664882496) 线代大家应该都考的不错吧？？
+* [李敬玄](https://user.qzone.qq.com/707212294)：擦　跪了
 
 ---
-> 2013-01-14 15:27:31
 
+> 2013-01-14 15:27:31
 
 尼玛 回到家不到几天就流鼻涕了
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-01-14 11:48:41
 
+> 2013-01-14 11:48:41
 
 我擦 毛概81哦
 
 > 评论(2)
 
-
-*  [李敬玄](https://user.qzone.qq.com/707212294)：你觉得多啊还是少啊
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李敬玄](https://user.qzone.qq.com/707212294) 多！因为卷面分才62……
-	* [李敬玄](https://user.qzone.qq.com/707212294)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 吓死我了 我还以为81还嫌少···
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：怎么可能嫌少……我只是感叹老师的平时分给的真高
-	* [李敬玄](https://user.qzone.qq.com/707212294)：[@ArthurFSY](https://user.qzone.qq.com/254904240) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e128.gif)
-*  [邓皓文](https://user.qzone.qq.com/764690654)：壕
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@邓皓文](https://user.qzone.qq.com/764690654) 卷面分才62……你呢 是不是考90了
-
+* [李敬玄](https://user.qzone.qq.com/707212294)：你觉得多啊还是少啊
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@李敬玄](https://user.qzone.qq.com/707212294) 多！因为卷面分才62……
+  * [李敬玄](https://user.qzone.qq.com/707212294)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 吓死我了 我还以为81还嫌少···
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：怎么可能嫌少……我只是感叹老师的平时分给的真高
+  * [李敬玄](https://user.qzone.qq.com/707212294)：[@ArthurFSY](https://user.qzone.qq.com/254904240) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e128.gif)
+* [邓皓文](https://user.qzone.qq.com/764690654)：壕
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@邓皓文](https://user.qzone.qq.com/764690654) 卷面分才62……你呢 是不是考90了
 
 ---
-> 2013-01-14 11:40:46
 
+> 2013-01-14 11:40:46
 
 blurt a confession
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-01-14 11:30:02
 
+> 2013-01-14 11:30:02
 
 我的笔记本终于可以上网了……
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-01-13 20:51:57
 
+> 2013-01-13 20:51:57
 
 我老妈又问我有没有收到情书了……我其实很想说我还没有发情书的对象呢……
 
 > 评论(3)
 
-
-*  [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：加油，会有的
-*  [陈豪](https://user.qzone.qq.com/474383450)：最后一句应该把书去掉
-*  [赵琛](https://user.qzone.qq.com/664503485)：发情书和收情书是2回事![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e120.gif)
-
+* [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：加油，会有的
+* [陈豪](https://user.qzone.qq.com/474383450)：最后一句应该把书去掉
+* [赵琛](https://user.qzone.qq.com/664503485)：发情书和收情书是2回事![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e120.gif)
 
 ---
-> 2013-01-12 20:26:40
 
+> 2013-01-12 20:26:40
 
 家里的网有点坑……竟然不支持WIN7 哎 笔记本连网线老是断啊
 
 > 评论(1)
 
-
-*  [11数学周雅璐](https://user.qzone.qq.com/852489490)：是不是IP地址的问题呀？
-
+* [11数学周雅璐](https://user.qzone.qq.com/852489490)：是不是IP地址的问题呀？
 
 ---
-> 2013-01-11 21:17:52
 
+> 2013-01-11 21:17:52
 
 坐火车坐到屁股疼怎么办……还有将近2小时啊！！
 
 > 评论(2)
 
-
-*  [王志](https://user.qzone.qq.com/845471879)：那就站着呗。。。。
-*  [邓皓文](https://user.qzone.qq.com/764690654)：痛苦啊
-
+* [王志](https://user.qzone.qq.com/845471879)：那就站着呗。。。。
+* [邓皓文](https://user.qzone.qq.com/764690654)：痛苦啊
 
 ---
-> 2013-01-11 12:30:56
 
+> 2013-01-11 12:30:56
 
 回到家的朋友真幸福……我火车貌似要晚点咯！
 
 > 评论(1)
 
-
-*  [赵琛](https://user.qzone.qq.com/664503485)：能回家就好鸟~
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：目测今晚11点……
-	* [赵琛](https://user.qzone.qq.com/664503485)：[@ArthurFSY](https://user.qzone.qq.com/254904240) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e4002.gif)
-
+* [赵琛](https://user.qzone.qq.com/664503485)：能回家就好鸟~
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：目测今晚11点……
+  * [赵琛](https://user.qzone.qq.com/664503485)：[@ArthurFSY](https://user.qzone.qq.com/254904240) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e4002.gif)
 
 ---
-> 2013-01-10 16:55:16
 
+> 2013-01-10 16:55:16
 
 已经坐上502啦！赶往菜园坝
 
 > 评论(1)
 
-
-*  [胡喆英](https://user.qzone.qq.com/1025682220)：几点的火车啊？我们已经在菜园坝两天了(*¯︶¯*)
-
+* [胡喆英](https://user.qzone.qq.com/1025682220)：几点的火车啊？我们已经在菜园坝两天了(*¯︶¯*)
 
 ---
-> 2013-01-10 11:21:26
 
+> 2013-01-10 11:21:26
 
 下午回家去
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-01-09 21:12:08
 
+> 2013-01-09 21:12:08
 
 就醉 ……不省人事中……
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-01-06 11:31:12
 
+> 2013-01-06 11:31:12
 
 &quot;Arthur,you must works hard without so much as a little relaxation!&quot;said Feng
 
 > 评论(0)
 
-
-
-
 ---
-> 2013-01-04 23:14:31
 
+> 2013-01-04 23:14:31
 
 ——今晚表白
 
 > 评论(1)
 
-
-*  [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：成功否？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：A:今晚表白失败了 B:每一个女孩都是本难读的书，你还需努力……A:其他书就算了，可惜她还是单片机……
-
+* [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：成功否？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：A:今晚表白失败了 B:每一个女孩都是本难读的书，你还需努力……A:其他书就算了，可惜她还是单片机……
 
 ---
-> 2013-01-04 22:30:20
 
+> 2013-01-04 22:30:20
 
 啊啊啊 今晚看秦时明月去了 没看书啊
 
 > 评论(1)
 
-
-*  [11文社院周庭望](https://user.qzone.qq.com/598417448)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e140.gif)
-
+* [11文社院周庭望](https://user.qzone.qq.com/598417448)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e140.gif)
 
 ---
-> 2013-01-04 11:59:33
 
+> 2013-01-04 11:59:33
 
 我的女盆友是单翩姬 我这几天都跟她亲密接触
 
 > 评论(1)
 
-
-*  [忘却の旋律](https://user.qzone.qq.com/610149025)：单片机是指那种微型系统？还是某种相机？
-
+* [忘却の旋律](https://user.qzone.qq.com/610149025)：单片机是指那种微型系统？还是某种相机？
 
 ---
-> 2013-01-04 10:02:56
 
+> 2013-01-04 10:02:56
 
 病治好了 今天嘛你懂的
 
 > 评论(1)
 
-
-*  [胡喆英](https://user.qzone.qq.com/1025682220)：soga⊙▽⊙哪位妹纸持有此良方，借老朽一剂⊙▽⊙
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：她姓单 名翩姬
-
+* [胡喆英](https://user.qzone.qq.com/1025682220)：soga⊙▽⊙哪位妹纸持有此良方，借老朽一剂⊙▽⊙
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：她姓单 名翩姬
 
 ---
-> 2013-01-03 18:52:37
 
+> 2013-01-03 18:52:37
 
 不想看书不想睡觉不想上网不想吃饭怎么破
 
 > 评论(3)
 
-
-*  [胡喆英](https://user.qzone.qq.com/1025682220)：小的以为大人要升仙了←_←
-*  [胡喆英](https://user.qzone.qq.com/1025682220)：老夫断定元旦一过，考前一晚，此症必好←_←
-	* [赵琛](https://user.qzone.qq.com/664503485)：[@胡喆英](https://user.qzone.qq.com/1025682220) +10086
-*  [邓皓文](https://user.qzone.qq.com/764690654)：表示一二楼这是要闹哪样，妹纸才是重点
-	* [宋倩雯](https://user.qzone.qq.com/825796915)：+1...
-
+* [胡喆英](https://user.qzone.qq.com/1025682220)：小的以为大人要升仙了←_←
+* [胡喆英](https://user.qzone.qq.com/1025682220)：老夫断定元旦一过，考前一晚，此症必好←_←
+  * [赵琛](https://user.qzone.qq.com/664503485)：[@胡喆英](https://user.qzone.qq.com/1025682220) +10086
+* [邓皓文](https://user.qzone.qq.com/764690654)：表示一二楼这是要闹哪样，妹纸才是重点
+  * [宋倩雯](https://user.qzone.qq.com/825796915)：+1...
 
 ---
-## 2012年
-### 12月
-> 2012-12-28 11:09:37
 
+## 2012年
+
+### 12月
+
+> 2012-12-28 11:09:37
 
 看不进书了……上网找点题做做……
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-12-24 22:32:26
 
+> 2012-12-24 22:32:26
 
 送大家一个苹果 平安夜快乐
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-12-24 17:38:34
 
+> 2012-12-24 17:38:34
 
 你们敢show一下平安夜怎么过的吗！！啊啊啊 单片机啊！！
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-12-18 20:56:52
 
+> 2012-12-18 20:56:52
 
 自习中毒中……
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-12-14 23:36:23
 
+> 2012-12-14 23:36:23
 
 /vip/7KG负重-1Km跑了5分55秒
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-12-13 21:40:44
 
+> 2012-12-13 21:40:44
 
 /vip/强迫症啊强迫症 背单词啊背单词
 
 > 评论(2)
 
-
-*  [胡喆英](https://user.qzone.qq.com/1025682220)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e4009.gif)我表示佩服，请分一点这样的强迫症给我吧
-*  [赵琛](https://user.qzone.qq.com/664503485)：给力\~\~正能量吖
-
+* [胡喆英](https://user.qzone.qq.com/1025682220)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e4009.gif)我表示佩服，请分一点这样的强迫症给我吧
+* [赵琛](https://user.qzone.qq.com/664503485)：给力\~\~正能量吖
 
 ---
-> 2012-12-09 17:16:29
 
+> 2012-12-09 17:16:29
 
 me.taobao.com 淘宝也小清新了……
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-12-01 23:07:17
 
+> 2012-12-01 23:07:17
 
 7kg-1000m负重跑跑了5分56……
 
 > 评论(1)
 
-
-*  [何书玉](https://user.qzone.qq.com/460236438)：。。。刚考完1000米，又来负重跑。。。。你们学校真牛逼。。。。
-
+* [何书玉](https://user.qzone.qq.com/460236438)：。。。刚考完1000米，又来负重跑。。。。你们学校真牛逼。。。。
 
 ---
-### 11月
-> 2012-11-30 21:20:26
 
+### 11月
+
+> 2012-11-30 21:20:26
 
 选修课真凶残……
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-11-12 16:57:03
 
+> 2012-11-12 16:57:03
 
 我1000米终于有及格的一天了……
 
 > 评论(3)
 
-
-*  [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e126.gif)你跑了好多哦
-*  [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：都是因为我给你加油了嘛！哈哈！
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：谢谢……感激不尽啊！！让我爆发了一下，然后累趴了
-*  [11数学周雅璐](https://user.qzone.qq.com/852489490)：不會吧？你沒級格過？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：大学第一学期没及格……
-	* [11数学周雅璐](https://user.qzone.qq.com/852489490)：第二学期被你忽略了？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：第二学期没有1000米……
-	* [11数学周雅璐](https://user.qzone.qq.com/852489490)：原來如此……
-
+* [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e126.gif)你跑了好多哦
+* [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：都是因为我给你加油了嘛！哈哈！
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：谢谢……感激不尽啊！！让我爆发了一下，然后累趴了
+* [11数学周雅璐](https://user.qzone.qq.com/852489490)：不會吧？你沒級格過？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：大学第一学期没及格……
+  * [11数学周雅璐](https://user.qzone.qq.com/852489490)：第二学期被你忽略了？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：第二学期没有1000米……
+  * [11数学周雅璐](https://user.qzone.qq.com/852489490)：原來如此……
 
 ---
-> 2012-11-09 22:31:37
 
+> 2012-11-09 22:31:37
 
 喝醉酒的人啊，你们太惊悚了
 
 > 评论(0)
 
-
-
-
 ---
-### 10月
-> 2012-10-29 09:16:17
 
+### 10月
+
+> 2012-10-29 09:16:17
 
 突然发现名字中间的字换成或加上“小”字都会变得很萌……
 
 > 评论(3)
 
-
-*  [胡喆英](https://user.qzone.qq.com/1025682220)：冯小远~
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：胡小英早上好!
-	* [胡喆英](https://user.qzone.qq.com/1025682220)：[@ArthurFSY](https://user.qzone.qq.com/254904240) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e141.gif)科技大人，快到中午了勒。。。
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@胡喆英](https://user.qzone.qq.com/1025682220) 好吧……没看时间
-	* [胡喆英](https://user.qzone.qq.com/1025682220)：[@ArthurFSY](https://user.qzone.qq.com/254904240) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)、、、话说数电懂不懂啊？有些地方不懂啊、、、![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e4008.gif)
-*  [蓝培文](https://user.qzone.qq.com/514591062)：卖萌么…
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@蓝培文](https://user.qzone.qq.com/514591062) 蓝小文好久不见！
-	* [蓝培文](https://user.qzone.qq.com/514591062)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 浑身鸡皮疙瘩。。。
-*  [宋倩雯](https://user.qzone.qq.com/825796915)：嗯…我总是在304门口理直气壮的叫，赵小琛…
-	* [赵琛](https://user.qzone.qq.com/664503485)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e4019.gif)是314~
-	* [宋倩雯](https://user.qzone.qq.com/825796915)：[@赵琛](https://user.qzone.qq.com/664503485) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e110.gif)
-	* [赵琛](https://user.qzone.qq.com/664503485)：宋小雯![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e192.gif)
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵琛](https://user.qzone.qq.com/664503485) 宋小雯![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e4005.gif)
-	* [赵琛](https://user.qzone.qq.com/664503485)：[@ArthurFSY](https://user.qzone.qq.com/254904240) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)
-
+* [胡喆英](https://user.qzone.qq.com/1025682220)：冯小远~
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：胡小英早上好!
+  * [胡喆英](https://user.qzone.qq.com/1025682220)：[@ArthurFSY](https://user.qzone.qq.com/254904240) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e141.gif)科技大人，快到中午了勒。。。
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@胡喆英](https://user.qzone.qq.com/1025682220) 好吧……没看时间
+  * [胡喆英](https://user.qzone.qq.com/1025682220)：[@ArthurFSY](https://user.qzone.qq.com/254904240) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)、、、话说数电懂不懂啊？有些地方不懂啊、、、![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e4008.gif)
+* [蓝培文](https://user.qzone.qq.com/514591062)：卖萌么…
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@蓝培文](https://user.qzone.qq.com/514591062) 蓝小文好久不见！
+  * [蓝培文](https://user.qzone.qq.com/514591062)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 浑身鸡皮疙瘩。。。
+* [宋倩雯](https://user.qzone.qq.com/825796915)：嗯…我总是在304门口理直气壮的叫，赵小琛…
+  * [赵琛](https://user.qzone.qq.com/664503485)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e4019.gif)是314~
+  * [宋倩雯](https://user.qzone.qq.com/825796915)：[@赵琛](https://user.qzone.qq.com/664503485) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e110.gif)
+  * [赵琛](https://user.qzone.qq.com/664503485)：宋小雯![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e192.gif)
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵琛](https://user.qzone.qq.com/664503485) 宋小雯![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e4005.gif)
+  * [赵琛](https://user.qzone.qq.com/664503485)：[@ArthurFSY](https://user.qzone.qq.com/254904240) ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)
 
 ---
-> 2012-10-16 16:20:50
 
+> 2012-10-16 16:20:50
 
 运气还真好啊……
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-10-11 22:01:31
 
+> 2012-10-11 22:01:31
 
 原来煎蛋机煎熏肉的味道也是可以的！
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/170E00E3.jpeg)
+
 > 评论(6)
 
-
-*  [码路](https://user.qzone.qq.com/2283758339)：碉堡了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e7268.gif)
-*  [胡喆英](https://user.qzone.qq.com/1025682220)：你们还让不让女生这边活了。。。![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e154.gif)
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@胡喆英](https://user.qzone.qq.com/1025682220)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)我们也过上小康生活啦
-	* [胡喆英](https://user.qzone.qq.com/1025682220)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 你为啥要用&quot;也“？女生这边已经要饿饭了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)
-*  [赵琛](https://user.qzone.qq.com/664503485)：同楼上~
-*  [龙煜](https://user.qzone.qq.com/410854325)：又看起来好好吃的样子![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e102.gif)
-*  [胡喆英](https://user.qzone.qq.com/1025682220)：像我们班这群科技窄、高富帅的老爷们致敬O(∩_∩)O~
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)我暑假打工2个月赚的钱就花到上面了……什么高富帅嘛
-*  [余琳玲](https://user.qzone.qq.com/2270519358)：贤惠啊
-
+* [码路](https://user.qzone.qq.com/2283758339)：碉堡了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e7268.gif)
+* [胡喆英](https://user.qzone.qq.com/1025682220)：你们还让不让女生这边活了。。。![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e154.gif)
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@胡喆英](https://user.qzone.qq.com/1025682220)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e113.gif)我们也过上小康生活啦
+  * [胡喆英](https://user.qzone.qq.com/1025682220)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 你为啥要用&quot;也“？女生这边已经要饿饭了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)
+* [赵琛](https://user.qzone.qq.com/664503485)：同楼上~
+* [龙煜](https://user.qzone.qq.com/410854325)：又看起来好好吃的样子![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e102.gif)
+* [胡喆英](https://user.qzone.qq.com/1025682220)：像我们班这群科技窄、高富帅的老爷们致敬O(∩_∩)O~
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)我暑假打工2个月赚的钱就花到上面了……什么高富帅嘛
+* [余琳玲](https://user.qzone.qq.com/2270519358)：贤惠啊
 
 ---
-> 2012-10-10 13:43:35
 
+> 2012-10-10 13:43:35
 
 今天早上上课突然发现自己的头型很杀马特……
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-10-09 22:44:49
 
+> 2012-10-09 22:44:49
 
 面包机，煎蛋机试用
 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Messages/images/568F4437.jpeg)
+
 > 评论(0)
 
-
-
-
 ---
-### 9月
-> 2012-09-29 23:29:56
 
+### 9月
+
+> 2012-09-29 23:29:56
 
 国庆+中秋快乐！
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-09-17 10:13:49
 
+> 2012-09-17 10:13:49
 
 [http://shanbay.com/referral/ref/147ad/](http://shanbay.com/referral/ref/147ad/)
 
 > 评论(1)
 
-
-*  [杨新艺](https://user.qzone.qq.com/654609662)：你也背单词啊
-
+* [杨新艺](https://user.qzone.qq.com/654609662)：你也背单词啊
 
 ---
-> 2012-09-17 10:13:17
 
+> 2012-09-17 10:13:17
 
 想背单词的可以点这个[http://shanbay.com/referral/ref/147ad/](http://shanbay.com/referral/ref/147ad/)
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-09-09 19:06:29
 
+> 2012-09-09 19:06:29
 
 再也不敢相信盛大了……
 
 > 评论(1)
 
-
-*  [赵琛](https://user.qzone.qq.com/664503485)：盛大一直坑爹额
-
+* [赵琛](https://user.qzone.qq.com/664503485)：盛大一直坑爹额
 
 ---
-> 2012-09-08 09:29:02
 
+> 2012-09-08 09:29:02
 
 搏一搏 单车变摩托 哎呀 胆子不够大少赚了几百（嘿嘿不是犯法的）
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-09-06 20:44:14
 
+> 2012-09-06 20:44:14
 
 烧了7天的手机流量了！！！你要逆天啊
 
 > 评论(0)
 
-
-
-
 ---
-### 8月
-> 2012-08-31 22:57:44
 
+### 8月
+
+> 2012-08-31 22:57:44
 
 寝室竟然上不了网 太不给力了
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-08-29 15:57:18
 
+> 2012-08-29 15:57:18
 
 啦啦啦 我回学校去啦 又是27个小时！
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-08-28 09:50:00
 
+> 2012-08-28 09:50:00
 
 又得苦逼的坐船坐车了……
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-08-21 08:32:57
 
+> 2012-08-21 08:32:57
 
 9点六级成绩就出了 但是忘记了考号晕死……
 
 > 评论(3)
 
-
-*  [邓皓文](https://user.qzone.qq.com/764690654)：碉堡了
-*  [胡喆英](https://user.qzone.qq.com/1025682220)：我不敢看，不敢看，不敢看，不敢看 不敢看，不敢看，不敢看……
-*  [ArthurFSY](https://user.qzone.qq.com/254904240)：哥，不用看了，你这次没过![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)
-
+* [邓皓文](https://user.qzone.qq.com/764690654)：碉堡了
+* [胡喆英](https://user.qzone.qq.com/1025682220)：我不敢看，不敢看，不敢看，不敢看 不敢看，不敢看，不敢看……
+* [ArthurFSY](https://user.qzone.qq.com/254904240)：哥，不用看了，你这次没过![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)
 
 ---
-> 2012-08-15 15:34:20
 
+> 2012-08-15 15:34:20
 
 坑爹的学车！
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-08-13 13:51:41
 
+> 2012-08-13 13:51:41
 
 辛辛苦苦赚的几百块钱帮我爸妈买了个面包机……话说我第一次尝试味道好不错！
 
 > 评论(0)
 
-
-
-
 ---
-### 7月
-> 2012-07-29 20:31:00
 
+### 7月
+
+> 2012-07-29 20:31:00
 
 回海口的飞机严重晚点……然后……有免费4星级酒店住！
 
 > 评论(2)
 
-
-*  [黄秋萍](https://user.qzone.qq.com/328111878)：这么好~![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e114.gif)
-*  [黄秋萍](https://user.qzone.qq.com/328111878)：这么好![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e114.gif)
-
+* [黄秋萍](https://user.qzone.qq.com/328111878)：这么好~![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e114.gif)
+* [黄秋萍](https://user.qzone.qq.com/328111878)：这么好![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e114.gif)
 
 ---
-> 2012-07-25 15:33:42
 
+> 2012-07-25 15:33:42
 
 千岛湖的城中岛宾馆的网速是2.3M/S 吓死我了
 
 > 评论(1)
 
-
-*  [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：淡定，我家也有过2.8m/s的下载速度
-
+* [11 历史 张俊骏](https://user.qzone.qq.com/420998529)：淡定，我家也有过2.8m/s的下载速度
 
 ---
-> 2012-07-25 01:21:59
 
+> 2012-07-25 01:21:59
 
 到杭州啦！该死的误点！
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-07-13 14:16:47
 
+> 2012-07-13 14:16:47
 
 现在开始回海南咯
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-07-04 12:54:51
 
+> 2012-07-04 12:54:51
 
 谢谢大物老师……给我及格
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-07-03 18:30:41
 
+> 2012-07-03 18:30:41
 
 大物求 不挂
 
 > 评论(1)
 
-
-*  [陈豪](https://user.qzone.qq.com/474383450)：同求！求物理帝灵魂附体！
-
+* [陈豪](https://user.qzone.qq.com/474383450)：同求！求物理帝灵魂附体！
 
 ---
-> 2012-07-01 11:26:59
 
+> 2012-07-01 11:26:59
 
 已经到家了 刮台风中
 
 > 评论(1)
 
-
-*  [赵琛](https://user.qzone.qq.com/664503485)：凉快\~\~
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵琛](https://user.qzone.qq.com/664503485) 嘻嘻 今天下午跟朋友去游泳 现在赶紧去睡觉……
-	* [赵琛](https://user.qzone.qq.com/664503485)：7878\~\~
-
+* [赵琛](https://user.qzone.qq.com/664503485)：凉快\~\~
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵琛](https://user.qzone.qq.com/664503485) 嘻嘻 今天下午跟朋友去游泳 现在赶紧去睡觉……
+  * [赵琛](https://user.qzone.qq.com/664503485)：7878\~\~
 
 ---
-### 6月
-> 2012-06-29 20:13:48
 
+### 6月
+
+> 2012-06-29 20:13:48
 
 还有3小时到家！
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-06-12 18:04:53
 
+> 2012-06-12 18:04:53
 
 玩九阴的来网通一区离别居哦~（考试后再玩吧……）
 
 > 评论(1)
 
-
-*  [赵铭明](https://user.qzone.qq.com/452244397)：去电信吧\~\~  没电信区么？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵铭明](https://user.qzone.qq.com/452244397) 那个是双线的 电信网通都可以玩
-	* [赵铭明](https://user.qzone.qq.com/452244397)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 哦\~\~ 那好的 我们暑假就玩那个区\~\~  说定了哈
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵铭明](https://user.qzone.qq.com/452244397) 呵呵 好的
-
+* [赵铭明](https://user.qzone.qq.com/452244397)：去电信吧\~\~  没电信区么？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵铭明](https://user.qzone.qq.com/452244397) 那个是双线的 电信网通都可以玩
+  * [赵铭明](https://user.qzone.qq.com/452244397)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 哦\~\~ 那好的 我们暑假就玩那个区\~\~  说定了哈
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵铭明](https://user.qzone.qq.com/452244397) 呵呵 好的
 
 ---
-> 2012-06-06 15:02:30
 
+> 2012-06-06 15:02:30
 
 九阴免激活码内测了！
 
 > 评论(1)
 
-
-*  [赵琛](https://user.qzone.qq.com/664503485)：怎么都玩九阴叻0.0
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵琛](https://user.qzone.qq.com/664503485) 有人玩啦？我还以为只有我玩呢
-	* [赵琛](https://user.qzone.qq.com/664503485)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 啊哦\~\~
-
+* [赵琛](https://user.qzone.qq.com/664503485)：怎么都玩九阴叻0.0
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵琛](https://user.qzone.qq.com/664503485) 有人玩啦？我还以为只有我玩呢
+  * [赵琛](https://user.qzone.qq.com/664503485)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 啊哦\~\~
 
 ---
-> 2012-06-04 18:14:08
 
+> 2012-06-04 18:14:08
 
 我手机号换成了18609498159 对没错是甘肃的（其实人还在重庆,不是被拐了……）！ 原来的重庆卡就不用了哦
 
 > 评论(3)
 
-
-*  [11西南李富豪](https://user.qzone.qq.com/243940411)：……
-*  [王露](https://user.qzone.qq.com/827018764)：干嘛要用甘肃的啊……这样不是漫游么
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@王露](https://user.qzone.qq.com/827018764) 哈哈 这张卡流量多 拿来上网爽
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：联通3G的无漫游无长途哦
-	* [王露](https://user.qzone.qq.com/827018764)：支书你这是在为联通做广告么……
-*  [蓝培文](https://user.qzone.qq.com/514591062)：被卖了。。→_→
-
+* [11西南李富豪](https://user.qzone.qq.com/243940411)：……
+* [王露](https://user.qzone.qq.com/827018764)：干嘛要用甘肃的啊……这样不是漫游么
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@王露](https://user.qzone.qq.com/827018764) 哈哈 这张卡流量多 拿来上网爽
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：联通3G的无漫游无长途哦
+  * [王露](https://user.qzone.qq.com/827018764)：支书你这是在为联通做广告么……
+* [蓝培文](https://user.qzone.qq.com/514591062)：被卖了。。→_→
 
 ---
-### 5月
-> 2012-05-13 17:07:39
 
+### 5月
+
+> 2012-05-13 17:07:39
 
 幸好这阵子有雨啊 要不得晒死！
 
 > 评论(1)
 
-
-*  [无非](https://user.qzone.qq.com/624504099)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e154.gif)我淋了个落汤鸡
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：……好吧 好久没等Q了现在才看到…… 落汤鸡啊……这么惨 我好像那天和是被雨淋了一身透的……![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)
-
+* [无非](https://user.qzone.qq.com/624504099)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e154.gif)我淋了个落汤鸡
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：……好吧 好久没等Q了现在才看到…… 落汤鸡啊……这么惨 我好像那天和是被雨淋了一身透的……![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)
 
 ---
-### 4月
-> 2012-04-15 00:33:31
 
+### 4月
+
+> 2012-04-15 00:33:31
 
 15号了啊！刮大风下大雨了哦！
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-04-13 19:53:33
 
+> 2012-04-13 19:53:33
 
 不知不觉 诛仙已8年
 
 > 评论(1)
 
-
-*  [纪](https://user.qzone.qq.com/731394081)：厉害。
-
+* [纪](https://user.qzone.qq.com/731394081)：厉害。
 
 ---
-> 2012-04-13 19:50:36
 
+> 2012-04-13 19:50:36
 
 不知不觉 诛仙已10年
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-04-12 20:52:14
 
+> 2012-04-12 20:52:14
 
 今天C语言自提手提上课无鸭梨
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-04-11 21:50:26
 
+> 2012-04-11 21:50:26
 
 刚刚才惊觉我今天在崇德湖拿找美院画画的时候竟然照到亮点了！！！大亮啊！
 
 > 评论(1)
 
-
-*  [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：没想到你口味也这么重……
-
+* [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：没想到你口味也这么重……
 
 ---
-> 2012-04-09 21:26:04
 
+> 2012-04-09 21:26:04
 
 一个下午近代史100分圆满达成！
 
 > 评论(2)
 
-
-*  [11文社院周庭望](https://user.qzone.qq.com/598417448)：啥意思？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@11文社院周庭望](https://user.qzone.qq.com/598417448) 近代史不是要上网挂时间做题嘛？我全部搞完了
-	* [11文社院周庭望](https://user.qzone.qq.com/598417448)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 牛逼
-*  [赵琛](https://user.qzone.qq.com/664503485)：给力
-
+* [11文社院周庭望](https://user.qzone.qq.com/598417448)：啥意思？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@11文社院周庭望](https://user.qzone.qq.com/598417448) 近代史不是要上网挂时间做题嘛？我全部搞完了
+  * [11文社院周庭望](https://user.qzone.qq.com/598417448)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 牛逼
+* [赵琛](https://user.qzone.qq.com/664503485)：给力
 
 ---
-> 2012-04-09 20:54:22
 
+> 2012-04-09 20:54:22
 
 10分钟OK掉好几个近代史时间的感觉好爽啊！！
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-04-07 18:39:29
 
+> 2012-04-07 18:39:29
 
 李园超市有生鸡蛋卖吗？想试一下烧水棒煮鸡蛋味道
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-04-04 17:17:30
 
+> 2012-04-04 17:17:30
 
 南山很好玩,南山车好多,南山车难等...
 
 > 评论(2)
 
-
-*  [颜平](https://user.qzone.qq.com/1055024194)：我说，你是不是反应慢好多拍啊。如果情报没错你们应该是昨天去的南山吧。。呵呵呵呵呵~
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：额,我的心情没有及时更新的习惯,都是临时想起才改的......而且昨天好累啊,脑子的糊涂了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e107.gif)
-*  [颜平](https://user.qzone.qq.com/1055024194)：还有还有。。我觉得园博园也不错哦。门票还便宜点儿…
-
+* [颜平](https://user.qzone.qq.com/1055024194)：我说，你是不是反应慢好多拍啊。如果情报没错你们应该是昨天去的南山吧。。呵呵呵呵呵~
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：额,我的心情没有及时更新的习惯,都是临时想起才改的......而且昨天好累啊,脑子的糊涂了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e107.gif)
+* [颜平](https://user.qzone.qq.com/1055024194)：还有还有。。我觉得园博园也不错哦。门票还便宜点儿…
 
 ---
-### 3月
-> 2012-03-20 11:15:21
 
+### 3月
+
+> 2012-03-20 11:15:21
 
 3.20收到小米了！
 
 > 评论(1)
 
-
-*  [王英文](https://user.qzone.qq.com/446566587)：小米怎么样？我试过系统，还可以
-
+* [王英文](https://user.qzone.qq.com/446566587)：小米怎么样？我试过系统，还可以
 
 ---
-> 2012-03-17 16:27:28
 
+> 2012-03-17 16:27:28
 
 今天最大的成就就是sfc抢到了一台小米手机！千难万难啊！
 
 > 评论(2)
 
-
-*  [昌洪](https://user.qzone.qq.com/512417848)：你要买不成？？再倒卖？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：帮别人抢的……本来计划要抢2台的 但是太卡了抢不到
-*  [颜平](https://user.qzone.qq.com/1055024194)：是是是。。。呵呵呵呵。。。你们太搞笑了
-
+* [昌洪](https://user.qzone.qq.com/512417848)：你要买不成？？再倒卖？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：帮别人抢的……本来计划要抢2台的 但是太卡了抢不到
+* [颜平](https://user.qzone.qq.com/1055024194)：是是是。。。呵呵呵呵。。。你们太搞笑了
 
 ---
-> 2012-03-12 22:04:52
 
+> 2012-03-12 22:04:52
 
 周六去江边玩摔惨了……倒不是疼，是好的太快结痂这阵子走路不方便……
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-03-06 21:49:18
 
+> 2012-03-06 21:49:18
 
 电信二班的男生都说：咱们班的女生是最可爱的~祝电信二班的美女们节日快乐！
 
 > 评论(2)
 
-
-*  [胡喆英](https://user.qzone.qq.com/1025682220)：电信二班的帅哥们永远快乐~![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e121.gif)
-*  [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：哇咔！
-
+* [胡喆英](https://user.qzone.qq.com/1025682220)：电信二班的帅哥们永远快乐~![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e121.gif)
+* [☆刘丹 Ⅱ](https://user.qzone.qq.com/675851591)：哇咔！
 
 ---
-> 2012-03-01 23:09:47
 
+> 2012-03-01 23:09:47
 
 android蓝牙遥控小车实现完美开动！
 
 > 评论(0)
 
-
-
-
 ---
-### 2月
-> 2012-02-28 00:11:20
 
+### 2月
+
+> 2012-02-28 00:11:20
 
 现在我也用上linux的kubuntu啦！
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-02-25 19:02:02
 
+> 2012-02-25 19:02:02
 
 英文版一千零一夜很好很强大！古英语都出来了！
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-02-23 18:07:58
 
+> 2012-02-23 18:07:58
 
 原本以为必挂的四级竟然过了！
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-02-18 19:59:16
 
+> 2012-02-18 19:59:16
 
 蓝牙小车终于能够真正意义上的遥控了！就是转弯速度很慢啊！
 
 > 评论(2)
 
-
-*  [符式酉](https://user.qzone.qq.com/1164025818)：你什么专业啊，还弄
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：班主任布置的电子小制作，学电气信息专业
-*  [符式酉](https://user.qzone.qq.com/1164025818)：小车
-
+* [符式酉](https://user.qzone.qq.com/1164025818)：你什么专业啊，还弄
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：班主任布置的电子小制作，学电气信息专业
+* [符式酉](https://user.qzone.qq.com/1164025818)：小车
 
 ---
-> 2012-02-16 20:35:05
 
+> 2012-02-16 20:35:05
 
 终于到寝室了！
 
 > 评论(1)
 
-
-*  [赵琛](https://user.qzone.qq.com/664503485)：不容易吖～
-
+* [赵琛](https://user.qzone.qq.com/664503485)：不容易吖～
 
 ---
-> 2012-02-15 19:38:15
 
+> 2012-02-15 19:38:15
 
 md！现在才知道坐错车厢了！幸好不是坐错车！
 
 > 评论(3)
 
-
-*  [11数学周雅璐](https://user.qzone.qq.com/852489490)：您还真幸运！！
-*  [赵琛](https://user.qzone.qq.com/664503485)：0.0给力~
-*  [林升腾](https://user.qzone.qq.com/324003110)：作错人了
-
+* [11数学周雅璐](https://user.qzone.qq.com/852489490)：您还真幸运！！
+* [赵琛](https://user.qzone.qq.com/664503485)：0.0给力~
+* [林升腾](https://user.qzone.qq.com/324003110)：作错人了
 
 ---
-> 2012-02-15 15:39:51
 
+> 2012-02-15 15:39:51
 
 在候车室等4点40的火车！
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-02-13 21:05:19
 
+> 2012-02-13 21:05:19
 
 15号回学校！又要一次26个小时的车程
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-02-08 15:38:40
 
+> 2012-02-08 15:38:40
 
 回到湛江都已经2天了 都忘了告诉你们了……一个人在家好无聊啊 有谁跟我出去玩玩的？
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-02-07 15:56:20
 
+> 2012-02-07 15:56:20
 
 在0xfc的帮助下终于学会了一点adb shell命令……代码果然真是个好东西啊 COPY终于不会断了！
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-02-04 17:56:08
 
+> 2012-02-04 17:56:08
 
 本来闲着无聊想试着做galaxy nexus的MIUI机型适配工作的，但是看了一点直接放弃了……太难了
 
 > 评论(2)
 
-
-*  [龙瑰藏](https://user.qzone.qq.com/407610752)：什么东西来着
-*  [赵琛](https://user.qzone.qq.com/664503485)：完全不懂。。。太高端了～
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵琛](https://user.qzone.qq.com/664503485) 呃 那个是手机的……你不玩手机肯定不懂啦 呵呵
-	* [赵琛](https://user.qzone.qq.com/664503485)：[@ArthurFSY](https://user.qzone.qq.com/254904240) の，，，，，，，，
-
+* [龙瑰藏](https://user.qzone.qq.com/407610752)：什么东西来着
+* [赵琛](https://user.qzone.qq.com/664503485)：完全不懂。。。太高端了～
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@赵琛](https://user.qzone.qq.com/664503485) 呃 那个是手机的……你不玩手机肯定不懂啦 呵呵
+  * [赵琛](https://user.qzone.qq.com/664503485)：[@ArthurFSY](https://user.qzone.qq.com/254904240) の，，，，，，，，
 
 ---
-> 2012-02-02 14:28:34
 
+> 2012-02-02 14:28:34
 
 galaxy nexus真不错！可以用otg再接鼠标……nfc做在电池上面 就有点搞笑了……
 
 > 评论(0)
 
-
-
-
 ---
-### 1月
-> 2012-01-29 21:49:25
 
+### 1月
+
+> 2012-01-29 21:49:25
 
 玩了5年的梦幻号终于卖了！
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-01-22 14:30:34
 
+> 2012-01-22 14:30:34
 
 祝大家新年快乐 早生贵子……
 
 > 评论(4)
 
-
-*  [颜平](https://user.qzone.qq.com/1055024194)：不会吧\~\~
-*  [陈小南](https://user.qzone.qq.com/549599146)：哈哈，早生贵子？太搞乐了。
-*  [王露](https://user.qzone.qq.com/827018764)：猥琐支书……
-*  [赵琛](https://user.qzone.qq.com/664503485)：你先生—个吧～
-
+* [颜平](https://user.qzone.qq.com/1055024194)：不会吧\~\~
+* [陈小南](https://user.qzone.qq.com/549599146)：哈哈，早生贵子？太搞乐了。
+* [王露](https://user.qzone.qq.com/827018764)：猥琐支书……
+* [赵琛](https://user.qzone.qq.com/664503485)：你先生—个吧～
 
 ---
-> 2012-01-21 13:44:21
 
+> 2012-01-21 13:44:21
 
 福尔摩斯2果然是靠基情戏为卖点
 
 > 评论(3)
 
-
-*  [吉训智](https://user.qzone.qq.com/1036715270)：最后一集的基情感动了大家……
-*  [王露](https://user.qzone.qq.com/827018764)：支书你还在海南啊？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@王露](https://user.qzone.qq.com/827018764) 我一直在的……我老家在琼山啊
-*  [徐智翔](https://user.qzone.qq.com/253156760)：你和小玉一起看的？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：呃 是啊
-
+* [吉训智](https://user.qzone.qq.com/1036715270)：最后一集的基情感动了大家……
+* [王露](https://user.qzone.qq.com/827018764)：支书你还在海南啊？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@王露](https://user.qzone.qq.com/827018764) 我一直在的……我老家在琼山啊
+* [徐智翔](https://user.qzone.qq.com/253156760)：你和小玉一起看的？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：呃 是啊
 
 ---
-> 2012-01-19 16:19:47
 
+> 2012-01-19 16:19:47
 
 最近好看的电影好多啊
 
 > 评论(1)
 
-
-*  [11数学周雅璐](https://user.qzone.qq.com/852489490)：啥电影好看啊？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@11数学周雅璐](https://user.qzone.qq.com/852489490) 福尔摩斯2不错！
-
+* [11数学周雅璐](https://user.qzone.qq.com/852489490)：啥电影好看啊？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@11数学周雅璐](https://user.qzone.qq.com/852489490) 福尔摩斯2不错！
 
 ---
-> 2012-01-18 22:37:58
 
+> 2012-01-18 22:37:58
 
 今天B哥喝的不省人事……
 
 > 评论(1)
 
-
-*  [王露](https://user.qzone.qq.com/827018764)：被他看到你就完了-_-||
-	* [蓝培文](https://user.qzone.qq.com/514591062)：为什么？
-	* [王露](https://user.qzone.qq.com/827018764)：抽你们啊
-
+* [王露](https://user.qzone.qq.com/827018764)：被他看到你就完了-_-||
+  * [蓝培文](https://user.qzone.qq.com/514591062)：为什么？
+  * [王露](https://user.qzone.qq.com/827018764)：抽你们啊
 
 ---
-> 2012-01-18 16:54:38
 
+> 2012-01-18 16:54:38
 
 看看今天晚上聚会能看到谁？
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-01-18 09:25:58
 
+> 2012-01-18 09:25:58
 
 在医院睡了一个晚上 累爆了……
 
 > 评论(2)
 
-
-*  [颜平](https://user.qzone.qq.com/1055024194)：好好休息哦…加油
-昨天看到你的上条说说，想陪你聊会儿天儿的，结果你下了
-*  [码路](https://user.qzone.qq.com/2283758339)：呵呵，我已经在医院陪了我婆婆十个晚上了！
-
+* [颜平](https://user.qzone.qq.com/1055024194)：好好休息哦…加油
+  昨天看到你的上条说说，想陪你聊会儿天儿的，结果你下了
+* [码路](https://user.qzone.qq.com/2283758339)：呵呵，我已经在医院陪了我婆婆十个晚上了！
 
 ---
-> 2012-01-17 21:50:55
 
+> 2012-01-17 21:50:55
 
 爷爷生病了 今天晚上要去医院守夜……长夜漫漫啊 有人跟我聊天不？
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-01-16 17:18:32
 
+> 2012-01-16 17:18:32
 
 家里1M/S的网速就是爽……
 
 > 评论(1)
 
-
-*  [吕方](https://user.qzone.qq.com/664882496)：为什么这么快啊
-
+* [吕方](https://user.qzone.qq.com/664882496)：为什么这么快啊
 
 ---
-> 2012-01-16 09:34:58
 
+> 2012-01-16 09:34:58
 
 今天中午回海南咯
 
 > 评论(2)
 
-
-*  [11文社院周庭望](https://user.qzone.qq.com/598417448)：终于回来了。。。
-*  [颜平](https://user.qzone.qq.com/1055024194)：，回去好好玩
-
+* [11文社院周庭望](https://user.qzone.qq.com/598417448)：终于回来了。。。
+* [颜平](https://user.qzone.qq.com/1055024194)：，回去好好玩
 
 ---
-> 2012-01-10 17:15:54
 
+> 2012-01-10 17:15:54
 
 电路刚好61 总评67……看来还是没有努力学
 
 > 评论(2)
 
+* [罗东阳](https://user.qzone.qq.com/270747970)：什么专业？大一就学电路了？
 
-*  [罗东阳](https://user.qzone.qq.com/270747970)：什么专业？大一就学电路了？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：电气信息咯，专业第一本书就是电路哦
-	* [罗东阳](https://user.qzone.qq.com/270747970)：哦，原来如此
-*  [李敬玄](https://user.qzone.qq.com/707212294)：怎么查成绩
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：电气信息咯，专业第一本书就是电路哦
+  * [罗东阳](https://user.qzone.qq.com/270747970)：哦，原来如此
+* [李敬玄](https://user.qzone.qq.com/707212294)：怎么查成绩
 
-
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：在学校网站上面下载个VPN
-
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：在学校网站上面下载个VPN
 
 ---
-> 2012-01-07 18:35:18
 
+> 2012-01-07 18:35:18
 
 保佑我电路及格啊……高数期末才62……总感觉凶多吉少……
 
 > 评论(2)
 
-
-*  [yellowlight](https://user.qzone.qq.com/526436052)：62是卷面分还是最后综合分
-*  [颜平](https://user.qzone.qq.com/1055024194)：嗯嗯 加油  呵呵相信你
-
+* [yellowlight](https://user.qzone.qq.com/526436052)：62是卷面分还是最后综合分
+* [颜平](https://user.qzone.qq.com/1055024194)：嗯嗯 加油  呵呵相信你
 
 ---
-> 2012-01-07 18:17:27
 
+> 2012-01-07 18:17:27
 
 成绩能看了！不过要VPN而且卡里还得有钱……
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-01-06 11:07:37
 
+> 2012-01-06 11:07:37
 
 现在收拾东西 下午坐火车
 
 > 评论(0)
 
-
-
-
 ---
-> 2012-01-02 22:02:37
 
+> 2012-01-02 22:02:37
 
 1.5号电路是重头戏……
 
 > 评论(0)
 
-
-
-
 ---
-## 2011年
-### 12月
-> 2011-12-28 17:05:48
 
+## 2011年
+
+### 12月
+
+> 2011-12-28 17:05:48
 
 花了一个小时终于在网上买到火车票了……
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-12-17 13:04:17
 
+> 2011-12-17 13:04:17
 
 四级已挂……
 
 > 评论(1)
 
-
-*  [胡喆英](https://user.qzone.qq.com/1025682220)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)一样的啦
-
+* [胡喆英](https://user.qzone.qq.com/1025682220)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e127.gif)一样的啦
 
 ---
-> 2011-12-16 21:37:00
 
+> 2011-12-16 21:37:00
 
 明天英语4级了啊……
 
 > 评论(1)
 
-
-*  [11数学周雅璐](https://user.qzone.qq.com/852489490)：你今天又无视我了。。。。。。八教一楼。。。
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@11数学周雅璐](https://user.qzone.qq.com/852489490) ……真的吗……真的没看到你也 太太太sorry了……（都怪听力的试音让我太集中了哈）
-	* [11数学周雅璐](https://user.qzone.qq.com/852489490)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 我都叫了。。。但是你还是直接很速度地飘过去了。。。。当时就无语了。。。。
-
-
+* [11数学周雅璐](https://user.qzone.qq.com/852489490)：你今天又无视我了。。。。。。八教一楼。。。
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@11数学周雅璐](https://user.qzone.qq.com/852489490) ……真的吗……真的没看到你也 太太太sorry了……（都怪听力的试音让我太集中了哈）
+  * [11数学周雅璐](https://user.qzone.qq.com/852489490)：[@ArthurFSY](https://user.qzone.qq.com/254904240) 我都叫了。。。但是你还是直接很速度地飘过去了。。。。当时就无语了。。。。
 
 ---
-> 2011-12-13 16:39:38
 
+> 2011-12-13 16:39:38
 
 四级考试不想裸考啊……
 
 > 评论(2)
 
-
-*  [颜平](https://user.qzone.qq.com/1055024194)：所以啊，就好好准备，让它再敢欺负我们！嘿嘿…加油加油啊！
-*  [蓝培文](https://user.qzone.qq.com/514591062)：穿得越少考得越好啊…
-
+* [颜平](https://user.qzone.qq.com/1055024194)：所以啊，就好好准备，让它再敢欺负我们！嘿嘿…加油加油啊！
+* [蓝培文](https://user.qzone.qq.com/514591062)：穿得越少考得越好啊…
 
 ---
-> 2011-12-10 11:44:53
 
+> 2011-12-10 11:44:53
 
 终于考完军事和党校了！
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-12-06 19:35:39
 
+> 2011-12-06 19:35:39
 
 该死的军事理论！！！妹的要背书啊！！
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-12-05 22:37:21
 
+> 2011-12-05 22:37:21
 
 体育考试三步上篮竟然5个中了3个！
 
 > 评论(3)
 
-
-*  [冯杰](https://user.qzone.qq.com/1584438972)：狗屎踩多了
-*  [忘却の旋律](https://user.qzone.qq.com/610149025)：三步不是走步了吗。。
-*  [林小丁](https://user.qzone.qq.com/375315065)：←_←
-
+* [冯杰](https://user.qzone.qq.com/1584438972)：狗屎踩多了
+* [忘却の旋律](https://user.qzone.qq.com/610149025)：三步不是走步了吗。。
+* [林小丁](https://user.qzone.qq.com/375315065)：←_←
 
 ---
-### 11月
-> 2011-11-01 19:39:35
 
+### 11月
+
+> 2011-11-01 19:39:35
 
 最近人品大爆发
 
 > 评论(2)
 
-
-*  [11文社院周庭望](https://user.qzone.qq.com/598417448)：咋了？
-*  [林小丁](https://user.qzone.qq.com/375315065)：我要生日了。。
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：哦？！提前祝你生日快乐！
-	* [林小丁](https://user.qzone.qq.com/375315065)：不要。。。自己打电话。。。18345069823不要客气
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：啥时候生日啊……
-	* [林小丁](https://user.qzone.qq.com/375315065)：今天！！！
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：我今天晚上要上高数啊…下课后打给你
-
+* [11文社院周庭望](https://user.qzone.qq.com/598417448)：咋了？
+* [林小丁](https://user.qzone.qq.com/375315065)：我要生日了。。
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：哦？！提前祝你生日快乐！
+  * [林小丁](https://user.qzone.qq.com/375315065)：不要。。。自己打电话。。。18345069823不要客气
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：啥时候生日啊……
+  * [林小丁](https://user.qzone.qq.com/375315065)：今天！！！
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：我今天晚上要上高数啊…下课后打给你
 
 ---
-### 10月
-> 2011-10-23 19:27:00
 
+### 10月
+
+> 2011-10-23 19:27:00
 
 历时2个月的荨麻疹终于痊愈！
 
 > 评论(1)
 
-
-*  [吉训智](https://user.qzone.qq.com/1036715270)：支书同苦啊T T高二我因此痛苦了一个学期！
-	* [蓝培文](https://user.qzone.qq.com/514591062)：没印象啊…
-
+* [吉训智](https://user.qzone.qq.com/1036715270)：支书同苦啊T T高二我因此痛苦了一个学期！
+  * [蓝培文](https://user.qzone.qq.com/514591062)：没印象啊…
 
 ---
-> 2011-10-02 11:05:45
 
+> 2011-10-02 11:05:45
 
 机场的WIFI还是挺快的~
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-10-01 12:08:09
 
+> 2011-10-01 12:08:09
 
 2号回海南……
 
 > 评论(0)
 
-
-
-
 ---
-### 9月
-> 2011-09-16 09:47:40
 
+### 9月
+
+> 2011-09-16 09:47:40
 
 该死的水土不服……
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-09-11 22:56:46
 
+> 2011-09-11 22:56:46
 
 各位中秋节快乐！
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-09-09 18:55:25
 
+> 2011-09-09 18:55:25
 
 惨了！！全身过敏！怎么办啊
 
 > 评论(1)
 
-
-*  [蓝培文](https://user.qzone.qq.com/514591062)：那不用军训好啊
-
+* [蓝培文](https://user.qzone.qq.com/514591062)：那不用军训好啊
 
 ---
-> 2011-09-08 09:49:35
 
+> 2011-09-08 09:49:35
 
 今天好爽！站军姿不到20分钟就下雨了 直接回寝室
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-09-03 13:11:30
 
+> 2011-09-03 13:11:30
 
 终于可以在宿舍上网了！！！！
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-09-03 13:11:21
 
+> 2011-09-03 13:11:21
 
 终于可以在上网了！！！！
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-09-03 01:32:41
 
+> 2011-09-03 01:32:41
 
 热的无法入睡！
 
 > 评论(1)
 
-
-*  [吴璐瑶](https://user.qzone.qq.com/289992322)：我也是啊
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：重庆是又闷又热啊！我都不知道是怎么睡熟的 今天早上6点又被热醒了……
-
+* [吴璐瑶](https://user.qzone.qq.com/289992322)：我也是啊
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：重庆是又闷又热啊！我都不知道是怎么睡熟的 今天早上6点又被热醒了……
 
 ---
-> 2011-09-02 14:48:23
 
+> 2011-09-02 14:48:23
 
 看到宿舍环境我就绝望了……有种回到解放前的错觉……
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-09-02 10:15:34
 
+> 2011-09-02 10:15:34
 
 到重庆啦
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-09-02 07:50:46
 
+> 2011-09-02 07:50:46
 
 妹的什么素质 在机场插队！差点误机了
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-09-02 06:07:27
 
+> 2011-09-02 06:07:27
 
 今天5:40就自然醒了 我太激动了吗？
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-09-01 21:16:12
 
+> 2011-09-01 21:16:12
 
 明天6点起床赶飞机
 
 > 评论(1)
 
-
-*  [蓝培文](https://user.qzone.qq.com/514591062)：我五点…-_-
-
+* [蓝培文](https://user.qzone.qq.com/514591062)：我五点…-_-
 
 ---
-### 8月
-> 2011-08-31 15:01:34
 
+### 8月
+
+> 2011-08-31 15:01:34
 
 2号就要到了
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-08-29 09:40:45
 
+> 2011-08-29 09:40:45
 
 还有4天就去学校了
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-08-25 11:50:29
 
+> 2011-08-25 11:50:29
 
 好困啊……睡到现在
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-08-25 00:51:13
 
+> 2011-08-25 00:51:13
 
 终于到海安了！！还有2小时啊到海南……
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-08-24 19:30:27
 
+> 2011-08-24 19:30:27
 
 啊啊啊！要坐10个小时的长途车啊！
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-08-22 16:15:00
 
+> 2011-08-22 16:15:00
 
 澳门大学教学楼真像迷宫！而且在山坡上，如果在这里上学我会累死的……
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-08-20 08:34:24
 
+> 2011-08-20 08:34:24
 
 等等做飞机去珠海啦
 
 > 评论(1)
 
-
-*  [陈玉琳](https://user.qzone.qq.com/414040776)：去珠海？？我未来的地盘！！
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：[@陈玉琳](https://user.qzone.qq.com/414040776) 毕业啦，珠海还是你的地盘吗![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e120.gif) 我现在在深圳
-
+* [陈玉琳](https://user.qzone.qq.com/414040776)：去珠海？？我未来的地盘！！
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：[@陈玉琳](https://user.qzone.qq.com/414040776) 毕业啦，珠海还是你的地盘吗![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e120.gif) 我现在在深圳
 
 ---
-> 2011-08-19 17:25:06
 
+> 2011-08-19 17:25:06
 
 仙剑5出语音包啦
 
 > 评论(2)
 
-
-*  [陈忠能](https://user.qzone.qq.com/741214356)：哪时候？！我怎么不知道？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：今天的事情 语音包有点大呢 1.8G我1M/s的速度都下载半个小时了
-*  [陈忠能](https://user.qzone.qq.com/741214356)：去哪下？
-
+* [陈忠能](https://user.qzone.qq.com/741214356)：哪时候？！我怎么不知道？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：今天的事情 语音包有点大呢 1.8G我1M/s的速度都下载半个小时了
+* [陈忠能](https://user.qzone.qq.com/741214356)：去哪下？
 
 ---
-> 2011-08-12 12:50:20
 
+> 2011-08-12 12:50:20
 
 晒一下报名时间？我是2 号去 各位呢？
 
 > 评论(5)
 
-
-*  [陈玉琳](https://user.qzone.qq.com/414040776)：我也是…
-*  [王露](https://user.qzone.qq.com/827018764)：3号
-*  [吴璐瑶](https://user.qzone.qq.com/289992322)：我2号
-*  [蓝培文](https://user.qzone.qq.com/514591062)：2号。。各种二
-*  [陈忠能](https://user.qzone.qq.com/741214356)：三号
-
+* [陈玉琳](https://user.qzone.qq.com/414040776)：我也是…
+* [王露](https://user.qzone.qq.com/827018764)：3号
+* [吴璐瑶](https://user.qzone.qq.com/289992322)：我2号
+* [蓝培文](https://user.qzone.qq.com/514591062)：2号。。各种二
+* [陈忠能](https://user.qzone.qq.com/741214356)：三号
 
 ---
-> 2011-08-02 17:02:06
 
+> 2011-08-02 17:02:06
 
 仙山遥遥，于何处始登？玉人倩倩，于何时续缘？
 
 > 评论(1)
 
-
-*  [kevin](https://user.qzone.qq.com/381853160)：我已经爆机嗲嗲
-
+* [kevin](https://user.qzone.qq.com/381853160)：我已经爆机嗲嗲
 
 ---
-### 7月
-> 2011-07-31 23:08:06
 
+### 7月
+
+> 2011-07-31 23:08:06
 
 上大学我要学跑酷！
 
 > 评论(2)
 
-
-*  [蓝培文](https://user.qzone.qq.com/514591062)：抛裤…
-*  [王露](https://user.qzone.qq.com/827018764)：珍惜生命。
-
+* [蓝培文](https://user.qzone.qq.com/514591062)：抛裤…
+* [王露](https://user.qzone.qq.com/827018764)：珍惜生命。
 
 ---
-> 2011-07-25 09:18:47
 
+> 2011-07-25 09:18:47
 
 求组去厦门…
 
 > 评论(1)
 
-
-*  [Heart Rain](https://user.qzone.qq.com/1038112424)：撒时间动身
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：还没定呢
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：你是？
-	* [Heart Rain](https://user.qzone.qq.com/1038112424)：刘飞
-
+* [Heart Rain](https://user.qzone.qq.com/1038112424)：撒时间动身
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：还没定呢
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：你是？
+  * [Heart Rain](https://user.qzone.qq.com/1038112424)：刘飞
 
 ---
-> 2011-07-24 11:06:20
 
+> 2011-07-24 11:06:20
 
 通知书到了
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-07-19 10:38:40
 
+> 2011-07-19 10:38:40
 
 It's time to have a real name
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-07-18 15:07:09
 
+> 2011-07-18 15:07:09
 
 我回来啦\~\~
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-07-17 16:53:50
 
+> 2011-07-17 16:53:50
 
 明天我应该就回海南咯！
 
 > 评论(2)
 
-
-*  [吴璐瑶](https://user.qzone.qq.com/289992322)：这么快啊？
-*  [哲](https://user.qzone.qq.com/648958581)：一路平安啊粉粉~
-
+* [吴璐瑶](https://user.qzone.qq.com/289992322)：这么快啊？
+* [哲](https://user.qzone.qq.com/648958581)：一路平安啊粉粉~
 
 ---
-> 2011-07-15 00:41:34
 
+> 2011-07-15 00:41:34
 
 我回到湛江已经几天咯！有人想跟我聚一下的不？
 
 > 评论(4)
 
-
-*  [吴璐瑶](https://user.qzone.qq.com/289992322)：随时欢迎
-*  [08暑假和你游泳的](https://user.qzone.qq.com/546866063)：在哪？
-*  [董森](https://user.qzone.qq.com/459904365)：哟哟哟！
-*  [陈诗鹏](https://user.qzone.qq.com/1040724714)：在哪里啊你？出来聚聚！13421745952
-
+* [吴璐瑶](https://user.qzone.qq.com/289992322)：随时欢迎
+* [08暑假和你游泳的](https://user.qzone.qq.com/546866063)：在哪？
+* [董森](https://user.qzone.qq.com/459904365)：哟哟哟！
+* [陈诗鹏](https://user.qzone.qq.com/1040724714)：在哪里啊你？出来聚聚！13421745952
 
 ---
-> 2011-07-14 12:13:54
 
+> 2011-07-14 12:13:54
 
 猥琐留给好友，体贴留给女友，尊敬留给父母。
 
 > 评论(2)
 
-
-*  [徐智翔](https://user.qzone.qq.com/253156760)：体贴留给猥琐，女友留给好友。
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：功力高深……
-*  [王露](https://user.qzone.qq.com/827018764)：传说中的重色轻友。。
-
+* [徐智翔](https://user.qzone.qq.com/253156760)：体贴留给猥琐，女友留给好友。
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：功力高深……
+* [王露](https://user.qzone.qq.com/827018764)：传说中的重色轻友。。
 
 ---
-> 2011-07-13 18:18:19
 
+> 2011-07-13 18:18:19
 
 刚刚跟我妈和她的同事去唱k，我当观众…
 
 > 评论(1)
 
-
-*  [杨昭桦](https://user.qzone.qq.com/476249516)：是看...
-
+* [杨昭桦](https://user.qzone.qq.com/476249516)：是看...
 
 ---
-> 2011-07-12 00:14:29
 
+> 2011-07-12 00:14:29
 
 回来啦！睡到半夜12点竟然醒了？！无聊寂寞空虚冷中
 
 > 评论(1)
 
-
-*  [杨昭桦](https://user.qzone.qq.com/476249516)：学我讲话...鄙视你凸~-~凸
-
+* [杨昭桦](https://user.qzone.qq.com/476249516)：学我讲话...鄙视你凸~-~凸
 
 ---
-> 2011-07-10 00:28:34
 
+> 2011-07-10 00:28:34
 
 刚刚到江西省上饶市 明天6点出发去武夷山
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-07-09 10:34:21
 
+> 2011-07-09 10:34:21
 
 why does everything have to be dirty with me??
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-07-09 10:18:10
 
+> 2011-07-09 10:18:10
 
 我在做火车…
 
 > 评论(2)
 
-
-*  [蓝培文](https://user.qzone.qq.com/514591062)：原来你还会造火车哇…
-*  [ArthurFSY](https://user.qzone.qq.com/254904240)：打错了…是坐… 芒露看了这句话说我龌龊…
-	* [蓝培文](https://user.qzone.qq.com/514591062)：不是龌龊，是猥琐= =
-
+* [蓝培文](https://user.qzone.qq.com/514591062)：原来你还会造火车哇…
+* [ArthurFSY](https://user.qzone.qq.com/254904240)：打错了…是坐… 芒露看了这句话说我龌龊…
+  * [蓝培文](https://user.qzone.qq.com/514591062)：不是龌龊，是猥琐= =
 
 ---
-> 2011-07-07 14:16:40
 
+> 2011-07-07 14:16:40
 
 今天回广东 消失几天…仙剑5都没来得及玩了…
 
 > 评论(1)
 
-
-*  [08暑假和你游泳的](https://user.qzone.qq.com/546866063)：湛江？
-
+* [08暑假和你游泳的](https://user.qzone.qq.com/546866063)：湛江？
 
 ---
-> 2011-07-06 12:42:06
 
+> 2011-07-06 12:42:06
 
 仙剑5数字版放出了！！音乐非常好听！！
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-07-05 00:03:40
 
+> 2011-07-05 00:03:40
 
 尼玛 考试局你难产了啊！！打不开你伤不起啊！我洗洗睡了 别让我明天报考不了！！！
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-07-01 19:50:25
 
+> 2011-07-01 19:50:25
 
 还有一个星期仙剑5就发售啦！
 
 > 评论(0)
 
-
-
-
 ---
-### 6月
-> 2011-06-27 09:39:19
 
+### 6月
+
+> 2011-06-27 09:39:19
 
 尼玛啊 全国就3个省的分数线没出……
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-06-25 16:54:55
 
+> 2011-06-25 16:54:55
 
 分数出来了……不包会考631 fuck!
 
 > 评论(3)
 
-
-*  [董森](https://user.qzone.qq.com/459904365)：高考分数？
-	* [08暑假和你游泳的](https://user.qzone.qq.com/546866063)：海南今天出啊，哎，我们等明天下午吧
-	* [董森](https://user.qzone.qq.com/459904365)：噢噢
-*  [ArthurFSY](https://user.qzone.qq.com/254904240)：悲催啊……我都想哭了
-*  [陈诗鹏](https://user.qzone.qq.com/1040724714)：那么高！
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：大哥 这里是标准分的 一本录取分数线是620分-630分（去年的）
-
+* [董森](https://user.qzone.qq.com/459904365)：高考分数？
+  * [08暑假和你游泳的](https://user.qzone.qq.com/546866063)：海南今天出啊，哎，我们等明天下午吧
+  * [董森](https://user.qzone.qq.com/459904365)：噢噢
+* [ArthurFSY](https://user.qzone.qq.com/254904240)：悲催啊……我都想哭了
+* [陈诗鹏](https://user.qzone.qq.com/1040724714)：那么高！
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：大哥 这里是标准分的 一本录取分数线是620分-630分（去年的）
 
 ---
-> 2011-06-22 19:25:31
 
+> 2011-06-22 19:25:31
 
 仙剑5最新消息！[http://games.qq.com/a/20110622/000357.htm##p=7](http://games.qq.com/a/20110622/000357.htm##p=7)
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-06-19 21:34:40
 
+> 2011-06-19 21:34:40
 
 尼玛呀 难怪我抢不到预售！！那天27W人同时F5狂刷新百游官网啊！！难怪服务器爆了……
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-06-19 18:08:01
 
+> 2011-06-19 18:08:01
 
 7月7日 仙剑5 我来啦\~\~~ 豪华版啊买不到……怨念……
 
 > 评论(1)
 
-
-*  [陈忠能](https://user.qzone.qq.com/741214356)：已经出了？
-
+* [陈忠能](https://user.qzone.qq.com/741214356)：已经出了？
 
 ---
-> 2011-06-17 11:44:55
 
+> 2011-06-17 11:44:55
 
 尼玛 代理仙剑5的垃圾百游！！坑爹啊 ！！抢预售抢2天了啊！！F5都按烂了！！
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-06-17 10:24:04
 
+> 2011-06-17 10:24:04
 
 哈哈哈 一个月69块联通3G卡前3个月每月送500M流量！而且还有100块话费！每个月还返还10块！
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-06-15 20:06:33
 
+> 2011-06-15 20:06:33
 
 啊啊啊！！说原来的作废了……一个月不一个月
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-06-15 16:48:59
 
+> 2011-06-15 16:48:59
 
 啊啊啊！！！找了几个月的通行证今天突然找到了！！！叫我情何以堪啊！！可以取消举办不！！
 
 > 评论(2)
 
-
-*  [徐智翔](https://user.qzone.qq.com/253156760)：哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
-*  [王露](https://user.qzone.qq.com/827018764)：你是有多虽……
-
+* [徐智翔](https://user.qzone.qq.com/253156760)：哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+* [王露](https://user.qzone.qq.com/827018764)：你是有多虽……
 
 ---
-> 2011-06-14 19:00:15
 
+> 2011-06-14 19:00:15
 
 妹的 港澳通行证丢了今天去补办个半天通知我一个月后拿…
 
 > 评论(2)
 
-
-*  [08暑假和你游泳的](https://user.qzone.qq.com/546866063)：跟无奈咯
-*  [王露](https://user.qzone.qq.com/827018764)：那不是去不了了么………………
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：是啊…本来想去看×蒲团的……
-	* [王露](https://user.qzone.qq.com/827018764)：替……猥琐
-
+* [08暑假和你游泳的](https://user.qzone.qq.com/546866063)：跟无奈咯
+* [王露](https://user.qzone.qq.com/827018764)：那不是去不了了么………………
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：是啊…本来想去看×蒲团的……
+  * [王露](https://user.qzone.qq.com/827018764)：替……猥琐
 
 ---
-### 5月
-> 2011-05-22 18:33:19
 
+### 5月
+
+> 2011-05-22 18:33:19
 
 第十次月考的英语听力无比坑爹……
 
 > 评论(0)
 
-
-
-
 ---
-### 3月
-> 2011-03-19 08:09:42
 
+### 3月
+
+> 2011-03-19 08:09:42
 
 好人品啊！！打了140的项链书！！
 
 > 评论(0)
 
-
-
-
 ---
-### 2月
-> 2011-02-27 00:27:37
 
+### 2月
+
+> 2011-02-27 00:27:37
 
 哈哈！！！跑环得了130的铠甲书啊
 
 > 评论(2)
 
-
-*  [十个手指头](https://user.qzone.qq.com/404432331)：狗日类
-*  [ 小宋](https://user.qzone.qq.com/327955508)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e114.gif)自己打
-
+* [十个手指头](https://user.qzone.qq.com/404432331)：狗日类
+* [ 小宋](https://user.qzone.qq.com/327955508)：![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e114.gif)自己打
 
 ---
-> 2011-02-05 21:49:35
 
+> 2011-02-05 21:49:35
 
 玩梦幻放烟花的时候竟然得了个彩果！
 
 > 评论(0)
 
-
-
-
 ---
-### 1月
-> 2011-01-02 11:27:36
 
+### 1月
+
+> 2011-01-02 11:27:36
 
 祝大家新年快乐~
 
 > 评论(0)
 
-
-
-
 ---
-> 2011-01-01 22:53:22
 
+> 2011-01-01 22:53:22
 
 祝大家新年快乐~昨天喝得很H!
 
 > 评论(1)
 
-
-*  [符式酉](https://user.qzone.qq.com/1164025818)：现在还后怕
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：怕什么……都是我扛你回去的
-
+* [符式酉](https://user.qzone.qq.com/1164025818)：现在还后怕
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：怕什么……都是我扛你回去的
 
 ---
-## 2010年
-### 11月
-> 2010-11-28 14:10:10
 
+## 2010年
+
+### 11月
+
+> 2010-11-28 14:10:10
 
 好悲剧啊
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-11-27 21:44:06
 
+> 2010-11-27 21:44:06
 
 好高兴啊 跑环跑出120项链书！
 
 > 评论(2)
 
+* ：120的就激动的不行了…哎要是140的咋办？
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：额 跑了2000环就没得过140的东西……
 
-*  [ ](https://user.qzone.qq.com/286450721)：120的就激动的不行了…哎要是140的咋办？
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：额 跑了2000环就没得过140的东西……
-*  [Gashina胜利](https://user.qzone.qq.com/524942284)：还我梦幻号
-
+* [Gashina胜利](https://user.qzone.qq.com/524942284)：还我梦幻号
 
 ---
-> 2010-11-13 00:41:27
 
+> 2010-11-13 00:41:27
 
 [http://www.intenseemotion.net/Article.asp?ID=484](http://www.intenseemotion.net/Article.asp?ID=484)
 
 > 评论(0)
 
-
-
-
 ---
-### 10月
-> 2010-10-31 14:27:22
 
+### 10月
+
+> 2010-10-31 14:27:22
 
 5249422
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-10-31 14:00:56
 
+> 2010-10-31 14:00:56
 
 哈哈 玩梦幻这么多年终于打出jP的了！！
 
 > 评论(3)
 
-
-*  [不会起名字.](https://user.qzone.qq.com/452162248)：什么情况
-	* [不会起名字.](https://user.qzone.qq.com/452162248)：哇，不错哇。要耐换成力或T就好了。
-*  [Gashina胜利](https://user.qzone.qq.com/524942284)：把帐号密码还给我
-*  [八月的狮子](https://user.qzone.qq.com/358546487)：JP是甚麽？
-
+* [不会起名字.](https://user.qzone.qq.com/452162248)：什么情况
+  * [不会起名字.](https://user.qzone.qq.com/452162248)：哇，不错哇。要耐换成力或T就好了。
+* [Gashina胜利](https://user.qzone.qq.com/524942284)：把帐号密码还给我
+* [八月的狮子](https://user.qzone.qq.com/358546487)：JP是甚麽？
 
 ---
-> 2010-10-24 12:11:01
 
+> 2010-10-24 12:11:01
 
 如果再让我遇见你，我会把你拉进卧室，回手锁上门、疯狂的把你推到床上、用被子蒙住你的头，张开我都双臂、
 
 > 评论(1)
 
-
-*  [董森](https://user.qzone.qq.com/459904365)：咁冲动、
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：如果再让我遇见你，我会把你拉进卧室，回手锁上门、疯狂的把你推到床上、用被子蒙住你的头，张开我都双臂、撂起袖子告诉你：看、我的手表是夜光的~
-
-
+* [董森](https://user.qzone.qq.com/459904365)：咁冲动、
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：如果再让我遇见你，我会把你拉进卧室，回手锁上门、疯狂的把你推到床上、用被子蒙住你的头，张开我都双臂、撂起袖子告诉你：看、我的手表是夜光的~
 
 ---
-> 2010-10-01 22:21:42
 
+> 2010-10-01 22:21:42
 
 哎呀\~\~竟然补卡不用钱？？移动什么时候变得这么好了？
 
 > 评论(1)
 
-
-*  [王露](https://user.qzone.qq.com/827018764)：老客户不用吧好象
-
+* [王露](https://user.qzone.qq.com/827018764)：老客户不用吧好象
 
 ---
-> 2010-10-01 11:44:13
 
+> 2010-10-01 11:44:13
 
 手机卡丢了……今天中午补办
 
 > 评论(0)
 
-
-
-
 ---
-### 8月
-> 2010-08-27 16:05:02
 
+### 8月
+
+> 2010-08-27 16:05:02
 
 果然有失意才有诗意……
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-08-15 12:18:39
 
+> 2010-08-15 12:18:39
 
 风雨同舟，默默祝福……
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-08-13 21:30:47
 
+> 2010-08-13 21:30:47
 
 灵岚淡雨笼情缘
 
-
  逍遥剑情醉花间
 
-
  玉盘迷雾捞月影
-
 
  吴生暗羡织女仙
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-08-08 18:26:40
 
+> 2010-08-08 18:26:40
 
 我推荐大家一首歌……叫做 命起涟漪\~\~我空间有得听哈
 
 > 评论(0)
 
-
-
-
 ---
-### 7月
-> 2010-07-30 23:26:06
 
+### 7月
+
+> 2010-07-30 23:26:06
 
 仙剑5官网[http://www.softstar.net.cn/products/pal5/index.html](http://www.softstar.net.cn/products/pal5/index.html)
 
 > 评论(2)
 
-
-*  [无言丶](https://user.qzone.qq.com/502004865)：好玩嘛？
-*  [ArthurFSY](https://user.qzone.qq.com/254904240)：游戏还没有出呢……
-
+* [无言丶](https://user.qzone.qq.com/502004865)：好玩嘛？
+* [ArthurFSY](https://user.qzone.qq.com/254904240)：游戏还没有出呢……
 
 ---
-> 2010-07-22 21:11:12
 
+> 2010-07-22 21:11:12
 
 我回来啦\~\~
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-07-21 22:23:32
 
+> 2010-07-21 22:23:32
 
 原来晚上逛世博是这么爽…
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-07-21 22:01:39
 
+> 2010-07-21 22:01:39
 
 没吃夜宵就回来了7777…去酒店旁边的沙县吃馄饨了…
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-07-20 20:58:28
 
+> 2010-07-20 20:58:28
 
 现在去外滩吃夜宵…
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-07-20 16:41:17
 
+> 2010-07-20 16:41:17
 
 排了7个小时才看了20分钟的馆……好脑热啊…
 
 > 评论(2)
 
-
-*  [八月的狮子](https://user.qzone.qq.com/358546487)：日本会馆没去吗？我但是可是派了四个小时。
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：去了 3个半小时
-*  [．巪吂ポ](https://user.qzone.qq.com/383995759)：傻子才像你这样看世博，有技巧性点好不好。
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：亚洲的小馆差不多看完了 所以才去看大馆的…今晚准备看欧洲的小馆
-	* [．巪吂ポ](https://user.qzone.qq.com/383995759)：我教你，热门管一定晚上看。
-
+* [八月的狮子](https://user.qzone.qq.com/358546487)：日本会馆没去吗？我但是可是派了四个小时。
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：去了 3个半小时
+* [．巪吂ポ](https://user.qzone.qq.com/383995759)：傻子才像你这样看世博，有技巧性点好不好。
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：亚洲的小馆差不多看完了 所以才去看大馆的…今晚准备看欧洲的小馆
+  * [．巪吂ポ](https://user.qzone.qq.com/383995759)：我教你，热门管一定晚上看。
 
 ---
-> 2010-07-20 11:15:37
 
+> 2010-07-20 11:15:37
 
 正在排队沙特…已经1个半小时了！
 
 > 评论(1)
 
-
-*  [孤单de背影](https://user.qzone.qq.com/1007134855)：感觉你的上海之旅特别累
-
+* [孤单de背影](https://user.qzone.qq.com/1007134855)：感觉你的上海之旅特别累
 
 ---
-> 2010-07-20 06:51:01
 
+> 2010-07-20 06:51:01
 
 早起看世博！！！
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-07-19 15:49:19
 
+> 2010-07-19 15:49:19
 
 正在排队进日本馆 快2个小时了！！
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-07-19 12:34:45
 
+> 2010-07-19 12:34:45
 
 刚刚去了很多亚洲的小馆 盖了好多章
 
 > 评论(1)
 
-
-*  [孙鼎文](https://user.qzone.qq.com/443521734)：哈哈哈...
-
+* [孙鼎文](https://user.qzone.qq.com/443521734)：哈哈哈...
 
 ---
-> 2010-07-19 10:49:50
 
+> 2010-07-19 10:49:50
 
 现在参观中国省区联合馆…
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-07-18 22:46:39
 
+> 2010-07-18 22:46:39
 
 好累啊…刚从上海的欢乐谷回来…话！话说那个谷歌地图好烂啊…
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-07-18 12:56:42
 
+> 2010-07-18 12:56:42
 
 正在搭地铁到江苏路
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-07-18 12:41:50
 
+> 2010-07-18 12:41:50
 
 哈哈 到上海咯！
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-07-17 12:32:10
 
+> 2010-07-17 12:32:10
 
 明天去世博……希望台风不影响航班……
 
 > 评论(2)
 
-
-*  [董森](https://user.qzone.qq.com/459904365)：好危险喔！
-	* [08暑假和你游泳的](https://user.qzone.qq.com/546866063)：咁就叫董森带路咯！
-	* [董森](https://user.qzone.qq.com/459904365)：哈哈，介意坐导弹嘛？
-*  [08暑假和你游泳的](https://user.qzone.qq.com/546866063)：哈
-
+* [董森](https://user.qzone.qq.com/459904365)：好危险喔！
+  * [08暑假和你游泳的](https://user.qzone.qq.com/546866063)：咁就叫董森带路咯！
+  * [董森](https://user.qzone.qq.com/459904365)：哈哈，介意坐导弹嘛？
+* [08暑假和你游泳的](https://user.qzone.qq.com/546866063)：哈
 
 ---
-> 2010-07-08 16:28:16
 
+> 2010-07-08 16:28:16
 
 妈的语文不及格……
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-07-08 15:11:58
 
+> 2010-07-08 15:11:58
 
 呃……英语78分……如果总分是100的话我会很高兴的……
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-07-08 09:01:59
 
+> 2010-07-08 09:01:59
 
 咦？我刚刚查期末考试分数，我化学58分耶\~\~
 
 > 评论(2)
 
-
-*  [徐智翔](https://user.qzone.qq.com/253156760)：分出来了?
-	* [啊帅](https://user.qzone.qq.com/394932845)：我化学65分耶
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：…………只出了化学 数学 生物 我生物84分\~\~
-	* [王露](https://user.qzone.qq.com/827018764)：不是吧看起来你们都好高。。。
-	* [徐智翔](https://user.qzone.qq.com/253156760)：化学72,生物86...
-*  [孙鼎文](https://user.qzone.qq.com/443521734)：。。。
-
+* [徐智翔](https://user.qzone.qq.com/253156760)：分出来了?
+  * [啊帅](https://user.qzone.qq.com/394932845)：我化学65分耶
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：…………只出了化学 数学 生物 我生物84分\~\~
+  * [王露](https://user.qzone.qq.com/827018764)：不是吧看起来你们都好高。。。
+  * [徐智翔](https://user.qzone.qq.com/253156760)：化学72,生物86...
+* [孙鼎文](https://user.qzone.qq.com/443521734)：。。。
 
 ---
-> 2010-07-08 08:59:50
 
+> 2010-07-08 08:59:50
 
 这次期末考试英语上110分我就请大家吃饭！！\~\~
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-07-07 21:48:27
 
+> 2010-07-07 21:48:27
 
 这次期末考试英语上110分我就
 
 > 评论(2)
 
-
-*  [蓝培文](https://user.qzone.qq.com/514591062)：就干嘛,自...?
-*  [![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e258181.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e327876.gif)寻觅![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e327876.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e258181.gif)](https://user.qzone.qq.com/306790668)：杀
-
+* [蓝培文](https://user.qzone.qq.com/514591062)：就干嘛,自...?
+* [![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e258181.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e327876.gif)寻觅![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e327876.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Common/images/e258181.gif)](https://user.qzone.qq.com/306790668)：杀
 
 ---
-### 6月
-> 2010-06-26 10:06:59
 
+### 6月
+
+> 2010-06-26 10:06:59
 
 会考成绩啥时候出啊？？
 
 > 评论(1)
 
-
-*  [王露](https://user.qzone.qq.com/827018764)：七月四
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：哦？谢谢了！好像有人说今天出耶
-	* [王露](https://user.qzone.qq.com/827018764)：听说卡掉了
-
+* [王露](https://user.qzone.qq.com/827018764)：七月四
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：哦？谢谢了！好像有人说今天出耶
+  * [王露](https://user.qzone.qq.com/827018764)：听说卡掉了
 
 ---
-### 5月
-> 2010-05-28 16:07:41
 
+### 5月
+
+> 2010-05-28 16:07:41
 
 会考加油！…
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-05-09 13:50:25
 
+> 2010-05-09 13:50:25
 
 18岁的人啦~
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-05-07 17:59:01
 
+> 2010-05-07 17:59:01
 
 今天成人礼
 
 > 评论(1)
 
-
-*  [徐智翔](https://user.qzone.qq.com/253156760)：这个词是有歧意的...
-
+* [徐智翔](https://user.qzone.qq.com/253156760)：这个词是有歧意的...
 
 ---
-> 2010-05-07 17:00:06
 
+> 2010-05-07 17:00:06
 
 好高兴\~\~过生日咯~
 
 > 评论(2)
 
-
-*  [吴璐瑶](https://user.qzone.qq.com/289992322)：生日快乐
-*  [黄婧](https://user.qzone.qq.com/542254227)：生日快乐
-
+* [吴璐瑶](https://user.qzone.qq.com/289992322)：生日快乐
+* [黄婧](https://user.qzone.qq.com/542254227)：生日快乐
 
 ---
-> 2010-05-05 20:16:06
 
+> 2010-05-05 20:16:06
 
 最难的科目已经过去……
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-05-04 09:43:36
 
+> 2010-05-04 09:43:36
 
 明天期中考试。。。。，
 
 > 评论(0)
 
-
-
-
 ---
-### 4月
-> 2010-04-18 12:58:40
 
+### 4月
+
+> 2010-04-18 12:58:40
 
 N78已出！950块！
 
 > 评论(2)
 
-
-*  [董森](https://user.qzone.qq.com/459904365)：好似旧佐小小喔！
-*  [落葉歸根](https://user.qzone.qq.com/866269)：...又被刀50？
-
+* [董森](https://user.qzone.qq.com/459904365)：好似旧佐小小喔！
+* [落葉歸根](https://user.qzone.qq.com/866269)：...又被刀50？
 
 ---
-> 2010-04-18 12:41:47
 
+> 2010-04-18 12:41:47
 
 哈哈！N78出了！！950块！！塞班论坛，好啊！
 
 > 评论(1)
 
-
-*  [08暑假和你游泳的](https://user.qzone.qq.com/546866063)：五体投地
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：谢谢……要PSP吗 我可以帮你联系……
-	* [08暑假和你游泳的](https://user.qzone.qq.com/546866063)：两个星期之内给你答复
-
+* [08暑假和你游泳的](https://user.qzone.qq.com/546866063)：五体投地
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：谢谢……要PSP吗 我可以帮你联系……
+  * [08暑假和你游泳的](https://user.qzone.qq.com/546866063)：两个星期之内给你答复
 
 ---
-> 2010-04-18 10:26:00
 
+> 2010-04-18 10:26:00
 
 等下N78就要出了！面交！
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-04-17 20:10:05
 
+> 2010-04-17 20:10:05
 
 N78 大甩卖啦900！9.5成新！
 
 > 评论(2)
 
-
-*  [品](https://user.qzone.qq.com/766093011)：没人会买的。
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：我广东的同学900收了……明天他看合适就给他了
-*  [王英文](https://user.qzone.qq.com/446566587)：还没卖身来的快。
-
+* [品](https://user.qzone.qq.com/766093011)：没人会买的。
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：我广东的同学900收了……明天他看合适就给他了
+* [王英文](https://user.qzone.qq.com/446566587)：还没卖身来的快。
 
 ---
-> 2010-04-17 20:09:50
 
+> 2010-04-17 20:09:50
 
 N78 大甩卖啦888！9.5成新！
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-04-11 14:43:47
 
+> 2010-04-11 14:43:47
 
 越光宝盒……无极+赤壁+功夫+十面埋伏……
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-04-10 16:53:02
 
+> 2010-04-10 16:53:02
 
 卖掉PSP了……N78也准备卖……
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-04-03 21:34:20
 
+> 2010-04-03 21:34:20
 
 未来警察…中国版的奥特曼＋终结者＋儿童喜剧＋功夫＋爱情喜剧…
 
 > 评论(0)
 
-
-
-
 ---
-### 3月
-> 2010-03-27 20:00:02
 
+### 3月
+
+> 2010-03-27 20:00:02
 
 被人抓拍抓得很猥琐……
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-03-17 15:02:22
 
+> 2010-03-17 15:02:22
 
 手机又快回来了！！
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-03-10 17:05:24
 
+> 2010-03-10 17:05:24
 
 我要买手机模型！！
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-03-01 11:34:03
 
+> 2010-03-01 11:34:03
 
 3月1号啦……报名啦……
 
 > 评论(0)
 
-
-
-
 ---
-### 2月
-> 2010-02-26 23:35:56
 
+### 2月
+
+> 2010-02-26 23:35:56
 
 PSP但丁地狱出了！！5.03GEN-C系统！！终于不悲剧了！！
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-02-26 23:35:06
 
+> 2010-02-26 23:35:06
 
 PSP但丁
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-02-20 10:43:08
 
+> 2010-02-20 10:43:08
 
 人生就是淘宝，你买洗具他绝对会给你邮个杯具，用的还是TMD快递
 
 > 评论(0)
 
-
-
-
 ---
-> 2010-02-16 22:16:11
 
+> 2010-02-16 22:16:11
 
 ——&quot;你是个290！250+38+2！&quot;
 
 > 评论(0)
 
-
-
-
 ---
-## 2009年
-### 12月
-> 2009-12-19 19:48:26
 
+## 2009年
+
+### 12月
+
+> 2009-12-19 19:48:26
 
 小韩借我2600C……
 
 > 评论(0)
 
-
-
-
 ---
-> 2009-12-12 12:37:53
 
+> 2009-12-12 12:37:53
 
 又被没收了……
 
 > 评论(0)
 
-
-
-
 ---
-> 2009-12-06 14:18:02
 
+> 2009-12-06 14:18:02
 
 终于拿回手机了…
 
 > 评论(1)
 
-
-*  [徐智翔](https://user.qzone.qq.com/253156760)：终于又可以看片了....
-
+* [徐智翔](https://user.qzone.qq.com/253156760)：终于又可以看片了....
 
 ---
-### 11月
-> 2009-11-30 00:03:09
 
+### 11月
+
+> 2009-11-30 00:03:09
 
 下个星期就开家长会了……
 
 > 评论(0)
 
-
-
-
 ---
-> 2009-11-23 00:08:11
 
+> 2009-11-23 00:08:11
 
 我不是一个随便的人！ 但我随便起来不是人……
 
 > 评论(1)
 
-
-*  [Gashina胜利](https://user.qzone.qq.com/524942284)：你本来就不是人！
-
+* [Gashina胜利](https://user.qzone.qq.com/524942284)：你本来就不是人！
 
 ---
+
 > 2009-11-21 15:53:58
 
-
 我不是一个随便的人！
-
 
  但我随便起来不是一个人……
 
 > 评论(0)
 
-
-
-
 ---
-### 10月
-> 2009-10-07 21:44:53
 
+### 10月
+
+> 2009-10-07 21:44:53
 
 人总是用适合自己的方式去感动…世上本无无情人，只是…你的感动与他人不同步罢了…
 
 > 评论(1)
 
-
-*  [黄婧](https://user.qzone.qq.com/542254227)：哇、这句话太经典了!
-
+* [黄婧](https://user.qzone.qq.com/542254227)：哇、这句话太经典了!
 
 ---
+
 > 2009-10-07 21:44:17
 
-
 人总是用适合自己的方式去感动…世上本无无情人，只是…你的感动与他人不同步罢了…
 
 > 评论(0)
 
-
-
-
 ---
+
 > 2009-10-04 19:08:03
 
-
 人总是用适合自己的方式去感动…世上本无无情人，只是…你的感动与他人不同步罢了…
 
 > 评论(0)
 
-
-
-
 ---
-### 8月
-> 2009-08-01 14:53:19
 
+### 8月
+
+> 2009-08-01 14:53:19
 
 哈哈！我买n78啦！水货也好啊！
 
 > 评论(0)
 
-
-
-
 ---
-### 7月
-> 2009-07-24 22:19:28
 
+### 7月
+
+> 2009-07-24 22:19:28
 
 我想买个1500左右的手机，大家有没有什么好建议？请密我…………
 
 > 评论(2)
 
-
-*  [李嘉琪](https://user.qzone.qq.com/505472883)：步步高分离式子母机~
-	* [ArthurFSY](https://user.qzone.qq.com/254904240)：呃…………
-*  [徐智翔](https://user.qzone.qq.com/253156760)：买台小霸王，我帮你改装成手机，预装windows7系统~
-
+* [李嘉琪](https://user.qzone.qq.com/505472883)：步步高分离式子母机~
+  * [ArthurFSY](https://user.qzone.qq.com/254904240)：呃…………
+* [徐智翔](https://user.qzone.qq.com/253156760)：买台小霸王，我帮你改装成手机，预装windows7系统~
 
 ---
-> 2009-07-10 19:32:29
 
+> 2009-07-10 19:32:29
 
 好高兴啊……考试结束了！
 
 > 评论(0)
 
-
-
-
 ---
-> 2009-07-06 07:18:08
 
+> 2009-07-06 07:18:08
 
 让猥琐的考试来得更猛烈些吧！！！
 
 > 评论(0)
 
-
-
-
 ---
-### 5月
-> 2009-05-24 17:17:13
 
+### 5月
+
+> 2009-05-24 17:17:13
 
 寸土为寺，寺旁言诗，诗曰：明日送僧归古寺
 
 > 评论(0)
 
-
-
-
 ---
-> 2009-05-24 12:21:11
 
+> 2009-05-24 12:21:11
 
 有时候病毒作者会创建一个畸形的文件，导致简单的删除操作会失败：你只需要把以下命令保存为扩展名为.bat
 
 > 评论(0)
 
-
-
-
 ---
-### 4月
-> 2009-04-19 18:02:05
 
+### 4月
+
+> 2009-04-19 18:02:05
 
 奴隶啊……奴隶啊……大家都把我搞成QQ奴隶吧……我要升一下身价~
 
 > 评论(0)
 
-
-
-
 ---
-## 2008年
-### 12月
-> 2008-12-27 23:24:25
 
+## 2008年
+
+### 12月
+
+> 2008-12-27 23:24:25
 
 希望大家能大力支持绿翼环保社的活动——收旧挂历！！ ————————希望大家鼎立支持！！
 
 > 评论(1)
 
-
-*  [黄婧](https://user.qzone.qq.com/542254227)：顶啊,顶死你!!!!!!!!!!!!!1
-
+* [黄婧](https://user.qzone.qq.com/542254227)：顶啊,顶死你!!!!!!!!!!!!!1
 
 ---
-### 9月
-> 2008-09-21 18:14:10
 
+### 9月
+
+> 2008-09-21 18:14:10
 
 昨天剪了一个超级……超级……标准的学生……头发……害得我不敢出门了……都不知道去晚修的时候怎么面对大家……
 
 > 评论(0)
 
-
-
-
 ---
-### 8月
-> 2008-08-10 17:47:55
 
+### 8月
+
+> 2008-08-10 17:47:55
 
 弓虽强怎奈石更硬！！！
 
 > 评论(0)
 
-
-
-
 ---
-### 5月
-> 2008-05-25 17:16:40
 
+### 5月
+
+> 2008-05-25 17:16:40
 
 /祈福/众志成城,共渡难关！
 
 > 评论(0)
 
-
-
-
 ---
-> 2008-05-25 17:13:43
 
+> 2008-05-25 17:13:43
 
 /祈福/ 我现在的手机号码是 13907697613记得M我！现在超无聊的%
 
 > 评论(0)
-
-
-
 
 ---
