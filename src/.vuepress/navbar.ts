@@ -23,6 +23,12 @@ export default navbar([
         link: "/Arthur/" 
         
       },
+      {
+        text: "Ms.Wu",       
+        icon: "person",
+        link: "/叶子飞/" 
+        
+      },
     ],
    },
   {
