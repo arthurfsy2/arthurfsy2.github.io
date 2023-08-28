@@ -2,7 +2,8 @@
 > 2019-05-05
 
 
-<VideoPlayer  
+<VideoPlayer
+width=50%  
 src="https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Videos/https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Albums/生活/Yogyakarta/001_2019-05-05_B2C9340F.mp4" />
 
 
@@ -263,7 +264,8 @@ src="https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB
 > 2019-05-04
 
 
-<VideoPlayer  
+<VideoPlayer
+width=50%  
 src="https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Videos/https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Albums/生活/Yogyakarta/021_2019-05-04_3B37D26B.mp4" />
 
 
@@ -277,7 +279,8 @@ src="https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB
 > 2019-05-04
 
 
-<VideoPlayer  
+<VideoPlayer
+width=50%  
 src="https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Videos/https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Albums/生活/Yogyakarta/022_2019-05-04_0596AE82.mp4" />
 
 
@@ -382,7 +385,8 @@ src="https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB
 > 2019-05-04
 
 
-<VideoPlayer  
+<VideoPlayer
+width=50%  
 src="https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Videos/https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Albums/生活/Yogyakarta/030_2019-05-04_FCCBC6E5.mp4" />
 
 
@@ -760,7 +764,8 @@ src="https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB
 > 2019-05-04
 
 
-<VideoPlayer  
+<VideoPlayer
+width=50%  
 src="https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Videos/https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Albums/生活/Yogyakarta/059_2019-05-04_ACB4B359.mp4" />
 
 
@@ -2230,7 +2235,8 @@ src="https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB
 > 2019-05-02
 
 
-<VideoPlayer  
+<VideoPlayer
+width=50%  
 src="https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Videos/https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Albums/生活/Yogyakarta/172_2019-05-02_F70D726D.mp4" />
 
 
@@ -2244,7 +2250,8 @@ src="https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB
 > 2019-05-02
 
 
-<VideoPlayer  
+<VideoPlayer
+width=50%  
 src="https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Videos/https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Albums/生活/Yogyakarta/173_2019-05-02_DAA85C67.mp4" />
 
 
@@ -2258,7 +2265,8 @@ src="https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB
 > 2019-05-02
 
 
-<VideoPlayer  
+<VideoPlayer
+width=50%  
 src="https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Videos/https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Albums/生活/Yogyakarta/174_2019-05-02_16D137C5.mp4" />
 
 
@@ -2272,7 +2280,8 @@ src="https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB
 > 2019-05-02
 
 
-<VideoPlayer  
+<VideoPlayer
+width=50%  
 src="https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Videos/https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Albums/生活/Yogyakarta/175_2019-05-02_F5DE0957.mp4" />
 
 
@@ -2286,7 +2295,8 @@ src="https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB
 > 2019-05-02
 
 
-<VideoPlayer  
+<VideoPlayer
+width=50%  
 src="https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Videos/https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Albums/生活/Yogyakarta/176_2019-05-02_30DCF3AC.mp4" />
 
 
