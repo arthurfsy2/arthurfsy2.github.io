@@ -43,7 +43,9 @@ ArthurFSY(254904240)
 
 ### 空间说明
 
+```VHDL
 when sad=>mood<=hardworking;
+```
 
 ### 空间概览
 

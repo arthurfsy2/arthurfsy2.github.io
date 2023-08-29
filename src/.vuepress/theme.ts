@@ -121,6 +121,8 @@ export default hopeTheme({
       mark: true,
       mermaid: true,
       footnote: true,
+      // 启用图片标记
+      imgMark: true,
       playground: {
         presets: ["ts", "vue"],
       },
