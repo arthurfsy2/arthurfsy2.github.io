@@ -120,6 +120,7 @@ export default hopeTheme({
       katex: true,
       mark: true,
       mermaid: true,
+      footnote: true,
       playground: {
         presets: ["ts", "vue"],
       },

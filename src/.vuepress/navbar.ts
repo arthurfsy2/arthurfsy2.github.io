@@ -25,7 +25,7 @@ export default navbar([
       },
       {
         text: "Ms.Wu",       
-        icon: "person",
+        icon: "person-dress",
         link: "/叶子飞/" 
         
       },
