@@ -1864,7 +1864,7 @@
     markdown-it "^13.0.1"
     markdown-it-container "^3.0.0"
 
-"@vuepress/plugin-docsearch@2.0.0-beta.66":
+"@vuepress/plugin-docsearch@^2.0.0-beta.66":
   version "2.0.0-beta.66"
   resolved "https://registry.npmjs.org/@vuepress/plugin-docsearch/-/plugin-docsearch-2.0.0-beta.66.tgz"
   integrity sha512-gUNejbv00wT5uK6fJvlbKGMN9NhFSMqb6lmSH+9s+4z78sD6hwhpkC7PZry3DlzcvbZstrGHqbfnn3NLhyhSzQ==
