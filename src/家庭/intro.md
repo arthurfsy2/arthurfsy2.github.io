@@ -18,7 +18,7 @@ star: true
 ::: tip  2016年11月至今的相处与共
 :::
 
-::: warning  2016年相识异地恋，2018年同在一座城，2020年领证的小夫妻俩
+::: info 2016年相识异地恋，2018年同在一座城，2020年领证的小夫妻俩
 :::
 
 ::: tabs
@@ -62,10 +62,11 @@ flowchart TB
 :::
 
 ## 联系我们
+
 > 欢迎“遗失”的亲朋好友“找回”我！
-::: tabs
-@tab 微信
-![冯先生的微信](/assets/img/wechatContact.jpg =300x)
+> ::: tabs
+> @tab 微信
+> ![冯先生的微信](/assets/img/wechatContact.jpg =300x)
 
 @tab QQ
 ![冯先生的QQ](/assets/img/QQContact.png =300x)
@@ -73,7 +74,7 @@ flowchart TB
 @tab 手机
 
 :::center
-<button type="button" style="padding: 20px 30px; background-color: blue; color: #fff; border: 100; border-radius: 50px;" onclick="window.location.href='tel:17503049257'">🤙冯先生 Tel:175-0304-9257</button>
+`<button type="button" style="padding: 20px 30px; background-color: blue; color: #fff; border: 100; border-radius: 50px;" onclick="window.location.href='tel:17503049257'">`🤙冯先生 Tel:175-0304-9257`</button>`
 
 <button type="button" style="padding: 20px 30px; background-color: green; color: #fff; border: none; border-radius: 50px;" onclick="window.location.href='tel:13642865881'">🤙吴女士 Tel:136-4286-5881</button>
 
