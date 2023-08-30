@@ -20,15 +20,9 @@ tag:
 # 你可以自定义版权信息
 #copyright: 无版权
 #index: false
-#head:
-#  - meta:
-#      name: Referer
-#      content: https://weibo.com/
-head:
-  - - meta
-    - name: Referer
-      content: https://weibo.com/
+
 ---
+## [叶子飞童鞋的微博](https://weibo.com/n/%E5%8F%B6%E5%AD%90%E9%A3%9E%E7%AB%A5%E9%9E%8B)
 ## 2022年
 
 ### 2022年11月
@@ -591,13 +585,13 @@ head:
 
 > **[转发图文]**  来自：vivo智能手机客户端   获得：0 转发 0 评论 0 点赞
 
-可乐鸡翅看起来好好吃的样子[花心][花心]
+可乐鸡翅看起来好好吃的样子![](http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/8c/hsa_thumb.gif)![](http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/8c/hsa_thumb.gif)
 
 #### **叶子飞童鞋**   2014年7月27日 22:05:11
 
 > **[转发图文]**  来自：vivo智能手机客户端   获得：1 转发 0 评论 1 点赞
 
-好基友[花心][花心][@昭芳不在线-----](https://weibo.com/n/昭芳不在线-----) [@yu愉玉](https://weibo.com/n/yu愉玉) [@0201娜娜](https://weibo.com/n/0201娜娜) [@若子如月](https://weibo.com/n/若子如月) [@海南媛媛](https://weibo.com/n/海南媛媛) [@齐小培培](https://weibo.com/n/齐小培培)
+好基友![](http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/8c/hsa_thumb.gif)![](http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/8c/hsa_thumb.gif)[@昭芳不在线-----](https://weibo.com/n/昭芳不在线-----) [@yu愉玉](https://weibo.com/n/yu愉玉) [@0201娜娜](https://weibo.com/n/0201娜娜) [@若子如月](https://weibo.com/n/若子如月) [@海南媛媛](https://weibo.com/n/海南媛媛) [@齐小培培](https://weibo.com/n/齐小培培)
 
 #### **叶子飞童鞋**   2014年7月12日 21:53:22
 
@@ -645,7 +639,7 @@ head:
 
 > **[转发图文]**  来自：vivo智能手机客户端   获得：0 转发 0 评论 1 点赞
 
-梦想还是要有的，万一就实现了呢[落叶][落叶]
+梦想还是要有的，万一就实现了呢🍂🍂
 
 #### **叶子飞童鞋**   2014年5月18日 11:48:32
 
@@ -717,7 +711,7 @@ head:
 
 > **[转发图文]**  来自：vivo智能手机客户端   获得：0 转发 0 评论 1 点赞
 
-美图手机[花心][花心]
+美图手机![](http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/8c/hsa_thumb.gif)![](http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/8c/hsa_thumb.gif)
 
 #### **叶子飞童鞋**   2014年4月1日 20:24:20
 
@@ -765,7 +759,7 @@ head:
 
 > **[转发图文]**  来自：vivo智能手机客户端   获得：0 转发 0 评论 1 点赞
 
-sony相机耶[花心][花心][@昭芳不在线-----](https://weibo.com/n/昭芳不在线-----) [@齐小培培](https://weibo.com/n/齐小培培) [@海南媛媛](https://weibo.com/n/海南媛媛)
+sony相机耶![](http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/8c/hsa_thumb.gif)![](http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/8c/hsa_thumb.gif)[@昭芳不在线-----](https://weibo.com/n/昭芳不在线-----) [@齐小培培](https://weibo.com/n/齐小培培) [@海南媛媛](https://weibo.com/n/海南媛媛)
 
 #### **叶子飞童鞋**   2014年1月11日 17:15:40
 
@@ -777,7 +771,7 @@ sony相机耶[花心][花心][@昭芳不在线-----](https://weibo.com/n/昭芳�
 
 > **[转发图文]**  来自：vivo智能手机客户端   获得：0 转发 0 评论 0 点赞
 
-什么时候才可以都过去看看呢个[带着微博去旅行][带着微博去旅行]
+什么时候才可以都过去看看呢个![](https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/ec/eventtravel_org.gif)![](https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/ec/eventtravel_org.gif)
 
 #### **叶子飞童鞋**   2014年1月6日 12:55:00
 
@@ -827,7 +821,7 @@ sony相机耶[花心][花心][@昭芳不在线-----](https://weibo.com/n/昭芳�
 
 > **[原创图文]**  来自：vivo智能手机客户端   获得：1 转发 0 评论 0 点赞
 
-这个圣诞过的很happy哇，谢谢[@GDMC医学检验2011级02班](https://weibo.com/n/GDMC医学检验2011级02班) ，没想到会抽中这个礼物，第一次收到男生送的这种东西呢，表示很实用啊[挖鼻屎][挖鼻屎][挖鼻屎]，当然也要谢谢送我礼物的JUNY啦 我在:石大路
+这个圣诞过的很happy哇，谢谢[@GDMC医学检验2011级02班](https://weibo.com/n/GDMC医学检验2011级02班) ，没想到会抽中这个礼物，第一次收到男生送的这种东西呢，表示很实用啊![](http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/a0/kbsa_thumb.gif)![](http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/a0/kbsa_thumb.gif)![](http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/a0/kbsa_thumb.gif)，当然也要谢谢送我礼物的JUNY啦 我在:石大路
 
 ![]( https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Weibo_wyf/Images/9c5be7cejw1ebvqh1kr7qj20dc0hs0t6.jpg =450x)
 
@@ -835,7 +829,7 @@ sony相机耶[花心][花心][@昭芳不在线-----](https://weibo.com/n/昭芳�
 
 > **[原创图文]**  来自：vivo智能手机客户端   获得：0 转发 0 评论 0 点赞
 
-没有一丝丝温暖，冷，这个冬天，真的好冷[温暖帽子][手套]
+没有一丝丝温暖，冷，这个冬天，真的好冷👒🧤
 
 ### 2013年11月
 
@@ -861,7 +855,7 @@ sony相机耶[花心][花心][@昭芳不在线-----](https://weibo.com/n/昭芳�
 
 > **[转发图文]**  来自：vivo智能手机客户端   获得：0 转发 0 评论 0 点赞
 
-要去体验没有做过的事情[@昭芳不在线-----](https://weibo.com/n/昭芳不在线-----) 比如去问问那个喜欢的人有没有可能在一起[@齐小培培](https://weibo.com/n/齐小培培) [挖鼻屎][挖鼻屎][挖鼻屎]
+要去体验没有做过的事情[@昭芳不在线-----](https://weibo.com/n/昭芳不在线-----) 比如去问问那个喜欢的人有没有可能在一起[@齐小培培](https://weibo.com/n/齐小培培) ![](http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/a0/kbsa_thumb.gif)![](http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/a0/kbsa_thumb.gif)![](http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/a0/kbsa_thumb.gif)
 
 #### **叶子飞童鞋**   2013年11月15日 17:14:43
 
@@ -901,7 +895,7 @@ sony相机耶[花心][花心][@昭芳不在线-----](https://weibo.com/n/昭芳�
 
 > **[转发图文]**  来自：vivo智能手机客户端   获得：0 转发 0 评论 0 点赞
 
-好漂亮的蛋糕啊\~\~\~\~看完就饿了呀[花心][花心]
+好漂亮的蛋糕啊\~\~\~\~看完就饿了呀![](http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/8c/hsa_thumb.gif)![](http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/8c/hsa_thumb.gif)
 
 #### **叶子飞童鞋**   2013年10月12日 13:53:33
 
@@ -919,7 +913,7 @@ sony相机耶[花心][花心][@昭芳不在线-----](https://weibo.com/n/昭芳�
 
 > **[转发图文]**  来自：vivo智能手机客户端   获得：0 转发 2 评论 0 点赞
 
-[抠鼻屎][抠鼻屎][@昭芳不在线-----](https://weibo.com/n/昭芳不在线-----) [@yu愉玉](https://weibo.com/n/yu愉玉) [雷锋]
+![](http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/a0/kbsa_thumb.gif)![](http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/a0/kbsa_thumb.gif)[@昭芳不在线-----](https://weibo.com/n/昭芳不在线-----) [@yu愉玉](https://weibo.com/n/yu愉玉) [雷锋]
 
 #### **叶子飞童鞋**   2013年10月10日 09:52:07
 
@@ -945,7 +939,7 @@ sony相机耶[花心][花心][@昭芳不在线-----](https://weibo.com/n/昭芳�
 
 > **[转发图文]**  来自：vivo智能手机客户端   获得：0 转发 0 评论 1 点赞
 
-我经常为一些鸡毛蒜皮的事烦恼，so，你们没有内涵、不豁达是吧是吧[挖鼻屎][挖鼻屎][@0215娜娜](https://weibo.com/n/0215娜娜) [@齐小培培](https://weibo.com/n/齐小培培) [@若子如月](https://weibo.com/n/若子如月) [@海南媛媛](https://weibo.com/n/海南媛媛) [@yu愉玉](https://weibo.com/n/yu愉玉) [@昭芳不在线-----](https://weibo.com/n/昭芳不在线-----)
+我经常为一些鸡毛蒜皮的事烦恼，so，你们没有内涵、不豁达是吧是吧![](http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/a0/kbsa_thumb.gif)![](http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/a0/kbsa_thumb.gif)[@0215娜娜](https://weibo.com/n/0215娜娜) [@齐小培培](https://weibo.com/n/齐小培培) [@若子如月](https://weibo.com/n/若子如月) [@海南媛媛](https://weibo.com/n/海南媛媛) [@yu愉玉](https://weibo.com/n/yu愉玉) [@昭芳不在线-----](https://weibo.com/n/昭芳不在线-----)
 
 #### **叶子飞童鞋**   2013年9月26日 00:09:09
 
@@ -981,7 +975,7 @@ sony相机耶[花心][花心][@昭芳不在线-----](https://weibo.com/n/昭芳�
 
 > **[转发图文]**  来自：vivo智能手机客户端   获得：0 转发 0 评论 0 点赞
 
-嗯嗯，是滴是滴[@海南媛媛](https://weibo.com/n/海南媛媛) [@昭芳不在线-----](https://weibo.com/n/昭芳不在线-----) [睡觉][睡觉]
+嗯嗯，是滴是滴[@海南媛媛](https://weibo.com/n/海南媛媛) [@昭芳不在线-----](https://weibo.com/n/昭芳不在线-----) 😪😪
 
 #### **叶子飞童鞋**   2013年9月20日 17:10:57
 
@@ -1191,7 +1185,7 @@ sony相机耶[花心][花心][@昭芳不在线-----](https://weibo.com/n/昭芳�
 
 > **[转发图文]**  来自：360安全浏览器   获得：0 转发 0 评论 0 点赞
 
-太写实了呀\~\~\~\~[拍手][给劲][江南style]
+太写实了呀\~\~\~\~👏[给劲][江南style]
 
 #### **叶子飞童鞋**   2012年11月21日 10:36:40
 
@@ -1221,7 +1215,7 @@ sony相机耶[花心][花心][@昭芳不在线-----](https://weibo.com/n/昭芳�
 
 > **[转发图文]**  来自：360安全浏览器   获得：0 转发 0 评论 0 点赞
 
-[飙泪][moc大哭]很感人的说\~\~\~
+😭[moc大哭]很感人的说\~\~\~
 
 #### **叶子飞童鞋**   2012年11月18日 16:51:59
 

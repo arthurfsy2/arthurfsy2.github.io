@@ -21,6 +21,7 @@ tag:
 #copyright: 无版权
 #index: false
 ---
+## [Arthur的微博](https://weibo.com/n/arthurfsy)
 :::info 微博内容备份
 
 1. 通过下面这个项目，将所有信息导出md格式、原始图片信息
@@ -1600,7 +1601,7 @@ by 米菲穿着小甲马 (百度贴吧ID)
 
 > **[转发图文]**  来自：[微博](https://weibo.com)   获得：0 转发 0 评论 0 点赞
 
-[花心] 非常喜欢这个啊 ！！！我觉得都可以当豪华版封面了！！！
+![](http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/8c/hsa_thumb.gif) 非常喜欢这个啊 ！！！我觉得都可以当豪华版封面了！！！
 
 #### **ArthurFsy**   2011年5月26日 21:26:47
 
