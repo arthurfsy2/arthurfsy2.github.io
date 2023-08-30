@@ -36,7 +36,7 @@ projects:
     link: http://ddns.4a1801.life:8088
 
   - icon: /logo2.jpg
-    name: 吴女士妈
+    name: 吴女士
     desc: 运动记录
     link: http://ddns.4a1801.life:8089
 
@@ -52,4 +52,3 @@ projects:
 footer: <a href="https://beian.miit.gov.cn/">备案号：粤ICP备2021168515号-1</a>
 copyright: Theme by <a href="https://theme-hope.vuejs.press/">VuePress Theme Hope</a> | MIT Licensed, Copyright © 2019-present Mr.Hope
 ---
-

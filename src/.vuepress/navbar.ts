@@ -20,14 +20,15 @@ export default navbar([
       {
         text: "Mr.Arthur",       
         icon: "person",
-        link: "/Arthur/" 
+        link: "/Arthur/" ,
+        children: ["/Arthur/Qzone", "/Arthur/Weibo"],
         
       },
       {
         text: "Ms.Wu",       
         icon: "person-dress",
-        link: "/叶子飞/" 
-        
+        link: "/叶子飞/", 
+        children: ["/叶子飞/Qzone", "/叶子飞/Weibo"],
       },
     ],
    },

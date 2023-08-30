@@ -23,8 +23,8 @@ export default hopeTheme({
   blog: {
     medias: {
       Gmail: "mailto:fsyflh@gmail.com",
-      QQ: "254904240",
-      Wechat: "arthurfsy",
+      QQ: "http://wpa.qq.com/msgrd?v=3&uin=254904240&site=qq&menu=yes",
+      Wechat: "/家庭/intro.html#联系我们",
       Weibo: "https://weibo.com/u/2091797297",
       Zhihu: "https://www.zhihu.com/people/Arthurfsy",
 

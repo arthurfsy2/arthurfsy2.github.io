@@ -20,6 +20,14 @@ star: true
 #footer: 这是测试显示的页脚
 # 你可以自定义版权信息
 #copyright: 无版权
-#index: false
+index: false
 order: 5
 ---
+# 相册
+## [最爱](/Arthur/Qzone/相册/最爱)
+
+## [风景](/Arthur/Qzone/相册/风景)
+
+## [生活](/Arthur/Qzone/相册/生活)
+
+## [其他](/Arthur/Qzone/相册/其他)
