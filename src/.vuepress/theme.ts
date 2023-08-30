@@ -63,9 +63,9 @@ export default hopeTheme({
   encrypt: {
     config: {
       "/Arthur/Qzone": ["364115"],
-      "/Arthur/Arthur的微博": ["364115"],
-      "/叶子飞/Qzone": ["615881"],
-      "/叶子飞/叶子飞童鞋的微博": ["615881"],
+      "/Arthur/Weibo": ["364115"],
+      "/叶子飞/": ["615881"],
+      
       
     },
   },
