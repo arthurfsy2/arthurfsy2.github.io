@@ -2,9 +2,9 @@
 icon: edit
 date: 2022-03-08
 category:
-  - summary
+  - 经验总结
 tag:
-  - 心得
+  - IT总结
 ---
 # HOME ASSISTANT 总结
 
@@ -147,7 +147,7 @@ http:
 8. [[Garmin Connect HA集成（自己修改版本）](https://github.com/arthurfsy/home-assistant-garmin_connect_CN)](https://github.com/cyberjunky/home-assistant-garmin_connect)
 
 9. [NodeRed安装配置 ](https://zhuanlan.zhihu.com/p/456741817)
-  [Node-red节点备份](https://pan.4a1801.life/Onedrive-swu/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/Home%20Assistant/Node-red)
+    [Node-red节点备份](https://pan.4a1801.life/Onedrive-swu/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/Home%20Assistant/Node-red)
 
 >注：也可以通过下载zip文件解压缩方式安装集成
 

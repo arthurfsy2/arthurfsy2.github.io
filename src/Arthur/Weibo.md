@@ -10,7 +10,7 @@ category:
   - Arthur
 # 一个页面可以有多个标签
 tag:
-  - Weibo
+  - 微博
 # 此页面会在文章列表置顶
 #sticky: true
 # 此页面会出现在文章收藏中
@@ -21,17 +21,7 @@ tag:
 #copyright: 无版权
 #index: false
 ---
-## [Arthur的微博](https://weibo.com/n/arthurfsy)
-:::info 微博内容备份
-
-1. 通过下面这个项目，将所有信息导出md格式、原始图片信息
-   > [Uchiha-Peng/weibo2markdown: 微博导出、微博备份、微博导出生成Markdown、微博爬虫 (github.com)](https://github.com/Uchiha-Peng/weibo2markdown)
-   >
-2. 获取的图片直链是不能直接访问的，需要借助 `https://image.baidu.com/search/down?url=图片地址`，将图片转换成可被识别的地址（到此md文件的图片就可以预览了，也可以通过3-4步骤下载图片自行保存）
-3. 通过浏览器插件/稳部落，将图片下载到本地，然后上传到onedrive网盘，借助在云服务端部署的alist转换为直链
-4. 使用vscode，手工将导出的md文件内的图片相对路径，批量修改为直链对应的链接
-
-:::
+## [Arthurfsy(原链接)](https://weibo.com/n/arthurfsy)
 
 ## 2023年
 

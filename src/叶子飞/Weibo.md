@@ -10,7 +10,7 @@ category:
   - 叶子飞
 # 一个页面可以有多个标签
 tag:
-  - Weibo
+  - 微博
 # 此页面会在文章列表置顶
 #sticky: true
 # 此页面会出现在文章收藏中
@@ -22,7 +22,7 @@ tag:
 #index: false
 
 ---
-## [叶子飞童鞋的微博](https://weibo.com/n/%E5%8F%B6%E5%AD%90%E9%A3%9E%E7%AB%A5%E9%9E%8B)
+## [叶子飞童鞋(原链接)](https://weibo.com/n/%E5%8F%B6%E5%AD%90%E9%A3%9E%E7%AB%A5%E9%9E%8B)
 ## 2022年
 
 ### 2022年11月

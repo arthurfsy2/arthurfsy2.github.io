@@ -10,7 +10,8 @@ category:
   - Arthur
 # 一个页面可以有多个标签
 tag:
-  - Qzone
+  - QQ空间
+  - 备份
 # 此页面会在文章列表置顶
 #sticky: true
 # 此页面会出现在文章收藏中
@@ -22,17 +23,7 @@ tag:
 index: false
 order: 1
 ---
-# Arthur的QQ空间
-
-:::info 个人QQ空间内容备份
-
-1. 通过下面这个项目，将所有信息导出md格式、原始图片信息
-   > [ShunCai/QZoneExport: QQ空间导出助手](https://github.com/ShunCai/QZoneExport.html)
-   >
-2. 将图片信息上传到onedrive网盘，借助在云服务端部署的alist转换为直链
-3. 使用vscode，手工将导出的md文件内的图片相对路径，批量修改为直链对应的链接
-
-:::
+# QQ空间
 
 ### 个人信息
 

@@ -10,7 +10,8 @@ category:
   - 叶子飞
 # 一个页面可以有多个标签
 tag:
-  - Qzone
+  - QQ空间
+  - 备份
 # 此页面会在文章列表置顶
 #sticky: true
 # 此页面会出现在文章收藏中
@@ -22,7 +23,7 @@ tag:
 index: false
 order: 1
 ---
-# 叶子飞的QQ空间
+# QQ空间
 
 ### 个人信息
 

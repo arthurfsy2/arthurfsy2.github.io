@@ -3,7 +3,7 @@ icon: wifi
 # 设置写作时间
 date: 2023-08-24
 category:
-  - Family
+  - 家庭
 tag:
   - 家庭
 # 此页面会在文章列表置顶

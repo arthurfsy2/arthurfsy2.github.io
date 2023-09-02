@@ -10,7 +10,8 @@ category:
   - Arthur
 # 一个页面可以有多个标签
 tag:
-  - Qzone
+  - QQ空间
+  - 备份
   - 相册
 # 此页面会在文章列表置顶
 #sticky: true
