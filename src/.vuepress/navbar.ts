@@ -18,17 +18,14 @@ export default navbar([
         link: "/经验总结/"        
       },
       {
-        text: "Mr.Arthur",       
+        text: "冯先生",       
         icon: "person",
         link: "/Arthur/" ,
-        children: ["/Arthur/Qzone", "/Arthur/Weibo"],
-        
       },
       {
-        text: "Ms.Wu",       
+        text: "吴女士",       
         icon: "person-dress",
-        link: "/叶子飞/", 
-        children: ["/叶子飞/Qzone", "/叶子飞/Weibo"],
+        link: "/叶子飞/" ,
       },
     ],
    },
