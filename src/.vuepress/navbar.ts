@@ -29,25 +29,7 @@ export default navbar([
       },
     ],
    },
-  {
-    text: "邀请函",
-    icon: "envelope",
-    children: [
-      {
-        text: "入伙邀请",
-        icon: "envelope",
-        link: "https://g.gd-share.cn/p/sqtrz2cm" 
-        
-      },
-      {
-        text: "结婚邀请函",
-        icon: "envelope",
-        prefix:"/",
-        link: "/家庭/邀请函/婚礼邀请/" 
-        
-      },
-    ],
-  },
+  {text: "邀请函",icon: "envelope",link: "/家庭/邀请函/"},
   {text: "关于我们",icon: "image-portrait",link: "/家庭/intro/"  },
   {text: "WIFI",icon: "wifi",link: "/家庭/wifi/"  },
 ]);
