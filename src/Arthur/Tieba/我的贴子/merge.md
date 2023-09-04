@@ -1,3 +1,26 @@
+---
+# 这是文章的标题
+title: 我的贴子-内容合并
+# 这是页面的图标
+icon: "pencil"
+# 设置写作时间
+#date: 2019-05-04
+# 一个页面可以有多个分类
+category:
+  - Arthur
+# 一个页面可以有多个标签
+tag:
+  - 贴吧
+# 此页面会在文章列表置顶
+#sticky: true
+# 此页面会出现在文章收藏中
+#star: true
+# 你可以自定义页脚
+#footer: 这是测试显示的页脚
+# 你可以自定义版权信息
+#copyright: 无版权
+#index: false
+---
 [&lt;非剧透&gt;谈谈仙剑5战斗音乐感想](https://tieba.baidu.com/p/1133064723?pid=13060509823&cid=0#13060509823)
 
 
@@ -1469,7 +1492,7 @@ VX:fsyflh
 
 >8楼-----------------------------------------------------------------------------------------
 
-<div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/zhangyu_1.png);height:66px;">
+![](https://tb1.bdstatic.com/tb/cms/post/bubble/zhangyu_1.png)
 
 >9楼-----------------------------------------------------------------------------------------
 
@@ -1477,7 +1500,7 @@ VX:fsyflh
 
 >10楼-----------------------------------------------------------------------------------------
 
-<div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/zhangyu_1.png);height:66px;">
+![](https://tb1.bdstatic.com/tb/cms/post/bubble/zhangyu_1.png)
 
 >11楼-----------------------------------------------------------------------------------------
 
@@ -1531,7 +1554,7 @@ VX:fsyflh
 
 >22楼-----------------------------------------------------------------------------------------
 
-<div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/zhangyu_1.png);height:66px;">
+![](https://tb1.bdstatic.com/tb/cms/post/bubble/zhangyu_1.png)
 
 >23楼-----------------------------------------------------------------------------------------
 
@@ -1539,7 +1562,7 @@ VX:fsyflh
 
 >24楼-----------------------------------------------------------------------------------------
 
-<div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/zhangyu_1.png);height:66px;">
+![](https://tb1.bdstatic.com/tb/cms/post/bubble/zhangyu_1.png)
 
 >25楼-----------------------------------------------------------------------------------------
 
