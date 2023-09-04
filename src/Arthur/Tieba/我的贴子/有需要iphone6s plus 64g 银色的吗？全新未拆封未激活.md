@@ -45,7 +45,7 @@ tag:
 
 >8楼-----------------------------------------------------------------------------------------
 
-<div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/zhangyu_1.png);height:66px;">
+![](https://tb1.bdstatic.com/tb/cms/post/bubble/zhangyu_1.png)
 
 >9楼-----------------------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ tag:
 
 >10楼-----------------------------------------------------------------------------------------
 
-<div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/zhangyu_1.png);height:66px;">
+![](https://tb1.bdstatic.com/tb/cms/post/bubble/zhangyu_1.png)
 
 >11楼-----------------------------------------------------------------------------------------
 
@@ -107,7 +107,7 @@ tag:
 
 >22楼-----------------------------------------------------------------------------------------
 
-<div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/zhangyu_1.png);height:66px;">
+![](https://tb1.bdstatic.com/tb/cms/post/bubble/zhangyu_1.png)
 
 >23楼-----------------------------------------------------------------------------------------
 
@@ -115,7 +115,7 @@ tag:
 
 >24楼-----------------------------------------------------------------------------------------
 
-<div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/zhangyu_1.png);height:66px;">
+![](https://tb1.bdstatic.com/tb/cms/post/bubble/zhangyu_1.png)
 
 >25楼-----------------------------------------------------------------------------------------
 
