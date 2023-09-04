@@ -12,11 +12,11 @@ tag:
 
 >1楼-----------------------------------------------------------------------------------------
 
-我就是前阵子呼叫“有没有人1.1号入坑”的楼主啦！5号入库的手机14号到了！入了两台，准备出其中一台！如果有需要可以联系我哈<img class="BDE_Smiley" pic_type="1" width="30" height="30" src="https://tb2.bdstatic.com/tb/editor/images/face/i_f02.png?t=20140803" >
-可以提供全程证明，是苹果官网买的！<img class="BDE_Image" pic_type="0" width="560" height="336" src="https://imgsa.baidu.com/forum/w%3D580/sign=d05497085cb5c9ea62f303ebe538b622/c9b7c700baa1cd119644d323be12c8fcc2ce2daa.jpg" >
-<img class="BDE_Image" pic_type="0" width="560" height="534" src="https://imgsa.baidu.com/forum/w%3D580/sign=f99cc1c8b5fb43161a1f7a7210a54642/ec3f404e9258d109772f08b1d658ccbf6d814d54.jpg" >
-<img class="BDE_Image" pic_type="0" width="560" height="420" src="https://imgsa.baidu.com/forum/w%3D580/sign=445edede29738bd4c421b239918a876c/086a373fb80e7becca0da2e2282eb9389a506b4d.jpg" >
-<img class="BDE_Image" pic_type="0" width="560" height="244" src="https://imgsa.baidu.com/forum/w%3D580/sign=98bae6b84010b912bfc1f6f6f3fcfcb5/68852b6d55fbb2fb16bdf911484a20a44723dc8e.jpg" >
+我就是前阵子呼叫“有没有人1.1号入坑”的楼主啦！5号入库的手机14号到了！入了两台，准备出其中一台！如果有需要可以联系我哈![](https://tb2.bdstatic.com/tb/editor/images/face/i_f02.png?t=20140803)
+可以提供全程证明，是苹果官网买的！![](https://imgsa.baidu.com/forum/w%3D580/sign=d05497085cb5c9ea62f303ebe538b622/c9b7c700baa1cd119644d323be12c8fcc2ce2daa.jpg)
+![](https://imgsa.baidu.com/forum/w%3D580/sign=f99cc1c8b5fb43161a1f7a7210a54642/ec3f404e9258d109772f08b1d658ccbf6d814d54.jpg)
+![](https://imgsa.baidu.com/forum/w%3D580/sign=445edede29738bd4c421b239918a876c/086a373fb80e7becca0da2e2282eb9389a506b4d.jpg)
+![](https://imgsa.baidu.com/forum/w%3D580/sign=98bae6b84010b912bfc1f6f6f3fcfcb5/68852b6d55fbb2fb16bdf911484a20a44723dc8e.jpg)
 
 >2楼-----------------------------------------------------------------------------------------
 
@@ -74,11 +74,11 @@ tag:
 
 >15楼-----------------------------------------------------------------------------------------
 
-我就是前阵子呼叫“有没有人1.1号入坑”的楼主啦！5号入库的手机14号到了！入了两台，准备出其中一台！如果有需要可以联系我哈<img class="BDE_Smiley" pic_type="1" width="30" height="30" src="https://tb2.bdstatic.com/tb/editor/images/face/i_f02.png?t=20140803" >
-可以提供全程证明，是苹果官网买的！<img class="BDE_Image" pic_type="0" width="560" height="336" src="https://imgsa.baidu.com/forum/w%3D580/sign=d05497085cb5c9ea62f303ebe538b622/c9b7c700baa1cd119644d323be12c8fcc2ce2daa.jpg" >
-<img class="BDE_Image" pic_type="0" width="560" height="534" src="https://imgsa.baidu.com/forum/w%3D580/sign=f99cc1c8b5fb43161a1f7a7210a54642/ec3f404e9258d109772f08b1d658ccbf6d814d54.jpg" >
-<img class="BDE_Image" pic_type="0" width="560" height="420" src="https://imgsa.baidu.com/forum/w%3D580/sign=445edede29738bd4c421b239918a876c/086a373fb80e7becca0da2e2282eb9389a506b4d.jpg" >
-<img class="BDE_Image" pic_type="0" width="560" height="244" src="https://imgsa.baidu.com/forum/w%3D580/sign=98bae6b84010b912bfc1f6f6f3fcfcb5/68852b6d55fbb2fb16bdf911484a20a44723dc8e.jpg" >
+我就是前阵子呼叫“有没有人1.1号入坑”的楼主啦！5号入库的手机14号到了！入了两台，准备出其中一台！如果有需要可以联系我哈![](https://tb2.bdstatic.com/tb/editor/images/face/i_f02.png?t=20140803)
+可以提供全程证明，是苹果官网买的！![](https://imgsa.baidu.com/forum/w%3D580/sign=d05497085cb5c9ea62f303ebe538b622/c9b7c700baa1cd119644d323be12c8fcc2ce2daa.jpg)
+![](https://imgsa.baidu.com/forum/w%3D580/sign=f99cc1c8b5fb43161a1f7a7210a54642/ec3f404e9258d109772f08b1d658ccbf6d814d54.jpg)
+![](https://imgsa.baidu.com/forum/w%3D580/sign=445edede29738bd4c421b239918a876c/086a373fb80e7becca0da2e2282eb9389a506b4d.jpg)
+![](https://imgsa.baidu.com/forum/w%3D580/sign=98bae6b84010b912bfc1f6f6f3fcfcb5/68852b6d55fbb2fb16bdf911484a20a44723dc8e.jpg)
 
 >16楼-----------------------------------------------------------------------------------------
 
