@@ -20,15 +20,16 @@ tag:
 # 你可以自定义版权信息
 #copyright: 无版权
 #index: false
+order: 1
 ---
 [&lt;非剧透&gt;谈谈仙剑5战斗音乐感想](https://tieba.baidu.com/p/1133064723?pid=13060509823&cid=0#13060509823)
 
 
 >1楼-----------------------------------------------------------------------------------------
 
-我刚刚用mayafei的PKG工具解压包得出仙剑5的战斗音乐试听了一下（本人所属地区仙剑5发货延迟，还没玩上![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/jd/j_0008.gif)）
+我刚刚用mayafei的PKG工具解压包得出仙剑5的战斗音乐试听了一下（本人所属地区仙剑5发货延迟，还没玩上![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/j_0008.gif)）
 个人感觉很带感啊！！的确出现了前几代的战斗音乐，但翻弹得很不错啊！所以请那些喷仙剑5只用前几代的战斗音乐的人耐心玩下去吧！！
-有惊喜哟~亲 ![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/jd/j_0002.gif)
+有惊喜哟~亲 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/j_0002.gif)
 
 [03.05【优惠】求农行visa五折](https://tieba.baidu.com/p/4391878340?pid=85107915895&cid=0#85107915895)
 
@@ -66,8 +67,8 @@ tag:
 
 >1楼-----------------------------------------------------------------------------------------
 
-貌似又掉坑了![](https://tb2.bdstatic.com/tb/editor/images/face/i_f04.png?t=20140803)
-![](https://imgsa.baidu.com/forum/w%3D580/sign=9bd43173b419ebc4c0787691b227cf79/fbeb73380cd7912375389a62aa345982b3b780b3.jpg)
+貌似又掉坑了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/i_f04.png)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/fbeb73380cd7912375389a62aa345982b3b780b3.jpg)
 
 >2楼-----------------------------------------------------------------------------------------
 
@@ -108,12 +109,12 @@ tag:
 
 >11楼-----------------------------------------------------------------------------------------
 
-今天刚入库.......希望能快点吧![](https://tb2.bdstatic.com/tb/editor/images/face/i_f16.png?t=20140803)
+今天刚入库.......希望能快点吧![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/i_f16.png)
 
 >12楼-----------------------------------------------------------------------------------------
 
 1.1号的刚刚查了已出库！
-![](https://imgsa.baidu.com/forum/w%3D580/sign=7e666d35b41bb0518f24b320067ada77/7a5dbaaf2edda3ccabc8d93706e93901213f9260.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/7a5dbaaf2edda3ccabc8d93706e93901213f9260.jpg)
 
 >13楼-----------------------------------------------------------------------------------------
 
@@ -125,8 +126,8 @@ tag:
 
 >15楼-----------------------------------------------------------------------------------------
 
-貌似又掉坑了![](https://tb2.bdstatic.com/tb/editor/images/face/i_f04.png?t=20140803)
-![](https://imgsa.baidu.com/forum/w%3D580/sign=9bd43173b419ebc4c0787691b227cf79/fbeb73380cd7912375389a62aa345982b3b780b3.jpg)
+貌似又掉坑了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/i_f04.png)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/fbeb73380cd7912375389a62aa345982b3b780b3.jpg)
 
 >16楼-----------------------------------------------------------------------------------------
 
@@ -167,12 +168,12 @@ tag:
 
 >25楼-----------------------------------------------------------------------------------------
 
-今天刚入库.......希望能快点吧![](https://tb2.bdstatic.com/tb/editor/images/face/i_f16.png?t=20140803)
+今天刚入库.......希望能快点吧![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/i_f16.png)
 
 >26楼-----------------------------------------------------------------------------------------
 
 1.1号的刚刚查了已出库！
-![](https://imgsa.baidu.com/forum/w%3D580/sign=7e666d35b41bb0518f24b320067ada77/7a5dbaaf2edda3ccabc8d93706e93901213f9260.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/7a5dbaaf2edda3ccabc8d93706e93901213f9260.jpg)
 
 >27楼-----------------------------------------------------------------------------------------
 
@@ -184,8 +185,8 @@ tag:
 
 >29楼-----------------------------------------------------------------------------------------
 
-貌似又掉坑了![](https://tb2.bdstatic.com/tb/editor/images/face/i_f04.png?t=20140803)
-![](https://imgsa.baidu.com/forum/w%3D580/sign=9bd43173b419ebc4c0787691b227cf79/fbeb73380cd7912375389a62aa345982b3b780b3.jpg)
+貌似又掉坑了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/i_f04.png)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/fbeb73380cd7912375389a62aa345982b3b780b3.jpg)
 
 >30楼-----------------------------------------------------------------------------------------
 
@@ -226,12 +227,12 @@ tag:
 
 >39楼-----------------------------------------------------------------------------------------
 
-今天刚入库.......希望能快点吧![](https://tb2.bdstatic.com/tb/editor/images/face/i_f16.png?t=20140803)
+今天刚入库.......希望能快点吧![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/i_f16.png)
 
 >40楼-----------------------------------------------------------------------------------------
 
 1.1号的刚刚查了已出库！
-![](https://imgsa.baidu.com/forum/w%3D580/sign=7e666d35b41bb0518f24b320067ada77/7a5dbaaf2edda3ccabc8d93706e93901213f9260.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/7a5dbaaf2edda3ccabc8d93706e93901213f9260.jpg)
 
 >41楼-----------------------------------------------------------------------------------------
 
@@ -263,16 +264,16 @@ tag:
 
 >5楼-----------------------------------------------------------------------------------------
 
-![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/jd/j_0020.gif)大家这么说的我都不好意思了，想赚零花钱啊……如果谁真的想要的可以联系我，可以再少点 TEL：13650596571 qq:254904240 有2台!
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/j_0020.gif)大家这么说的我都不好意思了，想赚零花钱啊……如果谁真的想要的可以联系我，可以再少点 TEL：13650596571 qq:254904240 有2台!
 
 >6楼-----------------------------------------------------------------------------------------
 
-![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/jd/j_0020.gif)大家这么说的我都不好意思了，想赚零花钱啊……如果谁真的想要的可以联系我，可以再少点 TEL：13650596571 qq:254904240 有2台!
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/j_0020.gif)大家这么说的我都不好意思了，想赚零花钱啊……如果谁真的想要的可以联系我，可以再少点 TEL：13650596571 qq:254904240 有2台!
 
 >7楼-----------------------------------------------------------------------------------------
 
 哈哈 买了的 到我这里充话费
-![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/jd/j_0017.gif)店名：零等待充值
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/j_0017.gif)店名：零等待充值
 地址:<a href="http://jump.bdimg.com/safecheck/index?url=x+Z5mMbGPAvromYk+xHoKQrDeRNp+4gekyf86UP/fuF91OxPXOl+JPuxKk0C9cQwAG+4Cm4FSU0="  target="_blank" rel="noopener noreferrer nofollow"  class="j-no-opener-url" >http://shop71597933.taobao.com</a>
 
 >8楼-----------------------------------------------------------------------------------------
@@ -288,8 +289,8 @@ tag:
 
 >1楼-----------------------------------------------------------------------------------------
 
-吧里好多等了快2个星期的朋友，心里有点紧张![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon8.png)
-![](https://imgsa.baidu.com/forum/w%3D580/sign=5be9c8dbd6c8a786be2a4a065708c9c7/53b2e4d3572c11dfd71ad702642762d0f603c2b7.jpg)
+吧里好多等了快2个星期的朋友，心里有点紧张![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon8.png)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/53b2e4d3572c11dfd71ad702642762d0f603c2b7.jpg)
 
 >2楼-----------------------------------------------------------------------------------------
 
@@ -318,21 +319,21 @@ tag:
 
 >8楼-----------------------------------------------------------------------------------------
 
-![](https://imgsa.baidu.com/forum/w%3D580/sign=f6aaed73d7160924dc25a213e407359b/3d589144ebf81a4c115866ecd02a6059252da61c.jpg)
-终于出库！一个15号入库de ，一个22入库的![](https://tb2.bdstatic.com/tb/editor/images/face/i_f08.png?t=20140803)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/3d589144ebf81a4c115866ecd02a6059252da61c.jpg)
+终于出库！一个15号入库de ，一个22入库的![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/i_f08.png)
 
 >9楼-----------------------------------------------------------------------------------------
 
-![](https://imgsa.baidu.com/forum/w%3D580/sign=b833f9c6d239b6004dce0fbfd9513526/43e05110b912c8fc6e330ce8fb039245d78821ba.jpg)我14号的都快到广州了，一个到海关了。叫申报，看来税了。
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/43e05110b912c8fc6e330ce8fb039245d78821ba.jpg)我14号的都快到广州了，一个到海关了。叫申报，看来税了。
 
 [&lt;非剧透&gt;谈谈仙剑5战斗音乐感想](https://tieba.baidu.com/p/1133064723?pid=13060509823&cid=0#13060509823)
 
 
 >1楼-----------------------------------------------------------------------------------------
 
-我刚刚用mayafei的PKG工具解压包得出仙剑5的战斗音乐试听了一下（本人所属地区仙剑5发货延迟，还没玩上![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/jd/j_0008.gif)）
+我刚刚用mayafei的PKG工具解压包得出仙剑5的战斗音乐试听了一下（本人所属地区仙剑5发货延迟，还没玩上![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/j_0008.gif)）
 个人感觉很带感啊！！的确出现了前几代的战斗音乐，但翻弹得很不错啊！所以请那些喷仙剑5只用前几代的战斗音乐的人耐心玩下去吧！！
-有惊喜哟~亲 ![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/jd/j_0002.gif)
+有惊喜哟~亲 ![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/j_0002.gif)
 
 [03.05【优惠】求农行visa五折](https://tieba.baidu.com/p/4391878340?pid=85107915895&cid=0#85107915895)
 
@@ -370,8 +371,8 @@ tag:
 
 >1楼-----------------------------------------------------------------------------------------
 
-貌似又掉坑了![](https://tb2.bdstatic.com/tb/editor/images/face/i_f04.png?t=20140803)
-![](https://imgsa.baidu.com/forum/w%3D580/sign=9bd43173b419ebc4c0787691b227cf79/fbeb73380cd7912375389a62aa345982b3b780b3.jpg)
+貌似又掉坑了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/i_f04.png)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/fbeb73380cd7912375389a62aa345982b3b780b3.jpg)
 
 >2楼-----------------------------------------------------------------------------------------
 
@@ -412,12 +413,12 @@ tag:
 
 >11楼-----------------------------------------------------------------------------------------
 
-今天刚入库.......希望能快点吧![](https://tb2.bdstatic.com/tb/editor/images/face/i_f16.png?t=20140803)
+今天刚入库.......希望能快点吧![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/i_f16.png)
 
 >12楼-----------------------------------------------------------------------------------------
 
 1.1号的刚刚查了已出库！
-![](https://imgsa.baidu.com/forum/w%3D580/sign=7e666d35b41bb0518f24b320067ada77/7a5dbaaf2edda3ccabc8d93706e93901213f9260.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/7a5dbaaf2edda3ccabc8d93706e93901213f9260.jpg)
 
 >13楼-----------------------------------------------------------------------------------------
 
@@ -429,8 +430,8 @@ tag:
 
 >15楼-----------------------------------------------------------------------------------------
 
-貌似又掉坑了![](https://tb2.bdstatic.com/tb/editor/images/face/i_f04.png?t=20140803)
-![](https://imgsa.baidu.com/forum/w%3D580/sign=9bd43173b419ebc4c0787691b227cf79/fbeb73380cd7912375389a62aa345982b3b780b3.jpg)
+貌似又掉坑了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/i_f04.png)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/fbeb73380cd7912375389a62aa345982b3b780b3.jpg)
 
 >16楼-----------------------------------------------------------------------------------------
 
@@ -471,12 +472,12 @@ tag:
 
 >25楼-----------------------------------------------------------------------------------------
 
-今天刚入库.......希望能快点吧![](https://tb2.bdstatic.com/tb/editor/images/face/i_f16.png?t=20140803)
+今天刚入库.......希望能快点吧![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/i_f16.png)
 
 >26楼-----------------------------------------------------------------------------------------
 
 1.1号的刚刚查了已出库！
-![](https://imgsa.baidu.com/forum/w%3D580/sign=7e666d35b41bb0518f24b320067ada77/7a5dbaaf2edda3ccabc8d93706e93901213f9260.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/7a5dbaaf2edda3ccabc8d93706e93901213f9260.jpg)
 
 >27楼-----------------------------------------------------------------------------------------
 
@@ -488,8 +489,8 @@ tag:
 
 >29楼-----------------------------------------------------------------------------------------
 
-貌似又掉坑了![](https://tb2.bdstatic.com/tb/editor/images/face/i_f04.png?t=20140803)
-![](https://imgsa.baidu.com/forum/w%3D580/sign=9bd43173b419ebc4c0787691b227cf79/fbeb73380cd7912375389a62aa345982b3b780b3.jpg)
+貌似又掉坑了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/i_f04.png)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/fbeb73380cd7912375389a62aa345982b3b780b3.jpg)
 
 >30楼-----------------------------------------------------------------------------------------
 
@@ -530,12 +531,12 @@ tag:
 
 >39楼-----------------------------------------------------------------------------------------
 
-今天刚入库.......希望能快点吧![](https://tb2.bdstatic.com/tb/editor/images/face/i_f16.png?t=20140803)
+今天刚入库.......希望能快点吧![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/i_f16.png)
 
 >40楼-----------------------------------------------------------------------------------------
 
 1.1号的刚刚查了已出库！
-![](https://imgsa.baidu.com/forum/w%3D580/sign=7e666d35b41bb0518f24b320067ada77/7a5dbaaf2edda3ccabc8d93706e93901213f9260.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/7a5dbaaf2edda3ccabc8d93706e93901213f9260.jpg)
 
 >41楼-----------------------------------------------------------------------------------------
 
@@ -551,22 +552,22 @@ tag:
 >1楼-----------------------------------------------------------------------------------------
 
 前两天海鲜市场在某家线下店10099入手了R9000p 3070 32g 1T，说是原厂全新，抱着可能翻车的准备入手了，今天刚刚京东到货，准备开箱!
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=40cb1ffdd01001e94e3c1407880e7b06/e61b0ef41bd5ad6e3ec332fedccb39dbb6fd3ce8.jpg?tbpicau=2023-09-06-05_0a9225cb9382350763044665fdeac495)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/e61b0ef41bd5ad6e3ec332fedccb39dbb6fd3ce8.jpg)
 
 >2楼-----------------------------------------------------------------------------------------
 
 生产日期是9.17的，还可以，初步排除泡水批次
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=0fd3d7abd15494ee87220f111df5e0e1/994bd11373f08202a6a2c72b16fbfbedab641bf6.jpg?tbpicau=2023-09-06-05_598c1d20b20e34bbdb4c5103a9f66490)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/994bd11373f08202a6a2c72b16fbfbedab641bf6.jpg)
 
 >3楼-----------------------------------------------------------------------------------------
 
 进出口没有灰尘，开机后有新机香味，C面果然没有任何贴标
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=4630dd089039b6004dce0fbfd9523526/c91f4134970a304e76e17e1194c8a786c8175c1e.jpg?tbpicau=2023-09-06-05_8f60e9c6e08ceebcb0dac6f580cb99f2)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=8d24abb18c43ad4ba62e46c8b2025a89/c61fbe096b63f6243f776f17da44ebf81a4ca3f8.jpg?tbpicau=2023-09-06-05_2bd273a447b32e7f64f87a25608ff765)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/c91f4134970a304e76e17e1194c8a786c8175c1e.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/c61fbe096b63f6243f776f17da44ebf81a4ca3f8.jpg)
 
 >4楼-----------------------------------------------------------------------------------------
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=72129e500210b912bfc1f6f6f3fcfcb5/29950a7b02087bf4b5d28e02b7d3572c11dfcf24.jpg?tbpicau=2023-09-06-05_e1517e3f9af37a5720deff6a37010550)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/29950a7b02087bf4b5d28e02b7d3572c11dfcf24.jpg)
 
 >5楼-----------------------------------------------------------------------------------------
 
@@ -575,10 +576,10 @@ tag:
 >6楼-----------------------------------------------------------------------------------------
 
 三星内存+显存，海力士固态，华星光电屏幕，是一等奖了吧？怎么发不出去
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=c305389194ea15ce41eee00186003a25/b68ba61ea8d3fd1f810af42e6d4e251f95ca5fa7.jpg?tbpicau=2023-09-06-05_84b7d2ff9697125779c8ab888608fe98)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=9bd56ed91fafa40f3cc6ced59b65038c/38338744ebf81a4cb92a3522922a6059242da6c6.jpg?tbpicau=2023-09-06-05_c00dceca542c0a4246dbcb0cc32a265c)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=726af7caad1f3a295ac8d5c6a925bce3/47f082025aafa40fb5c598c9f664034f78f019a7.jpg?tbpicau=2023-09-06-05_e9e05725ae4c7f107dabb8f4508ca909)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=8ebdb27c91bf6c81f7372ce08c3eb1d7/be82b9014a90f60361b2ca536412b31bb051eda0.jpg?tbpicau=2023-09-06-05_a2d41f55cf768d9f2f5b20a2cc609c01)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/b68ba61ea8d3fd1f810af42e6d4e251f95ca5fa7.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/38338744ebf81a4cb92a3522922a6059242da6c6.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/47f082025aafa40fb5c598c9f664034f78f019a7.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/be82b9014a90f60361b2ca536412b31bb051eda0.jpg)
 
 >7楼-----------------------------------------------------------------------------------------
 
@@ -587,22 +588,22 @@ tag:
 >8楼-----------------------------------------------------------------------------------------
 
 emm... 通电次数64 通电时间245 小时，这个好像不太正常
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=574af87412c2d562f208d0e5d71090f3/3d24ab18972bd407db8885e926899e510fb30953.jpg?tbpicau=2023-09-06-05_77cffac5904329a7da8dbea62788a677)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/3d24ab18972bd407db8885e926899e510fb30953.jpg)
 
 >9楼-----------------------------------------------------------------------------------------
 
 当时还问老板有没有背包可以送，老板送了一个联想背包c1,全新的。不过也没几个钱，闲鱼70多的样子，就刚好缺背包用，这个背包和电脑是分开两个箱子送过来的
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=7b76242786cec3fd8b3ea77de689d4b6/4ff40ad162d9f2d39548fd04ecec8a136227cc85.jpg?tbpicau=2023-09-06-05_91e623251c0271d83eee803026eeba87)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=405ac83cca2bd40742c7d3f54b889e9c/7b4a20a4462309f7d92cfb062f0e0cf3d7cad667.jpg?tbpicau=2023-09-06-05_40880b5c66750f723ad52c78b6989ee4)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/4ff40ad162d9f2d39548fd04ecec8a136227cc85.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/7b4a20a4462309f7d92cfb062f0e0cf3d7cad667.jpg)
 
 >10楼-----------------------------------------------------------------------------------------
 
 正在用winget 方式安装软件，速度还可以
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=84c5c96f8c1373f0f53f6f97940e4b8b/5f63f6246b600c33d2c28fdc474c510fd9f9a16f.jpg?tbpicau=2023-09-06-05_7bd5138e51c94e82122fac185e9b0538)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/5f63f6246b600c33d2c28fdc474c510fd9f9a16f.jpg)
 
 >11楼-----------------------------------------------------------------------------------------
 
-赚了啊，这么大的内存硬盘![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon2.png)
+赚了啊，这么大的内存硬盘![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon2.png)
 
 >12楼-----------------------------------------------------------------------------------------
 
@@ -623,22 +624,22 @@ emm... 通电次数64 通电时间245 小时，这个好像不太正常
 >16楼-----------------------------------------------------------------------------------------
 
 前两天海鲜市场在某家线下店10099入手了R9000p 3070 32g 1T，说是原厂全新，抱着可能翻车的准备入手了，今天刚刚京东到货，准备开箱!
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=40cb1ffdd01001e94e3c1407880e7b06/e61b0ef41bd5ad6e3ec332fedccb39dbb6fd3ce8.jpg?tbpicau=2023-09-06-05_0a9225cb9382350763044665fdeac495)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/e61b0ef41bd5ad6e3ec332fedccb39dbb6fd3ce8.jpg)
 
 >17楼-----------------------------------------------------------------------------------------
 
 生产日期是9.17的，还可以，初步排除泡水批次
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=0fd3d7abd15494ee87220f111df5e0e1/994bd11373f08202a6a2c72b16fbfbedab641bf6.jpg?tbpicau=2023-09-06-05_598c1d20b20e34bbdb4c5103a9f66490)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/994bd11373f08202a6a2c72b16fbfbedab641bf6.jpg)
 
 >18楼-----------------------------------------------------------------------------------------
 
 进出口没有灰尘，开机后有新机香味，C面果然没有任何贴标
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=4630dd089039b6004dce0fbfd9523526/c91f4134970a304e76e17e1194c8a786c8175c1e.jpg?tbpicau=2023-09-06-05_8f60e9c6e08ceebcb0dac6f580cb99f2)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=8d24abb18c43ad4ba62e46c8b2025a89/c61fbe096b63f6243f776f17da44ebf81a4ca3f8.jpg?tbpicau=2023-09-06-05_2bd273a447b32e7f64f87a25608ff765)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/c91f4134970a304e76e17e1194c8a786c8175c1e.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/c61fbe096b63f6243f776f17da44ebf81a4ca3f8.jpg)
 
 >19楼-----------------------------------------------------------------------------------------
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=72129e500210b912bfc1f6f6f3fcfcb5/29950a7b02087bf4b5d28e02b7d3572c11dfcf24.jpg?tbpicau=2023-09-06-05_e1517e3f9af37a5720deff6a37010550)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/29950a7b02087bf4b5d28e02b7d3572c11dfcf24.jpg)
 
 >20楼-----------------------------------------------------------------------------------------
 
@@ -647,10 +648,10 @@ emm... 通电次数64 通电时间245 小时，这个好像不太正常
 >21楼-----------------------------------------------------------------------------------------
 
 三星内存+显存，海力士固态，华星光电屏幕，是一等奖了吧？怎么发不出去
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=c305389194ea15ce41eee00186003a25/b68ba61ea8d3fd1f810af42e6d4e251f95ca5fa7.jpg?tbpicau=2023-09-06-05_84b7d2ff9697125779c8ab888608fe98)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=9bd56ed91fafa40f3cc6ced59b65038c/38338744ebf81a4cb92a3522922a6059242da6c6.jpg?tbpicau=2023-09-06-05_c00dceca542c0a4246dbcb0cc32a265c)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=726af7caad1f3a295ac8d5c6a925bce3/47f082025aafa40fb5c598c9f664034f78f019a7.jpg?tbpicau=2023-09-06-05_e9e05725ae4c7f107dabb8f4508ca909)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=8ebdb27c91bf6c81f7372ce08c3eb1d7/be82b9014a90f60361b2ca536412b31bb051eda0.jpg?tbpicau=2023-09-06-05_a2d41f55cf768d9f2f5b20a2cc609c01)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/b68ba61ea8d3fd1f810af42e6d4e251f95ca5fa7.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/38338744ebf81a4cb92a3522922a6059242da6c6.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/47f082025aafa40fb5c598c9f664034f78f019a7.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/be82b9014a90f60361b2ca536412b31bb051eda0.jpg)
 
 >22楼-----------------------------------------------------------------------------------------
 
@@ -659,22 +660,22 @@ emm... 通电次数64 通电时间245 小时，这个好像不太正常
 >23楼-----------------------------------------------------------------------------------------
 
 emm... 通电次数64 通电时间245 小时，这个好像不太正常
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=574af87412c2d562f208d0e5d71090f3/3d24ab18972bd407db8885e926899e510fb30953.jpg?tbpicau=2023-09-06-05_77cffac5904329a7da8dbea62788a677)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/3d24ab18972bd407db8885e926899e510fb30953.jpg)
 
 >24楼-----------------------------------------------------------------------------------------
 
 当时还问老板有没有背包可以送，老板送了一个联想背包c1,全新的。不过也没几个钱，闲鱼70多的样子，就刚好缺背包用，这个背包和电脑是分开两个箱子送过来的
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=7b76242786cec3fd8b3ea77de689d4b6/4ff40ad162d9f2d39548fd04ecec8a136227cc85.jpg?tbpicau=2023-09-06-05_91e623251c0271d83eee803026eeba87)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=405ac83cca2bd40742c7d3f54b889e9c/7b4a20a4462309f7d92cfb062f0e0cf3d7cad667.jpg?tbpicau=2023-09-06-05_40880b5c66750f723ad52c78b6989ee4)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/4ff40ad162d9f2d39548fd04ecec8a136227cc85.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/7b4a20a4462309f7d92cfb062f0e0cf3d7cad667.jpg)
 
 >25楼-----------------------------------------------------------------------------------------
 
 正在用winget 方式安装软件，速度还可以
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=84c5c96f8c1373f0f53f6f97940e4b8b/5f63f6246b600c33d2c28fdc474c510fd9f9a16f.jpg?tbpicau=2023-09-06-05_7bd5138e51c94e82122fac185e9b0538)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/5f63f6246b600c33d2c28fdc474c510fd9f9a16f.jpg)
 
 >26楼-----------------------------------------------------------------------------------------
 
-赚了啊，这么大的内存硬盘![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon2.png)
+赚了啊，这么大的内存硬盘![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon2.png)
 
 >27楼-----------------------------------------------------------------------------------------
 
@@ -697,19 +698,19 @@ emm... 通电次数64 通电时间245 小时，这个好像不太正常
 
 >1楼-----------------------------------------------------------------------------------------
 
-楼主是在淘宝开代购店的，这个机子是之前以为客户下单的，不过因为他等不及入了教育优惠所以空出这台。。![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon8.png)
+楼主是在淘宝开代购店的，这个机子是之前以为客户下单的，不过因为他等不及入了教育优惠所以空出这台。。![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon8.png)
 在此出手！
 机子6688
 黑色普通键盘900
 需要的朋友联系扣扣254904240，走闲鱼！
 挑战各种骗术！
-![](https://imgsa.baidu.com/forum/w%3D580/sign=0aaa34f3bf12c8fcb4f3f6c5cc0292b4/d55c8e03738da9774133c0f8b651f8198718e316.jpg)
-![](https://imgsa.baidu.com/forum/w%3D580/sign=56daa7dc8194a4c20a23e7233ef51bac/19d44e7adab44aedae21f837b51c8701a38bfbc7.jpg)
-![](https://imgsa.baidu.com/forum/w%3D580/sign=b96e032c3dc79f3d8fe1e4388aa0cdbc/7408cf4543a98226bfaf6df48c82b9014890ebc0.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/d55c8e03738da9774133c0f8b651f8198718e316.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/19d44e7adab44aedae21f837b51c8701a38bfbc7.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/7408cf4543a98226bfaf6df48c82b9014890ebc0.jpg)
 
 >2楼-----------------------------------------------------------------------------------------
 
-没有人有兴趣吗![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon8.png) 出了问题小店可以联系香港客服修理的！微软官方代购的！
+没有人有兴趣吗![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon8.png) 出了问题小店可以联系香港客服修理的！微软官方代购的！
 
 >3楼-----------------------------------------------------------------------------------------
 
@@ -721,7 +722,7 @@ emm... 通电次数64 通电时间245 小时，这个好像不太正常
 
 >5楼-----------------------------------------------------------------------------------------
 
-我的美版还在海关![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon9.png)
+我的美版还在海关![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon9.png)
 
 >6楼-----------------------------------------------------------------------------------------
 
@@ -762,19 +763,19 @@ emm... 通电次数64 通电时间245 小时，这个好像不太正常
 
 >15楼-----------------------------------------------------------------------------------------
 
-楼主是在淘宝开代购店的，这个机子是之前以为客户下单的，不过因为他等不及入了教育优惠所以空出这台。。![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon8.png)
+楼主是在淘宝开代购店的，这个机子是之前以为客户下单的，不过因为他等不及入了教育优惠所以空出这台。。![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon8.png)
 在此出手！
 机子6688
 黑色普通键盘900
 需要的朋友联系扣扣254904240，走闲鱼！
 挑战各种骗术！
-![](https://imgsa.baidu.com/forum/w%3D580/sign=0aaa34f3bf12c8fcb4f3f6c5cc0292b4/d55c8e03738da9774133c0f8b651f8198718e316.jpg)
-![](https://imgsa.baidu.com/forum/w%3D580/sign=56daa7dc8194a4c20a23e7233ef51bac/19d44e7adab44aedae21f837b51c8701a38bfbc7.jpg)
-![](https://imgsa.baidu.com/forum/w%3D580/sign=b96e032c3dc79f3d8fe1e4388aa0cdbc/7408cf4543a98226bfaf6df48c82b9014890ebc0.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/d55c8e03738da9774133c0f8b651f8198718e316.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/19d44e7adab44aedae21f837b51c8701a38bfbc7.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/7408cf4543a98226bfaf6df48c82b9014890ebc0.jpg)
 
 >16楼-----------------------------------------------------------------------------------------
 
-没有人有兴趣吗![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon8.png) 出了问题小店可以联系香港客服修理的！微软官方代购的！
+没有人有兴趣吗![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon8.png) 出了问题小店可以联系香港客服修理的！微软官方代购的！
 
 >17楼-----------------------------------------------------------------------------------------
 
@@ -786,7 +787,7 @@ emm... 通电次数64 通电时间245 小时，这个好像不太正常
 
 >19楼-----------------------------------------------------------------------------------------
 
-我的美版还在海关![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon9.png)
+我的美版还在海关![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon9.png)
 
 >20楼-----------------------------------------------------------------------------------------
 
@@ -830,7 +831,7 @@ emm... 通电次数64 通电时间245 小时，这个好像不太正常
 
 >1楼-----------------------------------------------------------------------------------------
 
-![](https://imgsa.baidu.com/forum/w%3D580/sign=d7eda8b162d9f2d3201124e799ec8a53/e6fe8c35e5dde7113cf6d4a6a7efce1b9c1661d2.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/e6fe8c35e5dde7113cf6d4a6a7efce1b9c1661d2.jpg)
 但是不知道为什么打不开那个网页……
 
 [《新人拜吧》顺便求2011那个39的音乐~~在吧里找不到了……](https://tieba.baidu.com/p/1021796640?pid=11542768714&cid=0#11542768714)
@@ -872,7 +873,7 @@ DS别打我
 
 【话题◎0520】今天下午才入手的，收一个find x2 pro 的碎屏险，麻烦钻卡大佬卖一个。感谢感谢。可以走闲鱼，自用！自用！
 可以联系vx fsyflh
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=eb05cc1ae51fbe091c5ec31c5b610c30/425b47ed2e738bd423d2415db68b87d6257ff9df.jpg?tbpicau=2023-09-06-05_9b2b2fae4aec79a575fd7eb9eff376f0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/425b47ed2e738bd423d2415db68b87d6257ff9df.jpg)
 
 >2楼-----------------------------------------------------------------------------------------
 
@@ -933,34 +934,34 @@ RT 你懂的 如果不方便的话 发 254904240@qq.com
 
 >8楼-----------------------------------------------------------------------------------------
 
-![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/jd/j_0011.gif)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/j_0011.gif)
 
 [仙剑7预售的标准版到了](https://tieba.baidu.com/p/7573201090?pid=141644491538&cid=0#141644491538)
 
 
 >1楼-----------------------------------------------------------------------------------------
 
-今晚下班的时候收到了一个丰巢的收货码，还纳闷是什么快递的时候，发现竟然是仙剑7礼盒![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon2.png)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon2.png)
+今晚下班的时候收到了一个丰巢的收货码，还纳闷是什么快递的时候，发现竟然是仙剑7礼盒![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon2.png)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon2.png)
 
 >2楼-----------------------------------------------------------------------------------------
 
 礼盒封面
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=e02472dfd745d688a302b2ac94c07dab/31aa0c46f21fbe0948ba78f82e600c338544add3.jpg?tbpicau=2023-09-06-05_06a32c5459caacd47eaaced69fbe988e)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/31aa0c46f21fbe0948ba78f82e600c338544add3.jpg)
 
 >3楼-----------------------------------------------------------------------------------------
 
 内容
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=82f64880553853438ccf8729a311b01f/e70fdbc451da81cb8e0738211766d0160b2431de.jpg?tbpicau=2023-09-06-05_8beace29082ce2e307d8fccf7fd31553)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/e70fdbc451da81cb8e0738211766d0160b2431de.jpg)
 
 >4楼-----------------------------------------------------------------------------------------
 
 内容清单
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=7b680a16da44ebf86d716437e9f9d736/3aae3dc79f3df8dcc108bc849011728b4710284a.jpg?tbpicau=2023-09-06-05_fdda71984abd63cf9b446159fa96e740)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/3aae3dc79f3df8dcc108bc849011728b4710284a.jpg)
 
 >5楼-----------------------------------------------------------------------------------------
 
 收藏卡 说明书，现在序列号是直接在线发了
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=2d0ca0afced4b31cf03c94b3b7d4276f/9f038335e5dde711f70ef81ae2efce1b9f1661db.jpg?tbpicau=2023-09-06-05_5d0b8b776590f6710ac9752d21ad1f37)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/9f038335e5dde711f70ef81ae2efce1b9f1661db.jpg)
 
 >6楼-----------------------------------------------------------------------------------------
 
@@ -968,8 +969,8 @@ PS:官网显示还没发货，但是实际已经通过中通发过来了，发�
 
 >7楼-----------------------------------------------------------------------------------------
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=7d9381f37a7f9e2f70351d002f30e962/3ca7a1efce1b9d1621e2a974aedeb48f8c54645b.jpg?tbpicau=2023-09-06-05_1cffa24c2b14c11422d4d73e1c9533cb)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=eba8cd3614540923aa696376a258d1dc/cdb7217f9e2f07084e211915b424b899a901f264.jpg?tbpicau=2023-09-06-05_f0574f2dac3b59ef4824ebe44e62baa8)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/3ca7a1efce1b9d1621e2a974aedeb48f8c54645b.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/cdb7217f9e2f07084e211915b424b899a901f264.jpg)
 
 >8楼-----------------------------------------------------------------------------------------
 
@@ -977,7 +978,7 @@ PS:官网显示还没发货，但是实际已经通过中通发过来了，发�
 
 >9楼-----------------------------------------------------------------------------------------
 
-![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon13.png)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon13.png)
 
 >10楼-----------------------------------------------------------------------------------------
 
@@ -994,11 +995,11 @@ PS:官网显示还没发货，但是实际已经通过中通发过来了，发�
 法亚的包装一般般，不过值得海淘会价格气泡膜，值得点赞
 加了值得海淘的QQ群，转运楼主有问必答，整个过程也非常愉快
 订单号：20150407001743
-![](https://imgsa.baidu.com/forum/w%3D580/sign=3ca508c467d9f2d3201124e799ec8a53/45efbf4f78f0f736e8927b240f55b319ebc41336.jpg)
-![](https://imgsa.baidu.com/forum/w%3D580/sign=428060ccf7d3572c66e29cd4ba136352/edc4c4f0f736afc331600840b619ebc4b7451236.jpg)
-![](https://imgsa.baidu.com/forum/w%3D580/sign=2b88f0c6522c11dfded1bf2b53276255/967b4b36afc379314304b10ceec4b74543a91136.jpg)
-![](https://imgsa.baidu.com/forum/w%3D580/sign=b882553914dfa9ecfd2e561f52d0f754/19bd13c379310a55f948e9d1b24543a982261036.jpg)
-![](https://imgsa.baidu.com/forum/w%3D580/sign=1c7d13caacec8a13141a57e8c7039157/4148c5310a55b319a095b55046a98226cffc1736.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/45efbf4f78f0f736e8927b240f55b319ebc41336.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/edc4c4f0f736afc331600840b619ebc4b7451236.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/967b4b36afc379314304b10ceec4b74543a91136.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/19bd13c379310a55f948e9d1b24543a982261036.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/4148c5310a55b319a095b55046a98226cffc1736.jpg)
 
 >2楼-----------------------------------------------------------------------------------------
 
@@ -1024,12 +1025,12 @@ PS:官网显示还没发货，但是实际已经通过中通发过来了，发�
 
 >1楼-----------------------------------------------------------------------------------------
 
-刚刚新鲜出炉的，请教一下各位看出什么亮点了没有![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon25.png)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon25.png)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon25.png)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=514be9c51d7b02080cc93fe952d8f25f/35840334349b033b64f83dba02ce36d3d439bd89.jpg?tbpicau=2023-09-06-05_484c7d98bbb73047bcff30488ccd1d34)
+刚刚新鲜出炉的，请教一下各位看出什么亮点了没有![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon25.png)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon25.png)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon25.png)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/35840334349b033b64f83dba02ce36d3d439bd89.jpg)
 
 >2楼-----------------------------------------------------------------------------------------
 
-没人关注萌新一下吗？水经验不容易啊![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon9.png)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon9.png)
+没人关注萌新一下吗？水经验不容易啊![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon9.png)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon9.png)
 
 >3楼-----------------------------------------------------------------------------------------
 
@@ -1040,18 +1041,18 @@ PS:官网显示还没发货，但是实际已经通过中通发过来了，发�
 
 >1楼-----------------------------------------------------------------------------------------
 
-你们真的好任性的![](https://tb2.bdstatic.com/tb/editor/images/face/i_f02.png?t=20140803)
+你们真的好任性的![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/i_f02.png)
 
 >2楼-----------------------------------------------------------------------------------------
 
-其他小伙伴不要羡慕！美版优惠大大有！12.4号美国微软开始供货！花更少的钱比豪门更早拿机哦！![](https://tb2.bdstatic.com/tb/editor/images/face/i_f02.png?t=20140803)
+其他小伙伴不要羡慕！美版优惠大大有！12.4号美国微软开始供货！花更少的钱比豪门更早拿机哦！![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/i_f02.png)
 
 
 <span class="edit_font_normal">-----无论是港版还是美版SP4还是键盘 （可单独购买），我都可以帮你代购哦！淘宝直接搜6644244，或者搜店铺“Arthur的代购小站”就可以找到我哦～非全职商家，价格绝对不黑！</span>
 
 >3楼-----------------------------------------------------------------------------------------
 
-人比人，气死人的，好多人一个月工资买了I7顶配都还有多余生活费的![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon19.png)
+人比人，气死人的，好多人一个月工资买了I7顶配都还有多余生活费的![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon19.png)
 
 >4楼-----------------------------------------------------------------------------------------
 
@@ -1071,15 +1072,15 @@ PS:官网显示还没发货，但是实际已经通过中通发过来了，发�
 
 >8楼-----------------------------------------------------------------------------------------
 
-![](https://tb2.bdstatic.com/tb/editor/images/face/i_f08.png?t=20140803)这广告不给分，
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/i_f08.png)这广告不给分，
 
 >9楼-----------------------------------------------------------------------------------------
 
-代购美版有教育优惠的？![](https://tb2.bdstatic.com/tb/editor/images/face/i_f21.png?t=20140803)
+代购美版有教育优惠的？![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/i_f21.png)
 
 >10楼-----------------------------------------------------------------------------------------
 
-![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon2.png)我肚子都卖空了 你也可以的![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon25.png)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon2.png)我肚子都卖空了 你也可以的![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon25.png)
 
 [北京时间11.2晚上11点下单终于发货！](https://tieba.baidu.com/p/2706194826?pid=41704399052&cid=0#41704399052)
 
@@ -1174,11 +1175,11 @@ PS:官网显示还没发货，但是实际已经通过中通发过来了，发�
 
 >6楼-----------------------------------------------------------------------------------------
 
-开热风要预热![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon25.png)
+开热风要预热![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon25.png)
 
 >7楼-----------------------------------------------------------------------------------------
 
-热死了![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon25.png)
+热死了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon25.png)
 
 [学校附近有修手表的地方吗……](https://tieba.baidu.com/p/1657842062?pid=20773458046&cid=0#20773458046)
 
@@ -1200,11 +1201,11 @@ PS:官网显示还没发货，但是实际已经通过中通发过来了，发�
 
 >2楼-----------------------------------------------------------------------------------------
 
-![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/jd/j_0010.gif)然后死机了，没了
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/j_0010.gif)然后死机了，没了
 
 >3楼-----------------------------------------------------------------------------------------
 
-![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/jd/j_0033.gif)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/j_0033.gif)
 
 >4楼-----------------------------------------------------------------------------------------
 
@@ -1220,11 +1221,11 @@ PS:官网显示还没发货，但是实际已经通过中通发过来了，发�
 
 >2楼-----------------------------------------------------------------------------------------
 
-![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/jd/j_0004.gif)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/j_0004.gif)
 
 >3楼-----------------------------------------------------------------------------------------
 
-![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/jd/j_0004.gif)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/j_0004.gif)
 
 >4楼-----------------------------------------------------------------------------------------
 
@@ -1271,7 +1272,7 @@ ID：254904240@qq.com
 
 >1楼-----------------------------------------------------------------------------------------
 
-请问转中UPS显示已签收是什么名字？第一次用转中有点怕怕的![](https://tb2.bdstatic.com/tb/editor/images/face/i_f08.png?t=20140803)
+请问转中UPS显示已签收是什么名字？第一次用转中有点怕怕的![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/i_f08.png)
 
 >2楼-----------------------------------------------------------------------------------------
 
@@ -1283,7 +1284,7 @@ ID：254904240@qq.com
 
 >4楼-----------------------------------------------------------------------------------------
 
-take it easy.第一次也别紧张![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon23.png)
+take it easy.第一次也别紧张![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon23.png)
 
 [最近佳明GPS有点飘啊绕公园跑了12公里飘成蜘蛛网也真是服了](https://tieba.baidu.com/p/6442154267?pid=129351989129&cid=0#129351989129)
 
@@ -1291,30 +1292,30 @@ take it easy.第一次也别紧张![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8Iq
 >1楼-----------------------------------------------------------------------------------------
 
 最近佳明GPS有点飘啊
-绕公园跑了12公里飘成蜘蛛网也真是服了。。前几天还是比较正常的，太奇怪了![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon8.png)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon8.png)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon8.png)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=0f7add0efcf81a4c2632ecc1e72b6029/e2a36e061d950a7b014121be1dd162d9f3d3c9fb.jpg?tbpicau=2023-09-06-05_df995c1c2d92fddeaf18b0f7151534a9)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=4f90d75a16e9390156028d364bed54f9/7752d72a6059252de763727e239b033b5ab5b9fb.jpg?tbpicau=2023-09-06-05_ffc95e8b29105a2c7bbc3b95c53d833b)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=811d0c048558d109c4e3a9bae159ccd0/8076a3cc7cd98d105da0634b363fb80e7aec90fb.jpg?tbpicau=2023-09-06-05_26b38ef9dbf92064e76c0e22567ec413)
+绕公园跑了12公里飘成蜘蛛网也真是服了。。前几天还是比较正常的，太奇怪了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon8.png)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon8.png)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon8.png)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/e2a36e061d950a7b014121be1dd162d9f3d3c9fb.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/7752d72a6059252de763727e239b033b5ab5b9fb.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/8076a3cc7cd98d105da0634b363fb80e7aec90fb.jpg)
 
 >2楼-----------------------------------------------------------------------------------------
 
-我用的是245m![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon33.png)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon33.png)
+我用的是245m![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon33.png)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon33.png)
 
 >3楼-----------------------------------------------------------------------------------------
 
-地图画的有点乱![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon67.png)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon67.png)
+地图画的有点乱![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon67.png)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon67.png)
 
 >4楼-----------------------------------------------------------------------------------------
 
-这个飘的厉害![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon24.png)
+这个飘的厉害![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon24.png)
 
 >5楼-----------------------------------------------------------------------------------------
 
-原谅我笑了。。。![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon25.png)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon25.png)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon25.png)
+原谅我笑了。。。![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon25.png)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon25.png)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon25.png)
 
 >6楼-----------------------------------------------------------------------------------------
 
-50包邮![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon2.png)
+50包邮![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon2.png)
 
 >7楼-----------------------------------------------------------------------------------------
 
@@ -1322,7 +1323,7 @@ take it easy.第一次也别紧张![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8Iq
 
 >8楼-----------------------------------------------------------------------------------------
 
-我是245M...GPS和GLONASS双星，还有就是在系统设置里有一项，把数据记录改为每秒，此外我每天都插一下电脑（注意安装garmin express），除了充电和同步听说还能更新星图，有助于定位速度和准确性吧....我现在这个GPS基本就和我脸贴脸，起码不会飘成你这样![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon66.png)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon66.png)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon66.png)。
+我是245M...GPS和GLONASS双星，还有就是在系统设置里有一项，把数据记录改为每秒，此外我每天都插一下电脑（注意安装garmin express），除了充电和同步听说还能更新星图，有助于定位速度和准确性吧....我现在这个GPS基本就和我脸贴脸，起码不会飘成你这样![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon66.png)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon66.png)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon66.png)。
 
 >9楼-----------------------------------------------------------------------------------------
 
@@ -1338,7 +1339,7 @@ GPS设置为每秒检测：在主界面长按左边中间——调出菜单—�
 
 >12楼-----------------------------------------------------------------------------------------
 
-佳明gps轨迹漂移正常，但你这个也。。。![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon95.png)，路跑尽量选择开阔无遮挡的地方，把手表数据记录设置为每秒，gps切换成伽利略试一下！
+佳明gps轨迹漂移正常，但你这个也。。。![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon95.png)，路跑尽量选择开阔无遮挡的地方，把手表数据记录设置为每秒，gps切换成伽利略试一下！
 
 >13楼-----------------------------------------------------------------------------------------
 
@@ -1346,7 +1347,7 @@ GPS设置为每秒检测：在主界面长按左边中间——调出菜单—�
 
 >14楼-----------------------------------------------------------------------------------------
 
-你晚上睡觉的时候是不是把表泡酒里![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon16.png)
+你晚上睡觉的时候是不是把表泡酒里![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon16.png)
 
 >15楼-----------------------------------------------------------------------------------------
 
@@ -1355,30 +1356,30 @@ GPS设置为每秒检测：在主界面长按左边中间——调出菜单—�
 >16楼-----------------------------------------------------------------------------------------
 
 最近佳明GPS有点飘啊
-绕公园跑了12公里飘成蜘蛛网也真是服了。。前几天还是比较正常的，太奇怪了![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon8.png)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon8.png)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon8.png)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=0f7add0efcf81a4c2632ecc1e72b6029/e2a36e061d950a7b014121be1dd162d9f3d3c9fb.jpg?tbpicau=2023-09-06-05_df995c1c2d92fddeaf18b0f7151534a9)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=4f90d75a16e9390156028d364bed54f9/7752d72a6059252de763727e239b033b5ab5b9fb.jpg?tbpicau=2023-09-06-05_ffc95e8b29105a2c7bbc3b95c53d833b)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=811d0c048558d109c4e3a9bae159ccd0/8076a3cc7cd98d105da0634b363fb80e7aec90fb.jpg?tbpicau=2023-09-06-05_26b38ef9dbf92064e76c0e22567ec413)
+绕公园跑了12公里飘成蜘蛛网也真是服了。。前几天还是比较正常的，太奇怪了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon8.png)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon8.png)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon8.png)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/e2a36e061d950a7b014121be1dd162d9f3d3c9fb.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/7752d72a6059252de763727e239b033b5ab5b9fb.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/8076a3cc7cd98d105da0634b363fb80e7aec90fb.jpg)
 
 >17楼-----------------------------------------------------------------------------------------
 
-我用的是245m![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon33.png)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon33.png)
+我用的是245m![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon33.png)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon33.png)
 
 >18楼-----------------------------------------------------------------------------------------
 
-地图画的有点乱![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon67.png)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon67.png)
+地图画的有点乱![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon67.png)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon67.png)
 
 >19楼-----------------------------------------------------------------------------------------
 
-这个飘的厉害![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon24.png)
+这个飘的厉害![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon24.png)
 
 >20楼-----------------------------------------------------------------------------------------
 
-原谅我笑了。。。![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon25.png)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon25.png)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon25.png)
+原谅我笑了。。。![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon25.png)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon25.png)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon25.png)
 
 >21楼-----------------------------------------------------------------------------------------
 
-50包邮![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon2.png)
+50包邮![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon2.png)
 
 >22楼-----------------------------------------------------------------------------------------
 
@@ -1386,7 +1387,7 @@ GPS设置为每秒检测：在主界面长按左边中间——调出菜单—�
 
 >23楼-----------------------------------------------------------------------------------------
 
-我是245M...GPS和GLONASS双星，还有就是在系统设置里有一项，把数据记录改为每秒，此外我每天都插一下电脑（注意安装garmin express），除了充电和同步听说还能更新星图，有助于定位速度和准确性吧....我现在这个GPS基本就和我脸贴脸，起码不会飘成你这样![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon66.png)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon66.png)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon66.png)。
+我是245M...GPS和GLONASS双星，还有就是在系统设置里有一项，把数据记录改为每秒，此外我每天都插一下电脑（注意安装garmin express），除了充电和同步听说还能更新星图，有助于定位速度和准确性吧....我现在这个GPS基本就和我脸贴脸，起码不会飘成你这样![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon66.png)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon66.png)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon66.png)。
 
 >24楼-----------------------------------------------------------------------------------------
 
@@ -1402,7 +1403,7 @@ GPS设置为每秒检测：在主界面长按左边中间——调出菜单—�
 
 >27楼-----------------------------------------------------------------------------------------
 
-佳明gps轨迹漂移正常，但你这个也。。。![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon95.png)，路跑尽量选择开阔无遮挡的地方，把手表数据记录设置为每秒，gps切换成伽利略试一下！
+佳明gps轨迹漂移正常，但你这个也。。。![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon95.png)，路跑尽量选择开阔无遮挡的地方，把手表数据记录设置为每秒，gps切换成伽利略试一下！
 
 >28楼-----------------------------------------------------------------------------------------
 
@@ -1410,7 +1411,7 @@ GPS设置为每秒检测：在主界面长按左边中间——调出菜单—�
 
 >29楼-----------------------------------------------------------------------------------------
 
-你晚上睡觉的时候是不是把表泡酒里![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon16.png)
+你晚上睡觉的时候是不是把表泡酒里![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon16.png)
 
 >30楼-----------------------------------------------------------------------------------------
 
@@ -1421,11 +1422,11 @@ GPS设置为每秒检测：在主界面长按左边中间——调出菜单—�
 
 >1楼-----------------------------------------------------------------------------------------
 
-本人是个人兼职代购赚点零花钱，淘宝有开店，看我几个小红心就知道我不是职业代购的了![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon68.png)
+本人是个人兼职代购赚点零花钱，淘宝有开店，看我几个小红心就知道我不是职业代购的了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon68.png)
 详情可淘宝搜索店铺：Arthur的代购小站，具体价格细聊（真正官网发货+转运公司到手，不经过我的手）
 由于最近工作都比较忙，都没怎么打理淘宝店了，所以很多宝贝都是旧型号的，不过都可以代购哈
 VX:fsyflh
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=a0efebd3143b5bb5bed720f606d2d523/f5a56b2fb9389b50c7190a2a9235e5dde6116e5e.jpg?tbpicau=2023-09-06-05_aa40ad309977b0a2c548bc325a0ad3f7)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/f5a56b2fb9389b50c7190a2a9235e5dde6116e5e.jpg)
 
 >2楼-----------------------------------------------------------------------------------------
 
@@ -1459,11 +1460,11 @@ VX:fsyflh
 
 >1楼-----------------------------------------------------------------------------------------
 
-我就是前阵子呼叫“有没有人1.1号入坑”的楼主啦！5号入库的手机14号到了！入了两台，准备出其中一台！如果有需要可以联系我哈![](https://tb2.bdstatic.com/tb/editor/images/face/i_f02.png?t=20140803)
-可以提供全程证明，是苹果官网买的！![](https://imgsa.baidu.com/forum/w%3D580/sign=d05497085cb5c9ea62f303ebe538b622/c9b7c700baa1cd119644d323be12c8fcc2ce2daa.jpg)
-![](https://imgsa.baidu.com/forum/w%3D580/sign=f99cc1c8b5fb43161a1f7a7210a54642/ec3f404e9258d109772f08b1d658ccbf6d814d54.jpg)
-![](https://imgsa.baidu.com/forum/w%3D580/sign=445edede29738bd4c421b239918a876c/086a373fb80e7becca0da2e2282eb9389a506b4d.jpg)
-![](https://imgsa.baidu.com/forum/w%3D580/sign=98bae6b84010b912bfc1f6f6f3fcfcb5/68852b6d55fbb2fb16bdf911484a20a44723dc8e.jpg)
+我就是前阵子呼叫“有没有人1.1号入坑”的楼主啦！5号入库的手机14号到了！入了两台，准备出其中一台！如果有需要可以联系我哈![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/i_f02.png)
+可以提供全程证明，是苹果官网买的！![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/c9b7c700baa1cd119644d323be12c8fcc2ce2daa.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/ec3f404e9258d109772f08b1d658ccbf6d814d54.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/086a373fb80e7becca0da2e2282eb9389a506b4d.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/68852b6d55fbb2fb16bdf911484a20a44723dc8e.jpg)
 
 >2楼-----------------------------------------------------------------------------------------
 
@@ -1521,11 +1522,11 @@ VX:fsyflh
 
 >15楼-----------------------------------------------------------------------------------------
 
-我就是前阵子呼叫“有没有人1.1号入坑”的楼主啦！5号入库的手机14号到了！入了两台，准备出其中一台！如果有需要可以联系我哈![](https://tb2.bdstatic.com/tb/editor/images/face/i_f02.png?t=20140803)
-可以提供全程证明，是苹果官网买的！![](https://imgsa.baidu.com/forum/w%3D580/sign=d05497085cb5c9ea62f303ebe538b622/c9b7c700baa1cd119644d323be12c8fcc2ce2daa.jpg)
-![](https://imgsa.baidu.com/forum/w%3D580/sign=f99cc1c8b5fb43161a1f7a7210a54642/ec3f404e9258d109772f08b1d658ccbf6d814d54.jpg)
-![](https://imgsa.baidu.com/forum/w%3D580/sign=445edede29738bd4c421b239918a876c/086a373fb80e7becca0da2e2282eb9389a506b4d.jpg)
-![](https://imgsa.baidu.com/forum/w%3D580/sign=98bae6b84010b912bfc1f6f6f3fcfcb5/68852b6d55fbb2fb16bdf911484a20a44723dc8e.jpg)
+我就是前阵子呼叫“有没有人1.1号入坑”的楼主啦！5号入库的手机14号到了！入了两台，准备出其中一台！如果有需要可以联系我哈![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/i_f02.png)
+可以提供全程证明，是苹果官网买的！![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/c9b7c700baa1cd119644d323be12c8fcc2ce2daa.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/ec3f404e9258d109772f08b1d658ccbf6d814d54.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/086a373fb80e7becca0da2e2282eb9389a506b4d.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/68852b6d55fbb2fb16bdf911484a20a44723dc8e.jpg)
 
 >16楼-----------------------------------------------------------------------------------------
 
@@ -1591,7 +1592,7 @@ VX:fsyflh
 带指纹识别的1188；
 亮蓝色美国官网被抢购完了，不过美国亚马逊还有少量货，不过要160美元而且还不包邮，所以我代购的话单独购买亮蓝收1150；
 其他颜色988
-有兴趣的可以到小站看看哈![](https://tb2.bdstatic.com/tb/editor/images/face/i_f01.png?t=20140803)
+有兴趣的可以到小站看看哈![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/i_f01.png)
 　
 
 
@@ -1657,7 +1658,7 @@ VX:fsyflh
 
 >2楼-----------------------------------------------------------------------------------------
 
-对滴……学弟有爱，么哒一个![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/wise/default/jFace_04.gif)
+对滴……学弟有爱，么哒一个![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/jFace_04.gif)
 
 >3楼-----------------------------------------------------------------------------------------
 
@@ -1688,7 +1689,7 @@ VX:fsyflh
 
 >6楼-----------------------------------------------------------------------------------------
 
-![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/jd/j_0004.gif)那今天开放了吧 天都这么冷了![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/jd/j_0009.gif)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/j_0004.gif)那今天开放了吧 天都这么冷了![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/j_0009.gif)
 
 >7楼-----------------------------------------------------------------------------------------
 
@@ -1723,7 +1724,7 @@ RT 这个成绩让我悲催……
 
 >7楼-----------------------------------------------------------------------------------------
 
-哈理工![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/jd/j_0012.gif)
+哈理工![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/j_0012.gif)
 
 >8楼-----------------------------------------------------------------------------------------
 
@@ -1771,7 +1772,7 @@ RT 这个成绩让我悲催……
 
 >19楼-----------------------------------------------------------------------------------------
 
-哈理工![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/jd/j_0012.gif)
+哈理工![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/j_0012.gif)
 
 >20楼-----------------------------------------------------------------------------------------
 
@@ -1844,9 +1845,9 @@ RT 这个成绩让我悲催……
 1.一开始线下营业厅小哥说违约金要700多，后来回访客服确定只要39，
 2.一开始说不能带副卡转，我坚决说可以的，然后系统提交成功了
 3.是4g的套餐，但是可以用5g网络（如图）
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=b07faa588eef76093c0b99971edca301/d69847a98226cffca29c1177fc014a90f403ea9b.jpg?tbpicau=2023-09-06-05_27cc6e48880dba8885f5141b78ddb688)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=6b29970174adcbef01347e0e9cae2e0e/8a19b34543a98226747785e2cf82b9014890eb9b.jpg?tbpicau=2023-09-06-05_f005c1d271fecd50d819fb7b7c62ec52)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=b167cf1273d12f2ece05ae687fc3d5ff/99c48218367adab48066b586ced4b31c8501e49b.jpg?tbpicau=2023-09-06-05_fd0ee5170c2a36a8a2dd7e93c2487610)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/d69847a98226cffca29c1177fc014a90f403ea9b.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/8a19b34543a98226747785e2cf82b9014890eb9b.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/99c48218367adab48066b586ced4b31c8501e49b.jpg)
 
 >2楼-----------------------------------------------------------------------------------------
 
@@ -1877,7 +1878,7 @@ RT 这个成绩让我悲催……
 
 >1楼-----------------------------------------------------------------------------------------
 
-大陆版说爱你不容易啊，价格感人![](https://tb2.bdstatic.com/tb/editor/images/face/i_f04.png?t=20140803)
+大陆版说爱你不容易啊，价格感人![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/i_f04.png)
 
 >2楼-----------------------------------------------------------------------------------------
 
@@ -1886,7 +1887,7 @@ RT 这个成绩让我悲催……
 >3楼-----------------------------------------------------------------------------------------
 
 其实无论是港版还是美版，我都可以帮你代购哦！
-有没有被我机制的打广告折服呢![](https://tb2.bdstatic.com/tb/editor/images/face/i_f02.png?t=20140803)
+有没有被我机制的打广告折服呢![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/i_f02.png)
 淘宝直接搜6644244 或者搜店铺：Arthur的代购小站就可以找到我的店铺哦！
 非全职代购，价格绝对不黑！
 
@@ -1910,7 +1911,7 @@ RT 这个成绩让我悲催……
 
 >7楼-----------------------------------------------------------------------------------------
 
-如果觉得官网价格太感人可以找我哦，我的价格绝对让你“感人”![](https://tb2.bdstatic.com/tb/editor/images/face/i_f01.png?t=20140803)
+如果觉得官网价格太感人可以找我哦，我的价格绝对让你“感人”![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/i_f01.png)
 　
 
 
@@ -1920,7 +1921,7 @@ RT 这个成绩让我悲催……
 >8楼-----------------------------------------------------------------------------------------
 
 国行+教育 I5低配=6649.2+2年保修
-国行+教育 M3版本=6019.2+2年保修![](https://tb2.bdstatic.com/tb/editor/images/face/i_f02.png?t=20140803)
+国行+教育 M3版本=6019.2+2年保修![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/i_f02.png)
 
 >9楼-----------------------------------------------------------------------------------------
 
@@ -1964,12 +1965,12 @@ ArthurFsy
 
 >6楼-----------------------------------------------------------------------------------------
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=79d76c3ce3096b6381195e583c328733/a4e10b087bf40ad111486cf00a2c11dfa8ecce94.jpg?tbpicau=2023-09-06-05_53ef3f6fe84443a3eb13c5692a6844f3)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=67c1ab099b5c1038247ececa8210931c/a76d99529822720e826249e926cb0a46f31fab94.jpg?tbpicau=2023-09-06-05_c3be4940dd4ef6efa3df6f6e4f5bc086)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=b1453604ecec8a13141a57e8c7029157/58997a8da97739125572978abd198618377ae224.jpg?tbpicau=2023-09-06-05_784fbb930e04a7da5b97d8b916e008df)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=d298d515f1af2eddd4f149e1bd110102/7ab02134349b033bff2457c948ce36d3d439bd94.jpg?tbpicau=2023-09-06-05_b61d371db0d37ffdbd94e3cba9b2de94)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=6e09d1ff2e600c33f079dec02a4d5134/a44b6bd9f2d3572c14b58e37cf13632763d0c324.jpg?tbpicau=2023-09-06-05_6c3ff755dab31c5048ae525f783c72a9)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=3a5e1340463b5bb5bed720f606d2d523/ffa72f9759ee3d6d4791952006166d224e4ade24.jpg?tbpicau=2023-09-06-05_71c74055b950386cc94f109453ca80f3)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/a4e10b087bf40ad111486cf00a2c11dfa8ecce94.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/a76d99529822720e826249e926cb0a46f31fab94.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/58997a8da97739125572978abd198618377ae224.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/7ab02134349b033bff2457c948ce36d3d439bd94.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/a44b6bd9f2d3572c14b58e37cf13632763d0c324.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/ffa72f9759ee3d6d4791952006166d224e4ade24.jpg)
 
 >7楼-----------------------------------------------------------------------------------------
 
@@ -2007,7 +2008,7 @@ up
 
 >1楼-----------------------------------------------------------------------------------------
 
-![](https://imgsa.baidu.com/forum/w%3D580/sign=db29ab579f510fb37819779fe931c893/14230624ab18972be9e3e524e7cd7b899f510a3c.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/14230624ab18972be9e3e524e7cd7b899f510a3c.jpg)
 猴子5.3D卖了 神水不知道能卖个几百L
 
 >2楼-----------------------------------------------------------------------------------------
@@ -2020,9 +2021,9 @@ fuck!我抽的全是天元聚魂丹
 >1楼-----------------------------------------------------------------------------------------
 
 离别居小屌丝一个：今天户书得天马1好高兴啊！怕被骗直接挂集市了
-![](https://imgsa.baidu.com/forum/w%3D580/sign=b563cc72279759ee4a5060c382fa434e/4e266c2762d0f7032c163da309fa513d2797c5db.jpg)
-![](https://imgsa.baidu.com/forum/w%3D580/sign=3ade9a4729381f309e198da199004c67/4fe1bc1c8701a18b2327ba309f2f07082938feb3.jpg)
-![](https://imgsa.baidu.com/forum/w%3D580/sign=1937e6840b46f21fc9345e5bc6256b31/821606f790529822bcf391bcd6ca7bcb0b46d447.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/4e266c2762d0f7032c163da309fa513d2797c5db.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/4fe1bc1c8701a18b2327ba309f2f07082938feb3.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/821606f790529822bcf391bcd6ca7bcb0b46d447.jpg)
 
 >2楼-----------------------------------------------------------------------------------------
 
@@ -2037,7 +2038,7 @@ fuck!我抽的全是天元聚魂丹
 
 >1楼-----------------------------------------------------------------------------------------
 
-貌似听说仙剑的淘宝商城是7.7开发。那么那天可不可以买到豪华版啊……不会只有标准版和数字版吧？？请教各位知情人士![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/jd/j_0013.gif)
+貌似听说仙剑的淘宝商城是7.7开发。那么那天可不可以买到豪华版啊……不会只有标准版和数字版吧？？请教各位知情人士![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/j_0013.gif)
 
 >2楼-----------------------------------------------------------------------------------------
 
@@ -2054,7 +2055,7 @@ fuck!我抽的全是天元聚魂丹
 
 请问最近有谁的245/245m有遇到gps无法定位的问题吗？
 我从1.17开始，跑步活动就无法正常搜索到gps幸好，三种gps模式都不可以，一直是下面的状态，一直在读取中。也连接电脑更新了，还是异常。不知道还有没有其他朋友有类似的问题
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=2f954859a77eca80120539efa1229712/4accda1b9d16fdfa32d52894a38f8c5494ee7b37.jpg?tbpicau=2023-09-06-05_3021da6e132860cb00b04da2a0a4fbfc)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/4accda1b9d16fdfa32d52894a38f8c5494ee7b37.jpg)
 
 >2楼-----------------------------------------------------------------------------------------
 
@@ -2075,8 +2076,8 @@ fuck!我抽的全是天元聚魂丹
 
 >6楼-----------------------------------------------------------------------------------------
 
-今天莫名其妙就自己好了，虚惊一场，还以为要返厂了呢![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon22.png)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon22.png)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=9d7ecb60d15c1038247ececa8211931c/38419135e5dde711e4c1888cb0efce1b9d166159.jpg?tbpicau=2023-09-06-05_ccbb9af24eac190f07a9059780547ec0)
+今天莫名其妙就自己好了，虚惊一场，还以为要返厂了呢![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon22.png)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon22.png)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/38419135e5dde711e4c1888cb0efce1b9d166159.jpg)
 
 >7楼-----------------------------------------------------------------------------------------
 
@@ -2087,8 +2088,8 @@ fuck!我抽的全是天元聚魂丹
 
 >1楼-----------------------------------------------------------------------------------------
 
-最近有入坑的朋友吗？大家进度怎么样![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon23.png)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon23.png)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon23.png)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=2999e7a9c600baa1ba2c47b37711b9b1/91871efa513d2697ef4a221842fbb2fb4216d841.jpg?tbpicau=2023-09-06-05_c16bba2ddc6d942532ef77bb4cb790dd)
+最近有入坑的朋友吗？大家进度怎么样![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon23.png)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon23.png)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon23.png)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/91871efa513d2697ef4a221842fbb2fb4216d841.jpg)
 
 >2楼-----------------------------------------------------------------------------------------
 
@@ -2096,13 +2097,13 @@ fuck!我抽的全是天元聚魂丹
 
 >3楼-----------------------------------------------------------------------------------------
 
-上了飞机更慢![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon33.png)
+上了飞机更慢![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon33.png)
 
 >4楼-----------------------------------------------------------------------------------------
 
-今天查了一下 上飞机了 不知道几天可以到国内![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon1.png)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon1.png)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon1.png)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=e732ef999d13632715edc23ba18ea056/0b423bf5e0fe99254adc1a1523a85edf8cb1710a.jpg?tbpicau=2023-09-06-05_f8ec0073bc1d23feec296bd3617ca8fd)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=7f8db0517c600c33f079dec02a4d5134/705f810a304e251f812497bdb086c9177e3e530a.jpg?tbpicau=2023-09-06-05_49c6070c14179c0e7775e7017cc6e434)
+今天查了一下 上飞机了 不知道几天可以到国内![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon1.png)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon1.png)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon1.png)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/0b423bf5e0fe99254adc1a1523a85edf8cb1710a.jpg)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/705f810a304e251f812497bdb086c9177e3e530a.jpg)
 
 >5楼-----------------------------------------------------------------------------------------
 
@@ -2111,7 +2112,7 @@ fuck!我抽的全是天元聚魂丹
 >6楼-----------------------------------------------------------------------------------------
 
 楼主你物流更新了能和我说一下吗？我想知道是我倒霉还是大家都这样
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=0d26bab1a04543a9f51bfac42e168a7b/3dbc872397dda144130b08f7a5b7d0a20df486e4.jpg?tbpicau=2023-09-06-05_54620b5d473b2a28aae4ba2b8d79cdcf)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/3dbc872397dda144130b08f7a5b7d0a20df486e4.jpg)
 
 >7楼-----------------------------------------------------------------------------------------
 
@@ -2131,7 +2132,7 @@ fuck!我抽的全是天元聚魂丹
 
 >11楼-----------------------------------------------------------------------------------------
 
-![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon40.png)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/bearchildren/bearchildren_06.gif)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/bearchildren/bearchildren_06.gif)![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/bearchildren/bearchildren_06.gif)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/image_emoticon40.png)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/bearchildren_06.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/bearchildren_06.gif)![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/bearchildren_06.gif)
 
 [问 在寝室里面安装空调会不会被处分 ](https://tieba.baidu.com/p/1657965299?pid=20775244157&cid=0#20775244157)
 
@@ -2153,7 +2154,7 @@ RT.备注:在李园这个限电的鬼地方...如果空调的功率不超过限�
 
 >1楼-----------------------------------------------------------------------------------------
 
-坑爹百游 你妹的没信誉![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/tsj/t_0009.gif)
+坑爹百游 你妹的没信誉![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/t_0009.gif)
 
 [（急）请问各位学长学姐收货地址怎么填](https://tieba.baidu.com/p/1657802313?pid=20772900917&cid=0#20772900917)
 
@@ -2180,7 +2181,7 @@ RT.备注:在李园这个限电的鬼地方...如果空调的功率不超过限�
 
 >6楼-----------------------------------------------------------------------------------------
 
-![](https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/jd/j_0043.gif)慢慢会好的    我刚到的时候  连快递是嘛都不晓得
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Tieba/j_0043.gif)慢慢会好的    我刚到的时候  连快递是嘛都不晓得
 
 [（预言）今年海南高考一本线是615^](https://tieba.baidu.com/p/1122745473?pid=12911244055&cid=0#12911244055)
 
