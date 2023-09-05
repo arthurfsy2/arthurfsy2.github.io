@@ -1,6 +1,6 @@
 ---
 # 这是文章的标题
-title: 我的贴子-列表
+title: 我的贴子
 # 这是页面的图标
 icon: "pencil"
 # 设置写作时间
@@ -19,7 +19,7 @@ tag:
 #footer: 这是测试显示的页脚
 # 你可以自定义版权信息
 #copyright: 无版权
-#index: false
+index: false
 ---
 [我的贴子](https://tieba.baidu.com/i/i/my_tie)
 [我回复的](https://tieba.baidu.com/i/i/my_reply)
@@ -33,6 +33,7 @@ tag:
 > ](https://tieba.baidu.com/p/8225716202?pid=146630453288&cid=0#146630453288)回复(8)
 
 ## 2021
+
 ### 10-12
 
 > 在 [ 仙剑7吧 ](https://tieba.baidu.com/f?kw=%E4%BB%99%E5%89%917 "仙剑7吧") 发贴[ 仙剑7预售的标准版到了 ](https://tieba.baidu.com/p/7573201090?pid=141644491538&cid=0#141644491538)回复(11)
@@ -46,6 +47,7 @@ tag:
 > 在 [ 爱康跑步机吧 ](https://tieba.baidu.com/f?kw=%E7%88%B1%E5%BA%B7%E8%B7%91%E6%AD%A5%E6%9C%BA "爱康跑步机吧") 发贴[ 爱康跑步机iFit家庭会员共享（有偿） ](https://tieba.baidu.com/p/7536797472?pid=141272290796&cid=0#141272290796)回复(17)
 
 ## 2020
+
 ### 12-15
 
 > 在 [ 转运四方吧 ](https://tieba.baidu.com/f?kw=%E8%BD%AC%E8%BF%90%E5%9B%9B%E6%96%B9 "转运四方吧") 发贴[ 转运四方现在出库那么慢吗？都一个星期了 ](https://tieba.baidu.com/p/7151308892?pid=137035400007&cid=0#137035400007)回复(20)
@@ -75,6 +77,7 @@ tag:
 > ](https://tieba.baidu.com/p/6442154267?pid=129351989129&cid=0#129351989129)回复(37)
 
 ## 2019
+
 ### 12-20
 
 > 在 [ surface吧 ](https://tieba.baidu.com/f?kw=surface "surface吧") 发贴[ 在哪里可以代购surface laptop？ ](https://tieba.baidu.com/p/6402129773?pid=128923667913&cid=0#128923667913)回复(3)
@@ -84,6 +87,7 @@ tag:
 > 在 [ surfacelaptop吧 ](https://tieba.baidu.com/f?kw=surfacelaptop "surfacelaptop吧") 发贴[ 有无需要代购laptop3的朋友？（兼职代购） ](https://tieba.baidu.com/p/6402083547?pid=128923197002&cid=0#128923197002)回复(2)
 
 ## 2016
+
 ### 10-24
 
 > 在 [ 网易阴阳师吧 ](https://tieba.baidu.com/f?kw=%E7%BD%91%E6%98%93%E9%98%B4%E9%98%B3%E5%B8%88 "网易阴阳师吧") 发贴[ 回复：（非晒求教）斗鸡如何上1800分段⋯⋯
@@ -104,6 +108,7 @@ tag:
 > ](https://tieba.baidu.com/p/4251810517?pid=81836844037&cid=0#81836844037)回复(108)
 
 ## 2015
+
 ### 12-28
 
 > 在 [ 转运中国吧 ](https://tieba.baidu.com/f?kw=%E8%BD%AC%E8%BF%90%E4%B8%AD%E5%9B%BD "转运中国吧") 发贴[ 新人请教一下转运公司签收的事情 ](https://tieba.baidu.com/p/4237843794?pid=81382138285&cid=0#81382138285)回复(3)
@@ -137,6 +142,7 @@ tag:
 > 在 [ 值得海淘吧 ](https://tieba.baidu.com/f?kw=%E5%80%BC%E5%BE%97%E6%B5%B7%E6%B7%98 "值得海淘吧") 发贴[ 值得海淘 法亚 Nexus 6 白色32G无税到手 ](https://tieba.baidu.com/p/3720824935?pid=67445288508&cid=0#67445288508)回复(2)
 
 ## 2014
+
 ### 12-16
 
 > 在 [ 西南大学吧 ](https://tieba.baidu.com/f?kw=%E8%A5%BF%E5%8D%97%E5%A4%A7%E5%AD%A6 "西南大学吧") 发贴[ 学校的空调能放暖气吗？？？ ](https://tieba.baidu.com/p/3470430889?pid=61718424702&cid=0#61718424702)回复(9)
@@ -151,6 +157,7 @@ tag:
 > 在 [ 西南大学吧 ](https://tieba.baidu.com/f?kw=%E8%A5%BF%E5%8D%97%E5%A4%A7%E5%AD%A6 "西南大学吧") 发贴[ 大四的各位朋友，有谁有出国读研的打算的吗？ ](https://tieba.baidu.com/p/3296626526?pid=57487539065&cid=0#57487539065)回复(2)
 
 ## 2013
+
 ### 11-15
 
 > 在 [ nexus5吧 ](https://tieba.baidu.com/f?kw=nexus5 "nexus5吧") 发贴[ 北京时间11.2晚上11点下单终于发货！ ](https://tieba.baidu.com/p/2706194826?pid=41704399052&cid=0#41704399052)回复(3)
@@ -164,6 +171,7 @@ tag:
 > 在 [ 九阴吧 ](https://tieba.baidu.com/f?kw=%E4%B9%9D%E9%98%B4 "九阴吧") 发贴[ 离别居的想要人品的赶紧进来了！！户书得天... ](https://tieba.baidu.com/p/2241957750?pid=30923003041&cid=0#30923003041)回复(2)
 
 ## 2012
+
 ### 10-16
 
 > 在 [ 西南大学吧 ](https://tieba.baidu.com/f?kw=%E8%A5%BF%E5%8D%97%E5%A4%A7%E5%AD%A6 "西南大学吧") 发贴[ 有谁参加过“美国暑期工社会实践”的？求指教 ](https://tieba.baidu.com/p/1925004018?pid=25305163461&cid=0#25305163461)回复(3)
@@ -253,6 +261,7 @@ tag:
 > 在 [ 樟树林吧 ](https://tieba.baidu.com/f?kw=%E6%A8%9F%E6%A0%91%E6%9E%97 "樟树林吧") 发贴[ （急）请问各位学长学姐收货地址怎么填 ](https://tieba.baidu.com/p/1202887810?pid=14156401461&cid=0#14156401461)回复(5)
 
 ## 2011
+
 ### 7-7
 
 > 在 [ 仙剑5吧 ](https://tieba.baidu.com/f?kw=%E4%BB%99%E5%89%915 "仙剑5吧") 发贴[ &lt;非剧透&gt;谈谈仙剑5战斗音乐感想 ](https://tieba.baidu.com/p/1133064723?pid=13060509823&cid=0#13060509823)回复
