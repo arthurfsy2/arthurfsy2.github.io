@@ -4,13 +4,13 @@
 # 这是页面的图标
 icon: shop
 # 设置写作时间
-date: 2013-06-20
+#date: 2013-06-20
 # 一个页面可以有多个分类
 category:
   - Arthur
 # 一个页面可以有多个标签
 tag:
-  - 贴吧
+  - QQ空间
   - 备份
 # 此页面会在文章列表置顶
 #sticky: true
@@ -23,16 +23,18 @@ tag:
 index: false
 order: 1
 ---
-# 百度贴吧
+# 搜狗问问
 
-:::info 个人百度贴吧-原目录
+:::info 链接
+[搜狗问问个人中心](https://wenwen.sogou.com/user/center/?ch=ww.dh.grzx)
 
-1. [我的贴子](https://tieba.baidu.com/i/i/my_tie)
-2. [我回复的](https://tieba.baidu.com/i/i/my_reply)
-3. [我的精品](https://tieba.baidu.com/i/i/feature)
+
+
 
 :::
 
-## [我的贴子](/Arthur/Tieba/我的贴子)
+## [我的回答](/Arthur/搜狗问问/我的回答)
 
-## [我回复的](/Arthur/Tieba/我回复的)
+## [我的提问](/Arthur/搜狗问问/我的提问)
+
+
