@@ -8,7 +8,7 @@ tag:
   - 备份
 order: 2
 ---
-# 我的回答-汇总
+**我的回答-汇总**
 
 ## [ 泣而从之”出自哪](https://wenwen.sogou.com/question/q172713353.htm)
 
@@ -300,7 +300,7 @@ order: 2
 2：为什么这笔钱会转到支付宝？  我并没有设置支付宝啊？
 知道的请回答 谢谢啦
 
-![](http://p.qpic.cn/wenwenpic/0/20090730220220-24551280/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的回答/20090730220220-24551280.jpg)
 
 ---
 
@@ -392,7 +392,7 @@ order: 2
 **活着**
 2010.04.11 回答
 
-> ![](https://pic.wenwen.soso.com/p/20100411/20100411202425-1684446653.jpg)
+> ![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的回答/20100411202425-1684446653.jpg)
 > 应该是这个的问题！！
 
 ---
@@ -557,7 +557,7 @@ order: 2
 
 > 本人QQ 249395801 会搞的联系下，小弟先拜谢！验证码为：“计算机疑难”
 
-![](http://p.qpic.cn/wenwenpic/0/20100305011422-870945610/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的回答/20100305011422-870945610.jpg)
 
 ---
 
@@ -572,7 +572,7 @@ order: 2
 **诗人**
 2010.03.17 回答
 
-> ![](https://img.sogoucdn.com/v2/thumb/?appid=200698&url=https%3A%2F%2Fpic.wenwen.soso.com%2Fp%2F20100317%2F20100317124309-832136533.jpg) 看看是不是中了潜行者病毒，下这个软件看看
+> ![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的回答/20100317124309-832136533.jpg) 看看是不是中了潜行者病毒，下这个软件看看
 
 ---
 
@@ -645,7 +645,7 @@ order: 2
 
 > 如题，是不是带有20W副摄像头的，都是水货，我不喜欢心机！
 
-![](http://p.qpic.cn/wenwenpic/0/wapm-20100226094050-1171215003/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的回答/20100226094050-1171215003.jpg)
 
 ---
 
@@ -1135,7 +1135,7 @@ order: 2
 > 我搜了一下，也装了360紧急修复，但是那上面说是“系统中没有丢失任何常用的文件”
 > 但是上DNF还是出现
 
-![](http://p.qpic.cn/wenwenpic/0/wapm-20100327084144-536564790/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的回答/20100327084144-536564790.jpg)
 
 ---
 
@@ -1644,7 +1644,7 @@ order: 2
 
 > 昨天晚上刚把号放上CBG.到了明天我再上的时候.号不见了多出了这个东东是不是有人已经把我的号买了？顺便问下我有银行卡.但是没开通网上银行.拿钱的时候要等多久？开通网上银行需要什么手续？要交多少钱什么的~告诉下
 
-![](http://p.qpic.cn/wenwenpic/0/wapm-20110321135746-1711686516/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的回答/20110321135746-1711686516.jpg)
 
 ---
 
@@ -1918,7 +1918,7 @@ order: 2
 
 > 不知道是不是我电脑有问题,前天刚重装DNF下过来就不能玩，登入的时候还好突然就弹出来个东西我弄了好久下了很多修复的都不行不知道是我脑子笨还是下的不对求个高人指点下
 
-![](http://p.qpic.cn/wenwenpic/0/wapm-20100320075725-1438790010/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的回答/20100320075725-1438790010.jpg)
 
 ---
 
@@ -2070,7 +2070,7 @@ order: 2
 
 要完整的,别来忽悠我啊,
 
-![](http://p.qpic.cn/wenwenpic/0/wapm-20090729205956-2126031967/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的回答/20090729205956-2126031967.jpg)
 
 ---
 
@@ -2273,7 +2273,7 @@ order: 2
 
 > 今天上DNF时就弹出了这个东西, 我也没用挂,杀毒也杀不出有毒. 还有,打开QQ音乐听不到歌,,打开酷狗音乐说什么找不到DSOUND.dll这个东西..  我晕,那位大哥大姐帮下我嘞.
 
-![](http://p.qpic.cn/wenwenpic/0/wapm-20100327141145-975987155/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的回答/20100327141145-975987155.jpg)
 
 ---
 
@@ -2616,7 +2616,7 @@ order: 2
 
 > 找不到dsound.dll文件
 
-![](http://p.qpic.cn/wenwenpic/0/wapm-20100331163252-703721222/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的回答/20100331163252-703721222.jpg)
 
 ---
 
@@ -2662,7 +2662,7 @@ order: 2
 
 > 搜狗浏览器登不了网上银行付款怎么办，求大神急急急
 
-![](http://p.qpic.cn/wenwenpic/0/wapm-20150902102649-327361425/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的回答/20150902102649-327361425.jpg)
 
 ---
 
@@ -2958,7 +2958,7 @@ order: 2
 
 > 梦幻CBG买号这个证书具体点是要什么证书？
 
-![](http://p.qpic.cn/wenwenpic/0/wapm-20090731223959-1901262443/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的回答/20090731223959-1901262443.jpg)
 
 ---
 
@@ -3162,7 +3162,7 @@ order: 2
 **ArthurFSY**
 2009.07.29 回答
 
-> ![](https://pic.wenwen.soso.com/p/20090729/20090729183330-278603813.jpg) 家具的配方，和第一个回答的同志一样。现在我做的是补充：
+> ![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的回答/20090729183330-278603813.jpg) 家具的配方，和第一个回答的同志一样。现在我做的是补充：
 > 这个我是从17173的工具箱上面看到的，回答完毕，请采纳答案
 
 ---
@@ -3607,7 +3607,7 @@ order: 2
 
 > 梦幻网易宝开户姓名怎么改？
 
-![](http://p.qpic.cn/wenwenpic/0/wapm-20110328134032-1003582725/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的回答/20110328134032-1003582725.jpg)
 
 ---
 
@@ -4566,11 +4566,11 @@ order: 2
 > 娘的！！！！看清楚我重新装过了
 > 已经卸载了，并已重新安装成功，看清楚在回答，
 
-![](http://p.qpic.cn/wenwenpic/0/wapm-20100219151014-1104007128/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的回答/20100219151014-1104007128.jpg)
 
-![](http://p.qpic.cn/wenwenpic/0/wapm-20100219151035-73420711/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的回答/20100219151035-73420711.jpg)
 
-![](http://p.qpic.cn/wenwenpic/0/wapm-20100219151147-846390820/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的回答/20100219151147-846390820.jpg)
 
 ---
 
@@ -4872,7 +4872,7 @@ order: 2
 
 > 梦幻西游孩子属性问题谁给我解释我的孩子打还魂为什么只扣7武力不是10吗还有体不是扣20吗怎么才扣16？
 
-![](http://p.qpic.cn/wenwenpic/0/wapm-20090728182932-790906843/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的回答/20090728182932-790906843.jpg)
 
 ---
 
@@ -5042,7 +5042,7 @@ order: 2
 
 > 就这么说怎么弄？重下也没用
 
-![](http://p.qpic.cn/wenwenpic/0/wapm-20100223181333-910109641/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的回答/20100223181333-910109641.jpg)
 
 ---
 
@@ -5531,16 +5531,16 @@ order: 2
 
 我用了水清都解不掉#24
 
-![](http://p.qpic.cn/wenwenpic/0/wapm-20090814152437-143620676/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的回答/20090814152437-143620676.jpg)
 
-![](http://p.qpic.cn/wenwenpic/0/wapm-20090814152504-611506824/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的回答/20090814152504-611506824.jpg)
 
 ---
 
 **ArthurFSY**
 2009.08.14 回答
 
-> ![](https://pic.wenwen.soso.com/p/20090814/20090814153610-1575446669.jpg) 这是一个怪物的阵法……很雷人……
+> ![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的回答/20090814153610-1575446669.jpg) 这是一个怪物的阵法……很雷人……
 
 ---
 
@@ -6443,15 +6443,15 @@ order: 2
 > 我的号是外地升的  安全信息也不记的了```
 
     想绑将军 ，但是他说我的IP不是升号那里的 所以要打安全
-
+    
     但是我就是应为不记的安全才要绑将军````
-
+    
     跪求高手怎么办
-
+    
     随便有人会让网易不知道我的IP 吗
-
+    
     高手  20分```
-
+    
     谢谢
  最好屏蔽IP
 
@@ -7699,7 +7699,7 @@ order: 2
 **ArthurFSY**
 2009.07.29 回答
 
-> ![](https://pic.wenwen.soso.com/p/20090729/20090729223241-872779342.jpg) 你有福了 我找到了
+> ![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的回答/20090729223241-872779342.jpg) 你有福了 我找到了
 > ！！
 > 如果不清楚的话可以上这个网站http://xyq.163.com/news/2005/09/2-2-20050927113110.html
 > 这个是官方的！希望采纳

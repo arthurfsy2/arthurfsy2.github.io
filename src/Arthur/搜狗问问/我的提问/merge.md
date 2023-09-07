@@ -22,7 +22,7 @@ tag:
 #copyright: 无版权
 order: 2
 ---
-## 我的提问-汇总
+**我的提问-汇总**
 
 ### [一道数列的问题 ](https://wenwen.sogou.com/question/q146556976.htm)
 
@@ -31,7 +31,7 @@ order: 2
 
 > 一道数列的问题?
 
-![](http://p.qpic.cn/wenwenpic/0/20090730163700-1875912219/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的提问/20090730163700-1875912219/.jpg)
 
 ---
 
@@ -101,7 +101,7 @@ order: 2
 
 > 一道数列的问题……
 
-![](http://p.qpic.cn/wenwenpic/0/20090730104926-817523870/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的提问/20090730104926-817523870/.jpg)
 
 ---
 
@@ -121,7 +121,7 @@ order: 2
 
 > 又是一道高中数列题
 
-![](http://p.qpic.cn/wenwenpic/0/20090730100730-11000152/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的提问/20090730100730-11000152/.jpg)
 
 ---
 
@@ -137,7 +137,7 @@ order: 2
 
 > 又有一道数列问题，高中的
 
-![](http://p.qpic.cn/wenwenpic/0/20090730104821-492985981/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的提问/20090730104821-492985981/.jpg)
 
 ---
 
@@ -157,7 +157,7 @@ order: 2
 
 （3）求点C1到平面AEC的距离
 
-![](http://p.qpic.cn/wenwenpic/0/20090728094515-654134533/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的提问/20090728094515-654134533/.jpg)
 
 ---
 
@@ -274,7 +274,7 @@ order: 2
 **雷达**
 2009.07.27 回答
 
-> 3过A作AE垂直于PM因为已经证得平面PMB⊥平面PAD，所以AE⊥PMB，所以AE就是所求距离，易知△PDM相似于△AEM然后可得AE=五分之根号五a![](https://pic.wenwen.soso.com/p/20090727/20090727211313-177603613.jpg)
+> 3过A作AE垂直于PM因为已经证得平面PMB⊥平面PAD，所以AE⊥PMB，所以AE就是所求距离，易知△PDM相似于△AEM然后可得AE=五分之根号五a![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的提问/20090727211313-177603613.jpg)
 
 ---
 
@@ -376,15 +376,15 @@ order: 2
 
 谢谢大家的热心回答 从目前来看我这个号的价格大约在1200-1500左右……有比较权威的达人估价吗？感激不尽
 
-![](http://p.qpic.cn/wenwenpic/0/20110416175911-1300653800/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的提问/20110416175911-1300653800/.jpg)
 
-![](http://p.qpic.cn/wenwenpic/0/20110416175749-1708637575/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的提问/20110416175749-1708637575/.jpg)
 
-![](http://p.qpic.cn/wenwenpic/0/20110416175856-1627548663/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的提问/20110416175856-1627548663/.jpg)
 
-![](http://p.qpic.cn/wenwenpic/0/20110416175808-908318299/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的提问/20110416175808-908318299/.jpg)
 
-![](http://p.qpic.cn/wenwenpic/0/20110416175730-1737259794/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的提问/20110416175730-1737259794/.jpg)
 
 ---
 
@@ -485,7 +485,7 @@ order: 2
 
 红色的为O'点
 
-![](http://p.qpic.cn/wenwenpic/0/20090727234751-188559452/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的提问/20090727234751-188559452/.jpg)
 
 ---
 
@@ -747,7 +747,7 @@ CPU：Intel Core2 Duo 2.3Ghz或AMD同等性能芯片及以上
 
 听说是欧美很有名的女you ，有谁知道的
 
-![](http://p.qpic.cn/wenwenpic/0/20110403160939-408595528/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的提问/20110403160939-408595528/.jpg)
 
 ---
 
@@ -844,13 +844,13 @@ CPU：Intel Core2 Duo 2.3Ghz或AMD同等性能芯片及以上
 **匿名用户**
 28 次浏览2009.07.30 提问
 
-![](http://p.qpic.cn/wenwenpic/0/20090730100252-1752955230/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的提问/20090730100252-1752955230/.jpg)
 
-![](http://p.qpic.cn/wenwenpic/0/20090730100300-755654410/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的提问/20090730100300-755654410/.jpg)
 
-![](http://p.qpic.cn/wenwenpic/0/20090730100314-1213835028/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的提问/20090730100314-1213835028/.jpg)
 
-![](http://p.qpic.cn/wenwenpic/0/20090730095810-264939927/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的提问/20090730095810-264939927/.jpg)
 
 ---
 
@@ -879,7 +879,7 @@ CPU：Intel Core2 Duo 2.3Ghz或AMD同等性能芯片及以上
 
 > 高中数学数列问题
 
-![](http://p.qpic.cn/wenwenpic/0/20090730095339-565467200/0)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/个人建站/assets/Sougouwenwen/我的提问/20090730095339-565467200/.jpg)
 
 ---
 

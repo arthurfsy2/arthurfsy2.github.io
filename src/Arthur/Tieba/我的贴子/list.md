@@ -1,10 +1,10 @@
 ---
 # 这是文章的标题
-title: 我的贴子
+title: 贴子列表
 # 这是页面的图标
 icon: "pencil"
 # 设置写作时间
-#date: 2019-05-04
+date: 2011-03-10
 # 一个页面可以有多个分类
 category:
   - Arthur
@@ -20,7 +20,7 @@ tag:
 #footer: 这是测试显示的页脚
 # 你可以自定义版权信息
 #copyright: 无版权
-index: false
+order: 1
 ---
 [我的贴子](https://tieba.baidu.com/i/i/my_tie)
 [我回复的](https://tieba.baidu.com/i/i/my_reply)
