@@ -65,6 +65,7 @@ export default hopeTheme({
       "/Arthur/Qzone": ["364115"],
       "/Arthur/Weibo": ["364115"],
       "/Arthur/Tieba": ["364115"],
+      "/Arthur/搜狗问问": ["364115"],
       "/叶子飞/": ["615881"],
       
       
