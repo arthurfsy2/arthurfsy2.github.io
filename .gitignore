@@ -5,3 +5,4 @@ src/.vuepress/.temp/
 src/.vuepress/.stfolder/
 src/.vuepress/dist/
 .vscode
+.nvmrc
