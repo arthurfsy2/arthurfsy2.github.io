@@ -1,4 +1,4 @@
-name: Deploy Docs
+name: 部署文档
 
 on:
   push:
@@ -17,23 +17,23 @@ jobs:
           # if your docs needs submodules, uncomment the following line
           # submodules: true
 
-      - name: Setup Node.js and Yarn
+      - name: 设置 Node.js 和 Yarn
         uses: actions/setup-node@v2.4.1
         with:
           node-version: 20.x
       - run: npm install -g yarn
 
-      - name: Install Dependencies
+      - name: 安装依赖
         run: yarn install
 
-      - name: Build Docs
+      - name: 构建文档
         env:
           NODE_OPTIONS: --max_old_space_size=8192
         run: |-
           yarn run docs:build
           > src/.vuepress/dist/.nojekyll
 
-      - name: Deploy Docs
+      - name: 部署文档
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           # This is the branch where the docs are deployed to
