@@ -54,16 +54,25 @@ flowchart LR
 
 vuepress-theme-hope内置的markdownEnhance功能，已经支持echarts图表（大部分）的展示了，可以通过await+fetch的方式引入json文件，并生成折线图。
 效果如下：
-:::echarts 笑笑爸爸体重
+:::echarts 
 
 ```js
 const data = await fetch(
-  "https://cdn.jsdelivr.net/gh/arthurfsy2/yunmai_weight_extract2json@master/weight_fsy.json"
+  "https://raw.githubusercontent.com/arthurfsy2/yunmai_weight_extract2json/main/weight_fsy.json"
+).then((res) => res.json());
+
+const data2 = await fetch(
+  "https://raw.githubusercontent.com/arthurfsy2/yunmai_weight_extract2json/main/weight_wyf.json"
 ).then((res) => res.json());
 
 var a = data.map(function (item) {
     return item.weight
 })
+
+var a2 = data2.map(function (item) {
+    return item.weight
+})
+
 function getAvg(arr) {
     var sum = 0;
     for (var i = 0; i < arr.length; i++) {
@@ -74,10 +83,7 @@ function getAvg(arr) {
 }
 
 const option = {
-      title: {
-        text: "Arthur体重",
-        left: "1%"
-      },
+      
       tooltip: {
         trigger: "axis"
       },
@@ -94,31 +100,54 @@ const option = {
        
         })
       },
-      ],
-      yAxis: {
-        scale:true
+      {
+        
+        data: data2.map(function (item) {
+          return item.createTime;
+       
+        })
       },
+      ],
+      yAxis: [
+        {
+        type: "value",
+        scale: true,
+        name: "体重",
+        position: "left",
+        alignTicks: true,
+        axisLine: {
+          show: true,
+
+       },
+      axisLabel: {
+         formatter: "{value}kg"
+       }
+      },
+      
+      ],
       toolbox: {
         right: 10,
         feature: {
-          dataZoom: {
-            yAxisIndex: "none"
-          },
+          
           restore: {},
           saveAsImage: {}
         }
       },
       dataZoom: [
         {
-          startValue: data[data.length-90].createTime
+          start: 80
         },
         {
           type: "inside"
         }
       ],
-      visualMap: {
+      visualMap: [
+        {
+        
+        seriesIndex:0,
         top: 50,
         right: 10,
+        
         pieces: [
           {
 
@@ -150,13 +179,56 @@ const option = {
           color: "#999"
         }
       },
+      {
+        
+        seriesIndex:1,
+        down: 50,
+        right: 10,
+        pieces: [
+          {
+
+            lte: 53.465,
+            label: "偏瘦",
+            color: "grey"
+          },
+          {
+            gt: 53.465,
+            lte: 69.36,
+            label: "正常",
+            color: "green"
+          },
+          {
+            gt: 69.36,
+            lte: 80.92,
+            label: "偏胖",
+            color: "orange"
+          },
+          {
+            gt: 80.92,
+            
+            label: "肥胖",
+            color: "red"
+          },
+          
+        ],
+        outOfRange: {
+          color: "#999"
+        }
+      },
+      
+      ],
       series: [
         {
-        name: "Arthur体重",
+        name: "Mr.Feng体重",
         type: "line",
+        xAxisIndex: 0,
+        yAxisIndex: 0,
+        symbol: "none",
+        smooth: true,
         data: data.map(function (item) {
           return item.weight;
-        }),
+          }),
+        
         markLine: {
           silent: false,
           lineStyle: {
@@ -170,6 +242,31 @@ const option = {
           ]
         }
       },
+      {
+        name: "Ms.Wu体重",
+        type: "line",
+        xAxisIndex: 1,
+        yAxisIndex: 0,
+        symbol: "none",
+        smooth: true,
+        data: data2.map(function (item) {
+          return item.weight;
+        }),
+        
+        markLine: {
+          silent: false,
+          lineStyle: {
+            color: "#333"
+          },
+          data: [
+           
+            {
+              yAxis: getAvg(a2).toFixed(2)
+            },
+          ]
+        }
+      },
+      
       ]
     }
 ```
@@ -180,16 +277,25 @@ const option = {
 `const data = await fetch()`对应的链接、标题名称等内容即可。
 
 ````md 
-:::echarts 笑笑爸爸体重
+:::echarts 
 
 ```js
 const data = await fetch(
-  "https://cdn.jsdelivr.net/gh/arthurfsy2/yunmai_weight_extract2json@master/weight_fsy.json"
+  "https://raw.githubusercontent.com/arthurfsy2/yunmai_weight_extract2json/main/weight_fsy.json"
+).then((res) => res.json());
+
+const data2 = await fetch(
+  "https://raw.githubusercontent.com/arthurfsy2/yunmai_weight_extract2json/main/weight_wyf.json"
 ).then((res) => res.json());
 
 var a = data.map(function (item) {
     return item.weight
 })
+
+var a2 = data2.map(function (item) {
+    return item.weight
+})
+
 function getAvg(arr) {
     var sum = 0;
     for (var i = 0; i < arr.length; i++) {
@@ -200,10 +306,7 @@ function getAvg(arr) {
 }
 
 const option = {
-      title: {
-        text: "Arthur体重",
-        left: "1%"
-      },
+      
       tooltip: {
         trigger: "axis"
       },
@@ -220,31 +323,54 @@ const option = {
        
         })
       },
-      ],
-      yAxis: {
-        scale:true
+      {
+        
+        data: data2.map(function (item) {
+          return item.createTime;
+       
+        })
       },
+      ],
+      yAxis: [
+        {
+        type: "value",
+        scale: true,
+        name: "体重",
+        position: "left",
+        alignTicks: true,
+        axisLine: {
+          show: true,
+
+       },
+      axisLabel: {
+         formatter: "{value}kg"
+       }
+      },
+      
+      ],
       toolbox: {
         right: 10,
         feature: {
-          dataZoom: {
-            yAxisIndex: "none"
-          },
+          
           restore: {},
           saveAsImage: {}
         }
       },
       dataZoom: [
         {
-          startValue: data[data.length-90].createTime
+          start: 80
         },
         {
           type: "inside"
         }
       ],
-      visualMap: {
+      visualMap: [
+        {
+        
+        seriesIndex:0,
         top: 50,
         right: 10,
+        
         pieces: [
           {
 
@@ -276,13 +402,56 @@ const option = {
           color: "#999"
         }
       },
+      {
+        
+        seriesIndex:1,
+        down: 50,
+        right: 10,
+        pieces: [
+          {
+
+            lte: 53.465,
+            label: "偏瘦",
+            color: "grey"
+          },
+          {
+            gt: 53.465,
+            lte: 69.36,
+            label: "正常",
+            color: "green"
+          },
+          {
+            gt: 69.36,
+            lte: 80.92,
+            label: "偏胖",
+            color: "orange"
+          },
+          {
+            gt: 80.92,
+            
+            label: "肥胖",
+            color: "red"
+          },
+          
+        ],
+        outOfRange: {
+          color: "#999"
+        }
+      },
+      
+      ],
       series: [
         {
-        name: "Arthur体重",
+        name: "Mr.Feng体重",
         type: "line",
+        xAxisIndex: 0,
+        yAxisIndex: 0,
+        symbol: "none",
+        smooth: true,
         data: data.map(function (item) {
           return item.weight;
-        }),
+          }),
+        
         markLine: {
           silent: false,
           lineStyle: {
@@ -296,6 +465,31 @@ const option = {
           ]
         }
       },
+      {
+        name: "Ms.Wu体重",
+        type: "line",
+        xAxisIndex: 1,
+        yAxisIndex: 0,
+        symbol: "none",
+        smooth: true,
+        data: data2.map(function (item) {
+          return item.weight;
+        }),
+        
+        markLine: {
+          silent: false,
+          lineStyle: {
+            color: "#333"
+          },
+          data: [
+           
+            {
+              yAxis: getAvg(a2).toFixed(2)
+            },
+          ]
+        }
+      },
+      
       ]
     }
 ```
