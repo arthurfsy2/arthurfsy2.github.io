@@ -69,10 +69,10 @@ flowchart TB
 
 ::: tabs
 @tab 微信
-![冯先生的微信](/assets/img/wechatContact.jpg =300x)
+![冯先生的微信](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/img/wechatContact.webp =300x)
 
 @tab QQ
-![冯先生的QQ](/assets/img/QQContact.png =300x)
+![冯先生的QQ](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/img/QQContact.webp =300x)
 
 @tab 手机
 
@@ -92,7 +92,7 @@ flowchart TB
 
 ::: tabs
 @tab 支付宝
-![扫一扫](/assets/img/Alipay.jpg =300x)
+![扫一扫](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/img/Alipay.webp =300x)
 @tab 微信
-![扫一扫](/assets/img/wechatPay.jpg =300x)
+![扫一扫](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/img/wechatPay.webp =300x)
 :::

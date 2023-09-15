@@ -10,22 +10,22 @@ heroText: Family's Life
 heroFullScreen: true
 tagline: 在小小的屋子里，笑笑爬呀爬
 projects:
-  - icon: /assets/img/Home_Assistant_Logo.svg
+  - icon: https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/img/Home_Assistant_Logo.svg
     name: Home Assistant
     desc: 
     link: http://ddns.4a1801.life:8123
 
-  - icon: /assets/img/alist.svg
+  - icon: https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/img/alist.svg
     name: 家庭云盘
     desc: 
     link: https://pan.4a1801.life
 
-  - icon: /assets/img/NAS.png
+  - icon: https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/img/NAS.webp
     name: NAS
     desc: 
     link: http://ddns.4a1801.life:5055
 
-  - icon: /assets/img/jellyfin.svg
+  - icon: https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/img/jellyfin.svg
     name: Jellyfin
     desc: 
     link: http://ddns.4a1801.life:8096
@@ -40,11 +40,11 @@ projects:
     desc: 运动记录
     link: http://ddns.4a1801.life:8089
 
-  - icon: /assets/img/qBittorrent.svg
+  - icon: https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/img/qBittorrent.svg
     name: qBtorrent
     link: http://ddns.4a1801.life:8085
 
-  - icon: /assets/img/nastool.png
+  - icon: https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/img/nastool.webp
     name: nastools
     desc: PT站下载
     link: http://ddns.4a1801.life:3003

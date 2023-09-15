@@ -26,7 +26,7 @@ index: false
 > [Yogyakarta](/Arthur/Qzone/相册/生活/Yogyakarta)
 
 
->[![Yogyakarta](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Albums/images/32329446.jpeg =300x)](/Arthur/Qzone/相册/生活/Yogyakarta) 
+>[![Yogyakarta](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/Qzone/Albums/images/32329446.webp =300x)](/Arthur/Qzone/相册/生活/Yogyakarta) 
 
 
 >Yogyakarta 
@@ -39,7 +39,7 @@ index: false
 > [爱爱爱](/Arthur/Qzone/相册/生活/爱爱爱)
 
 
->[![爱爱爱](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/assets/Qzone/Albums/images/3AF4599D.jpeg =300x)](/Arthur/Qzone/相册/生活/爱爱爱) 
+>[![爱爱爱](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/Qzone/Albums/images/3AF4599D.webp =300x)](/Arthur/Qzone/相册/生活/爱爱爱) 
 
 
 >  
