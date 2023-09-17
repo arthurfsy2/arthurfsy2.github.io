@@ -78,11 +78,11 @@ flowchart TB
 
 :::center
 
-<button type="button" style="padding: 20px 30px; background-color: blue; color: #fff; border: 100; border-radius: 50px;" onclick="window.location.href='tel:17503049257'">🤙冯先生 Tel:175-0304-9257</button>
+[![](https://img.shields.io/badge/%E5%86%AF%E5%85%88%E7%94%9F-175--0304--9257-blue =300x)](TEL:17503049257)
 
-<button type="button" style="padding: 20px 30px; background-color: green; color: #fff; border: none; border-radius: 50px;" onclick="window.location.href='tel:13642865881'">🤙吴女士 Tel:136-4286-5881</button>
+[![](https://img.shields.io/badge/%E5%90%B4%E5%A5%B3%E5%A3%AB-136--4286--5881-green =300x)](TEL:13642865881)
 
-<button type="button" style="padding: 20px 30px; background-color: pink; color: #fff; border: none; border-radius: 50px;" onclick="window.location.href='tel:16620810234'">🤙笑笑崽 Tel:1662-0810-234</button>
+[![](https://img.shields.io/badge/%E5%86%AF%E7%AC%91%E7%AC%91-1662--0810--234-pink =300x)](TEL:16620810234)
 
 > 笑笑的手机号是她的生日，然后手机卡暂借给他爸插到车机上当流量卡了
 
