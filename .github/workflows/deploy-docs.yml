@@ -6,6 +6,10 @@ on:
       # make sure this is the branch you are using
       - main
 
+env:
+  GITHUB_NAME: arthurfsy2
+  GITHUB_EMAIL: fsyflh@gmail.com
+
 jobs:
   deploy-gh-pages:
     runs-on: ubuntu-latest
@@ -16,6 +20,32 @@ jobs:
           fetch-depth: 0
           # if your docs needs submodules, uncomment the following line
           # submodules: true
+
+      - name: 设置Python版本
+        id: setup_python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: 'src/.vuepress/public/scripts/requirements.txt'
+
+      - name: 安装依赖
+        run: |
+          pip install -r src/.vuepress/public/scripts/requirements.txt
+
+      - name: 生成图云
+        run: |
+          python src/.vuepress/public/scripts/wordcloud2Svg.py
+
+      - name: 提交更新图云
+        run: |
+          git config --local user.email "${{ env.GITHUB_EMAIL }}"
+          git config --local user.name "${{ env.GITHUB_NAME }}"
+          mkdir -p src/.vuepress/public/assets/img
+          mv wordcloud.svg src/.vuepress/public/assets/img/
+          git add .
+          git commit -m "Moved to src/.vuepress/public/assets/img/wordcloud.svg"
+          git push
 
       - name: 设置 Node.js 和 Yarn
         uses: actions/setup-node@v2.4.1

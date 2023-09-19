@@ -1,5 +1,6 @@
 
 node_modules/
+.github/workflows/*BAK
 src/.vuepress/.cache/
 src/.vuepress/.temp/
 src/.vuepress/.stfolder/
