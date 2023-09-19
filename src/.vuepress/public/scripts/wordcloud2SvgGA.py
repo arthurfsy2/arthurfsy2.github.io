@@ -9,7 +9,7 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 
 # 定义目录路径和输出路径
 
-dir_path = os.path.normpath(os.path.join(script_dir, "./"))
+dir_path = os.path.normpath(os.path.join(script_dir, "../../../"))
 output_path = os.path.normpath(os.path.join(script_dir, "./"))
 font_path = os.path.normpath(os.path.join(script_dir, "./font.otf"))
 output_path_svg = os.path.normpath(os.path.join(script_dir, "./wordcloud.svg"))
