@@ -9,10 +9,13 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 
 # 定义目录路径和输出路径
 
-dir_path = os.path.normpath(os.path.join(script_dir, "../../../"))
-output_path = os.path.normpath(os.path.join(script_dir, "../assets/img"))
-font_path = os.path.normpath(os.path.join(script_dir, "./font.otf"))
-output_path_svg = os.path.normpath(os.path.join(script_dir, "../assets/img/wordcloud.svg"))
+dir_path = os.path.normpath(os.path.join(script_dir, "../../../")) #本博客对应的是/src目录
+
+output_path = os.path.normpath(os.path.join(script_dir, "../assets/img")) #本博客对应的是/src/.vuepress/public/assets/img目录
+
+font_path = os.path.normpath(os.path.join(script_dir, "./font.otf")) #本博客对应的是/src/.vuepress/public/scripts/font.otf
+
+output_path_svg = os.path.normpath(os.path.join(script_dir, "../assets/img/wordcloud.svg"))  #本博客对应的是/src/.vuepress/public/assets/img/wordcloud.svg
 
 #print(f"dir_path:{dir_path}\n\noutput_path:{output_path}\n\nfont_path:{font_path}\n\noutput_path_svg:{output_path_svg}\n\n")
 
