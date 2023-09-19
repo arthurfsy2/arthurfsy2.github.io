@@ -35,14 +35,12 @@ jobs:
 
       - name: 生成图云
         run: |
-          python src/.vuepress/public/scripts/wordcloud2SvgGA.py
+          python src/.vuepress/public/scripts/wordcloud2Svg.py
 
       - name: 提交更新图云
         run: |
           git config --local user.email "${{ env.GITHUB_EMAIL }}"
           git config --local user.name "${{ env.GITHUB_NAME }}"
-          mkdir -p src/.vuepress/public/assets/img
-          mv wordcloud.svg src/.vuepress/public/assets/img/
           git add .
           git commit -m "Moved to src/.vuepress/public/assets/img/wordcloud.svg"
           git push
