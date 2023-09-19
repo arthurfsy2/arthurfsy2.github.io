@@ -1,14 +1,11 @@
 ---
 icon: circle-info
-# 设置写作时间
 date: 2016-11-17
 category:
   - 家庭
 tag:
   - 家庭
-# 此页面会在文章列表置顶
 sticky: true
-# 此页面会出现在文章收藏中
 star: true
 ---
 # 关于我们❤️
@@ -96,3 +93,6 @@ flowchart TB
 @tab 微信
 ![扫一扫](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/img/wechatPay.webp =300x)
 :::
+
+## 我们的“关键字”
+![](/assets/img/wordcloud.svg)

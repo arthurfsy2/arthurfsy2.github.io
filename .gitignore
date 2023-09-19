@@ -4,5 +4,6 @@ src/.vuepress/.cache/
 src/.vuepress/.temp/
 src/.vuepress/.stfolder/
 src/.vuepress/dist/
+src/.vuepress/public/scripts/__pycache__
 .vscode
 .nvmrc
