@@ -35,7 +35,7 @@ jobs:
 
       - name: 生成图云
         run: |
-          python src/.vuepress/public/scripts/wordcloud2Svg.py
+          python src/.vuepress/public/scripts/wordcloud2SvgGA.py
 
       - name: 提交更新图云
         run: |
