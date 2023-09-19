@@ -95,4 +95,4 @@ flowchart TB
 :::
 
 ## 我们的“关键字”
-![](/assets/img/wordcloud.svg)
+![](https://raw.gitmirror.com/arthurfsy2/arthurfsy2.github.io/main/src/.vuepress/public/assets/img/wordcloud.svg)
