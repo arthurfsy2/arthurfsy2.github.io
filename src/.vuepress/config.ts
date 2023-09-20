@@ -89,14 +89,16 @@ export default defineUserConfig({
       },
     ],  
     [ 
-      'script',
-      {}, 
-      `var hm = document.createElement("script");
-      hm.src = "https://hm.baidu.com/hm.js?58786cc4c16f5ef7d530bb255d10f057";
-      var s = document.getElementsByTagName("script")[0]; 
-      s.parentNode.insertBefore(hm, s);
-    })();`
- ]
+      'script',{}, `
+      var _hmt = _hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?58786cc4c16f5ef7d530bb255d10f057";
+        var s = document.getElementsByTagName("script")[0]; 
+        s.parentNode.insertBefore(hm, s);
+      })();
+      `
+    ]
   ],  
   shouldPrefetch: false,
 });
