@@ -1,6 +1,6 @@
 ---
 title: 【node-red长期稳定】联通话费余额、语音等余量数据接入HA 
-icon: "pencil"
+icon: fab fa-node
 category:
   - 经验总结
 tag:
@@ -28,12 +28,17 @@ _本帖最后由 arthurfsy 于 2023-4-24 16:21 编辑_
 ![img](https://attachment.hasstatic.com/forum/202303/14/143425pkn9ub5rnr6ruhn5.jpg =400x)
 
 ## 本flow功能：
+
 ### 1.可定时查询联通余量（话费、语音、流量、积分数据4个实体可配合卡片展示）。
+
 ### 2.可查看目前已保存的token\_online数据（相当于导出，以备其他使用需求）
+
 ### 3.可清空token\_online数据（如果发现数据不对，可先清空再重新运行）
 
 ## 使用方法：
+
 ### 1.对联通APP进行抓包/通过1TS获取
+
    该步骤可选，或者下载ITS这个软件进行抓包获取token\_online+appId
 我是在这个网页下面找到对应的APP下载链接：[联通流量实时监控软件1TS流量监控免费版下载](https://www.xgiu.com/llljk_1st)
 
@@ -46,8 +51,11 @@ https://wwt.lanzoul.com/iDpXD0ecgkfi
 注：下载1TS APP软件后，需要先通过短信成功登陆一次，然后点击首页的“联通”——左上角“小水滴形状”——右上角“窗口”切换登陆方式。即可看到“token\_online”、“appid”数据（小坑：token\_online的字符很长，可能复制起来比较折腾）
  ![img](https://attachment.hasstatic.com/forum/202303/14/143251g3k35d37k3e5qkqd.png =400x)
  ![img](https://attachment.hasstatic.com/forum/202303/14/143251wdjizqwr41iqb33u.jpg =400x)
-### 2.修改NR流里的“设置原始tokenOnline”节点，将复制的“token\_online”、“appid”粘贴到对应位置 
+
+### 2.修改NR流里的“设置原始tokenOnline”节点，将复制的“token\_online”、“appid”粘贴到对应位置
+
 ![img](https://attachment.hasstatic.com/forum/202304/06/173428d10gk00d1kzag6sz.png)
+
 ### 3.修改file节点里的path目录，如我的是/data/token\_online.txt（文件名可自行取值）
 
 ![](https://attachment.hasstatic.com/forum/202303/14/143622ccgt744y4ctd9u27.png)

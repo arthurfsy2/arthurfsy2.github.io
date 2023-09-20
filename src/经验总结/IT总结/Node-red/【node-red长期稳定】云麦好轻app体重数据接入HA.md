@@ -1,6 +1,6 @@
 ---
 title: 【node-red长期稳定】云麦好轻app体重数据接入HA 
-icon: "pencil"
+icon: fab fa-node
 category:
   - 经验总结
 tag:
@@ -22,13 +22,17 @@ _本帖最后由 arthurfsy 于 2023-8-7 12:56 编辑_
 为了导出历史的体重数据+实时更新已称重数据，我找了大佬逆向了好轻的登录，然后自己通过Node-Red实现整个数据获取、保存的流程。对逆向感兴趣的朋友可以查看各个function里的说明
 
  ![](https://attachment.hasstatic.com/forum/202305/08/153601adsf119b8iszj5sd.png =400x)
+
 ## 一.本flow功能：
+
 1.**无需抓包**：可直接输入账号、密码（加密后）获取历史称重数据（体重、代谢、骨密度等等，但是默认只显示体重信息），可配合卡片展示（apexcharts-card）注：这个卡片的实现也参考了[这里](https://bbs.hassbian.com/thread-18842-1-1.html)，但是修改了一些参数。
 2.可将数据保存为csv格式（相当于导出，以备其他使用需求）
 3.可清空原有csv数据（如果发现数据不对，可先清空再重新运行）
 
 ## 二.使用方法：
+
 ### 1\. 下载附件的flow，可通过笔记本（如nodepad--）批量将yourname替换为你自己的名字
+
 注：该步骤只是便于你管理自己的体重，且可通过这个方式，实现多人体重的展示（修改后再次导入，这样就有2份流程系统，但是对应不同人的流）
 
 ### 2\. 安装以下节点：
@@ -44,7 +48,9 @@ node-red-contrib-home-assistant-websocket
 3\. 参考flow里的顺序，依次运行1-6步骤，第7步骤按需运行
 
 ## 三.各步骤额外说明
+
 ### 1.构建参数
+
 1.1账号：打开“输入账号、密码”这个function节点，将
 
 13800138000替换为你自己的手机号
@@ -66,12 +72,15 @@ https://cyberchef.org/#recipe=RSA_Encrypt('-----BEGIN%20PUBLIC%20KEY-----%5CnMFw
 ```
 
 ### 2.模拟登录
+
 通过这个步骤来构建sign参数，用以获取userId、refreshToken，这两个值每个账号都是固定的，仅需运行一次即可（可通过debug节点查看已获取的数据）
 
 ### 3.动态获取accessToken
+
 设置每1小时登陆一次，其中sign加密的方式与模拟登录的逻辑相同
 
 ### 4.获取历史体重数据
+
 只能手动触发一次，否则会重复。第一次执行后，会在/data目录下生成weight.yourname.csv文件（yourname为你修改后的名字），
 实际的存储路径可参考下面：
 
@@ -94,13 +103,17 @@ https://cyberchef.org/#recipe=RSA_Encrypt('-----BEGIN%20PUBLIC%20KEY-----%5CnMFw
 ### 5.获取近N天体重数据逐项对比，只入库新体重（默认设置为获取近10天的数据进行比较，如果你的称重间隔比较长，可设置大一点），更新成功后，会在weight.yourname.csv文件里新增新的N行数据
 
 ### 6.查看已入库体重
+
 每5分钟执行1次，同时也是配合在HA的体重展示
 
 ### 7.清空功能慎用
+
 如果打开csv格式，发现重复数据较多。可删除后再次进行1-6的步骤
 
 ## 三.卡片代码
+
 ### 单人卡片代码分享
+
 （需安装apexcharts-card），然后将sensor.yourname\_weight改为你的名字
 
 ```python
@@ -131,6 +144,7 @@ locale: zh-cn
 ```
 
 ### 多人卡片代码分享
+
 （需安装apexcharts-card），然后将sensor.yourname\_weight、sensor.yourname2\_weight改为你的名字。
 如果人数超过2人，可自行添加 从 - entity: sensor.yourname2\_weight到in\_chart: true之间的行数，并修改\- entity: sensor.yournameX\_weight（X为第X个）
 

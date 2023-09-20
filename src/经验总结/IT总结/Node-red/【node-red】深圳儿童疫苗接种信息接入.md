@@ -1,6 +1,6 @@
 ---
 title: 【node-red】深圳儿童疫苗接种信息接入 
-icon: "pencil"
+icon: fab fa-node
 category:
   - 经验总结
 tag:
@@ -31,6 +31,7 @@ PS：小程序前端展示信息较少，并无金额、厂商等信息，但是
 解决方法：如果遇到token失效导致NR无法获取数据，用你抓包的账号重新登录小程序，然后再跑一遍NR
 
 ## 已实现的功能
+
 1、**汇总**所有自费金额
 
 2、获取**已接种**疫苗信息（是否免费/自费金额、疫苗名称、厂商、剂次、接种时间、接种地点等）
@@ -38,7 +39,9 @@ PS：小程序前端展示信息较少，并无金额、厂商等信息，但是
 3、获取**待接种**疫苗信息
 
 ## NR流使用主要流程
+
 ### 1.在HASS安装Node-red集成
+
 ### 2.手机微信打开“深圳疾控”公众号——打疫苗——普通疫苗（儿童预约）——接种计划/接种记录（如果绑定了多个账号，则需要切换）
 
 ![](https://attachment.hasstatic.com/forum/202211/14/161834ggml6vk6meajs6kg.jpg =400x)
@@ -53,11 +56,13 @@ PS：小程序前端展示信息较少，并无金额、厂商等信息，但是
 > - https://imm.szcdc.net/miWeixin/wx/selfRegister/**getWxSelfFiftyoneById**?userInfoId=XXXXX&persNo=XXXXX   //这里的userInfoId、persNo**和上面一样**，需要抓取（固定的，只需要抓一次）
 
  **接种记录：**需要抓以下**1**个请求：
+
 > - https://imm.szcdc.net/mobileSz/oneTwo/getNinePlan  //这里的token和**接种记录**的不一样，所以需要抓取（动态更新的，如果失效了要重新抓）
 
 ### 3.将抓到的headers、payload数据填入NR流的**“手工：修改X个参数”、**“手工：修改请求头”的function函数中（注意每个请求对应的数据不完全一样），点击运行(HOMEASSISTANT需要改为自己系统的)，输入完后点击部署
 
 ### 4.实体名称说明
+
 > 最近疫苗：VaccineRec
 > 计划疫苗：planVaccine
 

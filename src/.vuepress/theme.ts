@@ -12,7 +12,7 @@ export default hopeTheme({
     url: "https://blog.4a1801.life",
   },
 // 关键词: "iconfont", "iconify", "fontawesome", "fontawesome-with-brands"
-  iconAssets: "fontawesome",
+  iconAssets: "fontawesome-with-brands",
   
   favicon: "/logo1.jpg",
   logo: "/logo1.jpg",

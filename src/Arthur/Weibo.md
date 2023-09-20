@@ -1,6 +1,6 @@
 ---
 title: Arthur的微博
-icon: "pencil"
+icon: fab fa-weibo
 #date: 2019-05-04
 category:
   - Arthur
@@ -8,7 +8,9 @@ tag:
   - 微博
 ---
 ## [Arthurfsy(原链接)](https://weibo.com/n/arthurfsy)
+
 ![Arthurfsy微博头像](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/Weibo/Images/7cae4b31jw8et1d7dklmej2140140ae5.webp)
+
 ## 2023年
 
 ### 2023年5月
