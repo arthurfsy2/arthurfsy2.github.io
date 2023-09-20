@@ -1,12 +1,10 @@
 ---
-title: 搜狗问问
-icon: fab fa-quora
-#date: 2013-06-20
+title: 日记里的我
+icon: blog
 category:
   - Arthur
 tag:
-  - QQ空间
-  - 备份
+  - 日记里的我
 index: false
 order: 1
 ---

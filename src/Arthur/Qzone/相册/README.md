@@ -8,7 +8,6 @@ tag:
   - QQ空间
   - 备份
   - 相册
-star: true
 index: false
 order: 5
 ---
