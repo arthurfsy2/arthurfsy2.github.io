@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-731cfce6","path":"/Arthur/Tieba/%E6%88%91%E7%9A%84%E8%B4%B4%E5%AD%90/","title":"我的贴子","lang":"zh-CN","frontmatter":{"title":"我的贴子","article":false,"feed":false,"sitemap":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};
