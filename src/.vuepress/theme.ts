@@ -232,7 +232,7 @@ components: {
     // },
 	
   },
- pageInfo : ["Author", "Original", "Date", "Category", "Tag", "ReadingTime","Word"]
+ pageInfo : ["Author", "Original", "Date", "Category", "Tag", "ReadingTime","Word","PageView"]
  
 
 },

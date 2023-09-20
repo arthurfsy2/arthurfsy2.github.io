@@ -87,7 +87,16 @@ export default defineUserConfig({
         href: "https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;700&display=swap",
         rel: "stylesheet",
       },
-    ],    
+    ],  
+    [ 
+      'script',
+      {}, 
+      `var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?58786cc4c16f5ef7d530bb255d10f057";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();`
+ ]
   ],  
   shouldPrefetch: false,
 });
