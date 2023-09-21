@@ -13,7 +13,7 @@ tag:
 其实之前已经通过node-red实现了获取云麦好轻的数据，并在Home Assistant上展示家庭体重了，但是感觉自动化还是有点欠缺。刚好借着写Blog的时候发现vuepress-theme-hope支持echarts扩展，就想着尝试通过折线图实现。
 :::
 
-
+<Share colorful services="qq,weibo,qrcode"/>
 
 ## 成果展示
 

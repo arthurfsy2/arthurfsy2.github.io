@@ -12,7 +12,7 @@ tag:
 :::tip 前言
 无意间看到一个[issue](https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues/3372)有提及希望vuepress-theme-hope能新增echarts的词云，看了[paper-dragon](https://paper-dragon.github.io/)的成果，果然很赞。但是由于目前theme-hope兼容的echarts图表有限，因此采用了“另辟蹊径”的方法来实现动态获取博客所有文章关键词，然后在博客中动态显示（每git push一次就自动更新词云）
 :::
-
+<Share colorful services="qq,weibo,qrcode"/>
 ## 成果展示
 :::note 说明
 以下图片是一个svg图片，因此可以通过`![]()`的格式在文章的任意位置引用，且因为是矢量图，因此是在任何界面查看都是“高清无损”的。
