@@ -28,5 +28,5 @@ order: 2
 
 > 设置——WLAM——点击“扫一扫”(类似➡️“![](/assets/icon/saoyisao.svg =20x)”的图案)
 
-![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/img/wifi.webp)
+![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/img/wifi.png)
 :::
