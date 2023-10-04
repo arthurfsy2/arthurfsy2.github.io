@@ -33,7 +33,7 @@ projects:
   - icon: /logo1.jpg
     name: 笑笑爸爸
     desc: 运动记录
-    link: http://ddns.4a1801.life:8088
+    link: https://blog.4a1801.life/workouts_page_fsy
 
   - icon: /logo2.jpg
     name: 吴女士
