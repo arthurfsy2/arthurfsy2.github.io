@@ -1,6 +1,7 @@
 ---
 title: 明信片展示墙（收到：42）
 icon: address-card
+date: 2023-10-08
 category:
   - Arthur
 tag:
