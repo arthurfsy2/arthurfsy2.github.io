@@ -1,12 +1,17 @@
 ---
-title: 明信片展示墙（寄出：45）
+title: 明信片展示墙（寄出：46）
 icon: address-card
-date: 2023-10-08
+date: 2023-10-17
 category:
   - Arthur
 tag:
   - postcrossing
 ---
+
+## [CN-3578753](https://www.postcrossing.com/postcards/CN-3578753) 
+ >寄往 [Masha_krb](https://www.postcrossing.com/user/Masha_krb)
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/yoj61d8x1s9puup4jkncrgvtsttbq6k4.jpg)
 
 ## [CN-3578749](https://www.postcrossing.com/postcards/CN-3578749) 
  >寄往 [shrikantkp](https://www.postcrossing.com/user/shrikantkp)

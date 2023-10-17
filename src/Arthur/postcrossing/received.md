@@ -1,12 +1,17 @@
 ---
-title: 明信片展示墙（收到：42）
+title: 明信片展示墙（收到：43）
 icon: address-card
-date: 2023-10-08
+date: 2023-10-17
 category:
   - Arthur
 tag:
   - postcrossing
 ---
+
+## [DE-13430236](https://www.postcrossing.com/postcards/DE-13430236) 
+ >来自 [annegret](https://www.postcrossing.com/user/annegret)
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/pac25ahehnw47mqqtyrml2khs4q02pyg.jpg)
 
 ## [RU-3481494](https://www.postcrossing.com/postcards/RU-3481494) 
  >来自 *该用户已关闭*

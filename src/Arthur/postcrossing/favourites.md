@@ -1,12 +1,17 @@
 ---
-title: 明信片展示墙（我的点赞：9）
+title: 明信片展示墙（我的点赞：10）
 icon: address-card
-date: 2023-10-08
+date: 2023-10-17
 category:
   - Arthur
 tag:
   - postcrossing
 ---
+
+## [DE-13430236](https://www.postcrossing.com/postcards/DE-13430236) 
+ >来自 [annegret](https://www.postcrossing.com/user/annegret)
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/pac25ahehnw47mqqtyrml2khs4q02pyg.jpg)
 
 ## [US-5713297](https://www.postcrossing.com/postcards/US-5713297) 
  >来自 [BarbSchmidt](https://www.postcrossing.com/user/BarbSchmidt)
