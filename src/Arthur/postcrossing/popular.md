@@ -5,7 +5,7 @@ date: 2023-10-25
 category:
   - Arthur
 tag:
-  - postcrossing
+  - Postcrossing
 ---
 
 ## [CN-1241226](https://www.postcrossing.com/postcards/CN-1241226)
