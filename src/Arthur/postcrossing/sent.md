@@ -1,11 +1,11 @@
 ---
 title: 明信片展示墙（寄出：46）
 icon: address-card
-date: 2023-10-25
+date: 2023-10-26
 category:
   - Arthur
 tag:
-  - Postcrossing
+  - postcrossing
 ---
 
 ## [CN-3578753](https://www.postcrossing.com/postcards/CN-3578753) 
