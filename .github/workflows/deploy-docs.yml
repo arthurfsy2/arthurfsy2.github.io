@@ -45,21 +45,22 @@ jobs:
           git commit -m "Moved to src/.vuepress/public/assets/img/wordcloud.svg"
           git push
 
-      - name: 设置 Node.js 和 Yarn
-        uses: actions/setup-node@v2.4.1
+      - name: Install pnpm
+        uses: pnpm/action-setup@v2
         with:
-          node-version: 20.x
-          cache: 'npm'
-      - run: npm install -g yarn
+          run_install: true
 
-      - name: 安装node依赖
-        run: yarn install
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
 
       - name: 构建文档
         env:
           NODE_OPTIONS: --max_old_space_size=8192
         run: |-
-          yarn run docs:build
+          pnpm run docs:build
           > src/.vuepress/dist/.nojekyll
 
       - name: 部署文档
