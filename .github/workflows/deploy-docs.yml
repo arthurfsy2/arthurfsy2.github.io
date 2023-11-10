@@ -45,13 +45,15 @@ jobs:
           git commit -m "Moved to src/.vuepress/public/assets/img/wordcloud.svg"
           git push
 
-      - name: Install pnpm
+      - name: 安装 pnpm
         uses: pnpm/action-setup@v2
         with:
           run_install: true
+          version: 8
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+
+      - name: 设置 Node.js
+        uses: actions/setup-node@v3
         with:
           node-version: 20
           cache: pnpm
