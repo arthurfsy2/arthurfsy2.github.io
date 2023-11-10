@@ -101,7 +101,7 @@ export default hopeTheme({
        * Using Waline
        */
        provider: "Waline",
-       serverURL: "https://waline-discuss.vercel.app/",
+       serverURL: "https://waline-discuss.vercel.app",
     },
 
 
@@ -109,18 +109,18 @@ export default hopeTheme({
     mdEnhance: {
       align: true,
       attrs: true,
-      chart: true,
+      //chart: true,
       codetabs: true,
       container: true,
       demo: true,
       echarts: true,
       figure: true,
-      flowchart: true,
+      //flowchart: true,
       gfm: true,
       imgLazyload: true,
       imgSize: true,
       include: true,
-      katex: true,
+      //katex: true,
       mark: true,
       mermaid: true,
       footnote: true,
