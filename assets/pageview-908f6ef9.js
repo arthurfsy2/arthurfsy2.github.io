@@ -1,0 +1,1 @@
+import{m as t}from"./app-cedd0833.js";const i=async()=>{try{const{pageviewCount:e}=await t(()=>import("./app-cedd0833.js").then(r=>r.R),[]);return e({serverURL:"https://waline-discuss.vercel.app"})}catch{console.error("@waline/client is not installed!");return}};export{i as updatePageview};
