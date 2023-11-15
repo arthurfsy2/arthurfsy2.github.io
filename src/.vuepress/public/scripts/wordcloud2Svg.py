@@ -3,6 +3,7 @@ import jieba
 from jieba import analyse
 from wordcloud import WordCloud
 from opencc import OpenCC
+import re
 
 # 获取当前脚本文件所在目录
 script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -19,7 +20,7 @@ output_path_svg = os.path.normpath(os.path.join(script_dir, "../assets/img/wordc
 
 #print(f"dir_path:{dir_path}\n\noutput_path:{output_path}\n\nfont_path:{font_path}\n\noutput_path_svg:{output_path_svg}\n\n")
 
-contents = ""
+
 def merge_md_contents(folder_path):
     contents = ""
     for file in os.listdir(folder_path):
@@ -32,8 +33,18 @@ def merge_md_contents(folder_path):
                 contents += file_content
     return contents
 
+def remove_content(contents):
+    # 只保留中文、中文标点符号、空格
+    pattern = r"[\u3000-\u301E\uFE10-\uFE1F\uFE30-\uFE4F\uFF00-\uFF0F\uFF1A-\uFF20\uFF3B-\uFF40\uFF5B-\uFF65\u4e00-\u9fa5\s]"
+    matched_content = re.findall(pattern, contents)
+    # 将匹配到的内容连接起来
+    filtered_text = ''.join(matched_content)
+    return filtered_text
+
+
 contents = merge_md_contents(dir_path)
-#with open(r"D:\Users\ArthurFsy\Documents\python脚本\rawPic\output.md", "w", encoding="utf-8") as f:
+contents = remove_content(contents)
+# with open(r"./output.txt", "w", encoding="utf-8") as f:
 #                f.write(contents)
 #print(contents)
 
