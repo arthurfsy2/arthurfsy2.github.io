@@ -1,6 +1,7 @@
 ---
 title: 邮箱投递通知
 icon: envelopes-bulk
+date: 2023-11-07
 category:
   - 家庭
 tag:
