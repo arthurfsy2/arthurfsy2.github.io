@@ -33,7 +33,7 @@ projects:
   - icon: /logo1.jpg
     name: 笑笑爸爸
     desc: 运动记录
-    link: https://arthurfsy2.github.io/workouts_page_fsy
+    link: https://fsy.4a1801.life
 
   - icon: /logo2.jpg
     name: 吴女士

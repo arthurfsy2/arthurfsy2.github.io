@@ -1,7 +1,7 @@
 ---
-title: 明信片展示墙（我收到的赞：21）
+title: 明信片展示墙（我收到的赞：24）
 icon: address-card
-date: 2023-10-28
+date: 2023-11-19
 category:
   - Arthur
 tag:
@@ -92,4 +92,16 @@ tag:
 >点赞人数：1
 
 ![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/c709974037cd3ec3380edd88bb2e99f4.jpg) 
+ ## [CN-3578753](https://www.postcrossing.com/postcards/CN-3578753)
+>点赞人数：1
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/yoj61d8x1s9puup4jkncrgvtsttbq6k4.jpg) 
+ ## [CN-3621313](https://www.postcrossing.com/postcards/CN-3621313)
+>点赞人数：1
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/i09vi7tqj1k2rvmxe9sjpyvd07xzdhjg.jpg) 
+ ## [CN-3610296](https://www.postcrossing.com/postcards/CN-3610296)
+>点赞人数：1
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/q5b1fs1vykcx3gohtopg9a9s1nva9xa4.jpg) 
  
