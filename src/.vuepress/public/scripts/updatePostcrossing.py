@@ -14,9 +14,9 @@ print(f"postcrossing_path:\n",postcrossing_path)
 
 def downloadMD(type):
     if type != '信息汇总':
-        url = f"https://raw.gitmirror.com/arthurfsy2/Postcrossing_map_generator/main/gallery/{type}.md"
+        url = f"https://cdn.jsdelivr.net/gh/arthurfsy2/Postcrossing_map_generator@main/gallery/{type}.md"
     else:
-        url = f"https://raw.gitmirror.com/arthurfsy2/Postcrossing_map_generator/main/output/{type}.md"
+        url = f"https://cdn.jsdelivr.net/gh/arthurfsy2/Postcrossing_map_generator@main/output/{type}.md"
     print("url:",url)
     response = requests.get(url)
     new_file_path = f"{postcrossing_path}/{type}_new.md"
