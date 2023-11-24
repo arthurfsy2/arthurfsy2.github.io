@@ -19,10 +19,10 @@ def downloadMD(type):
         url = f"https://raw.gitmirror.com/arthurfsy2/Postcrossing_map_generator/main/output/{type}.md"
     print("url:",url)
     response = requests.get(url)
-    content = response.text.encode('utf-8')
-    with open(f"{type}_new.md","w",encoding="utf-8") as f:
+    new_file_path = f"{postcrossing_path}/{type}_new.md"
+    with open(new_file_path,"w",encoding="utf-8") as f:
         f.write(response.text)
-    new_file_path = f"{type}_new.md"
+    
     old_file_path = f"{postcrossing_path}/{type}.md"
     new_md5 = md5(new_file_path)
     old_md5 = md5(old_file_path)
