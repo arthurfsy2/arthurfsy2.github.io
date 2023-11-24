@@ -1,1 +1,182 @@
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><link href="/cdn-cgi/styles/challenges.css" rel="stylesheet"><meta http-equiv="refresh" content="375"></head><body class="no-js"><div class="main-wrapper" role="main"><div class="main-content"><noscript><div id="challenge-error-title"><div class="h2"><span class="icon-wrapper"><div class="heading-icon warning-icon"></div></span><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></div></noscript></div></div><script>(function(){window._cf_chl_opt={cvId: '2',cZone: "raw.gitmirror.com",cType: 'managed',cNounce: '37232',cRay: '82b2d6654f5408e4',cHash: '621ba1f5dee365d',cUPMDTk: "\/arthurfsy2\/Postcrossing_map_generator\/main\/gallery\/popular.md?__cf_chl_tk=wM4fOTZjQqyJOuLLAPQYSUTGmFp8iTAPx3LGKN_ki7g-1700841339-0-gaNycGzNCrs",cFPWv: 'g',cTTimeMs: '1000',cMTimeMs: '375000',cTplV: 5,cTplB: 'cf',cK: "visitor-time",fa: "\/arthurfsy2\/Postcrossing_map_generator\/main\/gallery\/popular.md?__cf_chl_f_tk=wM4fOTZjQqyJOuLLAPQYSUTGmFp8iTAPx3LGKN_ki7g-1700841339-0-gaNycGzNCrs",md: "a7gwLV60joKhjfAspwnShygClXalPiRfVGBPdiHr4EE-1700841339-0-AcjD5AqSAIX3YuH0Q4grqVqi2cgaVDQuuLUaqcxKQVsPSsUq10MMpUGDryJdyXArNpOTe_UodCAsXJJPzhXRv4K_yOC5xCbQiz0ufjRKerPmUb-NLRYQsOrUiRk95vsIbx3NvJap9UiJHE49LBTDeMG1WBoUbRFgiJJDKZnMWhWJ0SAw4roR_ZqTt9S9jCs8T8BTDmwIEvn7Rg0IXGnOM4Jfe3hLCdIQGqgoDvfrsX28dWoE6sYKsnSX1Ls95TCPZ-L2k6nT4lDCZqCZyItyjVo-yKRLJ-Sp16CfwaNG9r9WdL6fNlw4_jRx9nygn2_BP_i3MdOYP_ak5xdXIPpT2xiv_4Dae9OqWdxHBxdiiqQSaOKiAnM9d0VyxElqpfraBOXlZB29F0cs9frnY3IHVwuoTrGCHt4IuJDK56xmqN58XRdkT9Jd1PRk9SQ5Skn9TmSG-71DRAzuAG2Jyx2ld62XJsUVq9nHyVenxusfKXRBIWExwVrX91BeR_r8mGKReRSb9LYh-FzO_rfNBDCOov0Tc-eu58JakF_RHJ4l520YVasdaaYqVdWKhmMy52qgLE-VE4wlcJMSIK_T08loqccTlhSxGyRBu6Ke0aDhneDArWQm8Qu4p5HInBFdua15sNp2K6JgrM8-WKlKKIJM7lTVMkqnOZdwWE4H1II5ue2sxX-Gfo2jZi-zGUPJej89o_ZQ54LnAKysT5PjyXrYbVL_rB3gIuxcuXcU2Mqv9InA91W0ozpTsOxIN6rmtOmOqPZ4NG2VtPTLqcRrDppTtgJJepxHUE1Jxi86IsqrOewzmHalaizLx27eMyK0r_JAS8KKWvIh67gbhskgbD179hrOCgumY09mSMova0s8PmB5EgurxaZni-A2B0s8__HSYXXEAZUGm64xJj7SsJws_cdxIKJ_K-nZ9jvnaUYM5PL3tvNdI9BKAhMHgqjf_dTITN2X4zVlueGINF-p4Q-7vWMuwwCo_Hba-UTueoFshYKA7dUlOCC1gFxaaf6KgiCNxv9BhM9GiCT_wfEL2ItEl86jeC3fic3emeWfVF66-IUhfzjj6yI0ge0_l0d2K8ULOnhPuvyWf7f3xP4RHJtjMYtdARpsYudUVctxrUoxudIHMn_xs3iQ_BbsXTLOqZbjwubBE2rHwrp8K1WVUkNCC0bWexuD-u2ZRqLpNwbLq7KkrNaqsETLgmzAyF83EiLUdxDBQamHU_OfrZg8_kYUVCUxBwgBnCMA9hid_mEzJQaw43vwukhTp03B7RJnOKXye6gFS0qS5JIoJBg9hQU3EldQ3NYARig2fTw86VVTAY19CQsmo89Q80HffyRbL99FpOIE8k9vwnQg7fIxEZig5dfnzjgzosCSV4_5NJl5iK19hMY29brXoa25ImKvTvkJ5amDWTRmy2BQyKptqVPeeYjwtNo5RjQk7prK8s9Y6zSlpHX45AK0D-IUT4eHzOWEkIWEXdkOMV93ZsB5sRnNJGADcz2ibehRkNZQQZetAG4EvzgsuT7oJdxXUAJno8CdGmQcHcM10Q3hw1ccOQSACWiEtXb39deTJY1xZjd1jJmo0WMWDBPnH2R5_V9ofIWKstKfMuI5L8cuQ1EJp1EzMfGY1APbKOgO0UrIjeuJ1QIyeDh_VR9V3GdnRkbQ08C380db8fpW3nzg1zY2uAIZXu9oe5F25z_Jqb83tl2P9by0Of6m3nPAA5_UTW7FrWTmo4XWAcy-JZYFBLDjlec0ZCbj9WzmT-LJcyZyXM9Aeo7xTRBeB7FakbBuDL96qC6P4ESGbiSz-3VtvI2MUpSLxM47W_iBqHgKoP8sHSvD8S39AOpDsuqzBufnAkBpU1t4fTqPT_Blh8_VTX-0QjfiwBkrqddKVGzFEaKn5KxXXadbaUgg4hO0zvr-DsqTLsccFDmUAjubwdrwQjng3GV40DEDIx5Ztfk57BqGuNV7vCIdLF0S9u5PgX9gHWqNwA49a7AzELFJ53TTp_s0oecTGvoro4HqPVKOVz7yKJEaW5gyNCCk-38vvpXw_Y7jmCBaI2PuOpMfdmFNFAYXX0mTI71F_mrOtX4lsB9D13UJ7Oz1boTQOsvoGKt6_tFlWtXQL4xt2aMqDmiwAaocjfol4gOgGHYdma2Tno9qv5wqChDDujKIL5iOtm3Zs7CkD714yyyRGVX6zVMYdvsplkHGNALOlByudVi6Qvr0PWSR3QA2GYVAj9E30Q03aNmau4y_oYSxl7gsGuk8LkIGUvukA5v_pY059zGevIzcdDE3GefoBcio2LhnaUOTu1EdTxNTUkyh_Ps8KmNlcwtz0tXvLuhuyMcrd0t6s6tMl00L-RZiD1266Ubgvtz4B2HAdCTae2Lg0wxnvb4B292iB3iEN1mwTTiDIAhke_0us9IAEHH4wY-duJCSlNO-WKqaQfNFjkNsf-ryyQ5lTnfKu9G_MJGYZu-LSwu44PvtNABxHnsbZXibhEzmglAfxm6MvGNuwt9kcJWi0tO3vg2CquDKOUf5TSpDOGIl-ZeFwrUOAnQbW0g7asGnoxxAjAUlVjYrnpEd1iWMeinvVZxGau9oA8OYRiowc5i7ezWvp5Ju5w2HyNfZ4Iv-KL9AIqWt4FP09oDozxOXfrvvZfz_D-5t2ur_PAtOZnHAQ1bRjRNicsnD1W1Eys37li1JDU-mOwL4Lw",cRq: {ru: 'aHR0cHM6Ly9yYXcuZ2l0bWlycm9yLmNvbS9hcnRodXJmc3kyL1Bvc3Rjcm9zc2luZ19tYXBfZ2VuZXJhdG9yL21haW4vZ2FsbGVyeS9wb3B1bGFyLm1k',ra: 'cHl0aG9uLXJlcXVlc3RzLzIuMzEuMA==',rm: 'R0VU',d: 'TpMVtwfwA7J+XeVYaDrmWaqSzO3l1cM7GMWovmSHil4uxwbAE9eMC///1GdY0KTWf229FVdO6WAwEyr/q8o6CgQUDC1SBo/1cG2+ynMYMMh3XSNLHJmPAg67mJ6UfRFW3LEYsUNb2h8enMp7Lcz5xn79PrqtVu9NvgYYiH+TOiNdbg/7grb/o1uNMkMc1ZnVPQ3Gwi6fmYSIgNAEHcfZJDE+Ft6l7MAj2ERZ6JIm4HGW9zEScYWzSyzv2QrL06NYkhHn3eTiG/dCM8hp0ICOKGpK77kmJzZEMzOaq7x2+wwz4OIssEVUNPNAcI7QBNItEJMONics1B/fmw04tYPO8q11SqFzbaSuoPkYMZux0r+tm1ODjljgDHk8spECRdfyAFuwlzTEBHvHcsRvZkZoWrPaRtH3n+klURAdWYfnTCKcXG3/6sXwS458iApC6u/hJkf/ID2xXvhLIajL9aJoiB9N1QP5L3rQ09g2iBsig+t72PJNbLsdY2dpc0mXEywV7jF3IDYPkA+K0/kCdlZ5AA==',t: 'MTcwMDg0MTMzOS43MjYwMDA=',cT: Math.floor(Date.now() / 1000),m: 'S9+BoumjZag6XaDwUnYEhT1Bup6Oja3SrIgqzRZeDu8=',i1: 'Tbl4drNFwrxHE31JxrgFeg==',i2: 'YQUgPaU8VfMNVWhAg4quyg==',zh: 'kCH0KeJXG+Uk4UOD1o3SMcFTmTnOS7ocK+jXqFWxmCA=',uh: 'YE9XOpG5TeHmhA1zfs5mxC8CrRZzq2a/+r+OU7dliYQ=',hh: 'UAr6vDF7oG3+paDr0bNIc0JBfTnPVESabbCy7szc764=',}};var cpo = document.createElement('script');cpo.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=82b2d6654f5408e4';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null, "\/arthurfsy2\/Postcrossing_map_generator\/main\/gallery\/popular.md?__cf_chl_rt_tk=wM4fOTZjQqyJOuLLAPQYSUTGmFp8iTAPx3LGKN_ki7g-1700841339-0-gaNycGzNCrs" + window._cf_chl_opt.cOgUHash);cpo.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(cpo);}());</script></body></html>
+---
+title: 明信片展示墙（我收到的赞：24）
+icon: address-card
+date: 2023-11-23
+category:
+  - Arthur
+tag:
+  - postcrossing
+order: 5
+---
+
+### [arthurfsy's popular](https://www.postcrossing.com/user/arthurfsy/gallery/popular)
+
+## [CN-3621313](https://www.postcrossing.com/postcards/CN-3621313) 
+ >寄往 [ChrisRe](https://www.postcrossing.com//user/ChrisRe) :de:
+> 📏9155 km 
+⏱10 days [2023/11/04--2023/11/14]
+>点赞人数：**1**
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/i09vi7tqj1k2rvmxe9sjpyvd07xzdhjg.jpg) 
+ ## [CN-3610296](https://www.postcrossing.com/postcards/CN-3610296) 
+ >寄往 [juergenvomdeich](https://www.postcrossing.com//user/juergenvomdeich) :de:
+> 📏8932 km 
+⏱23 days [2023/10/17--2023/11/09]
+>点赞人数：**1**
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/c49bj2bvagsfwve94liksgrrfwikz1hb.jpg) 
+ ## [CN-3578753](https://www.postcrossing.com/postcards/CN-3578753) 
+ >寄往 [Masha_krb](https://www.postcrossing.com//user/Masha_krb) :ru:
+> 📏7101 km 
+⏱43 days [2023/08/29--2023/10/11]
+>点赞人数：**1**
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/yoj61d8x1s9puup4jkncrgvtsttbq6k4.jpg) 
+ ## [CN-3578752](https://www.postcrossing.com/postcards/CN-3578752) 
+ >寄往 [Prairiegal](https://www.postcrossing.com//user/Prairiegal) :canada:
+> 📏11010 km 
+⏱30 days [2023/08/29--2023/09/28]
+>点赞人数：**1**
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/qj9bpbnv88jzskujd240srf7ojtt6atm.jpg) 
+ ## [CN-1509464](https://www.postcrossing.com/postcards/CN-1509464) 
+ >寄往 [Ting-Ti](https://www.postcrossing.com//user/Ting-Ti) &#x1f1f9;&#x1f1fc;
+> 📏1544 km 
+⏱34 days [2014/12/24--2015/01/27]
+>点赞人数：**1**
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/2b99f06a551404ccc649291f5ebbbd27.jpg) 
+ ## [CN-1480161](https://www.postcrossing.com/postcards/CN-1480161) 
+ >寄往 [Ziecha71](https://www.postcrossing.com//user/Ziecha71) :latvia:
+> 📏6825 km 
+⏱59 days [2014/11/19--2015/01/17]
+>点赞人数：**1**
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/2e6fd0ad2d4fe9b12fba48320589c819.jpg) 
+ ## [CN-1480158](https://www.postcrossing.com/postcards/CN-1480158) 
+ >寄往 [Kotarouchan](https://www.postcrossing.com//user/Kotarouchan) :jp:
+> 📏3128 km 
+⏱30 days [2014/11/19--2014/12/19]
+>点赞人数：**1**
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/dc03f1af18ef4d10d59648891b82a8d3.jpg) 
+ ## [CN-1410993](https://www.postcrossing.com/postcards/CN-1410993) 
+ >寄往 [Monka_G](https://www.postcrossing.com//user/Monka_G) :de:
+> 📏7904 km 
+⏱33 days [2014/09/01--2014/10/04]
+>点赞人数：**1**
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/84a82eca7cc181df54e65265ccb47771.jpg) 
+ ## [CN-1411001](https://www.postcrossing.com/postcards/CN-1411001) 
+ >寄往 [pioenrosa](https://www.postcrossing.com//user/pioenrosa) :netherlands:
+> 📏8075 km 
+⏱31 days [2014/09/01--2014/10/02]
+>点赞人数：**3**
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/869460af40add2292917a00565e9d693.jpg) 
+ ## [CN-1410996](https://www.postcrossing.com/postcards/CN-1410996) 
+ >寄往 [Antlynny](https://www.postcrossing.com//user/Antlynny) :us:
+> 📏11521 km 
+⏱19 days [2014/09/01--2014/09/20]
+>点赞人数：**1**
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/6d622a4a49783ff352aea9bdb49992b5.jpg) 
+ ## [CN-1345019](https://www.postcrossing.com/postcards/CN-1345019) 
+ >寄往 [Veritas_Stern](https://www.postcrossing.com//user/Veritas_Stern) :de:
+> 📏7665 km 
+⏱37 days [2014/06/24--2014/07/31]
+>点赞人数：**3**
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/12eb4e76d57d8e3cf67c97b6c0007aa1.jpg) 
+ ## [CN-1360087](https://www.postcrossing.com/postcards/CN-1360087) 
+ >寄往 [Kao02](https://www.postcrossing.com//user/Kao02) :jp:
+> 📏3100 km 
+⏱13 days [2014/07/09--2014/07/22]
+>点赞人数：**2**
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/571d90dafdd3975ab4a4a15f56474e58.jpg) 
+ ## [CN-1333452](https://www.postcrossing.com/postcards/CN-1333452) 
+ >寄往 [Marlene0911](https://www.postcrossing.com//user/Marlene0911) :us:
+> 📏12397 km 
+⏱21 days [2014/06/12--2014/07/03]
+>点赞人数：**1**
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/2ab07266398d1b503cb21df76556e0f8.jpg) 
+ ## [CN-1318207](https://www.postcrossing.com/postcards/CN-1318207) 
+ >寄往 [wjfrijling](https://www.postcrossing.com//user/wjfrijling) :netherlands:
+> 📏8187 km 
+⏱19 days [2014/05/26--2014/06/14]
+>点赞人数：**1**
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/f6a5fca4cedc75d9a9fa3224311b3fce.jpg) 
+ ## [CN-1302233](https://www.postcrossing.com/postcards/CN-1302233) 
+ >寄往 [kingpeiling](https://www.postcrossing.com//user/kingpeiling) &#x1f1f9;&#x1f1fc;
+> 📏1594 km 
+⏱24 days [2014/05/09--2014/06/02]
+>点赞人数：**1**
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/7ba2448ba687920f15db8667c088dc2f.jpg) 
+ ## [CN-1282652](https://www.postcrossing.com/postcards/CN-1282652) 
+ >寄往 [Tikhelangelo](https://www.postcrossing.com//user/Tikhelangelo) :ru:
+> 📏6006 km 
+⏱34 days [2014/04/18--2014/05/22]
+>点赞人数：**1**
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/c8aeeadb907773e90ad2b17b509604db.jpg) 
+ ## [CN-1282656](https://www.postcrossing.com/postcards/CN-1282656) 
+ >寄往 [artlover](https://www.postcrossing.com//user/artlover) :finland:
+> 📏6709 km 
+⏱14 days [2014/04/18--2014/05/02]
+>点赞人数：**1**
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/7c25c5df87d9ceae35563a8aa99bd6ba.jpg) 
+ ## [CN-1241226](https://www.postcrossing.com/postcards/CN-1241226) 
+ >寄往 [reismeisje](https://www.postcrossing.com//user/reismeisje) :netherlands:
+> 📏8163 km 
+⏱26 days [2014/03/09--2014/04/04]
+>点赞人数：**7**
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/b23f5bb79a266ae4b0a9b7fe47983a1b.jpg) 
+ ## [CN-1170641](https://www.postcrossing.com/postcards/CN-1170641) 
+ >寄往 [katena1000000](https://www.postcrossing.com//user/katena1000000) :ukraine:
+> 📏6721 km 
+⏱62 days [2013/12/30--2014/03/02]
+>点赞人数：**1**
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/0da3add01dfb4e47f788478419aee3af.jpg) 
+ ## [CN-1152857](https://www.postcrossing.com/postcards/CN-1152857) 
+ >寄往 [SpartakGirl](https://www.postcrossing.com//user/SpartakGirl) :ru:
+> 📏3409 km 
+⏱45 days [2013/12/09--2014/01/23]
+>点赞人数：**3**
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/6e4756e769b039889c5a89cef233a167.jpg) 
+ ## [CN-1152859](https://www.postcrossing.com/postcards/CN-1152859) 
+ >寄往 [juliaclaire](https://www.postcrossing.com//user/juliaclaire) :us:
+> 📏10952 km 
+⏱31 days [2013/12/09--2014/01/10]
+>点赞人数：**2**
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/199982bb7e20c17298d3c15a1dcc8051.jpg) 
+ ## [CN-1152862](https://www.postcrossing.com/postcards/CN-1152862) 
+ >寄往 [nevena1502](https://www.postcrossing.com//user/nevena1502) :austria:
+> 📏7987 km 
+⏱19 days [2013/12/09--2013/12/28]
+>点赞人数：**1**
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/9b5a2768220eb28163645fbe35e6b079.jpg) 
+ ## [CN-1152864](https://www.postcrossing.com/postcards/CN-1152864) 
+ >寄往 [ANP](https://www.postcrossing.com//user/ANP) :finland:
+> 📏6730 km 
+⏱18 days [2013/12/09--2013/12/27]
+>点赞人数：**1**
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/c709974037cd3ec3380edd88bb2e99f4.jpg) 
+ ## [CN-949489](https://www.postcrossing.com/postcards/CN-949489) 
+ >寄往 [laurelr](https://www.postcrossing.com//user/laurelr) :us:
+> 📏11016 km 
+⏱64 days [2013/05/18--2013/07/21]
+>点赞人数：**4**
+
+![](https://s3.amazonaws.com/static2.postcrossing.com/postcard/medium/023065f841be8fc2ef00308ae793a107.jpg) 
+ 
