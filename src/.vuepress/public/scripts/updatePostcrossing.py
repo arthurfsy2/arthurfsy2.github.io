@@ -7,7 +7,7 @@ import shutil
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
 # 定义目录路径和输出路径
-postcrossing_path = os.path.normpath(os.path.join(script_dir, "../../../Arthur/Postcrossing")) #本博客对应的是/src/Arthur/Postcrossing目录
+postcrossing_path = os.path.normpath(os.path.join(script_dir, "../../../Arthur/postcrossing")) #本博客对应的是/src/Arthur/Postcrossing目录
 
 
 print(f"postcrossing_path:\n",postcrossing_path)
