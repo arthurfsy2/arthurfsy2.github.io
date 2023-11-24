@@ -1,0 +1,57 @@
+name: 更新Postcrossing的markdown文件
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '00 1 * * *'
+  push:
+    branches:
+      - main
+
+env:
+  GITHUB_NAME: arthurfsy2
+  GITHUB_EMAIL: fsyflh@gmail.com
+
+jobs:
+  sync:
+    name: 同步
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: 设置Python版本
+        id: setup_python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: 'src/.vuepress/public/scripts/requirements.txt'
+
+      - name: 安装python依赖
+        run: |
+          pip install -r src/.vuepress/public/scripts/requirements.txt
+
+      - name: 下载markdown
+        run: |
+          python src/.vuepress/public/scripts/updatePostcrossing.py
+          
+      - name: 检查文件更新
+        id: check_changes
+        run: |
+          git diff --quiet || echo "changes=true" >> $GITHUB_OUTPUT
+
+      - name: 提交
+        run: |
+          git config --local user.email "${{ env.GITHUB_EMAIL }}"
+          git config --local user.name "${{ env.GITHUB_NAME }}"
+          git add .
+          git diff --cached --quiet || git commit -m "Move updated file to root directory"
+          if [[ "${{ steps.check_changes.outputs.changes }}" == "true" ]]; then
+            git push
+          else
+            echo "No changes to push."
+            git reset --hard HEAD  # 取消已经提交的文件变动
+          fi
+
+      
