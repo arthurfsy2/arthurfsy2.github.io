@@ -7,16 +7,17 @@ import shutil
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
 # 定义目录路径和输出路径
-postcrossing_path = os.path.normpath(os.path.join(script_dir, "../../../Arthur/Postcrossing")) #本博客对应的是/src/Arthur/Postcrossing目录
+postcrossing_path = os.path.normpath(os.path.join(script_dir, "../../../Arthur/postcrossing")) #本博客对应的是/src/Arthur/Postcrossing目录
 
 
 print(f"postcrossing_path:\n",postcrossing_path)
 
 def downloadMD(type):
+    baseurl="https://raw.githubusercontent.com/arthurfsy2/Postcrossing_map_generator/main"
     if type != '信息汇总':
-        url = f"https://raw.gitmirror.com/arthurfsy2/Postcrossing_map_generator/main/gallery/{type}.md"
+        url = f"{baseurl}/gallery/{type}.md"
     else:
-        url = f"https://raw.gitmirror.com/arthurfsy2/Postcrossing_map_generator/main/output/{type}.md"
+        url = f"{baseurl}/output/{type}.md"
     print("url:",url)
     response = requests.get(url)
     new_file_path = f"{postcrossing_path}/{type}_new.md"
