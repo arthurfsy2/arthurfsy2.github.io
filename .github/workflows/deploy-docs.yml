@@ -1,6 +1,7 @@
 name: 部署文档
 
 on:
+  repository_dispatch:
   push:
     branches:
       # make sure this is the branch you are using

@@ -126,6 +126,8 @@ export default hopeTheme({
       footnote: true,
       // 启用图片标记
       imgMark: true,
+      // 使用 KaTeX 启用 TeX 支持
+      katex: true,
       playground: {
         presets: ["ts", "vue"],
       },
