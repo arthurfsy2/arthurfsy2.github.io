@@ -43,5 +43,12 @@ jobs:
           git add .
           git commit -m '已更新数据' || echo "nothing to commit"
           git push || echo "nothing to push"
+  
+  publish_github_pages:
+    if: needs.sync.result == 'success'
+    name: Build and publish Github Pages
+    uses: ./.github/workflows/deploy-docs.yml
+    needs:
+      - sync
 
       
