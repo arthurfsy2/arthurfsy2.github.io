@@ -2,6 +2,7 @@ name: 部署文档
 
 on:
   repository_dispatch:
+  workflow_call:  
   push:
     branches:
       # make sure this is the branch you are using

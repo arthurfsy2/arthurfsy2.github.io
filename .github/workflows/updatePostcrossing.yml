@@ -47,7 +47,7 @@ jobs:
   publish_github_pages:
     if: needs.sync.result == 'success'
     name: Build and publish Github Pages
-    uses: ./.github/workflows/deploy-docs.yml
+    uses: arthurfsy2/arthurfsy2.github.io/.github/workflows/deploy-docs.yml@main
     needs:
       - sync
 
