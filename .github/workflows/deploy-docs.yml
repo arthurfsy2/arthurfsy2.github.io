@@ -44,8 +44,8 @@ jobs:
           git config --local user.email "${{ env.GITHUB_EMAIL }}"
           git config --local user.name "${{ env.GITHUB_NAME }}"
           git add .
-          git commit -m "Moved to src/.vuepress/public/assets/img/wordcloud.svg"
-          git push
+          git commit -m "已更新 src/.vuepress/public/assets/img/wordcloud.svg" || echo "nothing to commit"
+          git push || echo "nothing to push"
 
       - name: 安装 pnpm
         uses: pnpm/action-setup@v2
