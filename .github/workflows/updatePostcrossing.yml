@@ -11,6 +11,7 @@ on:
 env:
   GITHUB_NAME: arthurfsy2
   GITHUB_EMAIL: fsyflh@gmail.com
+  push_to_gh: true
 
 jobs:
   sync:
@@ -37,18 +38,18 @@ jobs:
           python src/.vuepress/public/scripts/updatePostcrossing.py
           
       - name: 提交
+        id: push
         run: |
           git config --local user.email "${{ env.GITHUB_EMAIL }}"
           git config --local user.name "${{ env.GITHUB_NAME }}"
           git add .
           git commit -m '已更新数据' || echo "nothing to commit"
-          git push || echo "nothing to push"
+          git push || (echo "nothing to push" && echo "push_to_gh=false" >> "$GITHUB_ENV")
+          
   
   publish_github_pages:
-    if: needs.sync.result == 'success'
+    if: ${{ env.push_to_gh == 'false' }}
     name: Build and publish Github Pages
     uses: arthurfsy2/arthurfsy2.github.io/.github/workflows/deploy-docs.yml@main
-    needs:
-      - sync
 
-      
+
