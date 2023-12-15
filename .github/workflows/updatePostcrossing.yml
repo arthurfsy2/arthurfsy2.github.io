@@ -46,7 +46,7 @@ jobs:
           git config --local user.name "${{ env.GITHUB_NAME }}"
           git add .
           git commit -m '已更新数据' || echo "nothing to commit"
-          (git push && echo "PUSH_TO_GITHUB=true" >> "$GITHUB_OUTPUT") || (echo "nothing to push" && echo "PUSH_TO_GITHUB=false" >> "$GITHUB_OUTPUT")
+          git push || (echo "nothing to push" && echo "PUSH_TO_GITHUB=false" >> "$GITHUB_OUTPUT")
           echo "PUSH_TO_GITHUB=$PUSH_TO_GITHUB"
           
       
