@@ -45,11 +45,10 @@ jobs:
           git add .
           git commit -m '已更新数据' || echo "nothing to commit"
           git push || (echo "nothing to push" && echo "push_to_gh=false" >> "$GITHUB_ENV")
-          
-  
-  publish_github_pages:
-    if: ${{ env.push_to_gh == 'false' }}
-    name: Build and publish Github Pages
-    uses: arthurfsy2/arthurfsy2.github.io/.github/workflows/deploy-docs.yml@main
-
+      
+      - name: 发布github_pages
+        id: push_to_gh
+        if: ${{ env.push_to_gh == 'false' }}
+        uses: arthurfsy2/arthurfsy2.github.io/.github/workflows/deploy-docs.yml@main
+      
 
