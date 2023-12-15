@@ -46,9 +46,12 @@ jobs:
           git commit -m '已更新数据' || echo "nothing to commit"
           git push || (echo "nothing to push" && echo "push_to_gh=false" >> "$GITHUB_ENV")
       
-      - name: 发布github_pages
-        id: push_to_gh
-        if: ${{ env.push_to_gh == 'false' }}
-        uses: arthurfsy2/arthurfsy2.github.io/.github/workflows/deploy-docs.yml@main
-      
 
+  publish_github_pages:
+    name: 同步
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        if: env.push_to_gh == 'false'
+        uses: arthurfsy2/arthurfsy2.github.io/.github/workflows/deploy-docs.yml@main
+    
