@@ -49,9 +49,6 @@ jobs:
 
   publish_github_pages:
     name: 同步
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        if: env.push_to_gh == 'false'
-        uses: arthurfsy2/arthurfsy2.github.io/.github/workflows/deploy-docs.yml@main
+    if: env.push_to_gh == 'false'
+    uses: arthurfsy2/arthurfsy2.github.io/.github/workflows/deploy-docs.yml@main
     
