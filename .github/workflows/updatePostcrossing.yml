@@ -49,12 +49,28 @@ jobs:
           git push || echo "nothing to push"
           echo "PUSH_TO_GITHUB=$PUSH_TO_GITHUB"
           
-      
+      - name: 安装 pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          run_install: true
+          version: 8
 
-  publish_github_pages:
-    if: needs.sync.outputs.PUSH_TO_GITHUB != 'false'
-    name: 执行部署
-    uses: arthurfsy2/arthurfsy2.github.io/.github/workflows/deploy-docs.yml@main
-    needs:
-      - sync
-    
+      - name: 设置 Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          cache: pnpm
+
+      - name: 构建文档
+        env:
+          NODE_OPTIONS: --max_old_space_size=8192
+        run: |-
+          pnpm run docs:build
+          > src/.vuepress/dist/.nojekyll
+
+      - name: 部署文档
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          # This is the branch where the docs are deployed to
+          branch: gh-pages
+          folder: src/.vuepress/dist
