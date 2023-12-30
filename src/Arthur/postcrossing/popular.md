@@ -1,5 +1,5 @@
 ---
-title: 明信片展示墙（我收到的赞：26）
+title: 明信片展示墙（我收到的赞：27）
 icon: address-card
 date: 2023-12-30
 category:
@@ -11,7 +11,15 @@ order: 5
 
 ### [arthurfsy's popular](https://www.postcrossing.com/user/arthurfsy/gallery/popular)
 
-## [CN-3641753](https://www.postcrossing.com/postcards/CN-3641753) 
+## [CN-3640692](https://www.postcrossing.com/postcards/CN-3640692) 
+ >寄往  :de:
+> 📤[China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2023/12/04 18:30 (当地)
+> 📥 [Germany](https://www.bing.com/maps/?cp=51.88333~8.51667&lvl=12.0&setlang=zh-Hans) 2023/12/30 15:51 (当地)
+ 📏 9,064 | ⏱ 26
+>点赞人数：**1**
+
+![](https://raw.gitmirror.com/arthurfsy2/Postcrossing_map_generator/main/gallery/picture/46hy3aa8nvjf50qinzh36mpbb132twu5.jpg) 
+ ## [CN-3641753](https://www.postcrossing.com/postcards/CN-3641753) 
  >寄往  :belgium:
 > 📤[China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2023/12/06 14:56 (当地)
 > 📥 [Belgium](https://www.bing.com/maps/?cp=51.32254~4.94471&lvl=12.0&setlang=zh-Hans) 2023/12/29 11:35 (当地)

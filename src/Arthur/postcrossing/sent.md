@@ -1,5 +1,5 @@
 ---
-title: 明信片展示墙（寄出：60）
+title: 明信片展示墙（寄出：61）
 icon: address-card
 date: 2023-12-30
 category:
@@ -10,6 +10,15 @@ order: 2
 ---
 
 ### [arthurfsy's sent](https://www.postcrossing.com/user/arthurfsy/gallery/sent)
+
+## [CN-3640692](https://www.postcrossing.com/postcards/CN-3640692) 
+ >寄往 [Matin](https://www.postcrossing.com/user/Matin) :de:
+> 📤[China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2023/12/04 18:30 (当地)
+> 📥 [Germany](https://www.bing.com/maps/?cp=51.88333~8.51667&lvl=12.0&setlang=zh-Hans) 2023/12/30 15:51 (当地)
+ 📏 9,064 | ⏱ 26
+
+
+![](https://raw.gitmirror.com/arthurfsy2/Postcrossing_map_generator/main/gallery/picture/46hy3aa8nvjf50qinzh36mpbb132twu5.jpg)
 
 ## [CN-3641753](https://www.postcrossing.com/postcards/CN-3641753) 
  >寄往 [blauweregen](https://www.postcrossing.com/user/blauweregen) :belgium:
