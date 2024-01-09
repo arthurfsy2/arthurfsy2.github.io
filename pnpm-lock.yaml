@@ -17,6 +17,9 @@ devDependencies:
   '@waline/client':
     specifier: 2.15.8
     version: 2.15.8
+  artplayer:
+    specifier: ^5.1.0
+    version: 5.1.0
   echarts:
     specifier: ^5.4.3
     version: 5.4.3
@@ -29,6 +32,12 @@ devDependencies:
   mermaid:
     specifier: ^10.6.1
     version: 10.6.1
+  plyr:
+    specifier: ^3.7.8
+    version: 3.7.8
+  vidstack:
+    specifier: '1'
+    version: 1.9.8
   vue:
     specifier: ^3.3.11
     version: 3.3.11
@@ -40,13 +49,13 @@ devDependencies:
     version: 2.0.0-rc.4(@waline/client@2.15.8)(vuepress@2.0.0-rc.0)
   vuepress-plugin-components:
     specifier: 2.0.0-rc.4
-    version: 2.0.0-rc.4(vuepress@2.0.0-rc.0)
+    version: 2.0.0-rc.4(plyr@3.7.8)(vidstack@1.9.8)(vuepress@2.0.0-rc.0)
   vuepress-plugin-md-enhance:
     specifier: 2.0.0-rc.4
     version: 2.0.0-rc.4(echarts@5.4.3)(katex@0.16.9)(markdown-it@13.0.2)(mermaid@10.6.1)(vuepress@2.0.0-rc.0)
   vuepress-theme-hope:
     specifier: 2.0.0-rc.4
-    version: 2.0.0-rc.4(@waline/client@2.15.8)(echarts@5.4.3)(katex@0.16.9)(markdown-it@13.0.2)(mermaid@10.6.1)(vuepress@2.0.0-rc.0)
+    version: 2.0.0-rc.4(@waline/client@2.15.8)(echarts@5.4.3)(katex@0.16.9)(markdown-it@13.0.2)(mermaid@10.6.1)(plyr@3.7.8)(vidstack@1.9.8)(vuepress@2.0.0-rc.0)
 
 packages:
 
@@ -2869,8 +2878,8 @@ packages:
       is-shared-array-buffer: 1.0.2
     dev: true
 
-  /artplayer@5.0.9:
-    resolution: {integrity: sha512-IM/DShYdmKFEA9jl08LYbTK2Jfz9s7qIjEH0xWjnxvVArUKZZKcoqwr6i54U0c4grtc/Uvb4wtCd78kvtSVlgw==}
+  /artplayer@5.1.0:
+    resolution: {integrity: sha512-dLFI3hfGxU/9/WihyntwSIYIgWgU9SkQTT/gIhHzrUTf9H4yb+sCM6f2Zc+jh1S1+iCwNI4lq73fL+ucpMK5ew==}
     dependencies:
       option-validator: 2.0.6
     dev: true
@@ -3192,6 +3201,11 @@ packages:
       browserslist: 4.22.2
     dev: true
 
+  /core-js@3.35.0:
+    resolution: {integrity: sha512-ntakECeqg81KqMueeGJ79Q5ZgQNR+6eaE8sxGCx62zMbAIj65q+uYvatToew3m6eAGdU4gNZwpZ34NMe4GYswg==}
+    requiresBuild: true
+    dev: true
+
   /cose-base@1.0.3:
     resolution: {integrity: sha512-s9whTXInMSgAp/NVXVNuVxVKzGH2qck3aQlVHxDCdAEPgtMKwc4Wq6/QKhgdEdgbLSi9rBTAcPoRa6JpiG4ksg==}
     dependencies:
@@ -3239,6 +3253,10 @@ packages:
 
   /csstype@3.1.3:
     resolution: {integrity: sha512-M1uQkMl8rQK/szD0LNhtqxIPLpimGm8sOBwU7lLnCpSbTyY3yeU1Vc7l4KT5zT4s/yOxHH5O7tIuuLOCnLADRw==}
+    dev: true
+
+  /custom-event-polyfill@1.0.7:
+    resolution: {integrity: sha512-TDDkd5DkaZxZFM8p+1I3yAlvM3rSr1wbrOliG4yJiwinMZN8z/iGL7BTlDkrJcYTmgUSb4ywVCc3ZaUtOtC76w==}
     dev: true
 
   /cytoscape-cose-bilkent@4.1.0(cytoscape@3.28.0):
@@ -4498,6 +4516,10 @@ packages:
       lit-html: 2.8.0
     dev: true
 
+  /loadjs@4.2.0:
+    resolution: {integrity: sha512-AgQGZisAlTPbTEzrHPb6q+NYBMD+DP9uvGSIjSUM5uG+0jG15cb8axWpxuOIqrmQjn6scaaH8JwloiP27b2KXA==}
+    dev: true
+
   /locate-path@5.0.0:
     resolution: {integrity: sha512-t7hw9pI+WvuwNJXwk5zVHpyhIqzg2qTlklJOf0mVxGSbe3Fp2VieZcduNYjaLDoy6p9uGpQEGWG87WpMKlNq8g==}
     engines: {node: '>=8'}
@@ -4617,6 +4639,11 @@ packages:
 
   /mdurl@1.0.1:
     resolution: {integrity: sha512-/sKlQJCBYVY9Ers9hqzKou4H6V5UWc/M59TH2dvkt+84itfnq7uFOMLpOiOS4ujvHP4etln18fmIxA5R5fll0g==}
+    dev: true
+
+  /media-captions@1.0.2:
+    resolution: {integrity: sha512-QxAFc+XTGZeMx+ZvLtMxEDgAjd0kr1LJ2NekLr1cw/UKENOxK7B9g6HwtuTQzCXxmb4Dknd4T8M7FOqqCK9buA==}
+    engines: {node: '>=16'}
     dev: true
 
   /medium-zoom@1.1.0:
@@ -5050,6 +5077,16 @@ packages:
     engines: {node: '>=8.6'}
     dev: true
 
+  /plyr@3.7.8:
+    resolution: {integrity: sha512-yG/EHDobwbB/uP+4Bm6eUpJ93f8xxHjjk2dYcD1Oqpe1EcuQl5tzzw9Oq+uVAzd2lkM11qZfydSiyIpiB8pgdA==}
+    dependencies:
+      core-js: 3.35.0
+      custom-event-polyfill: 1.0.7
+      loadjs: 4.2.0
+      rangetouch: 2.0.1
+      url-polyfill: 1.1.12
+    dev: true
+
   /pngjs@5.0.0:
     resolution: {integrity: sha512-40QW5YalBNfQo5yRYmiw7Yz6TKKVr3h6970B2YE+3fQpsWcrbj1PzJgxeJ19DRQjhMbKPIuMY8rFaXc8moolVw==}
     engines: {node: '>=10.13.0'}
@@ -5123,6 +5160,10 @@ packages:
     resolution: {integrity: sha512-vYl3iOX+4CKUWuxGi9Ukhie6fsqXqS9FE2Zaic4tNFD2N2QQaXOMFbuKK4QmDHC0JO6B1Zp41J0LpT0oR68amQ==}
     dependencies:
       safe-buffer: 5.2.1
+    dev: true
+
+  /rangetouch@2.0.1:
+    resolution: {integrity: sha512-sln+pNSc8NGaHoLzwNBssFSf/rSYkqeBXzX1AtJlkJiUaVSJSbRAWJk+4omsXkN+EJalzkZhWQ3th1m0FpR5xA==}
     dev: true
 
   /readable-stream@3.6.2:
@@ -5790,6 +5831,10 @@ packages:
       punycode: 2.3.1
     dev: true
 
+  /url-polyfill@1.1.12:
+    resolution: {integrity: sha512-mYFmBHCapZjtcNHW0MDq9967t+z4Dmg5CJ0KqysK3+ZbyoNOWQHksGCTWwDhxGXllkWlOc10Xfko6v4a3ucM6A==}
+    dev: true
+
   /util-deprecate@1.0.2:
     resolution: {integrity: sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==}
     dev: true
@@ -5808,6 +5853,13 @@ packages:
       diff: 5.1.0
       kleur: 4.1.5
       sade: 1.8.1
+    dev: true
+
+  /vidstack@1.9.8:
+    resolution: {integrity: sha512-0N5XqsvRHz4zO8nWnZ+ggSNkf65BkkjfDikJv1M8QCEovziSdnocBoIKuG1qQCHrcOxqwB8Z5/se8c1PrW98fQ==}
+    engines: {node: '>=18'}
+    dependencies:
+      media-captions: 1.0.2
     dev: true
 
   /vite@5.0.9:
@@ -5884,7 +5936,7 @@ packages:
       '@vue/shared': 3.3.11
     dev: true
 
-  /vuepress-plugin-auto-catalog@2.0.0-rc.4(vuepress@2.0.0-rc.0):
+  /vuepress-plugin-auto-catalog@2.0.0-rc.4(plyr@3.7.8)(vidstack@1.9.8)(vuepress@2.0.0-rc.0):
     resolution: {integrity: sha512-OwA5g5vAfegFDo9TTBw+ibp98B/yumYTRHCYfDRuop01QC55xb0twsHN7bFHTu3BFDNX+vLtj2l2C03FFHEdqw==}
     engines: {node: '>=18.16.0', npm: '>=8', pnpm: '>=7', yarn: '>=2'}
     peerDependencies:
@@ -5909,7 +5961,7 @@ packages:
       vue: 3.3.11
       vue-router: 4.2.5(vue@3.3.11)
       vuepress: 2.0.0-rc.0(@vuepress/client@2.0.0-rc.0)(vue@3.3.11)
-      vuepress-plugin-components: 2.0.0-rc.4(vuepress@2.0.0-rc.0)
+      vuepress-plugin-components: 2.0.0-rc.4(plyr@3.7.8)(vidstack@1.9.8)(vuepress@2.0.0-rc.0)
       vuepress-plugin-sass-palette: 2.0.0-rc.4(vuepress@2.0.0-rc.0)
       vuepress-shared: 2.0.0-rc.4(vuepress@2.0.0-rc.0)
     transitivePeerDependencies:
@@ -5996,7 +6048,7 @@ packages:
       - typescript
     dev: true
 
-  /vuepress-plugin-components@2.0.0-rc.4(vuepress@2.0.0-rc.0):
+  /vuepress-plugin-components@2.0.0-rc.4(plyr@3.7.8)(vidstack@1.9.8)(vuepress@2.0.0-rc.0):
     resolution: {integrity: sha512-pGMc00y3M9irOCY/v2FlXfSPie4/1ZymzrPeCkcTCSimM0Ky1maYUm4XkHd54xIXrP+z9SZ9+az4xFdBTmtHvw==}
     engines: {node: '>=18.16.0', npm: '>=8', pnpm: '>=7', yarn: '>=2'}
     peerDependencies:
@@ -6034,10 +6086,12 @@ packages:
       '@vuepress/shared': 2.0.0-rc.0
       '@vuepress/utils': 2.0.0-rc.0
       '@vueuse/core': 10.7.0(vue@3.3.11)
-      artplayer: 5.0.9
+      artplayer: 5.1.0
       balloon-css: 1.2.0
       create-codepen: 1.0.1
+      plyr: 3.7.8
       qrcode: 1.5.3
+      vidstack: 1.9.8
       vue: 3.3.11
       vue-router: 4.2.5(vue@3.3.11)
       vuepress: 2.0.0-rc.0(@vuepress/client@2.0.0-rc.0)(vue@3.3.11)
@@ -6479,7 +6533,7 @@ packages:
       - typescript
     dev: true
 
-  /vuepress-theme-hope@2.0.0-rc.4(@waline/client@2.15.8)(echarts@5.4.3)(katex@0.16.9)(markdown-it@13.0.2)(mermaid@10.6.1)(vuepress@2.0.0-rc.0):
+  /vuepress-theme-hope@2.0.0-rc.4(@waline/client@2.15.8)(echarts@5.4.3)(katex@0.16.9)(markdown-it@13.0.2)(mermaid@10.6.1)(plyr@3.7.8)(vidstack@1.9.8)(vuepress@2.0.0-rc.0):
     resolution: {integrity: sha512-qWOBRoSr+J5g+X/rL1vR9Z7anHF5ahHP0LEcIBNcy6jYDB+9GIpVoLpn2Y+XHMSbhQg2odcRGbWyeY6VdNzgxA==}
     engines: {node: '>=18.16.0', npm: '>=8', pnpm: '>=7', yarn: '>=2'}
     peerDependencies:
@@ -6518,10 +6572,10 @@ packages:
       vue: 3.3.11
       vue-router: 4.2.5(vue@3.3.11)
       vuepress: 2.0.0-rc.0(@vuepress/client@2.0.0-rc.0)(vue@3.3.11)
-      vuepress-plugin-auto-catalog: 2.0.0-rc.4(vuepress@2.0.0-rc.0)
+      vuepress-plugin-auto-catalog: 2.0.0-rc.4(plyr@3.7.8)(vidstack@1.9.8)(vuepress@2.0.0-rc.0)
       vuepress-plugin-blog2: 2.0.0-rc.4(vuepress@2.0.0-rc.0)
       vuepress-plugin-comment2: 2.0.0-rc.4(@waline/client@2.15.8)(vuepress@2.0.0-rc.0)
-      vuepress-plugin-components: 2.0.0-rc.4(vuepress@2.0.0-rc.0)
+      vuepress-plugin-components: 2.0.0-rc.4(plyr@3.7.8)(vidstack@1.9.8)(vuepress@2.0.0-rc.0)
       vuepress-plugin-copy-code2: 2.0.0-rc.4(vuepress@2.0.0-rc.0)
       vuepress-plugin-copyright2: 2.0.0-rc.4(vuepress@2.0.0-rc.0)
       vuepress-plugin-feed2: 2.0.0-rc.4(vuepress@2.0.0-rc.0)
