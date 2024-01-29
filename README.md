@@ -27,3 +27,4 @@ pnpm run docs:dev
 # 还原项目：先回滚 pnpm-lock.yml、package.json 版本然后 dedupe
 
 pnpm dedupe
+test
