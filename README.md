@@ -5,6 +5,7 @@ pnpm create vuepress-theme-hope blog2
 # 更新项目
 
 pnpm dlx vp-update
+npx vp-update
 
 # 安装依赖
 
