@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-99f032dc","path":"/Arthur/Qzone/%E6%97%A5%E8%AE%B0/%E5%BF%83%E8%AF%AD/","title":"心语","lang":"zh-CN","frontmatter":{"title":"心语","article":false,"feed":false,"sitemap":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};
