@@ -11,7 +11,7 @@ npx vp-update
 
 pnpm add -D @vuepress/utils
 pnpm add -D @vuepress/plugin-docsearch@next
-pnpm add -D @waline/client@2.15.8
+pnpm add -D @waline/client
 pnpm add -D echarts
 pnpm add -D mermaid
 pnpm add -D katex
