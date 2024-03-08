@@ -20,6 +20,7 @@ pnpm add -D echarts-wordcloud
 pnpm add -D vuepress-plugin-comment2
 pnpm add -D vuepress-plugin-md-enhance
 pnpm add -D vuepress-plugin-components
+pnpm add -D vidstack@1
 
 # 运行项目
 

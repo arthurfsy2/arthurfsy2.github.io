@@ -168,14 +168,14 @@ components: {
           "Share",
           "SiteInfo",
           "StackBlitz",
-          // "VidStack",
+          "VidStack",
           "VideoPlayer",
           "XiGua",
           "YouTube",
         ],
     
       },
-
+     
 
     // uncomment these if you want a PWA
     // pwa: {
