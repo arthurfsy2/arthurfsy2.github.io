@@ -9,14 +9,15 @@ sticky: true
 
 order: 2
 ---
-# WIFI二维码
+
+# WIFI 二维码
 
 :::tabs
-@tab 微信WIFI一键连
+@tab 微信 WIFI 一键连
 
 ## 微信扫一扫
 
-![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/img/wechatWIFI.png =300x)
+![](http://ddns.4a1801.life:5244/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/img/wechatWIFI.png =300x)
 
 @tab iPhone/安卓
 
@@ -26,15 +27,14 @@ order: 2
 
 ## 安卓：
 
-> 设置——WLAM——点击“扫一扫”(类似➡️“![](/assets/icon/saoyisao.svg =20x)”的图案)
+> 设置——WLAM——点击“扫一扫”(类似 ➡️“![](/assets/icon/saoyisao.svg =20x)”的图案)
 
-![](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/img/wifi.png =300x)
+![](http://ddns.4a1801.life:5244/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/img/wifi.png =300x)
 :::
 
+:::echarts
 
-:::echarts 
 ```js
-
 const option = {
   series: [
     {
@@ -51,16 +51,16 @@ const option = {
           width: 15,
           color: [[1, "rgba(0,0,0,0.7)"]],
           shadowColor: "rgba(0, 0, 0, 0.5)",
-          shadowBlur: 15
-        }
+          shadowBlur: 15,
+        },
       },
       splitLine: {
         lineStyle: {
           shadowColor: "rgba(0, 0, 0, 0.3)",
           shadowBlur: 3,
           shadowOffsetX: 1,
-          shadowOffsetY: 2
-        }
+          shadowOffsetY: 2,
+        },
       },
       axisLabel: {
         fontSize: 25,
@@ -70,7 +70,7 @@ const option = {
             return "";
           }
           return value + "";
-        }
+        },
       },
       anchor: {
         show: true,
@@ -80,8 +80,8 @@ const option = {
         size: 80,
         keepAspect: true,
         itemStyle: {
-          color: "#707177"
-        }
+          color: "#707177",
+        },
       },
       pointer: {
         icon: "path://M2.9,0.7L2.9,0.7c1.4,0,2.6,1.2,2.6,2.6v115c0,1.4-1.2,2.6-2.6,2.6l0,0c-1.4,0-2.6-1.2-2.6-2.6V3.3C0.3,1.9,1.4,0.7,2.9,0.7z",
@@ -93,20 +93,20 @@ const option = {
           shadowColor: "rgba(0, 0, 0, 0.3)",
           shadowBlur: 8,
           shadowOffsetX: 2,
-          shadowOffsetY: 4
-        }
+          shadowOffsetY: 4,
+        },
       },
       detail: {
-        show: false
+        show: false,
       },
       title: {
-        offsetCenter: [0, "30%"]
+        offsetCenter: [0, "30%"],
       },
       data: [
         {
-          value: 0
-        }
-      ]
+          value: 0,
+        },
+      ],
     },
     {
       name: "minute",
@@ -117,16 +117,16 @@ const option = {
       max: 60,
       clockwise: true,
       axisLine: {
-        show: false
+        show: false,
       },
       splitLine: {
-        show: false
+        show: false,
       },
       axisTick: {
-        show: false
+        show: false,
       },
       axisLabel: {
-        show: false
+        show: false,
       },
       pointer: {
         icon: "path://M2.9,0.7L2.9,0.7c1.4,0,2.6,1.2,2.6,2.6v115c0,1.4-1.2,2.6-2.6,2.6l0,0c-1.4,0-2.6-1.2-2.6-2.6V3.3C0.3,1.9,1.4,0.7,2.9,0.7z",
@@ -138,8 +138,8 @@ const option = {
           shadowColor: "rgba(0, 0, 0, 0.3)",
           shadowBlur: 8,
           shadowOffsetX: 2,
-          shadowOffsetY: 4
-        }
+          shadowOffsetY: 4,
+        },
       },
       anchor: {
         show: true,
@@ -151,20 +151,20 @@ const option = {
           shadowColor: "rgba(0, 0, 0, 0.3)",
           shadowBlur: 8,
           shadowOffsetX: 2,
-          shadowOffsetY: 4
-        }
+          shadowOffsetY: 4,
+        },
       },
       detail: {
-        show: false
+        show: false,
       },
       title: {
-        offsetCenter: ["0%", "-40%"]
+        offsetCenter: ["0%", "-40%"],
       },
       data: [
         {
-          value: 0
-        }
-      ]
+          value: 0,
+        },
+      ],
     },
     {
       name: "second",
@@ -176,16 +176,16 @@ const option = {
       animationEasingUpdate: "bounceOut",
       clockwise: true,
       axisLine: {
-        show: false
+        show: false,
       },
       splitLine: {
-        show: false
+        show: false,
       },
       axisTick: {
-        show: false
+        show: false,
       },
       axisLabel: {
-        show: false
+        show: false,
       },
       pointer: {
         icon: "path://M2.9,0.7L2.9,0.7c1.4,0,2.6,1.2,2.6,2.6v115c0,1.4-1.2,2.6-2.6,2.6l0,0c-1.4,0-2.6-1.2-2.6-2.6V3.3C0.3,1.9,1.4,0.7,2.9,0.7z",
@@ -197,8 +197,8 @@ const option = {
           shadowColor: "rgba(0, 0, 0, 0.3)",
           shadowBlur: 8,
           shadowOffsetX: 2,
-          shadowOffsetY: 4
-        }
+          shadowOffsetY: 4,
+        },
       },
       anchor: {
         show: true,
@@ -209,22 +209,22 @@ const option = {
           shadowColor: "rgba(0, 0, 0, 0.3)",
           shadowBlur: 8,
           shadowOffsetX: 2,
-          shadowOffsetY: 4
-        }
+          shadowOffsetY: 4,
+        },
       },
       detail: {
-        show: false
+        show: false,
       },
       title: {
-        offsetCenter: ["0%", "-40%"]
+        offsetCenter: ["0%", "-40%"],
       },
       data: [
         {
-          value: 0
-        }
-      ]
-    }
-  ]
+          value: 0,
+        },
+      ],
+    },
+  ],
 };
 setInterval(function () {
   var date = new Date();
@@ -237,22 +237,21 @@ setInterval(function () {
       {
         name: "hour",
         animation: hour !== 0,
-        data: [{ value: hour }]
+        data: [{ value: hour }],
       },
       {
         name: "minute",
         animation: minute !== 0,
-        data: [{ value: minute }]
+        data: [{ value: minute }],
       },
       {
         animation: second !== 0,
         name: "second",
-        data: [{ value: second }]
-      }
-    ]
+        data: [{ value: second }],
+      },
+    ],
   });
 }, 1000);
-
 ```
 
 :::

@@ -8,31 +8,32 @@ tag:
 sticky: true
 star: true
 ---
-# 关于我们❤️
 
-## Mr.Feng 与Ms.Wu的故事
+# 关于我们 ❤️
+
+## Mr.Feng 与 Ms.Wu 的故事
 
 ::: tip 从何开始
-2016年11月至今的相处与共
+2016 年 11 月至今的相处与共
 :::
 
 ::: info 一句话的时间线
-2016年相识异地恋，2018年同在一座城，2020年领证的小夫妻俩，2023年新手妈妈和爸爸+笑笑大宝贝
+2016 年相识异地恋，2018 年同在一座城，2020 年领证的小夫妻俩，2023 年新手妈妈和爸爸+笑笑大宝贝
 :::
 
 ::: tabs
-@tab:active  详情
-Ms.Wu的大学好友是Mr.Feng的高中同学，于是相约一场饭局。
+@tab:active 详情
+Ms.Wu 的大学好友是 Mr.Feng 的高中同学，于是相约一场饭局。
 
-那是**16年**深秋的雨夜，地铁站擦肩而过，公交车站躲雨心升好奇，一锅椰子鸡宾客尽欢，从此心中便留下了对方的身影。
+那是**16 年**深秋的雨夜，地铁站擦肩而过，公交车站躲雨心升好奇，一锅椰子鸡宾客尽欢，从此心中便留下了对方的身影。
 
 **相识**时顿生好感，**相恋**就顺理成章，每天的早安晚安，没日没夜的视频通话，道不尽的是异地相思。
 
-终于在**18年**相聚深圳，一起嘻嘻哈哈一起吵吵闹闹一起浪浪浪，然后一起变胖，做饭刷碗拖地洗衣服，换工作搬家买房相互鼓励跑步运动，终于过上了普通情侣正常的日子。
+终于在**18 年**相聚深圳，一起嘻嘻哈哈一起吵吵闹闹一起浪浪浪，然后一起变胖，做饭刷碗拖地洗衣服，换工作搬家买房相互鼓励跑步运动，终于过上了普通情侣正常的日子。
 
-**2020年**在双方父母的祝福下，决定相守一生，一屋两人三餐四季，足矣。
+**2020 年**在双方父母的祝福下，决定相守一生，一屋两人三餐四季，足矣。
 
-**2023年**笑笑出生，从此幸福的二人世界变成了幸福的一家三口。
+**2023 年**笑笑出生，从此幸福的二人世界变成了幸福的一家三口。
 
 @tab 时间线
 
@@ -66,10 +67,10 @@ flowchart TB
 
 ::: tabs
 @tab 微信
-![冯先生的微信](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/img/wechatContact.webp =300x)
+![冯先生的微信](http://ddns.4a1801.life:5244/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/img/wechatContact.webp =300x)
 
 @tab QQ
-![冯先生的QQ](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/img/QQContact.webp =300x)
+![冯先生的QQ](http://ddns.4a1801.life:5244/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/img/QQContact.webp =300x)
 
 @tab 手机
 
@@ -89,9 +90,9 @@ flowchart TB
 
 ::: tabs
 @tab 支付宝
-![扫一扫](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/img/Alipay.webp =300x)
+![扫一扫](http://ddns.4a1801.life:5244/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/img/Alipay.webp =300x)
 @tab 微信
-![扫一扫](https://pan.4a1801.life/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/img/wechatPay.webp =300x)
+![扫一扫](http://ddns.4a1801.life:5244/d/Onedrive-4A1801/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/public/img/wechatPay.webp =300x)
 :::
 
 ## 我们的“关键字”

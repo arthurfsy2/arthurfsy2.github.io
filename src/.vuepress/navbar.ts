@@ -30,6 +30,7 @@ export default navbar([
     ],
    },
   {text: "邀请函",icon: "envelope",link: "/家庭/邀请函/"},
-  {text: "关于我们",icon: "image-portrait",link: "/家庭/intro/"  },
-  {text: "WIFI",icon: "wifi",link: "/家庭/wifi/"  },
+  {text: "关于我们",icon: "image-portrait",link: "/家庭/intro"  },
+  { text: "WIFI", icon: "wifi", link: "/家庭/wifi" },
+  {text: "PC",icon: "envelope-open-text",link: "/Arthur/postcrossing/信息汇总"  },
 ]);
