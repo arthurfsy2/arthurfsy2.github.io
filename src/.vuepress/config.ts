@@ -1,4 +1,4 @@
-import { getDirname, path } from "@vuepress/utils";
+import { getDirname, path } from "vuepress/utils";
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 import { docsearchPlugin } from "@vuepress/plugin-docsearch";

@@ -9,7 +9,7 @@ npx vp-update
 
 # 安装依赖
 
-pnpm add -D @vuepress/utils
+pnpm add -D vuepress/utils
 pnpm add -D @vuepress/plugin-docsearch@next
 pnpm add -D @waline/client
 pnpm add -D echarts
