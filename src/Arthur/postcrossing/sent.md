@@ -1,7 +1,7 @@
 ---
-title: 明信片展示墙（寄出：73）
+title: 明信片展示墙（寄出：76）
 icon: address-card
-date: 2024-03-04
+date: 2024-03-07
 category:
   - Arthur
 tag:
@@ -148,7 +148,34 @@ const option = {
 
 :::
 
-### 2024(12)
+### 2024(15)
+
+[CN-3655671](https://www.postcrossing.com/postcards/CN-3655671) 
+ >寄往 [Daniel_and_Tanya](https://www.postcrossing.com/user/Daniel_and_Tanya) 🇷🇺
+> 📤 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2023/12/29 22:23 (当地)
+> 📥 [Russia](https://www.bing.com/maps/?cp=66.53~66.60194&lvl=12.0&setlang=zh-Hans) 2024/03/07 21:03 (当地)
+ 📏 5,909 | ⏱ 69
+
+
+![](https://raw.gitmirror.com/arthurfsy2/Postcrossing_map_generator/main/gallery/picture/b7vw4a69coy80djw7elnf300djzor9es.jpg)
+
+[CN-3692798](https://www.postcrossing.com/postcards/CN-3692798) 
+ >寄往 [louisehei](https://www.postcrossing.com/user/louisehei) 🇭🇰
+> 📤 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2024/02/22 11:20 (当地)
+> 📥 [Hong Kong](https://www.bing.com/maps/?cp=22.27832~114.17469&lvl=12.0&setlang=zh-Hans) 2024/03/07 09:46 (当地)
+ 📏 31 | ⏱ 14
+
+
+![](https://raw.gitmirror.com/arthurfsy2/Postcrossing_map_generator/main/gallery/picture/ep122ew11tql5sbe2qptuny0xc6je6n5.jpg)
+
+[CN-3683276](https://www.postcrossing.com/postcards/CN-3683276) 
+ >寄往 [reepeecheep](https://www.postcrossing.com/user/reepeecheep) 🇩🇪
+> 📤 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2024/02/06 15:52 (当地)
+> 📥 [Germany](https://www.bing.com/maps/?cp=51.93855~8.87318&lvl=12.0&setlang=zh-Hans) 2024/03/06 10:59 (当地)
+ 📏 9,040 | ⏱ 29
+
+
+![](https://raw.gitmirror.com/arthurfsy2/Postcrossing_map_generator/main/gallery/picture/x8mbc4zuinu9sw43ajcr441nsto0ji94.jpg)
 
 [CN-3651287](https://www.postcrossing.com/postcards/CN-3651287) 
  >寄往 [Marisolt](https://www.postcrossing.com/user/Marisolt) 🇺🇦
