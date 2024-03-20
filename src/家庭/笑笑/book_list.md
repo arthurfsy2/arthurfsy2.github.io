@@ -34,6 +34,16 @@ order: 1
 ![](https://image.baidu.com/search/down?url=https://img2.doubanio.com/view/subject/l/public/s34544971.jpg =300x)
         
 
+## [宝宝启蒙认知大百科](https://pdc.capub.cn/search.html#/detail?id=x5gcb573tgefxpupel23m2yymuc74j5ndicmlat4flkncwad5uydq4oehvfd4cv3wzbchxln2v6n4&from=1&type=cip)
+
+> 豆瓣评分：⚝⚝⚝⚝⚝
+
+::: tip 简介：
+《宝宝启蒙认知大百科》是面向3~4岁的幼儿阅读的启蒙百科书。本书通过多元学习主题,从图片和文字,加上有声互动儿歌,面向幼儿介绍了23个主题启蒙小知识，如陆生动物、传统节日、交通工具等。通过图文结合、音频等方式，为幼儿增添不同有趣学习方式，让幼儿能反复学习各种知识。全书采用可爱写实图片、简单直观的点读笔操作方式，满足孩子中英双语基本教育需求，同时能给幼儿带来身临其境的体验。本书还配套互动小游戏与点读贴纸，激发幼儿学习兴趣，让孩子可以在趣味学习中加固认知。
+:::
+
+        
+
 ## [宝宝学说话](http://api.tanshuapi.com/api/isbn/v1/index?key=c32d2275b3d5acc706165637ddb33235&isbn=9787555709947)
 
 > 豆瓣评分：⚝⚝⚝⚝⚝
@@ -159,6 +169,27 @@ order: 1
 
         
 
+## [动物全知道](https://pdc.capub.cn/search.html#/detail?id=fooyhe6xk7obffjw56ytrwwlrujoklm5ctwqzmtrcvnmbd37lbltq4oehvfd4cv3wdfj347eq2tbi&from=1&type=cipad=0&ids=&searchType=book&sortName=&sortType=&checkedTypeList=%5B%5D&checkedClass=%5B%5D&filterbox=%5B%5D&priceStart=&priceEnd=&createdateStart=&createdateEnd=&xglb=%5B%5D&xglbWord=%5B%5D&xglbAwardDate=%5B%5D)
+
+> 豆瓣评分：⚝⚝⚝⚝⚝
+
+::: tip 简介：
+《动物全知道》：本套书是以孩子们熟悉的小动物为主，先让孩子从萌趣可爱的动物开启阅读之旅，每页一句话，句式结构简单，搭配活泼生动的图片，适合已经开始英语启蒙的孩子进行科普阅读。熊躯体粗壮肥大，体毛又长又密，脸形像狗，头大嘴长，眼睛与耳朵都较小，臼齿大而发达，咀嚼力强。四肢粗壮有力，锋利的爪子用来撕开食物和爬树。尾巴短小。熊平时用脚掌慢吞吞地行走，但是当追赶猎物时，它会跑得很快，而且后腿还可以直立起来。
+:::
+
+![](https://image.baidu.com/search/down?url=https://pdcapi.capub.cn/image/mm6w22lyez2d2mrqez4t2mjqeztdcpjpn5yhil3enfzwwmrppfuxi5lcnfqw43lvf5rggmzpnfwwcz3fgiydemrrgaxxg6lomv3we33pnmxtamjqgeydambqheztomrrgaztglzqgeydcmbqgaydsmzxgiytamztl5kfalzqgeydcmbqgaydsmzxgiytamztl5bdamjooruwmjtggi6s633qoqxwi2ltnmzc64demmzdamboobxgojtnhu2ta/a.png?size=800x800&t=20240320115157?size=800x800&t=20240320115158 =300x)
+        
+
+## [儿童专注力全脑思维游戏训练卡](https://pdc.capub.cn/search.html#/detail?id=kovuwa5lgeefphuwmwi6dzr4hxy2gsy72mzkxfnvpblz5srygu7q&from=1&type=marc)
+
+> 豆瓣评分：⚝⚝⚝⚝⚝
+
+::: tip 简介：
+《儿童专注力全脑思维游戏训练卡 捉迷藏》是一套专为2~6岁孩子们策划的图书，这个年龄段的孩子们思维活跃，充满好奇心，是提高他们思维训练能力的好时机。本丛书分为6项不同的场景，有《公主》《恐龙》《西游记》《红楼梦》《水浒》《三国演义》，每本一个主题，通过精美图画，展现了各种真实场景，贴近孩子们的兴趣爱好，每幅图都有多个小物件藏在场景中，让孩子们在边玩边学中找到小物件，培养其思维能力，锻炼专注力。值得出版。
+:::
+
+        
+
 ## [儿童专注力全脑思维游戏训练卡找不同](https://book.douban.com/subject/36577092/)
 
 > 豆瓣评分：⚝⚝⚝⚝⚝
@@ -199,6 +230,21 @@ order: 1
 ![](https://image.baidu.com/search/down?url=https://img1.doubanio.com/view/subject/l/public/s2800988.jpg =300x)
         
 
+## [活了100万次的猫](https://book.douban.com/subject/1257365/)
+
+> 豆瓣评分：🌟🌟🌟🌟⭐
+
+::: tip 简介：
+有一只100万年也不死的猫，其实它死了100万次，又活了100万次。是一只漂亮的虎皮花猫。有100万个人宠爱过它，有100万个人在它死的时候哭过，可是它连一次也没有哭过。
+猫曾经是国王的猫。猫讨厌国王，国王总是发动战争，还把猫用一个漂亮的篮子装起来，带到战场上。有一天，猫被一只冷箭射死了。国王捧着猫哭了起来，仗也不打了，回到了王宫，把它埋在了院子里。
+猫曾经是水手的猫。猫讨厌大海，水手带它走遍了全世界的大海和全世界的码头。有一天，猫从船上掉了下来淹死了。水手用网子把猫捞了上来，抱着它大哭起来，把它埋到了一个遥远的港口的树下。
+猫还曾经是一个魔术师的猫、曾经是一个小偷的猫、曾经是一个孤零零的老太太的猫、曾经是一个小女孩的猫，它被锯死过、被狗咬死过、老死过，还被背孩子的带子勒死过，不过，它已经不在乎死亡了。
+后来，猫就谁的猫也不是了。它成了一只野猫。它头...
+:::
+
+![](https://image.baidu.com/search/down?url=https://img9.doubanio.com/view/subject/l/public/s1673084.jpg =300x)
+        
+
 ## [经典科普图鉴系列：狗](https://book.douban.com/subject/36183931/)
 
 > 豆瓣评分：⚝⚝⚝⚝⚝
@@ -230,17 +276,6 @@ order: 1
 :::
 
 ![](https://image.baidu.com/search/down?url=https://img3.doubanio.com/view/subject/l/public/s34679843.jpg =300x)
-        
-
-## [恐龙星球小个子精灵](http://api.tanshuapi.com/api/isbn/v1/index?key=c32d2275b3d5acc706165637ddb33235&isbn=9187557877086)
-
-> 豆瓣评分：⚝⚝⚝⚝⚝
-
-::: tip 简介：
-恐龙家族中有很多小精灵，它们虽然没有强壮的身躯，却凭借自身特点，在危机四伏的史前世界占有一席之地，比如肉食小王子埃雷拉龙、迷你猎手盒龙、小巧的素食者隐龙。让我们一起进入恐龙星球，去了解生话在那里的小个子精灵吧！
-:::
-
-![](https://image.baidu.com/search/down?url=http://static.tanshuapi.com/isbn/202412/17108657291631ee.jpg =300x)
         
 
 ## [昆虫百科全书（少儿注音版）](https://book.douban.com/subject/31248351/)
