@@ -593,6 +593,19 @@ order: 1
 ![](https://image.baidu.com/search/down?url=https://img3.doubanio.com/view/subject/l/public/s2449523.jpg =300x)
         
 
+## [我敢大声说出来:拒绝玻璃心绘本](https://book.douban.com/subject/36746506/)
+
+> 豆瓣评分：⚝⚝⚝⚝⚝ | ISBN: 9787521761283
+
+::: tip 简介：
+<<我敢大声说出来>>[英]妮古拉.金尼尔Nicola Kinnear(著绘)
+<<公鸡叫醒服务>>[澳]里拉.亚历山大Rilla Alexander(著绘)
+<<万一鲸鱼吃了我>>[西]苏珊娜.伊赛恩Susanna Isern（著）[西]罗西奥.波尼亚Rocio Bonilla(绘)
+:::
+
+![](https://image.baidu.com/search/down?url=https://img9.doubanio.com/view/subject/l/public/s34767826.jpg =300x)
+        
+
 ## [我妈妈](https://book.douban.com/subject/2121010/)
 
 > 豆瓣评分：🌟🌟🌟🌟⚝ | ISBN: 9787543464575
