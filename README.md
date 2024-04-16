@@ -8,7 +8,7 @@ pnpm dlx vp-update
 npx vp-update
 
 # 安装依赖
-
+```md
 pnpm add -D vuepress/utils
 pnpm add -D @vuepress/plugin-docsearch@next
 pnpm add -D @waline/client
@@ -21,11 +21,12 @@ pnpm add -D vuepress-plugin-comment2
 pnpm add -D vuepress-plugin-md-enhance
 pnpm add -D vuepress-plugin-components
 pnpm add -D vidstack@1
-
+```
 # 运行项目
 
 pnpm run docs:dev
 
-# 还原项目：先回滚 pnpm-lock.yml、package.json 版本然后 dedupe
+# 还原项目
+先回滚 pnpm-lock.yml、package.json 版本然后 dedupe
 
 pnpm dedupe
