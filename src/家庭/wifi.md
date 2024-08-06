@@ -17,7 +17,7 @@ order: 2
 
 ## 微信扫一扫
 
-![](https://pan.4a1801.life/d/NAS/img/wechatWIFI.png =300x)
+![](http://ddns.4a1801.life:5244/d/NAS/img/wechatWIFI.png =300x)
 
 @tab iPhone/安卓
 
@@ -29,7 +29,7 @@ order: 2
 
 > 设置——WLAM——点击“扫一扫”(类似 ➡️“![](/assets/icon/saoyisao.svg =20x)”的图案)
 
-![](https://pan.4a1801.life/d/NAS/img/wifi.png =300x)
+![](http://ddns.4a1801.life:5244/d/NAS/img/wifi.png =300x)
 :::
 
 :::echarts

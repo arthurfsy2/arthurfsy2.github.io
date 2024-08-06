@@ -14,7 +14,7 @@ index: false
 
 > [Yogyakarta](/Arthur/Qzone/相册/生活/Yogyakarta)
 
-> [![Yogyakarta](https://pan.4a1801.life/d/NAS/Qzone/Albums/images/32329446.webp =300x)](/Arthur/Qzone/相册/生活/Yogyakarta)
+> [![Yogyakarta](http://ddns.4a1801.life:5244/d/NAS/Qzone/Albums/images/32329446.webp =300x)](/Arthur/Qzone/相册/生活/Yogyakarta)
 
 > Yogyakarta
 
@@ -24,7 +24,7 @@ index: false
 
 > [爱爱爱](/Arthur/Qzone/相册/生活/爱爱爱)
 
-> [![爱爱爱](https://pan.4a1801.life/d/NAS/Qzone/Albums/images/3AF4599D.webp =300x)](/Arthur/Qzone/相册/生活/爱爱爱)
+> [![爱爱爱](http://ddns.4a1801.life:5244/d/NAS/Qzone/Albums/images/3AF4599D.webp =300x)](/Arthur/Qzone/相册/生活/爱爱爱)
 
 >
 
