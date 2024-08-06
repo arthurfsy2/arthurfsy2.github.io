@@ -1,7 +1,7 @@
 ---
-title: 明信片展示墙（寄出：105）
+title: 明信片展示墙（寄出：107）
 icon: address-card
-date: 2024-07-25
+date: 2024-08-05
 category:
   - Arthur
 tag:
@@ -148,7 +148,25 @@ const option = {
 
 :::
 
-### 2024(44)
+### 2024(46)
+
+[CN-3800373](https://www.postcrossing.com/postcards/CN-3800373) 
+ >寄往 [dcktam](https://www.postcrossing.com/user/dcktam) 🇲🇴
+> 📤 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2024/07/22 10:37 (当地)
+> 📥 [Macao](https://www.bing.com/maps/?cp=22.20056~113.54611&lvl=12.0&setlang=zh-Hans) 2024/08/05 14:52 (当地)
+ 📏 81 | ⏱ 14
+
+
+![](https://raw.gitmirror.com/arthurfsy2/Postcrossing_map_generator/main/gallery/picture/h56li9r7tvdsmxu1rbjpwv7z8ztkq19d.jpg)
+
+[CN-3772688](https://www.postcrossing.com/postcards/CN-3772688) 
+ >寄往 [JacobTheShuhite](https://www.postcrossing.com/user/JacobTheShuhite) 🇩🇪
+> 📤 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2024/06/14 17:27 (当地)
+> 📥 [Germany](https://www.bing.com/maps/?cp=51.0303~6.98432&lvl=12.0&setlang=zh-Hans) 2024/07/29 19:19 (当地)
+ 📏 9,202 | ⏱ 45
+
+
+![](https://raw.gitmirror.com/arthurfsy2/Postcrossing_map_generator/main/gallery/picture/3144cte43ov5fne5rb4ma12cl2c8vgwf.jpg)
 
 [CN-3774506](https://www.postcrossing.com/postcards/CN-3774506) 
  >寄往 [Kosmopilot](https://www.postcrossing.com/user/Kosmopilot) 🇷🇺

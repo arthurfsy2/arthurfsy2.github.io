@@ -1,7 +1,7 @@
 ---
-title: 明信片展示墙（收到：117）
+title: 明信片展示墙（收到：120）
 icon: address-card
-date: 2024-07-18
+date: 2024-08-04
 category:
   - Arthur
 tag:
@@ -148,7 +148,34 @@ const option = {
 
 :::
 
-### 2024(48)
+### 2024(51)
+
+[FI-4642929](https://www.postcrossing.com/postcards/FI-4642929) 
+ >来自 [ajoutsenlampi](https://www.postcrossing.com/user/ajoutsenlampi) 🇫🇮
+> 📤 [Finland](https://www.bing.com/maps/?cp=60.98267~25.66151&lvl=12.0&setlang=zh-Hans) 2024/07/06 11:19 (当地)
+> 📥 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2024/08/05 00:08 (当地)
+ 📏 7,752 | ⏱ 29
+
+
+![](https://raw.gitmirror.com/arthurfsy2/Postcrossing_map_generator/main/gallery/picture/n6xqvqvrnwshxc1kadkl3ias2sfbeku4.jpg)
+
+[FI-4642961](https://www.postcrossing.com/postcards/FI-4642961) 
+ >来自 [Minna71](https://www.postcrossing.com/user/Minna71) 🇫🇮
+> 📤 [Finland](https://www.bing.com/maps/?cp=62.43333~22.18333&lvl=12.0&setlang=zh-Hans) 2024/07/06 11:45 (当地)
+> 📥 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2024/08/05 00:06 (当地)
+ 📏 7,900 | ⏱ 29
+
+
+![](https://raw.gitmirror.com/arthurfsy2/Postcrossing_map_generator/main/gallery/picture/v4p2idipjs7u2tuiamlxpl31wsskudpn.jpg)
+
+[FI-4640895](https://www.postcrossing.com/postcards/FI-4640895) 
+ >来自 [AnnekaA](https://www.postcrossing.com/user/AnnekaA) 🇫🇮
+> 📤 [Finland](https://www.bing.com/maps/?cp=64.08333~24.55&lvl=12.0&setlang=zh-Hans) 2024/07/02 08:06 (当地)
+> 📥 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2024/07/27 22:03 (当地)
+ 📏 7,747 | ⏱ 25
+
+
+![](https://raw.gitmirror.com/arthurfsy2/Postcrossing_map_generator/main/gallery/picture/w4vjnki6x182vvjrgksit9hk5v4168pq.jpg)
 
 [DE-14306905](https://www.postcrossing.com/postcards/DE-14306905) 
  >来自 [RunnIng_cat_mum](https://www.postcrossing.com/user/RunnIng_cat_mum) 🇩🇪
