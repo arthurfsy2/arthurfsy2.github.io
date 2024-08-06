@@ -1,0 +1,35 @@
+var z=s=>{throw TypeError(s)};var O=(s,t,e)=>t.has(s)||z("Cannot "+e);var o=(s,t,e)=>(O(s,t,"read from private field"),e?e.call(s):t.get(s)),r=(s,t,e)=>t.has(s)?z("Cannot add the same private member more than once"):t instanceof WeakSet?t.add(s):t.set(s,e),a=(s,t,e,i)=>(O(s,t,"write to private field"),i?i.call(s,e):t.set(s,e),e),l=(s,t,e)=>(O(s,t,"access private method"),e);import{aj as Z,v as C,ad as Q,bz as tt,L as st,a6 as et,A as it,F as nt}from"./app-CWAMmACB.js";import{A as E,T as ot,D as P,x as rt}from"./vidstack-X3U7UG6U-B9xcI1mI.js";/**
+ * @license
+ * Copyright 2020 Google LLC
+ * SPDX-License-Identifier: BSD-3-Clause
+ */const lt=s=>s.strings===void 0,ht={},Tt=(s,t=ht)=>s._$AH=t;/**
+ * @license
+ * Copyright 2017 Google LLC
+ * SPDX-License-Identifier: BSD-3-Clause
+ */const x={ATTRIBUTE:1,CHILD:2,PROPERTY:3,BOOLEAN_ATTRIBUTE:4,EVENT:5,ELEMENT:6},D=s=>(...t)=>({_$litDirective$:s,values:t});class q{constructor(t){}get _$AU(){return this._$AM._$AU}_$AT(t,e,i){this._$Ct=t,this._$AM=e,this._$Ci=i}_$AS(t,e){return this.update(t,e)}update(t,e){return this.render(...e)}}/**
+ * @license
+ * Copyright 2017 Google LLC
+ * SPDX-License-Identifier: BSD-3-Clause
+ */const p=(s,t)=>{var e,i;const n=s._$AN;if(n===void 0)return!1;for(const h of n)(i=(e=h)._$AO)===null||i===void 0||i.call(e,t,!1),p(h,t);return!0},L=s=>{let t,e;do{if((t=s._$AM)===void 0)break;e=t._$AN,e.delete(s),s=t}while((e==null?void 0:e.size)===0)},G=s=>{for(let t;t=s._$AM;s=t){let e=t._$AN;if(e===void 0)t._$AN=e=new Set;else if(e.has(s))break;e.add(s),dt(t)}};function ct(s){this._$AN!==void 0?(L(this),this._$AM=s,G(this)):this._$AM=s}function at(s,t=!1,e=0){const i=this._$AH,n=this._$AN;if(n!==void 0&&n.size!==0)if(t)if(Array.isArray(i))for(let h=e;h<i.length;h++)p(i[h],!1),L(i[h]);else i!=null&&(p(i,!1),L(i));else p(this,s)}const dt=s=>{var t,e,i,n;s.type==x.CHILD&&((t=(i=s)._$AP)!==null&&t!==void 0||(i._$AP=at),(e=(n=s)._$AQ)!==null&&e!==void 0||(n._$AQ=ct))};class ut extends q{constructor(){super(...arguments),this._$AN=void 0}_$AT(t,e,i){super._$AT(t,e,i),G(this),this.isConnected=t._$AU}_$AO(t,e=!0){var i,n;t!==this.isConnected&&(this.isConnected=t,t?(i=this.reconnected)===null||i===void 0||i.call(this):(n=this.disconnected)===null||n===void 0||n.call(this)),e&&(p(this,t),L(this))}setValue(t){if(lt(this._$Ct))this._$Ct._$AI(t,this);else{const e=[...this._$Ct._$AH];e[this._$Ci]=t,this._$Ct._$AI(e,this,0)}}disconnected(){}reconnected(){}}/**
+ * @license
+ * Copyright 2018 Google LLC
+ * SPDX-License-Identifier: BSD-3-Clause
+ */const W=s=>s??E;/**
+ * @license
+ * Copyright 2017 Google LLC
+ * SPDX-License-Identifier: BSD-3-Clause
+ */class I extends q{constructor(t){if(super(t),this.et=E,t.type!==x.CHILD)throw Error(this.constructor.directiveName+"() can only be used in child bindings")}render(t){if(t===E||t==null)return this.ft=void 0,this.et=t;if(t===ot)return t;if(typeof t!="string")throw Error(this.constructor.directiveName+"() called with a non-string value");if(t===this.et)return this.ft;this.et=t;const e=[t];return e.raw=e,this.ft={_$litType$:this.constructor.resultType,strings:e,values:[]}}}I.directiveName="unsafeHTML",I.resultType=1;const yt=D(I);/**
+ * @license
+ * Copyright 2017 Google LLC
+ * SPDX-License-Identifier: BSD-3-Clause
+ */class B extends I{}B.directiveName="unsafeSVG",B.resultType=2;const $t=D(B);var d,b,$,c,H,U,Y,J,V,ft=(V=class extends ut{constructor(t){super(t);r(this,c);r(this,d,null);r(this,b,!1);r(this,$,null);a(this,b,t.type===x.ATTRIBUTE||t.type===x.BOOLEAN_ATTRIBUTE)}render(t){return t!==o(this,d)&&(this.disconnected(),a(this,d,t),this.isConnected&&l(this,c,H).call(this)),o(this,d)?l(this,c,U).call(this,it(o(this,d))):E}reconnected(){l(this,c,H).call(this)}disconnected(){var t;(t=o(this,$))==null||t.call(this),a(this,$,null)}},d=new WeakMap,b=new WeakMap,$=new WeakMap,c=new WeakSet,H=function(){o(this,d)&&a(this,$,nt(l(this,c,J).bind(this)))},U=function(t){return o(this,b)?W(t):t},Y=function(t){this.setValue(l(this,c,U).call(this,t))},J=function(){var t;l(this,c,Y).call(this,(t=o(this,d))==null?void 0:t.call(this))},V);function At(s){return D(ft)(Z(s))}var f,m,T,y,R,k,K=(k=class{constructor(s,t){r(this,y);r(this,f);r(this,m);r(this,T);this.elements=new Set,a(this,T,Q(l(this,y,R).bind(this))),a(this,f,s),a(this,m,t)}connect(){l(this,y,R).call(this);let s=new MutationObserver(o(this,T));for(let t of o(this,f))s.observe(t,{childList:!0,subtree:!0});C(()=>s.disconnect()),C(this.disconnect.bind(this))}disconnect(){this.elements.clear()}assign(s,t){tt(s)?(t.textContent="",t.append(s)):(P(null,t),P(s,t)),t.style.display||(t.style.display="contents");let e=t.firstElementChild;if(!e)return;let i=t.getAttribute("data-class");i&&e.classList.add(...i.split(" "))}},f=new WeakMap,m=new WeakMap,T=new WeakMap,y=new WeakSet,R=function(s){if(s&&!s.some(i=>i.addedNodes.length))return;let t=!1,e=o(this,f).flatMap(i=>[...i.querySelectorAll("slot")]);for(let i of e)!i.hasAttribute("name")||this.elements.has(i)||(this.elements.add(i),t=!0);t&&o(this,m).call(this,this.elements)},k),vt=0,w="data-slot-id",A,M,v,N,j,gt=(j=class{constructor(s){r(this,v);r(this,A);r(this,M,Q(l(this,v,N).bind(this)));a(this,A,s),this.slots=new K(s,l(this,v,N).bind(this))}connect(){this.slots.connect(),l(this,v,N).call(this);let s=new MutationObserver(o(this,M));for(let t of o(this,A))s.observe(t,{childList:!0});C(()=>s.disconnect())}},A=new WeakMap,M=new WeakMap,v=new WeakSet,N=function(){for(let s of o(this,A))for(let t of s.children){if(t.nodeType!==1)continue;let e=t.getAttribute("slot");if(!e)continue;t.style.display="none";let i=t.getAttribute(w);i||t.setAttribute(w,i=++vt+"");for(let n of this.slots.elements){if(n.getAttribute("name")!==e||n.getAttribute(w)===i)continue;let h=document.importNode(t,!0);e.includes("-icon")&&h.classList.add("vds-icon"),h.style.display="",h.removeAttribute("slot"),this.slots.assign(h,n),n.setAttribute(w,i)}}},j);function wt({name:s,class:t,state:e,paths:i,viewBox:n="0 0 32 32"}){return rt`<svg
+    class="${"vds-icon"+(t?` ${t}`:"")}"
+    viewBox="${n}"
+    fill="none"
+    aria-hidden="true"
+    focusable="false"
+    xmlns="http://www.w3.org/2000/svg"
+    data-icon=${W(s??e)}
+  >
+    ${st(i)?$t(i):At(i)}
+  </svg>`}var _,g,u,X,S,F,_t=(F=class{constructor(s){r(this,u);r(this,_,{});r(this,g,!1);this.slots=new K(s,l(this,u,S).bind(this))}connect(){this.slots.connect()}load(){this.loadIcons().then(s=>{a(this,_,s),a(this,g,!0),l(this,u,S).call(this)})}},_=new WeakMap,g=new WeakMap,u=new WeakSet,X=function*(){for(let s of Object.keys(o(this,_))){let t=`${s}-icon`;for(let e of this.slots.elements)e.name===t&&(yield{icon:o(this,_)[s],slot:e})}},S=function(){if(o(this,g))for(let{icon:s,slot:t}of l(this,u,X).call(this))this.slots.assign(s,t)},F),Nt=class extends _t{connect(){super.connect();let{player:s}=et();if(!s.el)return;let t,e=new IntersectionObserver(i=>{var n;(n=i[0])!=null&&n.isIntersecting&&(t==null||t(),t=void 0,this.load())});e.observe(s.el),t=C(()=>e.disconnect())}};export{gt as S,At as T,wt as W,Tt as a,ut as c,D as e,q as i,W as l,yt as o,Nt as x};
