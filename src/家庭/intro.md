@@ -67,10 +67,10 @@ flowchart TB
 
 ::: tabs
 @tab 微信
-![冯先生的微信](http://ddns.4a1801.life:5244/d/NAS/img/wechatContact.webp =300x)
+![冯先生的微信](https://pan.4a1801.life:11443/d/NAS/img/wechatContact.webp =300x)
 
 @tab QQ
-![冯先生的QQ](http://ddns.4a1801.life:5244/d/NAS/img/QQContact.webp =300x)
+![冯先生的QQ](https://pan.4a1801.life:11443/d/NAS/img/QQContact.webp =300x)
 
 @tab 手机
 
@@ -90,9 +90,9 @@ flowchart TB
 
 ::: tabs
 @tab 支付宝
-![扫一扫](http://ddns.4a1801.life:5244/d/NAS/img/Alipay.webp =300x)
+![扫一扫](https://pan.4a1801.life:11443/d/NAS/img/Alipay.webp =300x)
 @tab 微信
-![扫一扫](http://ddns.4a1801.life:5244/d/NAS/img/wechatPay.webp =300x)
+![扫一扫](https://pan.4a1801.life:11443/d/NAS/img/wechatPay.webp =300x)
 :::
 
 ## 我们的“关键字”
