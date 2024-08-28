@@ -14,7 +14,7 @@ index: false
 
 > [我的老家](/Arthur/Qzone/相册/风景/我的老家)
 
-> [![我的老家](https://pan.4a1801.life:11443/d/NAS/Qzone/Albums/images/1CEB261E.webp)](/Arthur/Qzone/相册/风景/我的老家)
+> [![我的老家](https://pan.4a1801.life:11443/d/public/Qzone/Albums/images/1CEB261E.webp)](/Arthur/Qzone/相册/风景/我的老家)
 
 > 我妈妈说那小鸡最可爱~
 
