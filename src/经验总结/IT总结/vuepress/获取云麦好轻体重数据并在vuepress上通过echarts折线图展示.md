@@ -20,7 +20,7 @@ tag:
 vuepress-theme-hope 内置的 markdownEnhance 功能，已经支持 echarts 图表（大部分）的展示了，可以通过 await+fetch 的方式引入 json 文件，并生成折线图。
 效果如下：
 
-新增：[在线导出数据](https://haoqing.4a1801.life/static/index.html)
+新增：[在线导出数据](https://haoqing.fengsy.cn/static/index.html)
 
 ::: important 说明
 以上在线导出网站的前端，是通过 python 的 flask 库实现，整个服务是通过宝塔面板的 `网站——Python项目` 进行管理。
