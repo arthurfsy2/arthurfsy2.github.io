@@ -22,12 +22,16 @@ output_path_svg = os.path.normpath(os.path.join(script_dir, "../assets/img/wordc
 
 
 def merge_md_contents(folder_path):
+    exclude_keywords = ["黑神话悟空妖怪平生录","转载"]  # 直接在这里指定排除的关键字
+
     contents = ""
     for file in os.listdir(folder_path):
         file_path = os.path.join(folder_path, file)
         if os.path.isdir(file_path):
             contents += merge_md_contents(file_path)  # 递归遍历子文件夹并将内容合并
-        elif file.endswith(".md"):
+        elif file.endswith(".md") and any(keyword in file for keyword in exclude_keywords):  # 排除包含关键字的文件
+            continue  # 跳过该文件
+        elif file.endswith(".md"):  # 合并其他文件
             with open(file_path, "r", encoding="utf-8") as f:
                 file_content = f.read()
                 contents += file_content
@@ -45,8 +49,8 @@ def remove_content(contents):
 contents = merge_md_contents(dir_path)
 contents = remove_content(contents)
 # with open(r"./output.txt", "w", encoding="utf-8") as f:
-#                f.write(contents)
-#print(contents)
+#     f.write(contents)
+# print(contents)
 
 # 使用jieba的textrank功能提取关键词
 keywords = jieba.analyse.textrank(contents, topK=150, withWeight=False, allowPOS=('ns', 'n', 'vn', 'v'))
