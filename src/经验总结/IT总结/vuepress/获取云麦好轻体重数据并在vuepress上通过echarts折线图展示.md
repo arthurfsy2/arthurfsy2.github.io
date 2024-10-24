@@ -13,7 +13,6 @@ tag:
 其实之前已经通过 node-red 实现了获取云麦好轻的数据，并在 Home Assistant 上展示家庭体重了，但是感觉自动化还是有点欠缺。刚好借着写 Blog 的时候发现 vuepress-theme-hope 支持 echarts 扩展，就想着尝试通过折线图实现。
 :::
 
-<Share colorful services="qq,weibo,qrcode"/>
 
 ## 成果展示
 

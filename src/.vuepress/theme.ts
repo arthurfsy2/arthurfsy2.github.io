@@ -103,25 +103,14 @@ export default hopeTheme(
       mdEnhance: {
         align: true,
         attrs: true,
-        //chart: true,
-        codetabs: true,
-        container: true,
-        demo: true,
+        // demo: true,
         echarts: true,
-        figure: true,
-        //flowchart: true,
         gfm: true,
-        imgLazyload: true,
-        imgSize: true,
         include: true,
-        //katex: true,
         mark: true,
         mermaid: true,
         footnote: true,
         // 启用图片标记
-        imgMark: true,
-        // 使用 KaTeX 启用 TeX 支持
-        katex: { copy: true },
         playground: {
           presets: ["ts", "vue"],
         },
@@ -143,32 +132,41 @@ export default hopeTheme(
         ],
         sub: true,
         sup: true,
-        tabs: true,
+        tasklist: true,
         vPre: true,
         vuePlayground: true,
       },
       markdownTab: {
         tabs: true,
       },
+      markdownMath: {
+        type: "katex", // 或 'mathjax'
+      },
+      markdownImage: {
+        // 启用 figure
+        figure: true,
+        // 启用图片懒加载
+        lazyload: true,
+        // 启用图片标记
+        mark: true,
+        // 启用图片大小
+        size: true,
+      },
 
       components: {
         // 你想使用的组件
         components: [
           "ArtPlayer",
-          "AudioPlayer",
           "Badge",
           "BiliBili",
-          "CodePen",
+          // "CodePen",
           "PDF",
-          "Replit",
           "Share",
           "SiteInfo",
-          "StackBlitz",
+          // "StackBlitz",
           "VidStack",
-          "VideoPlayer",
-          "XiGua",
-          "YouTube",
-        ],
+          // "XiGua",
+        ]
       },
 
       // uncomment these if you want a PWA

@@ -12,7 +12,6 @@ tag:
 :::tip 前言
 最近两个月又玩起了 postcrossing，想着能否抓取网站数据，形成+整合自己的展示墙、地图、统计表、明信片故事，并在博客中显示。
 :::
-<Share colorful services="qq,weibo,qrcode"/>
 
 ## [成果展示（← 点击查看）](/Arthur/postcrossing/信息汇总)
 

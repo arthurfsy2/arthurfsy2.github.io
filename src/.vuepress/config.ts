@@ -25,7 +25,6 @@ export default defineUserConfig({
 
   plugins: [
 
-   
     docsearchPlugin({
       appId: "LA02Z7ZAIR",
       apiKey: "feb14375090c8acf567a71e858d95f82",
