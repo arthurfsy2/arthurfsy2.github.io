@@ -19,7 +19,8 @@ pnpm add -D echarts-wordcloud
 pnpm add -D vuepress-plugin-comment2
 pnpm add -D vuepress-plugin-md-enhance
 pnpm add -D vuepress-plugin-components
-pnpm add -D vidstack@1
+pnpm add -D vidstack@next
+pnpm add -D markmap-lib markmap-toolbar markmap-view
 ```
 # 运行项目
 

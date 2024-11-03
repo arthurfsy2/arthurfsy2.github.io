@@ -135,6 +135,7 @@ export default hopeTheme(
         tasklist: true,
         vPre: true,
         vuePlayground: true,
+        markmap: true,
       },
       markdownTab: {
         tabs: true,
