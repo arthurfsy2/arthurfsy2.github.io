@@ -1,7 +1,7 @@
 ---
 title: 日记
 icon: blog
-#date: 2019-05-04
+date: 2019-05-04
 category:
   - Arthur
 tag:
