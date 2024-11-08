@@ -21,13 +21,13 @@ defineEChartsConfig({
 
 export default defineClientConfig({
   setup() {
-    setupRunningTimeFooter(
-      new Date("2021-12-10"),
-      {
-        "/": "已运行 :day 天 :hour 小时 :minute 分钟 :second 秒",
-        "/zh/": "已运行 :day 天 :hour 小时 :minute 分钟 :second 秒",
-      },
-      true,
-    );
+    // setupRunningTimeFooter(
+    //   new Date("2021-12-10"),
+    //   {
+    //     "/": "已运行 :day 天 :hour 小时 :minute 分钟 :second 秒",
+    //     "/zh/": "已运行 :day 天 :hour 小时 :minute 分钟 :second 秒",
+    //   },
+    //   true,
+    // );
   },
 });
