@@ -17,9 +17,9 @@ export default defineUserConfig({
 
   theme,
   alias: {
-    '@theme-hope/modules/blog/components/BlogHero': path.resolve(
+    "@theme-hope/modules/blog/components/BlogHero": path.resolve(
       __dirname,
-      './components/BlogHero.vue',
+      "./components/BlogHero.vue",
     ),
   },  
 
