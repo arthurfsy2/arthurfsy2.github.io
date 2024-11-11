@@ -1,7 +1,7 @@
 import { defineClientConfig } from "vuepress/client";
 import { defineEChartsConfig } from "vuepress-plugin-md-enhance/client";
-import { setupRunningTimeFooter } from "vuepress-theme-hope/presets/footerRunningTime.js";
-import { setupSnowFall } from "vuepress-theme-hope/presets/SnowFall.d.ts";
+// import { setupRunningTimeFooter } from "vuepress-theme-hope/presets/footerRunningTime.js";
+// import { setupSnowFall } from "vuepress-theme-hope/presets/SnowFall.d.ts";
 import "vuepress-theme-hope/presets/round-blogger-avatar.scss"
 import "vuepress-theme-hope/presets/left-blog-info.scss"
 import "vuepress-theme-hope/presets/shinning-feature-panel.scss"
