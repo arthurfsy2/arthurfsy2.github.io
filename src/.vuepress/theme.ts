@@ -60,11 +60,8 @@ export default hopeTheme(
 
     encrypt: {
       config: {
-        "/Arthur/Qzone": ["364115"],
-        "/Arthur/Weibo": ["364115"],
+        "/Arthur/": ["364115"],
         "/Arthur/postcrossing": ["happypostcrossing"],
-        "/Arthur/Tieba": ["364115"],
-        "/Arthur/搜狗问问": ["364115"],
         "/叶子飞/": ["615881"],
       },
     },
