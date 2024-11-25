@@ -9,7 +9,7 @@ pnpm dlx vp-update
 # 安装依赖
 ```md
 pnpm add -D vuepress/utils
-pnpm add -D @vuepress/plugin-docsearch@next
+pnpm add -D @vuepress/plugin-docsearch@latest
 pnpm add -D @waline/client
 pnpm add -D echarts
 pnpm add -D mermaid
