@@ -6,6 +6,7 @@ category:
   - 经验总结
 tag:
   - IT总结
+order: 3
 ---
 # 实用工具汇总
 
@@ -101,11 +102,12 @@ for root, dirs, files in os.walk(input_directory):
 
 :::
 
-
 ## 文件转换
+
 ### HTML合并后转换为markdown
 
 :::details mergeHTML2MD.py
+
 ```python
 #将多个html格式的文件合并为一个html,并转换成markdown格式
 
@@ -155,12 +157,16 @@ with open(converted_md_path,  'w', encoding='utf-8') as f:
 
 
 ```
+
 :::
 
 ### 图片转为webp格式
+
 webp格式可在尽量保持原有图片分辨率的同时，显著压缩图片大小。
->可单独使用，也可以先使用tinyPNG.py压缩图片后再转换为webp
-:::details pic2Webp.py
+
+> 可单独使用，也可以先使用tinyPNG.py压缩图片后再转换为webp
+> :::details pic2Webp.py
+
 ```python
 import os
 import shutil
@@ -174,29 +180,29 @@ for root, dirs, files in os.walk(input_dir):
     for file in files:
         # 获取文件的完整路径
         file_path = os.path.join(root, file)
-        
+      
         # 获取文件的扩展名
         file_ext = os.path.splitext(file_path)[1].lower()
-        
+      
         # 判断文件格式是否为jpg、png、gif
         if file_ext in ['.jpg', '.jpeg', '.png']:
             # 创建输出目录对应的子文件夹
             output_subdir = os.path.join(output_dir, os.path.relpath(root, input_dir))
             os.makedirs(output_subdir, exist_ok=True)
-            
+          
             # 构造输出文件路径
             output_file = os.path.join(output_subdir, file)
-            
+          
             # 构造WebP文件路径
             output_file_webp = os.path.splitext(output_file)[0] + '.webp'
-            
+          
             # 判断WebP文件是否已存在
             if os.path.exists(output_file_webp):
                 print(f"{os.path.abspath(output_file_webp)}已存在，已跳过！")
             else:
                 # 打开原始图片
                 image = Image.open(file_path)
-                
+              
                 # 将图片保存为WebP格式
                 image.save(output_file_webp, 'webp')
                 print(f"已完成{os.path.abspath(output_file_webp)}的转换！")
@@ -204,10 +210,10 @@ for root, dirs, files in os.walk(input_dir):
             # 创建输出目录对应的子文件夹
             output_subdir = os.path.join(output_dir, os.path.relpath(root, input_dir))
             os.makedirs(output_subdir, exist_ok=True)
-            
+          
             # 构造输出文件路径
             output_file = os.path.join(output_subdir, file)
-            
+          
             # 复制文件
             shutil.copyfile(file_path, output_file)
             print(f"非图片格式：{os.path.abspath(output_file)}已复制！")

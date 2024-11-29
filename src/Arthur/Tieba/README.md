@@ -1,6 +1,7 @@
 ---
 title: 百度贴吧
 icon: comment-dots
+date: 2011-03-10
 category:
   - Arthur
 tag:

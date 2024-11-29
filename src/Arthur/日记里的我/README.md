@@ -1,6 +1,7 @@
 ---
 title: 日记里的我
 icon: blog
+date: 2017-01-01
 category:
   - Arthur
 tag:
@@ -8,4 +9,3 @@ tag:
 index: false
 order: 1
 ---
-

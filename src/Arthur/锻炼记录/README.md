@@ -1,6 +1,7 @@
 ---
 title: 锻炼记录
 icon: dumbbell
+date: 2020-07-31
 category:
   - Arthur
 tag:
@@ -8,4 +9,3 @@ tag:
 index: false
 order: 1
 ---
-

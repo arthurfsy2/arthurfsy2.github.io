@@ -7,6 +7,7 @@ tag:
   - IT总结
   - Node-Red
 date: 2022-12-10
+order: 3
 ---
  [【node-red长期稳定】联通话费余额、语音等余量数据接入HA ](https://bbs.hassbian.com/thread-20040-1-1.html)
 

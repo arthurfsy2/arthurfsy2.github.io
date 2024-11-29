@@ -7,6 +7,7 @@ tag:
   - IT总结
   - Node-Red
 date: 2022-09-17
+order: 1
 ---
  [电费插件（Node-Red流）-广东南方电网（2022/10/1更新修复BUG） ](https://bbs.hassbian.com/thread-17830-1-1.html)
 

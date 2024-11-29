@@ -7,6 +7,7 @@ tag:
   - IT总结
   - Node-Red
 date: 2022-11-14
+order: 2
 ---
  [【node-red】深圳儿童疫苗接种信息接入](https://bbs.hassbian.com/thread-18611-1-1.html)
 

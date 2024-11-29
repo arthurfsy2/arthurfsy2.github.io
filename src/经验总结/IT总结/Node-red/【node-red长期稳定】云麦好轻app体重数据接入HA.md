@@ -7,6 +7,7 @@ tag:
   - IT总结
   - Node-Red
 date: 2023-05-08
+order: 5
 ---
  [【node-red长期稳定】云麦好轻app体重数据接入HA ](https://bbs.hassbian.com/thread-20999-1-1.html)
 

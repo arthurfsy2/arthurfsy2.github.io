@@ -1,5 +1,6 @@
 ---
 title: Node-Red
+date: 2022-12-10
 icon: fab fa-node
 category:
   - 经验总结

@@ -1,6 +1,7 @@
 ---
 title: 我的提问
 icon: circle-question
+date: 2008-02-03
 category:
   - Arthur
 tag:
