@@ -1,6 +1,6 @@
 ---
 title: 初中
-icon: blog
+icon: feather-pointed
 date: 2007-07-01
 category:
   - Arthur

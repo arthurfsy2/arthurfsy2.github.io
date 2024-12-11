@@ -1,6 +1,6 @@
 ---
 title: 大学
-icon: blog
+icon: feather-pointed
 date: 2011-07-19
 category:
   - Arthur

@@ -41,6 +41,7 @@ export default hopeTheme({
       Weibo: "https://weibo.com/u/2091797297",
       Zhihu: "https://www.zhihu.com/people/Arthurfsy",
     },
+    avatar: "/logo2.jpg",
   },
 
   // 加密配置
