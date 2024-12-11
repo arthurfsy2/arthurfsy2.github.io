@@ -1,7 +1,7 @@
 ---
 title: "postcrossing"
 icon: "blog"
-date: "2014-05-09"
+date: 2014-05-09
 category:
   - "Arthur"
 tag:
