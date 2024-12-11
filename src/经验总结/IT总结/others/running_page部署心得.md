@@ -21,17 +21,21 @@ Running page这个项目，是我接触的第一个“较深入”（相对编�
 
 ## Vercel部署
 
-一开始是在Vercel上部署的，部署用的是支持多项目的fork。主要参考了这篇文章：[使用 GitHub Pages 部署 Running Page 个人跑步主页 - KOBIN 技术随笔](https://blog.kobin.cn/blog/program/p3/2396.html)
+一开始是在Vercel上部署的，部署用的是支持ben的fork。主要参考了这篇文章：[使用 GitHub Pages 部署 Running Page 个人跑步主页 - KOBIN 技术随笔](https://blog.kobin.cn/blog/program/p3/2396.html)
 
 部署完后，通过Github Action定时采集数据，在Github上稳定运行了几个月的时间。后来群晖、云服务器经历了卡顿需要重装的事情（其实也和Github没啥关系），萌生了“要牢牢把数据抓在手里”的想法，就尝试本地部署项目。
 
-## 群晖Docker部署
+:::important 注意
+后面发现docker部署会导致很多冗余的容器产生，因此又换回部署到 `vercel`上。以下步骤仅供了解docker部署方式。
+:::
+
+## 群晖Docker部署(2023/8/9)
 
 估计是因为这个方法太过冷门，查询issue也没有啥完整的步骤，因此自己捣腾了很久终于成功了，还在[相关的issue](https://github.com/yihong0618/running_page/issues/181#issuecomment-1671016002)上回复了
 
 :::details 步骤
 
-今天成功在群晖上部署了，链接：[这里](http://ddns.4a1801.life:8088/)。但是部署有一些坑需要注意，我说一下我的步骤：
+今天成功在群晖上部署了，~~链接：[这里](http://ddns.4a1801.life:8088/)~~。但是部署有一些坑需要注意，我说一下我的步骤：
 1、SSH群晖后，查询python的版本需要满足yihong在首页的要求(node >= 14.15.0 python >= 3.7)，因此需要安装python3、Nodejs、GIT server套件。我是安装了spk7的python3.11，因此安装完套件后SSH运行：
 `ln -s /volume1/@appstore/python311/bin/pip3 /usr/bin/pip3` --这样可以设置群晖命令行下默认的python版本
 `ln -s /volume1/@appstore/python311/bin/python3 /usr/bin/python3`
@@ -58,4 +62,10 @@ Running page这个项目，是我接触的第一个“较深入”（相对编�
 
 :::
 
+## 页面美化
+
+字体更换教程：[如何更改字体？](https://mfydev.github.io/Running-Page-Wiki/zh/FAQ/change-font/)
+
 [^1]: 咕咚承载着我体重暴瘦的时候骑单车的记录，也是一段很值得怀念的回忆了。详见：[2014/8/22购买单车设备、骑行10.31km](/Arthur/Qzone/说说.html#_8月-1)、[2015/2/15单车被偷](https://blog.4a1801.life/Arthur/Qzone/%E8%AF%B4%E8%AF%B4.html#_2%E6%9C%88) 后来导出咕咚骑行记录的GPX后，就导入到了Garmin Connect当中了。
+    
+

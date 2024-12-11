@@ -79,6 +79,9 @@ for root, dirs, files in os.walk(directory):
 :::tip 需要先下载python和ffmpeg
 :::
 
+::: important 感觉直接选择视频到`微信`的文件传输助手进行自动压缩还更方便
+:::
+
 > [win10系统下ffmpeg的安装配置与Python调用 - 代码天地 (codetd.com)](https://www.codetd.com/article/15441361)
 
 :::details tinyVideo.py
@@ -165,7 +168,8 @@ with open(converted_md_path,  'w', encoding='utf-8') as f:
 webp格式可在尽量保持原有图片分辨率的同时，显著压缩图片大小。
 
 > 可单独使用，也可以先使用tinyPNG.py压缩图片后再转换为webp
-> :::details pic2Webp.py
+
+:::details pic2Webp.py
 
 ```python
 import os
