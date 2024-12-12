@@ -14,9 +14,6 @@ importers:
       '@vuepress/plugin-docsearch':
         specifier: 2.0.0-rc.65
         version: 2.0.0-rc.65(@algolia/client-search@5.17.0)(search-insights@2.14.0)(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.10.1)(sass@1.82.0)(yaml@2.6.1))(vue@3.5.13))
-      '@vuepress/plugin-slimsearch':
-        specifier: 2.0.0-rc.65
-        version: 2.0.0-rc.65(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.10.1)(sass@1.82.0)(yaml@2.6.1))(vue@3.5.13))
       '@waline/client':
         specifier: ^3.4.1
         version: 3.4.1
@@ -4163,6 +4160,7 @@ snapshots:
       vuepress: 2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.10.1)(sass@1.82.0)(yaml@2.6.1))(vue@3.5.13)
     transitivePeerDependencies:
       - typescript
+    optional: true
 
   '@vuepress/plugin-theme-data@2.0.0-rc.63(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.10.1)(sass@1.82.0)(yaml@2.6.1))(vue@3.5.13))':
     dependencies:
@@ -5438,7 +5436,8 @@ snapshots:
 
   slash@5.1.0: {}
 
-  slimsearch@2.2.2: {}
+  slimsearch@2.2.2:
+    optional: true
 
   source-map-js@1.2.1: {}
 
