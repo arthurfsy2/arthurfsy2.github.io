@@ -1,5 +1,5 @@
 ---
-title: 作文、小说
+title: 作文、小说、小诗词
 date: 2005-6-1
 icon: pen-nib
 category:
