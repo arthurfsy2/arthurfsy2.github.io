@@ -13,6 +13,7 @@
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.18",
     "@vuepress/plugin-docsearch": "2.0.0-rc.65",
+    "@vuepress/plugin-slimsearch": "2.0.0-rc.65",
     "@waline/client": "^3.4.1",
     "echarts": "^5.5.1",
     "echarts-wordcloud": "^2.1.0",
