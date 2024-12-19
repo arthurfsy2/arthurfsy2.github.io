@@ -47,7 +47,12 @@ export default hopeTheme({
   // 加密配置
   encrypt: {
     config: {
-      "/Arthur/": ["364115"],
+      "/Arthur/Tieba": ["364115"],
+      "/Arthur/随笔": ["364115"],
+      "/Arthur/日记里的我": ["364115"],
+      "/Arthur/Qzone": ["364115"],
+      "/Arthur/作文、小说、诗词": ["364115"],
+      "/Arthur/搜狗问问": ["364115"],
       "/Arthur/postcrossing": ["happypostcrossing","364115"],
       "/叶子飞/": ["615881"],
     },
