@@ -107,4 +107,4 @@ if __name__ == "__main__":
     with open(os.path.join(BIN, "keyword_old.txt"), "w", encoding="utf-8") as f:
         for keyword in keywords:
             f.write(f"{keyword}\n")
-        print(f"已更新：{os.path.join(BIN, "keyword_old.txt")}")
+        print(f'已更新：{os.path.join(BIN, "keyword_old.txt")}')
