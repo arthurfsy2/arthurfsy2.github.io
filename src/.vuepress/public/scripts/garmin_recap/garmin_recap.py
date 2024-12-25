@@ -128,7 +128,10 @@ def generate_summary():
         if filename.startswith("20") and filename.endswith(".html")
     ]
     sorted_total_years = sorted(total_years, key=int, reverse=True)
-    template = env.get_template("summary_template.html")
+    with open(
+        os.path.join(BIN, "template/summary_template.html"), "r", encoding="utf-8"
+    ) as f:
+        template = Template(f.read())
 
     options = []
 
@@ -185,11 +188,10 @@ def sum_cycling_data(start_date, end_date):
 
 
 if __name__ == "__main__":
-    template_dir = "template"  # Jinja2 模板目录
-    env = Environment(loader=FileSystemLoader(template_dir))
-
     with open(
-        "./template/recap_total_template.html", "r", encoding="utf-8"
+        os.path.join(BIN, "template", "recap_total_template.html"),
+        "r",
+        encoding="utf-8",
     ) as total_template_file:
         total_template_content = total_template_file.read()
 

@@ -6,6 +6,7 @@ src/.vuepress/.temp/
 src/.vuepress/.stfolder/
 src/.vuepress/dist/
 src/.vuepress/public/scripts/__pycache__
+src/.vuepress/public/scripts/garmin_recap/__pycache__
 .vscode
 .nvmrc
 run.txt
