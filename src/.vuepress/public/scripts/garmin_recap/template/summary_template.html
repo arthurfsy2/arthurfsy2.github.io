@@ -1,0 +1,32 @@
+<!-- summary_template.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Garmin活动信息汇总</title>
+    <style>
+        iframe {
+            width: 100%;
+            height: 600px;
+            border: none; /* 去掉边框 */
+        }
+    </style>
+    <script>
+        function changeYear(select) {
+            var iframe = document.getElementById('yearlyData');
+            iframe.src = "data:text/html;base64," + select.value;
+        }
+    </script>
+</head>
+<body>
+    <h1>Garmin活动信息汇总</h1>
+    <label for="year-select">选择年份：</label>
+    <select id="year-select" onchange="changeYear(this)">
+        {% for option in options %}
+            <option value="{{ option.value }}" {% if loop.index == 1 %}selected{% endif %}>{{ option.year }}</option>
+        {% endfor %}
+    </select>
+    <iframe id="yearlyData" src="data:text/html;base64,{{ options[0].value }}"></iframe> <!-- 默认加载最新年份的数据 -->
+</body>
+</html>
