@@ -1,6 +1,6 @@
 ---
 title: 叶子飞童鞋的微博
-icon: fab fa-weibo
+icon: brands:weibo
 date: 2022-11-17
 category:
   - 叶子飞

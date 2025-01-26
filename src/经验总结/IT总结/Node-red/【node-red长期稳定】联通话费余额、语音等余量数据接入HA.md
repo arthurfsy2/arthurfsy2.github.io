@@ -1,6 +1,6 @@
 ---
 title: 【node-red长期稳定】联通话费余额、语音等余量数据接入HA 
-icon: fab fa-node
+icon: brands:node
 category:
   - 经验总结
 tag:

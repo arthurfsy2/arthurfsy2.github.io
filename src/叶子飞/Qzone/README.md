@@ -1,6 +1,6 @@
 ---
 #title: 
-icon: fab fa-qq
+icon: brands:qq
 date: 2013-06-20
 category:
   - 叶子飞

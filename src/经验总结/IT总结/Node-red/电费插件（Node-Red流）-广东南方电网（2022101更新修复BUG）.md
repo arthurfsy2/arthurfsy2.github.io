@@ -1,6 +1,6 @@
 ---
 title: 电费插件（Node-Red流）-广东南方电网（2022/10/1更新修复BUG） 
-icon: fab fa-node
+icon: brands:node
 category:
   - 经验总结
 tag:

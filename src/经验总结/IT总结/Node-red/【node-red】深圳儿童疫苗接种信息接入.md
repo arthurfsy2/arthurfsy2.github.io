@@ -1,6 +1,6 @@
 ---
 title: 【node-red】深圳儿童疫苗接种信息接入 
-icon: fab fa-node
+icon: brands:node
 category:
   - 经验总结
 tag:

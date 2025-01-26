@@ -1,6 +1,6 @@
 ---
 title: 【node-red】国内马拉松赛事日历接入(数字心动APP+Local Calendar) 
-icon: fab fa-node
+icon: brands:node
 category:
   - 经验总结
 tag:

@@ -1,6 +1,6 @@
 ---
 title: 【node-red长期稳定】云麦好轻app体重数据接入HA 
-icon: fab fa-node
+icon: brands:node
 category:
   - 经验总结
 tag:

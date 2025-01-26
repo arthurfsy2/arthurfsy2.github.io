@@ -1,6 +1,6 @@
 ---
 title: 搜狗问问
-icon: fab fa-quora
+icon: brands:quora
 date: 2013-06-20
 category:
   - Arthur

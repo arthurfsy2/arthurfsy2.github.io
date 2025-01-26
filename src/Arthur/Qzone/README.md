@@ -1,6 +1,6 @@
 ---
 title: QQ空间
-icon: fab fa-qq
+icon: brands:qq
 date: 2008-05-25
 category:
   - Arthur

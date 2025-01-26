@@ -1,6 +1,6 @@
 ---
 title: IT总结
-icon: fab fa-internet-explorer
+icon: brands:internet-explorer
 date: 2022-03-08
 category:
   - 经验总结

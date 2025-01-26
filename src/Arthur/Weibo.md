@@ -1,6 +1,6 @@
 ---
 title: Arthur的微博
-icon: fab fa-weibo
+icon: brands:weibo
 date: 2023-05-07
 category:
   - Arthur

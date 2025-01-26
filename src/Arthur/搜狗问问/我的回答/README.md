@@ -1,6 +1,6 @@
 ---
 title: 我的回答
-icon: fab fa-replyd
+icon: brands:replyd
 date: 2008-02-03
 category:
   - Arthur

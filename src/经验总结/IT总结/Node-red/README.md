@@ -1,7 +1,7 @@
 ---
 title: Node-Red
 date: 2022-12-10
-icon: fab fa-node
+icon: brands:node
 category:
   - 经验总结
 tag:
