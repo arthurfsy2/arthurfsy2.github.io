@@ -1,7 +1,7 @@
 ---
 title: 随笔
 icon: feather-pointed
-date: 2008-2-2
+date: 2008-02-02
 category:
   - Arthur
 tag:

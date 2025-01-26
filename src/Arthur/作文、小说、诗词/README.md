@@ -1,6 +1,6 @@
 ---
 title: 作文、小说、小诗词
-date: 2005-6-1
+date: 2005-06-01
 icon: pen-nib
 category:
   - Arthur
