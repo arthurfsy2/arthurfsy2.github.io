@@ -9,15 +9,26 @@ order: 5
 ---
 # running_page部署心得
 
-:::tip 前言
+## 前言
 
-Running page这个项目，是我接触的第一个“较深入”（相对编程小白的我来说）的项目，一开始，是为了找到导出咕咚运动数据[^1]，一直找不到，后来偶尔看到有人推荐这个项目，不仅可以支持数据导出，还支持了数据的图形化展示。对于喜欢跑步的我（最近沉迷Blog就没怎么跑了）来说，是一个很棒的项目。
+Running page这个项目，是我接触的第一个“较深入”（相对编程小白的我来说）的项目。
 
-项目地址：[yihong0618/running_page](https://github.com/yihong0618/running_page)
+一开始，是为了找到导出咕咚运动数据，一直找不到导出的方法。[^1]
 
-支持多运动类型的fork：[ben-29/workouts_page](https://github.com/ben-29/workouts_page)
+后来偶尔看到有人推荐这个项目，不仅可以支持数据导出，还支持了数据的图形化展示。
 
-:::
+对于喜欢跑步的我（最近沉迷Blog就没怎么跑了）来说，是一个很棒的项目。
+
+
+
+- 项目地址：[yihong0618/running_page](https://github.com/yihong0618/running_page)
+
+- 支持多运动类型的fork：[ben-29/workouts_page](https://github.com/ben-29/workouts_page)
+
+> Ben的fork更适用于喜欢多个活动项目的情况
+
+- 我的fork：[arthurfsy2/workouts_page_fsy](https://github.com/arthurfsy2/workouts_page_fsy)
+
 
 ## Vercel部署
 
@@ -25,15 +36,13 @@ Running page这个项目，是我接触的第一个“较深入”（相对编�
 
 部署完后，通过Github Action定时采集数据，在Github上稳定运行了几个月的时间。后来群晖、云服务器经历了卡顿需要重装的事情（其实也和Github没啥关系），萌生了“要牢牢把数据抓在手里”的想法，就尝试本地部署项目。
 
-:::important 注意
-后面发现docker部署会导致很多冗余的容器产生，因此又换回部署到 `vercel`上。以下步骤仅供了解docker部署方式。
-:::
+> 后面发现docker部署会导致很多冗余的容器产生，因此又换回部署到 `vercel`上。以下步骤仅供了解docker部署方式。
 
 ## 群晖Docker部署(2023/8/9)
 
 估计是因为这个方法太过冷门，查询issue也没有啥完整的步骤，因此自己捣腾了很久终于成功了，还在[相关的issue](https://github.com/yihong0618/running_page/issues/181#issuecomment-1671016002)上回复了
 
-:::details 步骤
+### 步骤
 
 今天成功在群晖上部署了，~~链接：[这里](http://ddns.4a1801.life:8088/)~~。但是部署有一些坑需要注意，我说一下我的步骤：
 1、SSH群晖后，查询python的版本需要满足yihong在首页的要求(node >= 14.15.0 python >= 3.7)，因此需要安装python3、Nodejs、GIT server套件。我是安装了spk7的python3.11，因此安装完套件后SSH运行：
@@ -60,11 +69,12 @@ Running page这个项目，是我接触的第一个“较深入”（相对编�
 7、如果有公网IP，搭配ddns-go即可实现外网访问
 8、可以考虑搭配群晖的定时任务，定期跑 `docker build -t running_page:latest . --build-arg app=Garmin-CN --build-arg email="2XXXX.com"  --build-arg password="XXXXX"`，这个我后面再试试
 
-:::
 
 ## 页面美化
 
-字体更换教程：[如何更改字体？](https://mfydev.github.io/Running-Page-Wiki/zh/FAQ/change-font/)
+- 字体更换教程(2024/12/11更新)：参考了[如何更改字体？](https://mfydev.github.io/Running-Page-Wiki/zh/FAQ/change-font/)这篇文章后，将字体更换为MGI-font
+
+- 整体页面美化(2025/03/25更新)：根据几个fork的仓库，设计了一版浅色主题，详见：[Arthur feng 锻炼记录](https://fsy.4a1801.life/)
 
 [^1]: 咕咚承载着我体重暴瘦的时候骑单车的记录，也是一段很值得怀念的回忆了。详见：[2014/8/22购买单车设备、骑行10.31km](/Arthur/Qzone/说说.html#_8月-1)、[2015/2/15单车被偷](https://blog.4a1801.life/Arthur/Qzone/%E8%AF%B4%E8%AF%B4.html#_2%E6%9C%88) 后来导出咕咚骑行记录的GPX后，就导入到了Garmin Connect当中了。
     
