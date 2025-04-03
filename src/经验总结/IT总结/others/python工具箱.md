@@ -8,18 +8,19 @@ tag:
   - IT总结
 order: 3
 ---
+
 # 实用工具汇总
 
 ## 文件压缩
 
-### PDF压缩
+### PDF 压缩
 
-[在线压缩PDF文件。保持与原PDF文件同等的质量，但尺寸比原文件小 (ilovepdf.com)](https://www.ilovepdf.com/zh-cn/compress_pdf)
+在线压缩：[ilovepdf.com](https://www.ilovepdf.com/zh-cn/compress_pdf)
 
 ### 图片压缩
 
-[TinyPNG – 智能压缩您的WebP、JPEG和PNG图片](https://tinypng.com/cn/)
-:::tip 也可以通过python调用API实现（需要注册获取tinify.key)↓↓↓
+在线压缩：[TinyPNG](https://tinypng.com/cn/)
+:::tip 也可以通过 python 调用 API 实现（需要注册获取 tinify.key)↓↓↓
 :::
 
 :::details tinyPNG.py
@@ -76,13 +77,13 @@ for root, dirs, files in os.walk(directory):
 
 ### 视频压缩
 
-:::tip 需要先下载python和ffmpeg
+:::tip 需要先下载 python 和 ffmpeg
 :::
 
 ::: important 感觉直接选择视频到`微信`的文件传输助手进行自动压缩还更方便
 :::
 
-> [win10系统下ffmpeg的安装配置与Python调用 - 代码天地 (codetd.com)](https://www.codetd.com/article/15441361)
+> [win10 系统下 ffmpeg 的安装配置与 Python 调用 - 代码天地 (codetd.com)](https://www.codetd.com/article/15441361)
 
 :::details tinyVideo.py
 
@@ -107,7 +108,7 @@ for root, dirs, files in os.walk(input_directory):
 
 ## 文件转换
 
-### HTML合并后转换为markdown
+### HTML 合并后转换为 markdown
 
 :::details mergeHTML2MD.py
 
@@ -163,11 +164,13 @@ with open(converted_md_path,  'w', encoding='utf-8') as f:
 
 :::
 
-### 图片转为webp格式
+### 图片转为 webp 格式
 
-webp格式可在尽量保持原有图片分辨率的同时，显著压缩图片大小。
+webp 格式可在尽量保持原有图片分辨率的同时，显著压缩图片大小。
 
-> 可单独使用，也可以先使用tinyPNG.py压缩图片后再转换为webp
+在线转换：[WebP.to: 您的多合一 WebP 转换工具](https://www.webp.to/)
+
+> 可单独使用，也可以先使用 tinyPNG.py 压缩图片后再转换为 webp
 
 :::details pic2Webp.py
 
@@ -176,49 +179,29 @@ import os
 import shutil
 from PIL import Image
 
-input_dir = r'D:\Users\ArthurFsy\Documents\python脚本\tinyPNG'
-output_dir = r'D:\Users\ArthurFsy\Documents\python脚本\pic2Webp'
+def convert_images_to_webp(input_dir, output_dir):
+    for root, dirs, files in os.walk(input_dir):
+        output_subdir = os.path.join(output_dir, os.path.relpath(root, input_dir))
+        os.makedirs(output_subdir, exist_ok=True)
 
-# 遍历input_dir下的所有文件和文件夹
-for root, dirs, files in os.walk(input_dir):
-    for file in files:
-        # 获取文件的完整路径
-        file_path = os.path.join(root, file)
-      
-        # 获取文件的扩展名
-        file_ext = os.path.splitext(file_path)[1].lower()
-      
-        # 判断文件格式是否为jpg、png、gif
-        if file_ext in ['.jpg', '.jpeg', '.png']:
-            # 创建输出目录对应的子文件夹
-            output_subdir = os.path.join(output_dir, os.path.relpath(root, input_dir))
-            os.makedirs(output_subdir, exist_ok=True)
-          
-            # 构造输出文件路径
-            output_file = os.path.join(output_subdir, file)
-          
-            # 构造WebP文件路径
-            output_file_webp = os.path.splitext(output_file)[0] + '.webp'
-          
-            # 判断WebP文件是否已存在
-            if os.path.exists(output_file_webp):
-                print(f"{os.path.abspath(output_file_webp)}已存在，已跳过！")
+        for file in files:
+            file_path = os.path.join(root, file)
+            file_ext = os.path.splitext(file_path)[1].lower()
+            output_file_webp = os.path.splitext(os.path.join(output_subdir, file))[0] + '.webp'
+
+            if file_ext in ['.jpg', '.jpeg', '.png']:
+                if os.path.exists(output_file_webp):
+                    print(f"{os.path.abspath(output_file_webp)} 已存在，已跳过！")
+                else:
+                    with Image.open(file_path) as image:
+                        image.save(output_file_webp, 'webp')
+                    print(f"已完成 {os.path.abspath(output_file_webp)} 的转换！")
             else:
-                # 打开原始图片
-                image = Image.open(file_path)
-              
-                # 将图片保存为WebP格式
-                image.save(output_file_webp, 'webp')
-                print(f"已完成{os.path.abspath(output_file_webp)}的转换！")
-        else:
-            # 创建输出目录对应的子文件夹
-            output_subdir = os.path.join(output_dir, os.path.relpath(root, input_dir))
-            os.makedirs(output_subdir, exist_ok=True)
-          
-            # 构造输出文件路径
-            output_file = os.path.join(output_subdir, file)
-          
-            # 复制文件
-            shutil.copyfile(file_path, output_file)
-            print(f"非图片格式：{os.path.abspath(output_file)}已复制！")
+                shutil.copyfile(file_path, os.path.join(output_subdir, file))
+                print(f"非图片格式：{os.path.abspath(output_file_webp)} 已复制！")
+
+
+input_dir = r'D:\Users\xxx' # 待转换图片所在的文件夹
+output_dir = r'D:\Users\xxx' # 转换后webp需要存放的文件夹
+convert_images_to_webp(input_dir, output_dir)
 ```
