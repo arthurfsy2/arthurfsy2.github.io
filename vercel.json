@@ -1,13 +1,7 @@
 {
-    "github": {
-        "enabled": true,
-        "autoJobCancelation": true,
-        "silent": true
-    },
-    "build": {
-        "env": {
-            "VERCEL_ENV": "production",
-            "IGNORE_BUILD_BRANCH": "gh-pages"
-        }
+    "git": {
+      "deploymentEnabled": {
+        "gh-pages": false
+      }
     }
-}
+  }
