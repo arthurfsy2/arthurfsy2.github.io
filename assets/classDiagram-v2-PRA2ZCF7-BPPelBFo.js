@@ -1,0 +1,1 @@
+import{w as a,Y as s,k as t,u as e}from"./chunk-SHLHLJRN-DdX4s90u.js";import"./chunk-IO347I67-DRcsQlpS.js";import{m as o}from"./mermaid.esm.min-B8O_Cg2T.js";import"./app-B5En62T2.js";var p={parser:t,get db(){return new e},renderer:s,styles:a,init:o(r=>{r.class||(r.class={}),r.class.arrowMarkerAbsolute=r.arrowMarkerAbsolute},"init")};export{p as diagram};
