@@ -1,0 +1,1 @@
+import{_ as m}from"./MyIcon.vue_vue_type_style_index_0_lang-DeHsac98.js";import"./app-C1Z-OEzr.js";export{m as default};
