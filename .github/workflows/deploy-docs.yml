@@ -51,10 +51,6 @@ jobs:
         run: |
           python src/.vuepress/public/scripts/garmin_recap/garmin_recap.py
 
-      - name: 更新postcrossing记录
-        run: |
-          python src/.vuepress/public/scripts/updatePostcrossing.py
-    
       - name: 安装 pnpm
         uses: pnpm/action-setup@v4
         with:
