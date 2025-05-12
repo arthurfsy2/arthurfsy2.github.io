@@ -1,6 +1,7 @@
 name: 部署文档
 
 on:
+  workflow_dispatch:
   repository_dispatch:
   workflow_call:  
   push:
@@ -47,9 +48,9 @@ jobs:
           git commit -m "已更新 src/.vuepress/public/assets/img/wordcloud.svg" || echo "nothing to commit"
           git push || echo "nothing to push"
 
-      - name: 更新运动记录
-        run: |
-          python src/.vuepress/public/scripts/garmin_recap/garmin_recap.py
+      # - name: 更新运动记录
+      #   run: |
+      #     python src/.vuepress/public/scripts/garmin_recap/garmin_recap.py
 
       - name: 安装 pnpm
         uses: pnpm/action-setup@v4
