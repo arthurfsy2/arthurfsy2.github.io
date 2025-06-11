@@ -1,7 +1,7 @@
 ---
-title: 明信片展示墙（寄出：167）
+title: 明信片展示墙（寄出：173）
 icon: address-card
-date: 2025-05-05
+date: 2025-06-10
 category:
   - Arthur
 tag:
@@ -17,7 +17,7 @@ order: 2
 
 ```js
 const data = await fetch(
-  "https://raw.gitmirror.com/arthurfsy2/Postcrossing_map_generator/main/output/year.json"
+  "https://raw.githubusercontent.com/arthurfsy2/Postcrossing_map_generator/main/output/year.json"
 ).then((res) => res.json());
 
 const newData = data.map(({ year, sent}) => ({ name: year, value: sent}));
@@ -76,7 +76,7 @@ const option = {
 
 ```js
 const data = await fetch(
-  "https://raw.gitmirror.com/arthurfsy2/Postcrossing_map_generator/main/output/month.json"
+  "https://raw.githubusercontent.com/arthurfsy2/Postcrossing_map_generator/main/output/month.json"
 ).then((res) => res.json());
 
 var date = data.map(function (item) {
@@ -147,7 +147,61 @@ const option = {
 
 :::
 
-### 2025(28)
+### 2025(34)
+
+[CN-4032667](https://www.postcrossing.com/postcards/CN-4032667) 
+ >寄往 [Altalsbach1](https://www.postcrossing.com/user/Altalsbach1) 🇩🇪
+> 📤 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/05/19 10:12 (当地)
+> 📥 [Germany](https://www.bing.com/maps/?cp=53.56952~9.61218&lvl=12.0&setlang=zh-Hans) 2025/06/10 17:24 (当地)
+ 📏 8,917 | ⏱ 23
+
+
+![](https://pan.4a1801.life:11443/d/public/article/Arthur/Postcrossing_map_generator/gallery/picture/92h2bdomcyd4hrkxc7zv5271ptpl7ibm.jpg)
+
+[CN-4032660](https://www.postcrossing.com/postcards/CN-4032660) 
+ >寄往 [KITTEmeguri](https://www.postcrossing.com/user/KITTEmeguri) 🇯🇵
+> 📤 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/05/19 10:11 (当地)
+> 📥 [Japan](https://www.bing.com/maps/?cp=33.31667~130.51667&lvl=12.0&setlang=zh-Hans) 2025/06/10 22:22 (当地)
+ 📏 1,992 | ⏱ 22
+
+
+![](https://pan.4a1801.life:11443/d/public/article/Arthur/Postcrossing_map_generator/gallery/picture/cmy3xmky1lfo64bv9z8j0x45za738hnj.jpg)
+
+[CN-4001501](https://www.postcrossing.com/postcards/CN-4001501) 
+ >寄往 [Valenti](https://www.postcrossing.com/user/Valenti) 🇷🇺
+> 📤 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/04/08 15:28 (当地)
+> 📥 [Russia](https://www.bing.com/maps/?cp=61.68523~50.80819&lvl=12.0&setlang=zh-Hans) 2025/05/30 17:41 (当地)
+ 📏 6,420 | ⏱ 52
+
+
+![](https://pan.4a1801.life:11443/d/public/article/Arthur/Postcrossing_map_generator/gallery/picture/mb57zn2hh38qfil56sp4t6uas13zsorv.jpg)
+
+[CN-4001499](https://www.postcrossing.com/postcards/CN-4001499) 
+ >寄往 [Evenstar3896](https://www.postcrossing.com/user/Evenstar3896) 🇳🇱
+> 📤 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/04/08 15:28 (当地)
+> 📥 [Netherlands](https://www.bing.com/maps/?cp=52.20333~4.63333&lvl=12.0&setlang=zh-Hans) 2025/05/15 23:00 (当地)
+ 📏 9,284 | ⏱ 38
+
+
+![](https://pan.4a1801.life:11443/d/public/article/Arthur/Postcrossing_map_generator/gallery/picture/rwddnn08cj8u77w6wkvvtpphb3hc2bfu.jpg)
+
+[CN-3980201](https://www.postcrossing.com/postcards/CN-3980201) 
+ >寄往 [rosscott](https://www.postcrossing.com/user/rosscott) 🇦🇺
+> 📤 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/03/13 13:52 (当地)
+> 📥 [Australia](https://www.bing.com/maps/?cp=-41.05584~145.90375&lvl=12.0&setlang=zh-Hans) 2025/05/15 10:00 (当地)
+ 📏 7,792 | ⏱ 63
+
+
+![](https://pan.4a1801.life:11443/d/public/article/Arthur/Postcrossing_map_generator/gallery/picture/f8ntrhxb2on3at7u1nuf0yruxfthhvl4.jpg)
+
+[CN-3930389](https://www.postcrossing.com/postcards/CN-3930389) 
+ >寄往 [BarbSchmidt](https://www.postcrossing.com/user/BarbSchmidt) 🇺🇸
+> 📤 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/01/08 13:09 (当地)
+> 📥 [U.S.A.](https://www.bing.com/maps/?cp=33.24678~-84.26409&lvl=12.0&setlang=zh-Hans) 2025/05/11 23:10 (当地)
+ 📏 13,507 | ⏱ 124
+
+
+![](https://pan.4a1801.life:11443/d/public/article/Arthur/Postcrossing_map_generator/gallery/picture/xf7k56nmftkbwvsgqvtv21a71ws6goru.jpg)
 
 [CN-4001500](https://www.postcrossing.com/postcards/CN-4001500) 
  >寄往 [VJacinto](https://www.postcrossing.com/user/VJacinto) 🇵🇹

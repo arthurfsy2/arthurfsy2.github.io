@@ -1,7 +1,7 @@
 ---
-title: 明信片展示墙（收到：178）
+title: 明信片展示墙（收到：195）
 icon: address-card
-date: 2025-05-05
+date: 2025-06-08
 category:
   - Arthur
 tag:
@@ -17,7 +17,7 @@ order: 3
 
 ```js
 const data = await fetch(
-  "https://raw.gitmirror.com/arthurfsy2/Postcrossing_map_generator/main/output/year.json"
+  "https://raw.githubusercontent.com/arthurfsy2/Postcrossing_map_generator/main/output/year.json"
 ).then((res) => res.json());
 
 const newData = data.map(({ year, received}) => ({ name: year, value: received}));
@@ -76,7 +76,7 @@ const option = {
 
 ```js
 const data = await fetch(
-  "https://raw.gitmirror.com/arthurfsy2/Postcrossing_map_generator/main/output/month.json"
+  "https://raw.githubusercontent.com/arthurfsy2/Postcrossing_map_generator/main/output/month.json"
 ).then((res) => res.json());
 
 var date = data.map(function (item) {
@@ -147,7 +147,160 @@ const option = {
 
 :::
 
-### 2025(19)
+### 2025(36)
+
+[AU-1009099](https://www.postcrossing.com/postcards/AU-1009099) 
+ >来自 [leschkerj](https://www.postcrossing.com/user/leschkerj) 🇦🇺
+> 📤 [Australia](https://www.bing.com/maps/?cp=-38.27448~144.48853&lvl=12.0&setlang=zh-Hans) 2025/05/19 12:13 (当地)
+> 📥 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/06/08 13:10 (当地)
+ 📏 7,464 | ⏱ 20
+
+
+![](https://pan.4a1801.life:11443/d/public/article/Arthur/Postcrossing_map_generator/gallery/picture/115g6cybeqc2v2m6lp1l5lv4hm9p6tbf.jpg)
+
+[UA-1997314](https://www.postcrossing.com/postcards/UA-1997314) 
+ >来自 [prudens_cat](https://www.postcrossing.com/user/prudens_cat) 🇺🇦
+> 📤 [Ukraine](https://www.bing.com/maps/?cp=50.45466~30.5238&lvl=12.0&setlang=zh-Hans) 2025/04/24 21:37 (当地)
+> 📥 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/06/06 09:16 (当地)
+ 📏 7,659 | ⏱ 42
+
+
+![](https://pan.4a1801.life:11443/d/public/article/Arthur/Postcrossing_map_generator/gallery/picture/7cgh6b014920dra2oazu1cz2tzvxlfsh.jpg)
+
+[TW-3851534](https://www.postcrossing.com/postcards/TW-3851534) 
+ >来自 [WingFei](https://www.postcrossing.com/user/WingFei) 🇹🇼
+> 📤 [Taiwan](https://www.bing.com/maps/?cp=25.04776~121.53185&lvl=12.0&setlang=zh-Hans) 2025/05/19 11:59 (当地)
+> 📥 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/06/06 09:13 (当地)
+ 📏 792 | ⏱ 18
+
+
+![](https://pan.4a1801.life:11443/d/public/article/Arthur/Postcrossing_map_generator/gallery/picture/xcail4om8jpvbzs5srr66fbm03l8ubri.jpg)
+
+[MY-682667](https://www.postcrossing.com/postcards/MY-682667) 
+ >来自 [iamshufen](https://www.postcrossing.com/user/iamshufen) 🇲🇾
+> 📤 [Malaysia](https://www.bing.com/maps/?cp=3.1412~101.68653&lvl=12.0&setlang=zh-Hans) 2025/05/19 10:51 (当地)
+> 📥 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/06/06 09:12 (当地)
+ 📏 2,547 | ⏱ 18
+
+
+![](https://pan.4a1801.life:11443/d/public/article/Arthur/Postcrossing_map_generator/gallery/picture/vzbe0k43vft3w7a1jjwxuui76fopu3up.jpg)
+
+[US-11345356](https://www.postcrossing.com/postcards/US-11345356) 
+ >来自 [DiannaGrindstaff](https://www.postcrossing.com/user/DiannaGrindstaff) 🇺🇸
+> 📤 [U.S.A.](https://www.bing.com/maps/?cp=44.18582~-88.46261&lvl=12.0&setlang=zh-Hans) 2025/04/25 14:42 (当地)
+> 📥 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/05/30 16:59 (当地)
+ 📏 12,241 | ⏱ 35
+
+
+![](https://pan.4a1801.life:11443/d/public/article/Arthur/Postcrossing_map_generator/gallery/picture/bd9b1ia9uqog051itmvct54ho10u9lzn.jpg)
+
+[DE-15398863](https://www.postcrossing.com/postcards/DE-15398863) 
+ >来自 [Sommerwiese](https://www.postcrossing.com/user/Sommerwiese) 🇩🇪
+> 📤 [Germany](https://www.bing.com/maps/?cp=52.52437~13.41053&lvl=12.0&setlang=zh-Hans) 2025/04/24 20:36 (当地)
+> 📥 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/05/30 16:50 (当地)
+ 📏 8,731 | ⏱ 36
+
+
+![](https://pan.4a1801.life:11443/d/public/article/Arthur/Postcrossing_map_generator/gallery/picture/te4bcqyxld9cauy9fjwcenwdeckjo8ho.jpg)
+
+[JP-2252269](https://www.postcrossing.com/postcards/JP-2252269) 
+ >来自 [E-MASAKI](https://www.postcrossing.com/user/E-MASAKI) 🇯🇵
+> 📤 [Japan](https://www.bing.com/maps/?cp=35.6895~139.69171&lvl=12.0&setlang=zh-Hans) 2025/05/19 11:13 (当地)
+> 📥 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/05/30 16:48 (当地)
+ 📏 2,858 | ⏱ 11
+
+
+![](https://pan.4a1801.life:11443/d/public/article/Arthur/Postcrossing_map_generator/gallery/picture/ahicku56gsv3c1mqbn9w74ea3bx12g2x.jpg)
+
+[CN-4032714](https://www.postcrossing.com/postcards/CN-4032714) 
+ >来自 [JinjinTian](https://www.postcrossing.com/user/JinjinTian) 🇨🇳
+> 📤 [China](https://www.bing.com/maps/?cp=36.06488~120.38042&lvl=12.0&setlang=zh-Hans) 2025/05/19 10:43 (当地)
+> 📥 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/05/25 20:22 (当地)
+ 📏 1,614 | ⏱ 6
+
+
+![](https://pan.4a1801.life:11443/d/public/article/Arthur/Postcrossing_map_generator/gallery/picture/xyi1hps5dtj2gu05mmulyfhdvjvvw10n.jpg)
+
+[US-11342114](https://www.postcrossing.com/postcards/US-11342114) 
+ >来自 [bugmanPNW](https://www.postcrossing.com/user/bugmanPNW) 🇺🇸
+> 📤 [U.S.A.](https://www.bing.com/maps/?cp=48.56177~-122.39822&lvl=12.0&setlang=zh-Hans) 2025/04/24 11:36 (当地)
+> 📥 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/05/22 22:06 (当地)
+ 📏 10,316 | ⏱ 28
+
+
+![](https://pan.4a1801.life:11443/d/public/article/Arthur/Postcrossing_map_generator/gallery/picture/fmkd90bqkcou94790cv639ofakjwhfac.jpg)
+
+[DE-15398867](https://www.postcrossing.com/postcards/DE-15398867) 
+ >来自 [CraftyHill](https://www.postcrossing.com/user/CraftyHill) 🇩🇪
+> 📤 [Germany](https://www.bing.com/maps/?cp=49.32083~8.43111&lvl=12.0&setlang=zh-Hans) 2025/04/24 20:38 (当地)
+> 📥 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/05/20 19:06 (当地)
+ 📏 9,196 | ⏱ 26
+
+
+![](https://pan.4a1801.life:11443/d/public/article/Arthur/Postcrossing_map_generator/gallery/picture/9fnvzfwwo4vdvpj0z556w0mgada3bnyl.jpg)
+
+[MO-69924](https://www.postcrossing.com/postcards/MO-69924) 
+ >来自 [khaki_catia](https://www.postcrossing.com/user/khaki_catia) 🇲🇴
+> 📤 [Macao](https://www.bing.com/maps/?cp=22.20056~113.54611&lvl=12.0&setlang=zh-Hans) 2025/04/26 15:52 (当地)
+> 📥 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/05/20 19:02 (当地)
+ 📏 81 | ⏱ 24
+
+
+![](https://pan.4a1801.life:11443/d/public/article/Arthur/Postcrossing_map_generator/gallery/picture/dohcjhkyayh1nmm6x5ele4k8c015iwgf.jpg)
+
+[US-11342115](https://www.postcrossing.com/postcards/US-11342115) 
+ >来自 [Jim0819](https://www.postcrossing.com/user/Jim0819) 🇺🇸
+> 📤 [U.S.A.](https://www.bing.com/maps/?cp=35.31762~-82.59429&lvl=12.0&setlang=zh-Hans) 2025/04/24 14:36 (当地)
+> 📥 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/05/19 09:20 (当地)
+ 📏 13,339 | ⏱ 24
+
+
+![](https://pan.4a1801.life:11443/d/public/article/Arthur/Postcrossing_map_generator/gallery/picture/9vbucxnkwsewvmzjp8cqjnuxkv9kfk5u.jpg)
+
+[US-11342120](https://www.postcrossing.com/postcards/US-11342120) 
+ >来自 [tacogal729](https://www.postcrossing.com/user/tacogal729) 🇺🇸
+> 📤 [U.S.A.](https://www.bing.com/maps/?cp=40.68729~-80.27145&lvl=12.0&setlang=zh-Hans) 2025/04/24 14:38 (当地)
+> 📥 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/05/19 09:19 (当地)
+ 📏 12,824 | ⏱ 24
+
+
+![](https://pan.4a1801.life:11443/d/public/article/Arthur/Postcrossing_map_generator/gallery/picture/zes6752yz1z6i13mi2q5s7vwxt4wvogl.jpg)
+
+[LU-121426](https://www.postcrossing.com/postcards/LU-121426) 
+ >来自 [nikolenkooo](https://www.postcrossing.com/user/nikolenkooo) 🇱🇺
+> 📤 [Luxembourg](https://www.bing.com/maps/?cp=49.61167~6.13&lvl=12.0&setlang=zh-Hans) 2025/04/24 20:38 (当地)
+> 📥 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/05/19 09:19 (当地)
+ 📏 9,329 | ⏱ 24
+
+
+![](https://pan.4a1801.life:11443/d/public/article/Arthur/Postcrossing_map_generator/gallery/picture/bjv4af02zdh7knaw228glm3062y1c8yw.jpg)
+
+[DE-15398868](https://www.postcrossing.com/postcards/DE-15398868) 
+ >来自 [ghostspider](https://www.postcrossing.com/user/ghostspider) 🇩🇪
+> 📤 [Germany](https://www.bing.com/maps/?cp=51.22172~6.77616&lvl=12.0&setlang=zh-Hans) 2025/04/24 20:38 (当地)
+> 📥 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/05/19 09:18 (当地)
+ 📏 9,205 | ⏱ 24
+
+
+![](https://pan.4a1801.life:11443/d/public/article/Arthur/Postcrossing_map_generator/gallery/picture/uzjznheze45absnihosv6c62qep1ql0b.jpg)
+
+[FR-1798160](https://www.postcrossing.com/postcards/FR-1798160) 
+ >来自 [Claire-Anne](https://www.postcrossing.com/user/Claire-Anne) 🇫🇷
+> 📤 [France](https://www.bing.com/maps/?cp=45.4177~-0.59466&lvl=12.0&setlang=zh-Hans) 2025/04/24 20:38 (当地)
+> 📥 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/05/12 10:44 (当地)
+ 📏 10,000 | ⏱ 17
+
+
+![](https://pan.4a1801.life:11443/d/public/article/Arthur/Postcrossing_map_generator/gallery/picture/knrxt3dxf9ure8u5gqllaya3qihbsz8c.jpg)
+
+[DE-15398865](https://www.postcrossing.com/postcards/DE-15398865) 
+ >来自 [phasin](https://www.postcrossing.com/user/phasin) 🇩🇪
+> 📤 [Germany](https://www.bing.com/maps/?cp=52.56014~13.0927&lvl=12.0&setlang=zh-Hans) 2025/04/24 20:37 (当地)
+> 📥 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/05/12 10:38 (当地)
+ 📏 8,749 | ⏱ 17
+
+
+![](https://pan.4a1801.life:11443/d/public/article/Arthur/Postcrossing_map_generator/gallery/picture/g3n63snpw8vegk5oyo7llnejv346naxz.jpg)
 
 [NL-5733716](https://www.postcrossing.com/postcards/NL-5733716) 
  >来自 [Arbor](https://www.postcrossing.com/user/Arbor) 🇳🇱
