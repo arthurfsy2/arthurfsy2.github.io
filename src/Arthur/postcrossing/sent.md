@@ -1,7 +1,7 @@
 ---
-title: 明信片展示墙（寄出：174）
+title: 明信片展示墙（寄出：177）
 icon: address-card
-date: 2025-06-14
+date: 2025-06-23
 category:
   - Arthur
 tag:
@@ -147,7 +147,34 @@ const option = {
 
 :::
 
-### 2025(35)
+### 2025(38)
+
+[CN-3980204](https://www.postcrossing.com/postcards/CN-3980204) 
+ >寄往 [nicky1983](https://www.postcrossing.com/user/nicky1983) 🇩🇪
+> 📤 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/03/13 13:53 (当地)
+> 📥 [Germany](https://www.bing.com/maps/?cp=53.28308~13.66136&lvl=12.0&setlang=zh-Hans) 2025/06/23 07:58 (当地)
+ 📏 8,684 | ⏱ 102
+
+
+![](https://pan.4a1801.life:11443/d/public/article/Arthur/Postcrossing_map_generator/gallery/picture/2olzlmzpvjgvv5gghlysiixkw5lxa1w3.jpg)
+
+[CN-4032668](https://www.postcrossing.com/postcards/CN-4032668) 
+ >寄往 [hjbcats](https://www.postcrossing.com/user/hjbcats) 🇺🇸
+> 📤 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/05/19 10:12 (当地)
+> 📥 [U.S.A.](https://www.bing.com/maps/?cp=38.65922~-87.17279&lvl=12.0&setlang=zh-Hans) 2025/06/21 20:02 (当地)
+ 📏 12,851 | ⏱ 34
+
+
+![](https://pan.4a1801.life:11443/d/public/article/Arthur/Postcrossing_map_generator/gallery/picture/90m6css5jvh2ybtipnkmaad6htmhusje.jpg)
+
+[CN-4032663](https://www.postcrossing.com/postcards/CN-4032663) 
+ >寄往 [Jakez44](https://www.postcrossing.com/user/Jakez44) 🇫🇷
+> 📤 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/05/19 10:12 (当地)
+> 📥 [France](https://www.bing.com/maps/?cp=47.21725~-1.55336&lvl=12.0&setlang=zh-Hans) 2025/06/21 15:40 (当地)
+ 📏 9,952 | ⏱ 33
+
+
+![](https://pan.4a1801.life:11443/d/public/article/Arthur/Postcrossing_map_generator/gallery/picture/q8r5z3ul6wisg1dm44rz2txiz2xhb9ko.jpg)
 
 [CN-3980206](https://www.postcrossing.com/postcards/CN-3980206) 
  >寄往 [OlafArens](https://www.postcrossing.com/user/OlafArens) 🇩🇪
