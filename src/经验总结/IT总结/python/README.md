@@ -1,12 +1,12 @@
 ---
-title: Vuepress
-icon: brands:vuejs
+title: Python
+icon: brands:python
 date: 2023-09-14
 category:
   - 经验总结
 tag:
   - IT总结
-  - Vuepress
+  - Python
 index: false
-order: 2
+order: 1
 ---

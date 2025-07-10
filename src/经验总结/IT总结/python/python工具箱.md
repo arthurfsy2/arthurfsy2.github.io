@@ -1,14 +1,13 @@
 ---
-icon: edit
+icon: brands:python
 title: python工具箱
 date: 2023-08-31
 category:
   - 经验总结
 tag:
   - IT总结
-order: 3
+order: 1
 ---
-
 # 实用工具汇总
 
 ## 文件压缩
@@ -80,7 +79,7 @@ for root, dirs, files in os.walk(directory):
 :::tip 需要先下载 python 和 ffmpeg
 :::
 
-::: important 感觉直接选择视频到`微信`的文件传输助手进行自动压缩还更方便
+::: important 感觉直接选择视频到 `微信`的文件传输助手进行自动压缩还更方便
 :::
 
 > [win10 系统下 ffmpeg 的安装配置与 Python 调用 - 代码天地 (codetd.com)](https://www.codetd.com/article/15441361)
