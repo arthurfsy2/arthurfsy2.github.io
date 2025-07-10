@@ -22,7 +22,7 @@ _本帖最后由 arthurfsy 于 2023-8-7 12:56 编辑_
 家里有台云麦好轻mini，之前在论坛里也发现有大佬[通过ESP32接入体重数据](https://bbs.hassbian.com/thread-14002-1-1.html)的教程，但尝试后失败告终。
 为了导出历史的体重数据+实时更新已称重数据，我找了大佬逆向了好轻的登录，然后自己通过Node-Red实现整个数据获取、保存的流程。对逆向感兴趣的朋友可以查看各个function里的说明
 
- ![](https://attachment.hasstatic.com/forum/202305/08/153601adsf119b8iszj5sd.png =400x)
+ ![=400x](https://attachment.hasstatic.com/forum/202305/08/153601adsf119b8iszj5sd.png)
 
 ## 一.本flow功能：
 

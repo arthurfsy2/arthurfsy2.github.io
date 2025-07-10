@@ -17,7 +17,7 @@ order: 2
 
 ## 微信扫一扫
 
-![](https://pan.4a1801.life:11443/d/public/img/wechatWIFI.png =300x)
+![=300x](https://pan.4a1801.life:11443/d/public/img/wechatWIFI.png)
 
 @tab iPhone/安卓
 
@@ -27,9 +27,9 @@ order: 2
 
 ## 安卓：
 
-> 设置——WLAM——点击“扫一扫”(类似 ➡️“![](/assets/icon/saoyisao.svg =20x)”的图案)
+> 设置——WLAM——点击“扫一扫”(类似 ➡️“![=20x](/assets/icon/saoyisao.svg)”的图案)
 
-![](https://pan.4a1801.life:11443/d/public/img/wifi.png =300x)
+![=300x](https://pan.4a1801.life:11443/d/public/img/wifi.png)
 :::
 
 :::echarts

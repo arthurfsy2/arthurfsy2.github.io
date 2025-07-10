@@ -55,7 +55,7 @@ iFit Membership Plan可以当做类似keep的锻炼教程库，主要亮点是�
 
 自从入手跑步机了以后，8.12-9.11跑了14次步，总公里为82.6KM。感觉的确增加了很多跑步乐趣，**搭配iPad使用效果更佳**。
 
-![个人运动记录](https://pic3.zhimg.com/80/v2-ce0c4d315c7f02a4cccfcf34e545304a_1440w.webp =300x)
+![个人运动记录 =300x](https://pic3.zhimg.com/80/v2-ce0c4d315c7f02a4cccfcf34e545304a_1440w.webp)
 
 ## 不足与待改进
 

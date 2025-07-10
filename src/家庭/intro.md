@@ -67,20 +67,20 @@ flowchart TB
 
 ::: tabs
 @tab 微信
-![冯先生的微信](https://pan.4a1801.life:11443/d/public/img/wechatContact.webp =300x)
+![冯先生的微信 =300x](https://pan.4a1801.life:11443/d/public/img/wechatContact.webp)
 
 @tab QQ
-![冯先生的QQ](https://pan.4a1801.life:11443/d/public/img/QQContact.webp =300x)
+![冯先生的QQ =300x](https://pan.4a1801.life:11443/d/public/img/QQContact.webp)
 
 @tab 手机
 
 :::center
 
-[![](https://img.shields.io/badge/%E5%86%AF%E5%85%88%E7%94%9F-175--0304--9257-blue =300x)](TEL:17503049257)
+[![=300x](https://img.shields.io/badge/%E5%86%AF%E5%85%88%E7%94%9F-175--0304--9257-blue)](TEL:17503049257)
 
-[![](https://img.shields.io/badge/%E5%90%B4%E5%A5%B3%E5%A3%AB-136--4286--5881-green =300x)](TEL:13642865881)
+[![=300x](https://img.shields.io/badge/%E5%90%B4%E5%A5%B3%E5%A3%AB-136--4286--5881-green)](TEL:13642865881)
 
-[![](https://img.shields.io/badge/%E5%86%AF%E7%AC%91%E7%AC%91-1662--0810--234-pink =300x)](TEL:16620810234)
+[![=300x](https://img.shields.io/badge/%E5%86%AF%E7%AC%91%E7%AC%91-1662--0810--234-pink)](TEL:16620810234)
 
 > 笑笑的手机号是她的生日，然后手机卡暂借给他爸插到车机上当流量卡了
 
@@ -90,9 +90,9 @@ flowchart TB
 
 ::: tabs
 @tab 支付宝
-![扫一扫](https://pan.4a1801.life:11443/d/public/img/Alipay.webp =300x)
+![扫一扫 =300x](https://pan.4a1801.life:11443/d/public/img/Alipay.webp)
 @tab 微信
-![扫一扫](https://pan.4a1801.life:11443/d/public/img/wechatPay.webp =300x)
+![扫一扫 =300x](https://pan.4a1801.life:11443/d/public/img/wechatPay.webp)
 :::
 
 ## 我们的“关键字”

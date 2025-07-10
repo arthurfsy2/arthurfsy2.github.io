@@ -20,7 +20,7 @@ order: 2
 _本帖最后由 arthurfsy 于 2022-11-24 10:52 编辑_ 11.24更新：修改了oauth的请求头function，现在接种记录的时效比较长了，稳定性还在确认当中
 
 UI展示
-![](https://attachment.hasstatic.com/forum/202211/14/161835lwcy85rryro8r9cy.jpg =400x)
+![=400x](https://attachment.hasstatic.com/forum/202211/14/161835lwcy85rryro8r9cy.jpg)
 
 :::tip 写在前面
 这个插件主要方便**宝宝在深圳地区出生**的家长（比如我）随时查看已经接种的疫苗信息、待接种疫苗计划等信息，**在了解总花费的同时，不错过娃的疫苗接种。**
@@ -45,7 +45,7 @@ PS：小程序前端展示信息较少，并无金额、厂商等信息，但是
 
 ### 2.手机微信打开“深圳疾控”公众号——打疫苗——普通疫苗（儿童预约）——接种计划/接种记录（如果绑定了多个账号，则需要切换）
 
-![](https://attachment.hasstatic.com/forum/202211/14/161834ggml6vk6meajs6kg.jpg =400x)
+![=400x](https://attachment.hasstatic.com/forum/202211/14/161834ggml6vk6meajs6kg.jpg)
 
 3.IOS通过Stream抓包/WIN通过Charles抓PC微信小程序（对应NR的var变量），每个链接的变量对应的数值要改成你自己的
 

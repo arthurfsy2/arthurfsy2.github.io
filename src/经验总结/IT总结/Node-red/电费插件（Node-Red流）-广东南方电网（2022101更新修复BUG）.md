@@ -28,7 +28,7 @@ _本帖最后由 arthurfsy 于 2023-4-14 15:50 编辑_
 
 ```
 - 2022/10/1 flow更新：修复“月份控制”BUG。改为：跨月后，前3号还是取上月数据
-- 2022/9/27 flow更新：增加当月每日记录2(date、power为数组格式，配合apexcharts卡片使用），分享自用卡片（先下载apexcharts，然后用yaml自定义）![](https://attachment.hasstatic.com/forum/202209/27/114108vc4b41tiu4ww4h7t.png =400x)
+- 2022/9/27 flow更新：增加当月每日记录2(date、power为数组格式，配合apexcharts卡片使用），分享自用卡片（先下载apexcharts，然后用yaml自定义）![=400x](https://attachment.hasstatic.com/forum/202209/27/114108vc4b41tiu4ww4h7t.png)
 - 2022/9/19 flow更新：增加当月每日记录、月份控制（避免跨越需要更新，当然，如果cookies撑不到一个月就只能再次抓包了）
 - 2022/9/18 flow更新：新增今年、去年电量统计
 ```
@@ -184,7 +184,7 @@ NR运行效果：
 
 ### 2.手机下载“南网在线”，登陆APP，打开“日电量”页面
 
-![](https://attachment.hasstatic.com/forum/202209/17/154514rqqmnu8bw4i2mu0y.png =400x)
+![=400x](https://attachment.hasstatic.com/forum/202209/17/154514rqqmnu8bw4i2mu0y.png)
 
 ### 3.通过Stream抓包（对应NR的msg.headers、msg.payload），每个链接的headers、payload都要填
 
@@ -194,7 +194,7 @@ NR运行效果：
 > - https://95598.csg.cn/ucs/ma/zt/charge/queryLatelyBillElec
 > - **https://95598.csg.cn/ucs/ma/zt/charge/getAnalyzeFeeDetails**
 
-![](https://attachment.hasstatic.com/forum/202209/17/153333ainttkkf667tm39t.png =400x)
+![=400x](https://attachment.hasstatic.com/forum/202209/17/153333ainttkkf667tm39t.png)
 
 ### 4.将抓到的headers、payload数据填入NR流的
 

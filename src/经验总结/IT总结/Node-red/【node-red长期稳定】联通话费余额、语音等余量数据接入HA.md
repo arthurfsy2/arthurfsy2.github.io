@@ -26,7 +26,7 @@ _本帖最后由 arthurfsy 于 2023-4-24 16:21 编辑_
 
 **Tips：本flow的默认更新间隔为5分钟，如果出现无法获取数据的情况，可以把间隔时间改为10-20分钟**
 :::
-![img](https://attachment.hasstatic.com/forum/202303/14/143425pkn9ub5rnr6ruhn5.jpg =400x)
+![img =400x](https://attachment.hasstatic.com/forum/202303/14/143425pkn9ub5rnr6ruhn5.jpg)
 
 ## 本flow功能：
 
@@ -50,8 +50,8 @@ https://wwt.lanzoul.com/iDpXD0ecgkfi
 ```
 
 注：下载1TS APP软件后，需要先通过短信成功登陆一次，然后点击首页的“联通”——左上角“小水滴形状”——右上角“窗口”切换登陆方式。即可看到“token\_online”、“appid”数据（小坑：token\_online的字符很长，可能复制起来比较折腾）
- ![img](https://attachment.hasstatic.com/forum/202303/14/143251g3k35d37k3e5qkqd.png =400x)
- ![img](https://attachment.hasstatic.com/forum/202303/14/143251wdjizqwr41iqb33u.jpg =400x)
+ ![img =400x](https://attachment.hasstatic.com/forum/202303/14/143251g3k35d37k3e5qkqd.png)
+ ![img =400x](https://attachment.hasstatic.com/forum/202303/14/143251wdjizqwr41iqb33u.jpg)
 
 ### 2.修改NR流里的“设置原始tokenOnline”节点，将复制的“token\_online”、“appid”粘贴到对应位置
 
@@ -106,4 +106,4 @@ cards:
         icon_color: purple
 ```
 
- ![](https://www.hasstatic.com/image/filetype/unknown.gif) [获取联通余量.json](https://bbs.hassbian.com/forum.php?mod=attachment&aid=NDYyNzN8YjEzMDI4YmZ8MTY5NDcwMjI2NHw1NzI4M3wyMDA0MA%3D%3D) _(23.37 KB, 下载次数: 101)_
+ ![](https://www.hasstatic.com/image/filetype/unknown.gif) [获取联通余量.json =attachment&aid=NDYyNzN8YjEzMDI4YmZ8MTY5NDcwMjI2NHw1NzI4M3wyMDA0MA%3D%3D](https://bbs.hassbian.com/forum.php?mod) _(23.37 KB, 下载次数: 101)_
