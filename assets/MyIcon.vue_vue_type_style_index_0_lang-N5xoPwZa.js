@@ -1,1 +1,0 @@
-import{ap as s,ah as a,ai as e,aq as c}from"./app-BkbGRV-Z.js";const p=["spin"],l=s({__name:"MyIcon",props:{name:String,spin:Boolean},setup(o){const n=o;return(t,i)=>(e(),a("span",{class:c(["iconfont icon",`icon-${n.name}`]),spin:n.spin},null,10,p))}});export{l as _};
