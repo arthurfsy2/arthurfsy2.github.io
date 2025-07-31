@@ -46,6 +46,7 @@ export default hopeTheme(
     // 加密配置
     encrypt: {
       config: {
+        "/Arthur/个人资料": ["364115"],
         "/Arthur/Tieba": ["364115"],
         "/Arthur/随笔": ["364115"],
         "/Arthur/日记里的我": ["364115"],
