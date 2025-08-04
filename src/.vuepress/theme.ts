@@ -55,6 +55,7 @@ export default hopeTheme(
         "/Arthur/搜狗问问": ["364115"],
         "/Arthur/postcrossing": ["happypostcrossing", "364115"],
         "/叶子飞/": ["615881"],
+        "/家庭/": ["615881", "20220810"],
       },
     },
 
