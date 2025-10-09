@@ -1,7 +1,7 @@
 ---
 title: 笑笑的书
 icon: book
-date: 2025-08-21
+date: 2025-10-09
 category:
   - Arthur
 tag:
@@ -59,7 +59,32 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s4578099.jpg)
 
 
-## 5. [小熊宝宝绘本（全15册）](https://book.douban.com/subject/2123287/) ![](https://img.shields.io/badge/9.3分-2055评价-blue)
+## 5. [宫西达也恐龙系列](https://book.douban.com/subject/26428611/) ![](https://img.shields.io/badge/9.4分-908评价-blue)
+
+> ISBN: 9787539189147
+
+::: note 简介：
+因为有爱你的人，一个人可以变得强大；因为有你爱的人，一个人可以变得温柔。宫西达也创作的“温馨恐龙故事绘本”能让人体会对方的感受，使人的心变得柔软，学会如何去爱。
+☆ 这套书也会让孩子懂得：重要的是你如何去感知这个世界，如何处理自己与这个世界的关系，真诚深入地细探自己的内心，你就会找到一种属于自己的方式将其表达出来。
+☆ 正如宫西达也本人所言：无论是爱还是善良，都是可以传递的，我就是想通过我的绘本故事把爱和善良传递给无数的孩子们。
+这套绘本让我们沉浸在这个充满爱、善良和童真的世界里，抛开虚假的掩饰，共同体验和感受这种因爱和善良而生的幸福之感。绘本画面颜色鲜明、亮丽，作者用力度感极强的粗线条勾勒出一个生动的恐龙世界，并细致入微地描绘了它们的心理活动。文字与图画融为一体，生动形象地将故事娓娓道来。在爱与被爱之间存在着循环往复的通道，每一个人心里都有一颗爱的...
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s28302478.jpg)
+
+
+## 6. [新朋友-嘟嘟和巴豆](https://book.douban.com/subject/3061567/) ![](https://img.shields.io/badge/9.4分-53评价-blue)
+
+> ISBN: 9787539141299
+
+::: note 简介：
+《嘟嘟和巴豆:新朋友》是《嘟嘟和巴豆》丛书中的一本。《嘟嘟和巴豆》是一套非常美丽的图面书，以其幽默的叙事和富于表现力的绘画手法在美国书评界获得了很高的声誉：《芝加哥论坛报》称它是关于友谊的故事中的经典，《柯克斯评论》和《出版人周刊》说这两只小猪的每一次出场都让人兴奋不已，甚至大人都为之着迷，《学校图书馆杂志》向全美的中小学生大力推荐这套书，盛赞它的温暖和有趣。
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s9114652.jpg)
+
+
+## 7. [小熊宝宝绘本（全15册）](https://book.douban.com/subject/2123287/) ![](https://img.shields.io/badge/9.3分-2055评价-blue)
 
 > ISBN: 9787505608252
 
@@ -70,7 +95,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s26694072.jpg)
 
 
-## 6. [猜猜我有多爱你](https://book.douban.com/subject/26429208/) ![](https://img.shields.io/badge/9.3分-533评价-blue)
+## 8. [猜猜我有多爱你](https://book.douban.com/subject/26429208/) ![](https://img.shields.io/badge/9.3分-533评价-blue)
 
 > ISBN: 9787533274269
 
@@ -82,7 +107,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s28115446.jpg)
 
 
-## 7. [从头动到脚](https://book.douban.com/subject/11612033/) ![](https://img.shields.io/badge/9.3分-387评价-blue)
+## 9. [从头动到脚](https://book.douban.com/subject/11612033/) ![](https://img.shields.io/badge/9.3分-387评价-blue)
 
 > ISBN: 9787533269500
 
@@ -94,7 +119,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s29581085.jpg)
 
 
-## 8. [原版引进意大利最经典左右脑训练工具书（全8册）](https://book.douban.com/subject/24742657/) ![](https://img.shields.io/badge/9.3分-76评价-blue)
+## 10. [原版引进意大利最经典左右脑训练工具书（全8册）](https://book.douban.com/subject/24742657/) ![](https://img.shields.io/badge/9.3分-76评价-blue)
 
 > ISBN: 9787040369342
 
@@ -119,7 +144,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s26965172.jpg)
 
 
-## 9. [蚯蚓的日记](https://book.douban.com/subject/24542155/) ![](https://img.shields.io/badge/9.2分-479评价-blue)
+## 11. [蚯蚓的日记](https://book.douban.com/subject/24542155/) ![](https://img.shields.io/badge/9.2分-479评价-blue)
 
 > ISBN: 9787533273477
 
@@ -133,7 +158,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s26559511.jpg)
 
 
-## 10. [鸭子骑车记](https://book.douban.com/subject/30366208/) ![](https://img.shields.io/badge/9.2分-111评价-blue)
+## 12. [鸭子骑车记](https://book.douban.com/subject/30366208/) ![](https://img.shields.io/badge/9.2分-111评价-blue)
 
 > ISBN: 9787513313674
 
@@ -146,7 +171,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s29910235.jpg)
 
 
-## 11. [点点点](https://book.douban.com/subject/10604035/) ![](https://img.shields.io/badge/9.1分-1470评价-blue)
+## 13. [点点点](https://book.douban.com/subject/10604035/) ![](https://img.shields.io/badge/9.1分-1470评价-blue)
 
 > ISBN: 9787539175546
 
@@ -159,7 +184,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s30002219.jpg)
 
 
-## 12. [小蓝和小黄](https://book.douban.com/subject/3116027/) ![](https://img.shields.io/badge/9.1分-896评价-blue)
+## 14. [小蓝和小黄](https://book.douban.com/subject/3116027/) ![](https://img.shields.io/badge/9.1分-896评价-blue)
 
 > ISBN: 9787533257101
 
@@ -170,7 +195,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34007827.jpg)
 
 
-## 13. [活了100万次的猫](https://book.douban.com/subject/1257365/) ![](https://img.shields.io/badge/9分-18931评价-blue)
+## 15. [活了100万次的猫](https://book.douban.com/subject/1257365/) ![](https://img.shields.io/badge/9分-18931评价-blue)
 
 > ISBN: 9787806795095
 
@@ -185,7 +210,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s1673084.jpg)
 
 
-## 14. [小金鱼逃走了](https://book.douban.com/subject/10427241/) ![](https://img.shields.io/badge/9分-1332评价-blue)
+## 16. [小金鱼逃走了](https://book.douban.com/subject/10427241/) ![](https://img.shields.io/badge/9分-1332评价-blue)
 
 > ISBN: 9787513304948
 
@@ -196,7 +221,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34458955.jpg)
 
 
-## 15. [蹦!](https://book.douban.com/subject/3299715/) ![](https://img.shields.io/badge/9分-1076评价-blue)
+## 17. [蹦!](https://book.douban.com/subject/3299715/) ![](https://img.shields.io/badge/9分-1076评价-blue)
 
 > ISBN: 9787539143507
 
@@ -207,7 +232,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s4834227.jpg)
 
 
-## 16. [爷爷一定有办法](https://book.douban.com/subject/24738510/) ![](https://img.shields.io/badge/9分-322评价-blue)
+## 18. [爷爷一定有办法](https://book.douban.com/subject/24738510/) ![](https://img.shields.io/badge/9分-322评价-blue)
 
 > ISBN: 9787533273460
 
@@ -219,7 +244,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s29624457.jpg)
 
 
-## 17. [爷爷一定有办法](https://book.douban.com/subject/1397331/) ![](https://img.shields.io/badge/8.9分-4506评价-blue)
+## 19. [爷爷一定有办法](https://book.douban.com/subject/1397331/) ![](https://img.shields.io/badge/8.9分-4506评价-blue)
 
 > ISBN: 9787532464586
 
@@ -230,7 +255,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s26552436.jpg)
 
 
-## 18. [好饿的毛毛虫](https://book.douban.com/subject/3106707/) ![](https://img.shields.io/badge/8.9分-3709评价-blue)
+## 20. [好饿的毛毛虫](https://book.douban.com/subject/3106707/) ![](https://img.shields.io/badge/8.9分-3709评价-blue)
 
 > ISBN: 9787533256739
 
@@ -249,7 +274,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s3161609.jpg)
 
 
-## 19. [抱抱](https://book.douban.com/subject/3712514/) ![](https://img.shields.io/badge/8.9分-1446评价-blue)
+## 21. [抱抱](https://book.douban.com/subject/3712514/) ![](https://img.shields.io/badge/8.9分-1446评价-blue)
 
 > ISBN: 9787533258795
 
@@ -262,7 +287,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s6022638.jpg)
 
 
-## 20. [逃家小兔](https://book.douban.com/subject/3354744/) ![](https://img.shields.io/badge/8.9分-767评价-blue)
+## 22. [逃家小兔](https://book.douban.com/subject/3354744/) ![](https://img.shields.io/badge/8.9分-767评价-blue)
 
 > ISBN: 9787533258658
 
@@ -274,7 +299,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s6566099.jpg)
 
 
-## 21. [小宝宝翻翻书（套装共4册）](https://book.douban.com/subject/21668031/) ![](https://img.shields.io/badge/8.9分-39评价-blue)
+## 23. [小宝宝翻翻书（套装共4册）](https://book.douban.com/subject/21668031/) ![](https://img.shields.io/badge/8.9分-39评价-blue)
 
 > ISBN: 9787533270254
 
@@ -287,7 +312,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s26301212.jpg)
 
 
-## 22. [100层的巴士(精)](https://book.douban.com/subject/27590808/) ![](https://img.shields.io/badge/8.9分-34评价-blue)
+## 24. [100层的巴士(精)](https://book.douban.com/subject/27590808/) ![](https://img.shields.io/badge/8.9分-34评价-blue)
 
 > ISBN: 9787556829293
 
@@ -298,7 +323,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s29620101.jpg)
 
 
-## 23. [我爸爸](https://book.douban.com/subject/2117875/) ![](https://img.shields.io/badge/8.8分-6055评价-blue)
+## 25. [我爸爸](https://book.douban.com/subject/2117875/) ![](https://img.shields.io/badge/8.8分-6055评价-blue)
 
 > ISBN: 9787543464582
 
@@ -310,7 +335,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s2449523.jpg)
 
 
-## 24. [我妈妈](https://book.douban.com/subject/2121010/) ![](https://img.shields.io/badge/8.8分-5686评价-blue)
+## 26. [我妈妈](https://book.douban.com/subject/2121010/) ![](https://img.shields.io/badge/8.8分-5686评价-blue)
 
 > ISBN: 9787543464575
 
@@ -321,7 +346,24 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s23660957.jpg)
 
 
-## 25. [小兔巴尼](https://book.douban.com/subject/10430482/) ![](https://img.shields.io/badge/8.8分-18评价-blue)
+## 27. [小蜗牛自然图画书系（全四册）](https://book.douban.com/subject/4060246/) ![](https://img.shields.io/badge/8.8分-21评价-blue)
+
+> ISBN: 9787535041500
+
+::: note 简介：
+这是一套很有人文情怀的自然图画书。作家和画家携手合作，透过他们的心和他们的眼睛，把他们在日常生活中对自然界的观察及和自然界的互动，生动活泼地描绘出来，并传递了正确的自然知识，亲切地领着孩子去认识大自然的各种奥秘。
+这套书充分说明了，只要懂得观察，培养好奇心，生活中到处都是传播科学知识的题材，而且，科学书也能像童话书一样好看！读这样的书，一方面欣赏自然，一方面又学到科学知识，希望每个孩子都可以成为“小小科学人”。
+——台湾“中研院”副院长 曾志朗
+孩子通过图画来认识世界。在观察世界的同时，也体认我们的心。
+科学教人“求真”，艺术给人“审美”。当“真”与“美”完整地结合在一起，“善”便出现了。
+善待这个世界，也善待我们自己。透过文学的润泽，柔软知识的传递。在不知不觉中，我们自知自觉。
+从近处开始，极目而远，由这套书开始，我们亲近自然，也照顾脚下。像一颗种...
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s4035922.jpg)
+
+
+## 28. [小兔巴尼](https://book.douban.com/subject/10430482/) ![](https://img.shields.io/badge/8.8分-18评价-blue)
 
 > ISBN: 9787541743726
 
@@ -332,7 +374,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s8494060.jpg)
 
 
-## 26. [大卫，不可以](https://book.douban.com/subject/2117871/) ![](https://img.shields.io/badge/8.7分-5708评价-blue)
+## 29. [大卫，不可以](https://book.douban.com/subject/2117871/) ![](https://img.shields.io/badge/8.7分-5708评价-blue)
 
 > ISBN: 9787543464636
 
@@ -345,7 +387,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s5850464.jpg)
 
 
-## 27. [唐诗三百首（儿童注音美绘本）](https://book.douban.com/subject/27115361/) ![](https://img.shields.io/badge/8.7分-24评价-blue)
+## 30. [唐诗三百首（儿童注音美绘本）](https://book.douban.com/subject/27115361/) ![](https://img.shields.io/badge/8.7分-24评价-blue)
 
 > ISBN: 9787538599398
 
@@ -356,7 +398,19 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s30000776.jpg)
 
 
-## 28. [巴巴爸爸的音乐会·巴巴爸爸榨果汁](https://book.douban.com/subject/7056984/) ![](https://img.shields.io/badge/8.6分-27评价-blue)
+## 31. [大卫上学去](https://book.douban.com/subject/3283582/) ![](https://img.shields.io/badge/8.6分-1893评价-blue)
+
+> ISBN: 9787543470927
+
+::: note 简介：
+《大卫上学去》一书主要描述了大卫在学校学习规矩的状况。与《大卫，不可以》最大的不同是，在前一本书里，大卫唯我独尊、一个人胡闹；而在后一本书里，大卫的身边有了其他的小朋友，他必须得学会与别人相处，并且尊重学校里的规矩。
+美国凯迪克银牌奖得主大卫·香农生于美国华盛顿，毕业于加州的艺术中心设计学院，之后到纽约发展，他为《纽约时报》、《时报杂志》和《滚石杂志》都画过插图，也曾设计过书籍封面。1989年，香农开始创作儿童图画书，他的作品屡屡得奖，其中《大卫，不可以！》夺得了1989凯迪克银牌奖、美国图书馆协会好书奖及《纽约时报》最佳图匦书奖。另一部作品《下雨了》得到了2001年的金风筝奖。
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s3463077.jpg)
+
+
+## 32. [巴巴爸爸的音乐会·巴巴爸爸榨果汁](https://book.douban.com/subject/7056984/) ![](https://img.shields.io/badge/8.6分-27评价-blue)
 
 > ISBN: 9787544822770
 
@@ -367,7 +421,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s7662431.jpg)
 
 
-## 29. [要是你带老鼠看电影](https://book.douban.com/subject/35049558/) ![](https://img.shields.io/badge/8.6分-10评价-blue)
+## 33. [要是你带老鼠看电影](https://book.douban.com/subject/35049558/) ![](https://img.shields.io/badge/8.6分-10评价-blue)
 
 > ISBN: 9787544849418
 
@@ -378,7 +432,18 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34742524.jpg)
 
 
-## 30. [菲菲生气了](https://book.douban.com/subject/3621919/) ![](https://img.shields.io/badge/8.5分-1360评价-blue)
+## 34. [大卫惹麻烦](https://book.douban.com/subject/3621921/) ![](https://img.shields.io/badge/8.5分-1796评价-blue)
+
+> ISBN: 9787543472259
+
+::: note 简介：
+大卫又来了，经历了被妈妈说不，被老师说不的成长经验，大卫似乎并没有痛改前非，在这本书里，继续发挥超人能量，大惹麻烦！对比前面两本，读者会发现一些区别。在家里被妈妈说不的大卫年龄尚小，所犯的错误是那个年纪的孩子不可避免的，淘气好动的男孩子在年幼无知的时候闯祸并不意外，如果没有妈妈一声声地说 “不”他们怎么能知道日常生活里什么可以，什么不可以呢？在学校里的大卫，显然成长了一些，他所犯的那些错误都是出于身处新鲜的集体生活，希望展现自己，赢得大家关注的表现。当然，老师会告诉活泼淘气的大卫，纪律是学校生活最重要的学习环节。而这本《大卫惹麻烦》里，大卫明显地又成长了一些，拒绝进食、大声问话、出言不逊……等等行为，都显示着大卫在尝试支配自己的生活，然而就在他津津乐道地为自己惹的麻烦寻找借口的时候，他说谎了。细心的读者一定不难发现，淘气得出了圈儿的大卫其实单纯善良，...
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s3682268.jpg)
+
+
+## 35. [菲菲生气了](https://book.douban.com/subject/3621919/) ![](https://img.shields.io/badge/8.5分-1360评价-blue)
 
 > ISBN: 9787543470781
 
@@ -390,7 +455,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s3682266.jpg)
 
 
-## 31. [蚂蚁和西瓜](https://book.douban.com/subject/1436583/) ![](https://img.shields.io/badge/8.5分-1161评价-blue)
+## 36. [蚂蚁和西瓜](https://book.douban.com/subject/1436583/) ![](https://img.shields.io/badge/8.5分-1161评价-blue)
 
 > ISBN: 9787539130453
 
@@ -401,7 +466,20 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34061520.jpg)
 
 
-## 32. [世界上最棒的礼物](https://book.douban.com/subject/34782065/) ![](https://img.shields.io/badge/8.5分-221评价-blue)
+## 37. [天空在脚下](https://book.douban.com/subject/3698663/) ![](https://img.shields.io/badge/8.5分-469评价-blue)
+
+> ISBN: 9787543470774
+
+::: note 简介：
+让我们从书的封面看起：画面的近景主体是橘红色头发的米瑞，身穿天蓝色连衣裙走在钢索之上。她双臂张开，一只脚抬起成为行进中的姿势，头发、发带、衣领和裙摆高高地随风扬起，动感十足。她的脚下是以优雅清新的水彩绘制的背景，背景中屋顶层层叠叠由近及远，与无尽的天空在画面的远处融和，画面的右上角是在背景的映衬下显得分外醒目的标题，恢宏的气势让我们的脑海中仿佛奏响了高亢、悠远的主题曲。
+接下来的书名页，一身居家打扮的小米瑞轻盈地跨出家门，主题曲的余音好像依然在耳边萦绕。紧接着下一页，米瑞与正在查看地址的贝利尼擦身而过，继续以小跑的动态向画外跑去。此时，主题曲的声音渐渐隐去。故事继续向我们介绍米瑞生活的环境，娇小的米瑞勤奋、活泼而又乖巧。贝利尼的出现打破了米瑞平静的生活。
+画面从米瑞看到贝利尼走钢索那一页转为明亮的基调。拜师学艺，勤奋练习的场景都发生在晴朗、明媚的天空...
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s34015179.jpg)
+
+
+## 38. [世界上最棒的礼物](https://book.douban.com/subject/34782065/) ![](https://img.shields.io/badge/8.5分-221评价-blue)
 
 > ISBN: 9787559633507
 
@@ -417,7 +495,22 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s33448011.jpg)
 
 
-## 33. [猜一猜我是谁？](https://book.douban.com/subject/30378081/) ![](https://img.shields.io/badge/8.5分-88评价-blue)
+## 39. [一看再看系列（全6册）](https://book.douban.com/subject/2243472/) ![](https://img.shields.io/badge/8.5分-120评价-blue)
+
+> ISBN: 9787221077455
+
+::: note 简介：
+内容简介：
+1.《跟上那头熊》：当您去捉一头熊的时候，要有十二万分的小心。最好带个朋友一块去——一定是个看起来比您还胖很多的朋友。兔子爱熊。他希望能捉住一头熊——毛越多越好！于是，他买来《最佳猎熊手册》，然后，拽着朋友小胖去捉熊了……
+2．《懒奥西》：奥西是世界上最懒的小猫头鹰。猫头鹰妈妈下定决心要让奥西学会飞，可奥西不愿费力气。不用飞，怎么到地上呢？奥西想出了一个特别聪明的计划，农场的所有动物都被拽进了计划里。可笑到最后的人是猫头鹰妈妈。
+3．《一口袋的吻》：上学的第一天，迪格比学到了许多的东西。他会记住在哪挂衣服吗？他能辨别出谁在叫他的名字吗？迪格比的妈妈有好多办法来帮助这个没有太多勇气去学校的孩子。这本书会教会你如何用爱和友情来适应新的环境的。
+4．《五个小怪物》：五个小怪物每天都站在山坡上然后开始他们的世界之旅。然而有一天，他们觉得这样做还不...
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s2775085.jpg)
+
+
+## 40. [猜一猜我是谁？](https://book.douban.com/subject/30378081/) ![](https://img.shields.io/badge/8.5分-88评价-blue)
 
 > ISBN: 9787554540978
 
@@ -428,7 +521,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s33537795.jpg)
 
 
-## 34. [奇妙发声书 农场里边谁在吵](https://book.douban.com/subject/30597636/) ![](https://img.shields.io/badge/8.5分-53评价-blue)
+## 41. [奇妙发声书 农场里边谁在吵](https://book.douban.com/subject/30597636/) ![](https://img.shields.io/badge/8.5分-53评价-blue)
 
 > ISBN: 9787544857796
 
@@ -439,7 +532,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34069227.jpg)
 
 
-## 35. [要是你给驼鹿吃小松糕](https://book.douban.com/subject/35037050/) ![](https://img.shields.io/badge/8.5分-14评价-blue)
+## 42. [要是你给驼鹿吃小松糕](https://book.douban.com/subject/35037050/) ![](https://img.shields.io/badge/8.5分-14评价-blue)
 
 > ISBN: 9787544849395
 
@@ -450,7 +543,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34725557.jpg)
 
 
-## 36. [要是你给小狗吃甜甜圈](https://book.douban.com/subject/35048070/) ![](https://img.shields.io/badge/8.5分-12评价-blue)
+## 43. [要是你给小狗吃甜甜圈](https://book.douban.com/subject/35048070/) ![](https://img.shields.io/badge/8.5分-12评价-blue)
 
 > ISBN: 9787544849456
 
@@ -461,7 +554,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34742528.jpg)
 
 
-## 37. [巴巴布莱特的时钟·巴巴拉拉做乐器](https://book.douban.com/subject/25915574/) ![](https://img.shields.io/badge/8.5分-11评价-blue)
+## 44. [巴巴布莱特的时钟·巴巴拉拉做乐器](https://book.douban.com/subject/25915574/) ![](https://img.shields.io/badge/8.5分-11评价-blue)
 
 > ISBN: 9787544831000
 
@@ -472,7 +565,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s33700320.jpg)
 
 
-## 38. [谁藏起来了](https://book.douban.com/subject/1685958/) ![](https://img.shields.io/badge/8.4分-790评价-blue)
+## 45. [谁藏起来了](https://book.douban.com/subject/1685958/) ![](https://img.shields.io/badge/8.4分-790评价-blue)
 
 > ISBN: 9787539130507
 
@@ -485,7 +578,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34458954.jpg)
 
 
-## 39. [小兔比利（中英双语）](https://book.douban.com/subject/6847604/) ![](https://img.shields.io/badge/8.4分-300评价-blue)
+## 46. [小兔比利（中英双语）](https://book.douban.com/subject/6847604/) ![](https://img.shields.io/badge/8.4分-300评价-blue)
 
 > ISBN: 9787541743115
 
@@ -496,7 +589,18 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s7642319.jpg)
 
 
-## 40. [巴巴伯穿毛衣·巴巴伯的新模样](https://book.douban.com/subject/7056975/) ![](https://img.shields.io/badge/8.4分-25评价-blue)
+## 47. [小羊和蝴蝶](https://book.douban.com/subject/4822224/) ![](https://img.shields.io/badge/8.4分-160评价-blue)
+
+> ISBN: 9787533263119
+
+::: note 简介：
+小羊遇到了蝴蝶, 小羊一直希望蝴蝶能留下来陪他，但蝴蝶喜欢海阔天空地飞呀飞……小羊和蝴蝶最后会在一起吗?本书借由小羊和蝴蝶的互动，呈现两种截然不同的生活模式：小羊群居，蝴蝶单飞以及两者相遇所产生的趣味对话，让孩子了解包容和尊重的道理，要学会去接纳与包容不同的声音，让不同的乐器，共同合奏出动人的乐章。
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s4592294.jpg)
+
+
+## 48. [巴巴伯穿毛衣·巴巴伯的新模样](https://book.douban.com/subject/7056975/) ![](https://img.shields.io/badge/8.4分-25评价-blue)
 
 > ISBN: 9787544822794
 
@@ -510,7 +614,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34376862.jpg)
 
 
-## 41. [难忘的生日](https://book.douban.com/subject/24325685/) ![](https://img.shields.io/badge/8.4分-17评价-blue)
+## 49. [难忘的生日](https://book.douban.com/subject/24325685/) ![](https://img.shields.io/badge/8.4分-17评价-blue)
 
 > ISBN: 9787551527101
 
@@ -521,7 +625,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s28061563.jpg)
 
 
-## 42. [要是你给老鼠吃巧克力蛋糕](https://book.douban.com/subject/35048069/) ![](https://img.shields.io/badge/8.4分-11评价-blue)
+## 50. [要是你给老鼠吃巧克力蛋糕](https://book.douban.com/subject/35048069/) ![](https://img.shields.io/badge/8.4分-11评价-blue)
 
 > ISBN: 9787544849463
 
@@ -532,7 +636,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34742516.jpg)
 
 
-## 43. [要是你给小猪吃煎饼](https://book.douban.com/subject/35048071/) ![](https://img.shields.io/badge/8.4分-11评价-blue)
+## 51. [要是你给小猪吃煎饼](https://book.douban.com/subject/35048071/) ![](https://img.shields.io/badge/8.4分-11评价-blue)
 
 > ISBN: 9787544849401
 
@@ -543,7 +647,18 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34742527.jpg)
 
 
-## 44. [德国专注力养成大画册——找数字](https://book.douban.com/subject/30437961/) ![](https://img.shields.io/badge/8.3分-14评价-blue)
+## 52. [不要随便摸我](https://book.douban.com/subject/5916926/) ![](https://img.shields.io/badge/8.3分-290评价-blue)
+
+> ISBN: 9787543668492
+
+::: note 简介：
+《不要随便摸我》是“学会爱自己”系列图画书中的一本，借由一个细腻的故事来教孩子学会避免受到性侵害，让孩子知道那些偷偷摸摸的、伴随着威逼利诱的触摸，是不正确的行为。书中还给孩子讲了一旦遇到这种事情应该采取的措施。这是一本每个孩子在年幼时都应该读的书。
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s4602981.jpg)
+
+
+## 53. [德国专注力养成大画册——找数字](https://book.douban.com/subject/30437961/) ![](https://img.shields.io/badge/8.3分-14评价-blue)
 
 > ISBN: 9787539787008
 
@@ -554,7 +669,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s29983003.jpg)
 
 
-## 45. [小熊和最好的爸爸（全7册）](https://book.douban.com/subject/2274208/) ![](https://img.shields.io/badge/8.2分-826评价-blue)
+## 54. [小熊和最好的爸爸（全7册）](https://book.douban.com/subject/2274208/) ![](https://img.shields.io/badge/8.2分-826评价-blue)
 
 > ISBN: 9787221078803
 
@@ -568,7 +683,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s2916187.jpg)
 
 
-## 46. [奇妙发声书：冬天里谁在玩耍](https://book.douban.com/subject/34871745/) ![](https://img.shields.io/badge/8.2分-17评价-blue)
+## 55. [奇妙发声书：冬天里谁在玩耍](https://book.douban.com/subject/34871745/) ![](https://img.shields.io/badge/8.2分-17评价-blue)
 
 > ISBN: 9787544861816
 
@@ -579,7 +694,29 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34360536.jpg)
 
 
-## 47. [绘本大师汉斯·比尔作品系列 海豚绘本花园](https://book.douban.com/subject/2305255/) ![](https://img.shields.io/badge/8.1分-152评价-blue)
+## 56. [第一天上学，我好紧张](https://book.douban.com/subject/35634850/) ![](https://img.shields.io/badge/8.1分-511评价-blue)
+
+> ISBN: 9787556261192
+
+::: note 简介：
+风靡全球的百万级畅销书《你今天真好看》作者莉兹·克里莫与纽约时报获奖作家乔里·约翰再度合作，讲述了7只小动物天上学从紧张兮兮到轻松融入新环境的萌趣、暖心小故事，让人开怀大笑的惊喜反转结尾，让孩子和家长的入园、入学焦虑，一扫而光！
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s34048175.jpg)
+
+
+## 57. [你很快就会长高](https://book.douban.com/subject/3813663/) ![](https://img.shields.io/badge/8.1分-344评价-blue)
+
+> ISBN: 9787535345363
+
+::: note 简介：
+阿力一点都不喜欢自己的小个子，他很不快乐。“你很快就会长高，阿力。”每个人都这么说，可是，阿力等不及了——他现在就想长高！
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s3948605.jpg)
+
+
+## 58. [绘本大师汉斯·比尔作品系列 海豚绘本花园](https://book.douban.com/subject/2305255/) ![](https://img.shields.io/badge/8.1分-152评价-blue)
 
 > ISBN: 9787539421391
 
@@ -590,7 +727,40 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s2800988.jpg)
 
 
-## 48. [要是你给小猫吃纸杯蛋糕](https://book.douban.com/subject/35047983/) ![](https://img.shields.io/badge/8.1分-13评价-blue)
+## 59. [野地上的花园](https://book.douban.com/subject/25751327/) ![](https://img.shields.io/badge/8.1分-47评价-blue)
+
+> ISBN: 9787533276393
+
+::: note 简介：
+呼──种子跟着风，飞向田野的另一头
+淅沥沥、哗啦啦，种子被雨水冲刷到远方
+还有那些被鸟吃掉、被松鼠藏起来
+黏在狐狸的尾巴、在毛衣上搭便车的种子
+种子到处旅行，来到野地花园
+寻找一个可以好好长大的新家
+大自然里花草随风摇曳，仿佛是野地上的一座花园，不过这里没有园丁来栽种，因为种子会自己旅行，用各种方式散播到更远的地方：
+呼──呼──风把种子吹散了，吹得到处飞舞
+啄！啄！啄！金翅雀把蓟草的种子摇落到地上
+咕咚！咕咚！橡树果实掉下来了，被松鼠藏进地下
+啵！啵！金雀花的种子从荳荚里弹出来，弹到很远的地方
+本书以优美的文字搭配细腻的插图，生动地描述不同植物种子的奇妙旅行方式，让读者看见自然界中植物、动物和人类的合作。书末附有植物专家撰写的自然小档案，让父母带领孩子深入探索书中所提到的种子特征。
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s27979865.jpg)
+
+
+## 60. [亲爱的小孩 从这里发现世界](https://book.douban.com/subject/30745735/) ![](https://img.shields.io/badge/8.1分-15评价-blue)
+
+> ISBN: 9787559621283
+
+::: note 简介：
+暂无
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s33768086.jpg)
+
+
+## 61. [要是你给小猫吃纸杯蛋糕](https://book.douban.com/subject/35047983/) ![](https://img.shields.io/badge/8.1分-13评价-blue)
 
 > ISBN: 9787544849449
 
@@ -601,7 +771,42 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34742517.jpg)
 
 
-## 49. [落叶跳舞](https://book.douban.com/subject/2343029/) ![](https://img.shields.io/badge/7.9分-480评价-blue)
+## 62. [十个脚趾去旅行](https://book.douban.com/subject/35355794/) ![](https://img.shields.io/badge/8分-46评价-blue)
+
+> ISBN: 9787559834447
+
+::: note 简介：
+《十个脚趾去旅行》是广西师大出版社魔法象图画书王国推出的作品之一。
+这是一本以十个脚趾为基础图形的形状游戏创意书。“晚安！”我对忙了一天的脚说。可是，十个好奇的脚趾还不想睡，于是，静静地躺着被窝里开始了一场奇妙的变身之旅：变成十级台阶，让人跑上跑下；变成遥远太平洋上的十个岛屿；变成十只企鹅；变成十颗树；还可以变成十种美味的点心、神奇的字母……
+无拘的想象，诗意的表达，让睡前时光充满神奇色彩；十个脚趾变身不同的角色，原本熟悉的事物有了新的含义，从而讲述一个好玩又让人深思的故事，给人引人入胜的期待和惊喜，余味悠远。
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s34236674.jpg)
+
+
+## 63. [大宇宙](https://book.douban.com/subject/35016425/) ![](https://img.shields.io/badge/8分-45评价-blue)
+
+> ISBN: 9787559638595
+
+::: note 简介：
+这是给孩子的宇宙奥秘启蒙百科绘本，更是给孩子的天文地理入门指南。一部迷你《时间简史》，一次奇幻的宇宙时空之旅。精心梳理有关宇宙的知识，包括银河系、太阳系、地球上的自然现象、气候环境等相关的百科知识点，内容详略得当，语言流畅考究，让孩子直观了解和感受宏大宇宙空间。
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s33652828.jpg)
+
+
+## 64. [和爸妈游世界](https://book.douban.com/subject/31262258/) ![](https://img.shields.io/badge/8分-36评价-blue)
+
+> ISBN: 9787542250407
+
+::: note 简介：
+本书是专为3-6岁孩子设计的儿童国家地理百科，依照孩子的认知体系进行策划，包括美国、英国、法国、德国、意大利等34个国家，分别从文化、建筑、国家特点、特色美食等多个角度展开探索，还附有五大专题页，将孩子们好奇的世界勾勒纸上。让孩子主动发现身边世界以及生命的美好，激发他们对生命、不同的文化以及世界的热爱。
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s33634430.jpg)
+
+
+## 65. [落叶跳舞](https://book.douban.com/subject/2343029/) ![](https://img.shields.io/badge/7.9分-480评价-blue)
 
 > ISBN: 9787539138824
 
@@ -612,7 +817,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s2983475.jpg)
 
 
-## 50. [小猪佩奇主题绘本](https://book.douban.com/subject/26986750/) ![](https://img.shields.io/badge/7.8分-77评价-blue)
+## 66. [小猪佩奇主题绘本](https://book.douban.com/subject/26986750/) ![](https://img.shields.io/badge/7.8分-77评价-blue)
 
 > ISBN: 9787539794693
 
@@ -628,7 +833,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s29375803.jpg)
 
 
-## 51. [要是你给小猪开派对](https://book.douban.com/subject/35047903/) ![](https://img.shields.io/badge/7.7分-12评价-blue)
+## 67. [要是你给小猪开派对](https://book.douban.com/subject/35047903/) ![](https://img.shields.io/badge/7.7分-12评价-blue)
 
 > ISBN: 9787544849432
 
@@ -639,7 +844,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34742519.jpg)
 
 
-## 52. [原声触摸发声书：听，什么声音（套装全6册）](https://book.douban.com/subject/34931101/) ![](https://img.shields.io/badge/7.6分-22评价-blue)
+## 68. [原声触摸发声书：听，什么声音（套装全6册）](https://book.douban.com/subject/34931101/) ![](https://img.shields.io/badge/7.6分-22评价-blue)
 
 > ISBN: 9787513153355
 
@@ -650,7 +855,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s33547866.jpg)
 
 
-## 53. [小熊不刷牙](https://book.douban.com/subject/2274453/) ![](https://img.shields.io/badge/7.5分-258评价-blue)
+## 69. [小熊不刷牙](https://book.douban.com/subject/2274453/) ![](https://img.shields.io/badge/7.5分-258评价-blue)
 
 > ISBN: 9787539421407
 
@@ -661,7 +866,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s2765410.jpg)
 
 
-## 54. [鸭子开车记](https://book.douban.com/subject/27125527/) ![](https://img.shields.io/badge/7.5分-148评价-blue)
+## 70. [鸭子开车记](https://book.douban.com/subject/27125527/) ![](https://img.shields.io/badge/7.5分-148评价-blue)
 
 > ISBN: 9787513313476
 
@@ -672,7 +877,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s29528229.jpg)
 
 
-## 55. [更大更大的锅](https://book.douban.com/subject/34983875/) ![](https://img.shields.io/badge/7.4分-14评价-blue)
+## 71. [更大更大的锅](https://book.douban.com/subject/34983875/) ![](https://img.shields.io/badge/7.4分-14评价-blue)
 
 > ISBN: 9787554555064
 
@@ -684,7 +889,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s33624660.jpg)
 
 
-## 56. [不要惹鸭子生气](https://book.douban.com/subject/35541332/) ![](https://img.shields.io/badge/7.3分-11评价-blue)
+## 72. [不要惹鸭子生气](https://book.douban.com/subject/35541332/) ![](https://img.shields.io/badge/7.3分-11评价-blue)
 
 > ISBN: 9787559544001
 
@@ -699,7 +904,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s33983416.jpg)
 
 
-## 57. [洞](https://book.douban.com/subject/34915432/) ![](https://img.shields.io/badge/7.2分-14评价-blue)
+## 73. [洞](https://book.douban.com/subject/34915432/) ![](https://img.shields.io/badge/7.2分-14评价-blue)
 
 > ISBN: 9787556843336
 
@@ -710,7 +915,18 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s33620273.jpg)
 
 
-## 58. [四维认知有声书:翻翻变变认知书·交通工具变一变](https://book.douban.com/subject/34919212/) 
+## 74. [受批评也没关系](https://book.douban.com/subject/30374077/) ![](https://img.shields.io/badge/6.3分-53评价-blue)
+
+> ISBN: 9787551541701
+
+::: note 简介：
+宋尹燮编著的《受批评也没关系》讲述了，因为睡懒觉受批评？因为说谎话受批评？因为跟小伙伴打架受批评？因为上课不认真听讲受批评？……请鼓励因为这些而受批评的孩子们，帮他们把坏习惯一一来改正。“受批评也没关系！”爸爸妈妈和老师批评你，是向你发出纠正错误的爱心信号。等你把缺点挨个来改掉，一定会成为更受欢迎的好宝宝。
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s29918101.jpg)
+
+
+## 75. [四维认知有声书:翻翻变变认知书·交通工具变一变](https://book.douban.com/subject/34919212/) 
 
 > ISBN: 9787556245888
 
@@ -721,7 +937,7 @@ order: 99
 ![=300x](http://static.tanshuapi.com/isbn/202313/16801374080b55c9.jpg)
 
 
-## 59. [一步一步学画画](http://api.tanshuapi.com/api/isbn/v1/index?key=c32d2275b3d5acc706165637ddb33235&isbn=9787555707899) 
+## 76. [一步一步学画画](http://api.tanshuapi.com/api/isbn/v1/index?key=c32d2275b3d5acc706165637ddb33235&isbn=9787555707899) 
 
 > ISBN: 9787555707899
 
@@ -732,7 +948,7 @@ order: 99
 ![=300x](http://static.tanshuapi.com/isbn/202228/16576918499b1276.jpg)
 
 
-## 60. [要是你给老鼠吃饼干](https://book.douban.com/subject/35066527/) 
+## 77. [要是你给老鼠吃饼干](https://book.douban.com/subject/35066527/) 
 
 > ISBN: 9787544849388
 
@@ -743,7 +959,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34725566.jpg)
 
 
-## 61. [宝宝学说话](http://api.tanshuapi.com/api/isbn/v1/index?key=c32d2275b3d5acc706165637ddb33235&isbn=9787555709947) 
+## 78. [宝宝学说话](http://api.tanshuapi.com/api/isbn/v1/index?key=c32d2275b3d5acc706165637ddb33235&isbn=9787555709947) 
 
 > ISBN: 9787555709947
 
@@ -754,7 +970,7 @@ order: 99
 ![=300x](http://static.tanshuapi.com/isbn/202412/1710865744055ba0.jpg)
 
 
-## 62. [恐龙大百科](https://book.douban.com/subject/36621154/) 
+## 79. [恐龙大百科](https://book.douban.com/subject/36621154/) 
 
 > ISBN: 9787557877026
 
@@ -765,7 +981,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34679843.jpg)
 
 
-## 63. [儿童专注力全脑思维游戏训练卡找不同](https://book.douban.com/subject/36577092/) 
+## 80. [儿童专注力全脑思维游戏训练卡找不同](https://book.douban.com/subject/36577092/) 
 
 > ISBN: 9787574006324
 
@@ -776,7 +992,7 @@ order: 99
 
 
 
-## 64. [宝贝赳赳认知绘本启蒙篇](https://book.douban.com/subject/36422311/) 
+## 81. [宝贝赳赳认知绘本启蒙篇](https://book.douban.com/subject/36422311/) 
 
 > ISBN: 9787533565886
 
@@ -787,7 +1003,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34544986.jpg)
 
 
-## 65. [要是你带老鼠去上学](https://book.douban.com/subject/35037086/) 
+## 82. [要是你带老鼠去上学](https://book.douban.com/subject/35037086/) 
 
 > ISBN: 9787544849425
 
@@ -798,7 +1014,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34742521.jpg)
 
 
-## 66. [经典科普图鉴系列：猫](https://book.douban.com/subject/36183933/) 
+## 83. [经典科普图鉴系列：猫](https://book.douban.com/subject/36183933/) 
 
 > ISBN: 9787557853181
 
@@ -809,7 +1025,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34372495.jpg)
 
 
-## 67. [植物百科全书（少儿注音版·江美）](https://book.douban.com/subject/31293488/) 
+## 84. [植物百科全书（少儿注音版·江美）](https://book.douban.com/subject/31293488/) 
 
 > ISBN: 9787548052937
 
@@ -820,7 +1036,7 @@ order: 99
 ![=300x](http://static.tanshuapi.com/isbn/202330/1690361227b0b589.jpg)
 
 
-## 68. [四维认知有声书:翻翻变变认知书·神奇水果变一变](https://book.douban.com/subject/34920516/) 
+## 85. [四维认知有声书:翻翻变变认知书·神奇水果变一变](https://book.douban.com/subject/34920516/) 
 
 > ISBN: 9787556245895
 
@@ -833,7 +1049,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34491334.jpg)
 
 
-## 69. [昆虫百科全书（少儿注音版）](https://book.douban.com/subject/31248351/) 
+## 86. [昆虫百科全书（少儿注音版）](https://book.douban.com/subject/31248351/) 
 
 > ISBN: 9787548052906
 
@@ -844,7 +1060,7 @@ order: 99
 ![=300x](http://static.tanshuapi.com/isbn/202330/1690361274a242e8.jpg)
 
 
-## 70. [宝宝启蒙认知大百科](https://book.douban.com/subject/36422271/) 
+## 87. [宝宝启蒙认知大百科](https://book.douban.com/subject/36422271/) 
 
 > ISBN: 9787557579005
 
@@ -855,7 +1071,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34544971.jpg)
 
 
-## 71. [经典科普图鉴系列：狗](https://book.douban.com/subject/36183931/) 
+## 88. [经典科普图鉴系列：狗](https://book.douban.com/subject/36183931/) 
 
 > ISBN: 9787557852474
 
@@ -866,7 +1082,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34373456.jpg)
 
 
-## 72. [你好，点点](https://book.douban.com/subject/36202273/) 
+## 89. [你好，点点](https://book.douban.com/subject/36202273/) 
 
 > ISBN: 9787565111549
 
@@ -877,7 +1093,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34390727.jpg)
 
 
-## 73. [宝贝赳赳认知绘本食物篇](https://book.douban.com/subject/36422312/) 
+## 90. [宝贝赳赳认知绘本食物篇](https://book.douban.com/subject/36422312/) 
 
 > ISBN: 9787533567316
 
@@ -888,7 +1104,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34544987.jpg)
 
 
-## 74. [动物大百科](https://book.douban.com/subject/36808890/) 
+## 91. [动物大百科](https://book.douban.com/subject/36808890/) 
 
 > ISBN: 9787557880361
 
@@ -899,7 +1115,7 @@ order: 99
 ![=300x](http://static.tanshuapi.com/isbn/202229/1658397726e640af.jpg)
 
 
-## 75. [再见，妈妈的奶](https://book.douban.com/subject/35272777/) 
+## 92. [再见，妈妈的奶](https://book.douban.com/subject/35272777/) 
 
 > ISBN: 9787571411626
 
@@ -918,7 +1134,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s33771273.jpg)
 
 
-## 76. [深圳市小学英语“第1课堂”](http://api.tanshuapi.com/api/isbn/v1/index?key=c32d2275b3d5acc706165637ddb33235&isbn=9787545412451) 
+## 93. [深圳市小学英语“第1课堂”](http://api.tanshuapi.com/api/isbn/v1/index?key=c32d2275b3d5acc706165637ddb33235&isbn=9787545412451) 
 
 > ISBN: 9787545412451
 
@@ -929,7 +1145,7 @@ order: 99
 
 
 
-## 77. [宝宝学说话绘本幼儿园3-6周岁好好说话语言启蒙表达培养（套装共10册）](https://book.douban.com/subject/31130200/) 
+## 94. [宝宝学说话绘本幼儿园3-6周岁好好说话语言启蒙表达培养（套装共10册）](https://book.douban.com/subject/31130200/) 
 
 > ISBN: 9787511037268
 
@@ -940,7 +1156,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s33717103.jpg)
 
 
-## 78. [动物全知道](https://pdc.capub.cn/search.html#/detail?id=fooyhe6xk7obffjw56ytrwwlrujoklm5ctwqzmtrcvnmbd37lbltq4oehvfd4cv3wdfj347eq2tbi&from=1&type=cipad=0&ids=&searchType=book&sortName=&sortType=&checkedTypeList=%5B%5D&checkedClass=%5B%5D&filterbox=%5B%5D&priceStart=&priceEnd=&createdateStart=&createdateEnd=&xglb=%5B%5D&xglbWord=%5B%5D&xglbAwardDate=%5B%5D) 
+## 95. [动物全知道](https://pdc.capub.cn/search.html#/detail?id=fooyhe6xk7obffjw56ytrwwlrujoklm5ctwqzmtrcvnmbd37lbltq4oehvfd4cv3wdfj347eq2tbi&from=1&type=cipad=0&ids=&searchType=book&sortName=&sortType=&checkedTypeList=%5B%5D&checkedClass=%5B%5D&filterbox=%5B%5D&priceStart=&priceEnd=&createdateStart=&createdateEnd=&xglb=%5B%5D&xglbWord=%5B%5D&xglbAwardDate=%5B%5D) 
 
 > ISBN: 9787572805257
 
@@ -951,7 +1167,7 @@ order: 99
 ![=300x](https://pdcapi.capub.cn/image/mm6w22lyez2d2mrqez4t2mjqeztdcpjpn5yhil3enfzwwmrppfuxi5lcnfqw43lvf5rggmzpnfwwcz3fgiydemrrgaxxg6lomv3we33pnmxtamjqgeydambqheztomrrgaztglzqgeydcmbqgaydsmzxgiytamztl5kfalzqgeydcmbqgaydsmzxgiytamztl5bdamjooruwmjtggi6s633qoqxwi2ltnmzc64demmzdamboobxgojtnhu2ta/a.png?size=800x800&t=20240320115157?size=800x800&t=20240320115158)
 
 
-## 79. [儿童专注力全脑思维游戏训练卡](https://pdc.capub.cn/search.html#/detail?id=kovuwa5lgeefphuwmwi6dzr4hxy2gsy72mzkxfnvpblz5srygu7q&from=1&type=marc) 
+## 96. [儿童专注力全脑思维游戏训练卡](https://pdc.capub.cn/search.html#/detail?id=kovuwa5lgeefphuwmwi6dzr4hxy2gsy72mzkxfnvpblz5srygu7q&from=1&type=marc) 
 
 > ISBN: 9787574006874
 
@@ -962,7 +1178,7 @@ order: 99
 
 
 
-## 80. [德国专注力养成大画册：糖果屋](https://book.douban.com/subject/33415727/) 
+## 97. [德国专注力养成大画册：糖果屋](https://book.douban.com/subject/33415727/) 
 
 > ISBN: 9787539787022
 
@@ -973,7 +1189,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s32295556.jpg)
 
 
-## 81. [德国专注力养成大画册：找形状](https://book.douban.com/subject/34794243/) 
+## 98. [德国专注力养成大画册：找形状](https://book.douban.com/subject/34794243/) 
 
 > ISBN: 9787539786971
 
@@ -984,7 +1200,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s33457540.jpg)
 
 
-## 82. [德国专注力养成大画册：找颜色](https://book.douban.com/subject/31733239/) 
+## 99. [德国专注力养成大画册：找颜色](https://book.douban.com/subject/31733239/) 
 
 > ISBN: 9787539786988
 
@@ -995,7 +1211,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34376870.jpg)
 
 
-## 83. [神奇的动物立体书](https://book.douban.com/subject/35616901/) 
+## 100. [神奇的动物立体书](https://book.douban.com/subject/35616901/) 
 
 > ISBN: 9787555715252
 
@@ -1006,7 +1222,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34009839.jpg)
 
 
-## 84. [巴巴妈妈盖洗衣房·巴巴爸爸收麦子](https://book.douban.com/subject/25915558/) 
+## 101. [巴巴妈妈盖洗衣房·巴巴爸爸收麦子](https://book.douban.com/subject/25915558/) 
 
 > ISBN: 9787544830980
 
@@ -1017,7 +1233,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s33700322.jpg)
 
 
-## 85. [德国专注力养成大画册：白雪公主](https://book.douban.com/subject/32392539/) 
+## 102. [德国专注力养成大画册：白雪公主](https://book.douban.com/subject/32392539/) 
 
 > ISBN: 9787539787015
 
@@ -1028,7 +1244,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34376871.jpg)
 
 
-## 86. [德国专注力养成大画册：找数字](https://book.douban.com/subject/34789772/) 
+## 103. [德国专注力养成大画册：找数字](https://book.douban.com/subject/34789772/) 
 
 > ISBN: 9787539786995
 
@@ -1039,7 +1255,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s33453936.jpg)
 
 
-## 87. [巴巴贝尔的花裙子·巴巴祖建花房](https://book.douban.com/subject/26979860/) 
+## 104. [巴巴贝尔的花裙子·巴巴祖建花房](https://book.douban.com/subject/26979860/) 
 
 > ISBN: 9787544830997
 
@@ -1050,7 +1266,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s33700321.jpg)
 
 
-## 88. [交通工具立体机关书](https://book.douban.com/subject/34440632/) 
+## 105. [交通工具立体机关书](https://book.douban.com/subject/34440632/) 
 
 > ISBN: 9787558043352
 
@@ -1061,7 +1277,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s33304000.jpg)
 
 
-## 89. [我敢大声说出来:拒绝玻璃心绘本](https://book.douban.com/subject/36746506/) 
+## 106. [我敢大声说出来:拒绝玻璃心绘本](https://book.douban.com/subject/36746506/) 
 
 > ISBN: 9787521761283
 
@@ -1074,7 +1290,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34767826.jpg)
 
 
-## 90. [小小科学家翻翻书：揭秘海洋](https://book.douban.com/subject/36335134/) 
+## 107. [小小科学家翻翻书：揭秘海洋](https://book.douban.com/subject/36335134/) 
 
 > ISBN: 9787533567750
 
@@ -1085,7 +1301,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34481696.jpg)
 
 
-## 91. [小眼睛看大世界翻翻书(低幼版):交通工具](http://api.tanshuapi.com/api/isbn/v1/index?key=c32d2275b3d5acc706165637ddb33235&isbn=9787555297642) 
+## 108. [小眼睛看大世界翻翻书(低幼版):交通工具](http://api.tanshuapi.com/api/isbn/v1/index?key=c32d2275b3d5acc706165637ddb33235&isbn=9787555297642) 
 
 > ISBN: 9787555297642
 
@@ -1096,7 +1312,7 @@ order: 99
 ![=300x](http://static.tanshuapi.com/isbn/202425/171895237026a74d.jpg)
 
 
-## 92. [乐乐的黑眼圈](http://api.tanshuapi.com/api/isbn/v1/index?key=c32d2275b3d5acc706165637ddb33235&isbn=9787549253876) 
+## 109. [乐乐的黑眼圈](http://api.tanshuapi.com/api/isbn/v1/index?key=c32d2275b3d5acc706165637ddb33235&isbn=9787549253876) 
 
 > ISBN: 9787549253876
 
@@ -1107,7 +1323,7 @@ order: 99
 
 
 
-## 93. [屁股了不起](https://book.douban.com/subject/35726548/) 
+## 110. [屁股了不起](https://book.douban.com/subject/35726548/) 
 
 > ISBN: 9787544871150
 
@@ -1118,7 +1334,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34087134.jpg)
 
 
-## 94. [自己试试看](https://book.douban.com/subject/3244775/) 
+## 111. [自己试试看](https://book.douban.com/subject/3244775/) 
 
 > ISBN: 9787537158480
 
@@ -1129,7 +1345,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s5944261.jpg)
 
 
-## 95. [叫一声吧](https://book.douban.com/subject/35726546/) 
+## 112. [叫一声吧](https://book.douban.com/subject/35726546/) 
 
 > ISBN: 9787544871204
 
@@ -1140,7 +1356,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34087132.jpg)
 
 
-## 96. [南瓜比赛](https://book.douban.com/subject/24325686/) 
+## 113. [南瓜比赛](https://book.douban.com/subject/24325686/) 
 
 > ISBN: 9787551527125
 
@@ -1151,7 +1367,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s27325334.jpg)
 
 
-## 97. [勤劳的新邻居](https://book.douban.com/subject/5941063/) 
+## 114. [勤劳的新邻居](https://book.douban.com/subject/5941063/) 
 
 > ISBN: 9787537193092
 
@@ -1162,7 +1378,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s21480870.jpg)
 
 
-## 98. [舞台怕不怕](https://book.douban.com/subject/3244780/) 
+## 115. [舞台怕不怕](https://book.douban.com/subject/3244780/) 
 
 > ISBN: 9787537158626
 
@@ -1173,7 +1389,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s5944263.jpg)
 
 
-## 99. [上弦的巴士](https://book.douban.com/subject/36346593/) 
+## 116. [上弦的巴士](https://book.douban.com/subject/36346593/) 
 
 > ISBN: 9787571428891
 
@@ -1184,7 +1400,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34495337.jpg)
 
 
-## 100. [做有格局的自己（套装共8册）：3-6岁儿童大格局情商系列绘本，胸怀、远见、胆识、志向、乐观、毅力、爱心](https://book.douban.com/subject/33403086/) 
+## 117. [做有格局的自己（套装共8册）：3-6岁儿童大格局情商系列绘本，胸怀、远见、胆识、志向、乐观、毅力、爱心](https://book.douban.com/subject/33403086/) 
 
 > ISBN: 9787545546910
 
@@ -1195,7 +1411,7 @@ order: 99
 ![=300x](https://www.kfzimg.com/sw/kfz-cos/kfzimg/6586863/bcdf0e368be70ae2_s.jpg)
 
 
-## 101. [学校的烦恼](https://book.douban.com/subject/24325675/) 
+## 118. [学校的烦恼](https://book.douban.com/subject/24325675/) 
 
 > ISBN: 9787551526999
 
@@ -1206,7 +1422,7 @@ order: 99
 ![=300x](https://image-2.openbookscan.com.cn:1235/bookcover/20130427/3101711.jpg)
 
 
-## 102. [池塘里的声音](https://book.douban.com/subject/35726542/) 
+## 119. [池塘里的声音](https://book.douban.com/subject/35726542/) 
 
 > ISBN: 9787544871198
 
@@ -1217,7 +1433,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34087128.jpg)
 
 
-## 103. [(引进版精装纸板绘本)东方娃娃世界精选绘本我的朋友小狗](http://api.tanshuapi.com/api/isbn/v1/index?key=c32d2275b3d5acc706165637ddb33235&isbn=9787558420559) 
+## 120. [(引进版精装纸板绘本)东方娃娃世界精选绘本我的朋友小狗](http://api.tanshuapi.com/api/isbn/v1/index?key=c32d2275b3d5acc706165637ddb33235&isbn=9787558420559) 
 
 > ISBN: 9787558420559
 
@@ -1228,7 +1444,7 @@ order: 99
 ![=300x](https://img.xiaohuasheng.cn/1597635/Book/20211106144049.jpg)
 
 
-## 104. [爱护环境](https://book.douban.com/subject/24325694/) 
+## 121. [爱护环境](https://book.douban.com/subject/24325694/) 
 
 > ISBN: 9787551526715
 
@@ -1239,7 +1455,7 @@ order: 99
 ![=300x](https://image12.bookschina.com/2013/20131218/s5912517.jpg)
 
 
-## 105. [美国国家地理幼儿百科全书 出发啦,交通工具](http://api.tanshuapi.com/api/isbn/v1/index?key=c32d2275b3d5acc706165637ddb33235&isbn=9787304112752) 
+## 122. [美国国家地理幼儿百科全书 出发啦,交通工具](http://api.tanshuapi.com/api/isbn/v1/index?key=c32d2275b3d5acc706165637ddb33235&isbn=9787304112752) 
 
 > ISBN: 9787304112752
 
@@ -1250,7 +1466,7 @@ order: 99
 ![=300x](http://static.tanshuapi.com/isbn/202435/1724908027b88e83.jpg)
 
 
-## 106. [吸气吐气](https://book.douban.com/subject/36463521/) 
+## 123. [吸气吐气](https://book.douban.com/subject/36463521/) 
 
 > ISBN: 9787544871228
 
@@ -1261,7 +1477,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34719469.jpg)
 
 
-## 107. [宝贝晚安（全40册）](http://api.tanshuapi.com/api/isbn/v1/index?key=c32d2275b3d5acc706165637ddb33235&isbn=9787549288861) 
+## 124. [宝贝晚安（全40册）](http://api.tanshuapi.com/api/isbn/v1/index?key=c32d2275b3d5acc706165637ddb33235&isbn=9787549288861) 
 
 > ISBN: 9787549288861
 
@@ -1272,7 +1488,7 @@ order: 99
 ![=300x](http://static.tanshuapi.com/isbn/202435/172498810269b7f8.jpg)
 
 
-## 108. [我爸爸和我](https://book.douban.com/subject/30263626/) 
+## 125. [我爸爸和我](https://book.douban.com/subject/30263626/) 
 
 > ISBN: 9787565112164
 
@@ -1284,7 +1500,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s29808789.jpg)
 
 
-## 109. [揭秘翻翻书系列 揭秘海洋 3-6岁儿童启蒙认知趣味百科全书幼儿早教亲子互动科普动漫绘本精装玩具书](https://book.douban.com/subject/36748321/) 
+## 126. [揭秘翻翻书系列 揭秘海洋 3-6岁儿童启蒙认知趣味百科全书幼儿早教亲子互动科普动漫绘本精装玩具书](https://book.douban.com/subject/36748321/) 
 
 > ISBN: 9787570819874
 
@@ -1295,7 +1511,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34768954.jpg)
 
 
-## 110. [和自己说你好](https://book.douban.com/subject/35726543/) 
+## 127. [和自己说你好](https://book.douban.com/subject/35726543/) 
 
 > ISBN: 9787544871211
 
@@ -1306,7 +1522,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34087129.jpg)
 
 
-## 111. [嚼一嚼，咬一咬](https://book.douban.com/subject/35726545/) 
+## 128. [嚼一嚼，咬一咬](https://book.douban.com/subject/35726545/) 
 
 > ISBN: 9787544871181
 
@@ -1317,7 +1533,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34087131.jpg)
 
 
-## 112. [这是我的！](https://book.douban.com/subject/35430187/) 
+## 129. [这是我的！](https://book.douban.com/subject/35430187/) 
 
 > ISBN: 9787122353979
 
@@ -1330,7 +1546,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34061203.jpg)
 
 
-## 113. [再见，再见！](https://book.douban.com/subject/35430188/) 
+## 130. [再见，再见！](https://book.douban.com/subject/35430188/) 
 
 > ISBN: 9787122353955
 
@@ -1343,7 +1559,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34333030.jpg)
 
 
-## 114. [不怕不怕！](https://book.douban.com/subject/35430189/) 
+## 131. [不怕不怕！](https://book.douban.com/subject/35430189/) 
 
 > ISBN: 9787122353962
 
@@ -1356,7 +1572,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34334090.jpg)
 
 
-## 115. [动物亲子秀](http://api.tanshuapi.com/api/isbn/v1/index?key=c32d2275b3d5acc706165637ddb33235&isbn=9787507228311) 
+## 132. [动物亲子秀](http://api.tanshuapi.com/api/isbn/v1/index?key=c32d2275b3d5acc706165637ddb33235&isbn=9787507228311) 
 
 > ISBN: 9787507228311
 
@@ -1367,7 +1583,7 @@ order: 99
 
 
 
-## 116. [我的晚安童话/彩书坊](https://book.douban.com/subject/26768784/) 
+## 133. [我的晚安童话/彩书坊](https://book.douban.com/subject/26768784/) 
 
 > ISBN: 9787538576269
 
@@ -1378,7 +1594,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s28613470.jpg)
 
 
-## 117. [原装引进意大利经典左右脑训练工具书(全8册套装)左右脑启蒙图书绘本幼儿童撕不烂宝宝早教书婴儿益智书籍](http://api.tanshuapi.com/api/isbn/v1/index?key=c32d2275b3d5acc706165637ddb33235&isbn=9787549349432) 
+## 134. [原装引进意大利经典左右脑训练工具书(全8册套装)左右脑启蒙图书绘本幼儿童撕不烂宝宝早教书婴儿益智书籍](http://api.tanshuapi.com/api/isbn/v1/index?key=c32d2275b3d5acc706165637ddb33235&isbn=9787549349432) 
 
 > ISBN: 9787549349432
 
@@ -1397,7 +1613,7 @@ order: 99
 
 
 
-## 118. [我不想离开你 儿童绘本硬壳精装 幼儿园图画书 启蒙睡前故事](https://book.douban.com/subject/30726132/) 
+## 135. [我不想离开你 儿童绘本硬壳精装 幼儿园图画书 启蒙睡前故事](https://book.douban.com/subject/30726132/) 
 
 > ISBN: 9787536590564
 
@@ -1408,7 +1624,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34128438.jpg)
 
 
-## 119. [好习惯绘本](https://book.douban.com/subject/10534498/) 
+## 136. [好习惯绘本](https://book.douban.com/subject/10534498/) 
 
 > ISBN: 9787546382791
 
@@ -1419,7 +1635,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s24400905.jpg)
 
 
-## 120. [好习惯绘本](https://book.douban.com/subject/10533433/) 
+## 137. [好习惯绘本](https://book.douban.com/subject/10533433/) 
 
 > ISBN: 9787546382814
 
@@ -1430,7 +1646,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s24940417.jpg)
 
 
-## 121. [好习惯绘本](https://book.douban.com/subject/10533437/) 
+## 138. [好习惯绘本](https://book.douban.com/subject/10533437/) 
 
 > ISBN: 9787546382838
 
@@ -1441,7 +1657,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s24934257.jpg)
 
 
-## 122. [好习惯绘本](https://book.douban.com/subject/10531653/) 
+## 139. [好习惯绘本](https://book.douban.com/subject/10531653/) 
 
 > ISBN: 9787546382852
 
@@ -1452,7 +1668,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s24940419.jpg)
 
 
-## 123. [谢谢，谢谢](http://api.tanshuapi.com/api/isbn/v1/index?key=c32d2275b3d5acc706165637ddb33235&isbn=9787553466965) 
+## 140. [谢谢，谢谢](http://api.tanshuapi.com/api/isbn/v1/index?key=c32d2275b3d5acc706165637ddb33235&isbn=9787553466965) 
 
 > ISBN: 9787553466965
 
@@ -1463,7 +1679,7 @@ order: 99
 ![=300x](http://static.tanshuapi.com/isbn/202307/167656608113fa5e.jpg)
 
 
-## 124. [你好](http://api.tanshuapi.com/api/isbn/v1/index?key=c32d2275b3d5acc706165637ddb33235&isbn=9787553466972) 
+## 141. [你好](http://api.tanshuapi.com/api/isbn/v1/index?key=c32d2275b3d5acc706165637ddb33235&isbn=9787553466972) 
 
 > ISBN: 9787553466972
 
@@ -1474,7 +1690,7 @@ order: 99
 ![=300x](http://static.tanshuapi.com/isbn/202307/1676564738258fc2.jpg)
 
 
-## 125. [停电了（适合0-4岁孩子的安全教育绘本）](https://book.douban.com/subject/30676781/) 
+## 142. [停电了（适合0-4岁孩子的安全教育绘本）](https://book.douban.com/subject/30676781/) 
 
 > ISBN: 9787553493473
 
@@ -1485,7 +1701,7 @@ order: 99
 
 
 
-## 126. [情绪小绘本我会嫉妒](https://book.douban.com/subject/32567502/) 
+## 143. [情绪小绘本我会嫉妒](https://book.douban.com/subject/32567502/) 
 
 > ISBN: 9787558118456
 
@@ -1496,7 +1712,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s31459569.jpg)
 
 
-## 127. [我会害怕/情绪小绘本](https://book.douban.com/subject/30746093/) 
+## 144. [我会害怕/情绪小绘本](https://book.douban.com/subject/30746093/) 
 
 > ISBN: 9787558118463
 
@@ -1507,7 +1723,7 @@ order: 99
 
 
 
-## 128. [我会想念/情绪小绘本](https://book.douban.com/subject/30911494/) 
+## 145. [我会想念/情绪小绘本](https://book.douban.com/subject/30911494/) 
 
 > ISBN: 9787558118494
 
@@ -1518,7 +1734,7 @@ order: 99
 
 
 
-## 129. [](https://book.douban.com/subject/31894484/) 
+## 146. [](https://book.douban.com/subject/31894484/) 
 
 > ISBN: 9787558118517
 
@@ -1529,7 +1745,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s30789483.jpg)
 
 
-## 130. [便便回家（2-6岁幼儿的公德意识养成书）/公德小绘本](https://book.douban.com/subject/31107376/) 
+## 147. [便便回家（2-6岁幼儿的公德意识养成书）/公德小绘本](https://book.douban.com/subject/31107376/) 
 
 > ISBN: 9787558120756
 
@@ -1540,7 +1756,7 @@ order: 99
 
 
 
-## 131. [做个棒宝贝 儿童情绪管理与性格培养绘本 （套装全10册）](https://book.douban.com/subject/35797193/) 
+## 148. [做个棒宝贝 儿童情绪管理与性格培养绘本 （套装全10册）](https://book.douban.com/subject/35797193/) 
 
 > ISBN: 9787830005078
 
@@ -1551,7 +1767,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34146286.jpg)
 
 
-## 132. [揭秘恐龙](https://book.douban.com/subject/37470858/) 
+## 149. [揭秘恐龙](https://book.douban.com/subject/37470858/) 
 
 > ISBN: 9787533567972
 
@@ -1562,7 +1778,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s35222416.jpg)
 
 
-## 133. [好习惯绘本](https://book.douban.com/subject/10531655/) 
+## 150. [好习惯绘本](https://book.douban.com/subject/10531655/) 
 
 > ISBN: 9787546382807
 
@@ -1573,7 +1789,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s24943007.jpg)
 
 
-## 134. [好习惯绘本](https://book.douban.com/subject/10531654/) 
+## 151. [好习惯绘本](https://book.douban.com/subject/10531654/) 
 
 > ISBN: 9787546382845
 
@@ -1584,7 +1800,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s24940418.jpg)
 
 
-## 135. [去一个好地方（2-6岁幼儿的公德意识养成书）/公德小绘本](https://book.douban.com/subject/31029175/) 
+## 152. [去一个好地方（2-6岁幼儿的公德意识养成书）/公德小绘本](https://book.douban.com/subject/31029175/) 
 
 > ISBN: 9787558120800
 
@@ -1595,7 +1811,7 @@ order: 99
 
 
 
-## 136. [学会爱自己·不要随便跟陌生人走（精装）](https://book.douban.com/subject/30856045/) 
+## 153. [学会爱自己·不要随便跟陌生人走（精装）](https://book.douban.com/subject/30856045/) 
 
 > ISBN: 9787555252542
 
@@ -1606,7 +1822,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34145515.jpg)
 
 
-## 137. [神奇的“咒语”（2-6岁幼儿的公德意识养成书）/公德小绘本](https://book.douban.com/subject/30626173/) 
+## 154. [神奇的“咒语”（2-6岁幼儿的公德意识养成书）/公德小绘本](https://book.douban.com/subject/30626173/) 
 
 > ISBN: 9787558120770
 
@@ -1617,7 +1833,7 @@ order: 99
 
 
 
-## 138. [学会爱自己·不要随便亲我（精装）](https://book.douban.com/subject/30763526/) 
+## 155. [学会爱自己·不要随便亲我（精装）](https://book.douban.com/subject/30763526/) 
 
 > ISBN: 9787555252559
 
@@ -1628,7 +1844,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34145513.jpg)
 
 
-## 139. [不能吃（适合0-4岁孩子的安全教育绘本）](https://book.douban.com/subject/34778616/) 
+## 156. [不能吃（适合0-4岁孩子的安全教育绘本）](https://book.douban.com/subject/34778616/) 
 
 > ISBN: 9787553493480
 
@@ -1639,7 +1855,7 @@ order: 99
 
 
 
-## 140. [爱的教育暖心绘本精装硬壳全8册 有声彩绘版爱哭的小公主百变老师妈妈的吻我的爸爸是英雄等 宝宝睡前幼儿启蒙认知早教故事书亲子读物](https://book.douban.com/subject/36501617/) 
+## 157. [爱的教育暖心绘本精装硬壳全8册 有声彩绘版爱哭的小公主百变老师妈妈的吻我的爸爸是英雄等 宝宝睡前幼儿启蒙认知早教故事书亲子读物](https://book.douban.com/subject/36501617/) 
 
 > ISBN: 9787555713401
 
@@ -1650,7 +1866,7 @@ order: 99
 ![=300x](https://img1.doubanio.com/lpic/s34605651.jpg)
 
 
-## 141. [过马路（适合0-4岁孩子的安全教育绘本）](https://book.douban.com/subject/30617568/) 
+## 158. [过马路（适合0-4岁孩子的安全教育绘本）](https://book.douban.com/subject/30617568/) 
 
 > ISBN: 9787553493459
 
@@ -1661,7 +1877,7 @@ order: 99
 
 
 
-## 142. [不哭了](https://api.tanshuapi.com/api/isbn_base/v1/index) 
+## 159. [不哭了](https://api.tanshuapi.com/api/isbn_base/v1/index) 
 
 > ISBN: 9787553467047
 
@@ -1670,4 +1886,216 @@ order: 99
 :::
 
 
+
+
+## 160. [爱担心的小恐龙](https://book.douban.com/subject/35767633/) 
+
+> ISBN: 9787550731110
+
+::: note 简介：
+“我的情绪小恐龙”是一套英国引进的儿童情绪管理绘本，是凯特·格林威大奖提名作者、诺丁汉年度童书奖得主雷切尔·布莱特的全新力作，作者通过生动的故事、呆萌的小恐龙形象，帮助孩子缓解担忧、焦虑等负面情绪，告诉孩子如何与小伙伴相处，正确化解矛盾，从小培养社交情商。
+《爱担心的小恐龙》是“我的情绪小恐龙”系列中的分册，讲述了怕怕龙计划进行一次野餐，它精心准备着，但没过多久它就开始有点担心了……万一带的食物不够怎么办？万一在丛林里走丢了怎么办？万一下雨了怎么办？这些担忧情绪就像一只小蝴蝶不断搅动着怕怕龙的内心，它还能继续这次野餐之旅吗？本书通过拟人化的形象，把担忧情绪比喻成小蝴蝶，用孩子容易接受的语言告诉他们面对担忧不用恐惧，也不要躲藏，而是用开心的事情缓解焦虑，渐渐地情绪小蝴蝶就会离开，快乐就能重新回来。
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s34330340.jpg)
+
+
+## 161. [太害羞，怎么办？——如何建立社交自信](https://book.douban.com/subject/30762996/) 
+
+> ISBN: 9787122306746
+
+::: note 简介：
+"   马戏团小丑穿着色彩鲜艳的衣服、大大的鞋子、戴着假发和帽子，在舞台上表演魔术，逗得观众哈哈大笑，你有没有发现，他很喜欢观众的关注和嘲笑呢？很多孩子在别人的关注下会害羞、不舒服、不敢参加好玩的活动！
+本书以认知—行为疗法为基础，教给孩子一些方法和技巧，引导孩子学会处理社交焦虑，建立社交自信。书中以孩子喜欢的马戏团故事为主题，将每个问题分成小节，穿插着趣味的小测试，互动性和趣味性十足，非常适合教育和鼓励孩子克服社交焦虑——让孩子与人交往时自信满满！"
+"   荣获美国国家育儿出版物（NAPPA）金奖，美国前言提名奖等多个奖项。
+1、专业科学——这是美国知名儿童心理学家专门为小学生写的心理自助读物。
+2、方法实用——以心理学常见的认知行为疗法为基础，帮助孩子解决自卑、怕犯错、不敢尝试等问题。
+3、精彩有趣——全书以孩子喜欢的探险故事为例， 将孩子经常...
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s33457321.jpg)
+
+
+## 162. [月亮的味道](https://api.tanshuapi.com/api/isbn_base/v1/index) 
+
+> ISBN: 9787556826247
+
+::: note 简介：
+月亮，是什么味道呢？真想尝一小口啊！夜里，动物们望着月亮，总是这么想。可是呢，不管怎么伸长了脖子，伸长了手，伸长了腿，也够不着月亮。有一天，一只小海龟决心去摸一摸月亮。可他够不着。海龟叫来了大象，大象叫来了长颈鹿，然后长颈鹿叫来了斑马，斑马叫来了狮子，狮子叫来了狐狸，狐狸叫来了猴子，猴子叫来了老鼠。月亮每次都伸高一点儿，让他们够不着。不过，这次月亮看着老鼠心想：“这么个小不点儿，肯定捉不到我的。”这回它没有动。想不到，“咔嚓！” 老鼠咬下一片月亮。它给动物们都分了一口月亮，大家都觉得，这是它们吃过的最好吃的东西。慢慢地，圆圆的大月亮被吃成了小月亮……不过，这还不是最后的结局。
+:::
+
+
+
+
+## 163. [恐龙小q-我的企鹅爸爸-精装绘本](https://book.douban.com/subject/33443231/) 
+
+> ISBN: 9787545546965
+
+::: note 简介：
+暂无
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s34378918.jpg)
+
+
+## 164. [超人也会犯错误](https://book.douban.com/subject/35977846/) 
+
+> ISBN: 9787550734593
+
+::: note 简介：
+逆商教育，也叫挫折教育，是对儿童面对困难和挫折时的能力和正确态度、积极心态的培养。本系列以逆商教育为目的，以孩子们熟悉的拥有强大力量的超人为主角，通过他们遇到困难时可以采取的自暴自弃的方式，以及他们真正采取的积极面对，战胜困难的方式，形成幽默的对比，让儿童读者在笑声中意识到应该如何正确面对困境，以及积极面对后的收获。
+本册《超人也会犯错误》侧重来自自身的困境，即使强大如超人，他们也有自己的能力短板，会出现各种状况，会犯各种错误，他们本可以逃避或者推卸责任，但是他们没有，而是认真面对，想办法提高自己，承担责任，让自己变得了不起。
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s34298702.jpg)
+
+
+## 165. [小阿力的大学校](https://book.douban.com/subject/36155549/) 
+
+> ISBN: 9787572804892
+
+::: note 简介：
+小阿力要上学啰！小阿力好兴奋，可是又有点儿担心。万一在学校迷了路？万一交不到新朋友？他也害怕自己可能会忍不住哭泣，怎么办？真不想离开妈妈到陌生的环境去。这时候，一只小麻雀让小阿力改变了想法··…就像一只长大了必须离巢飞向广大世界的小鸟一样，小阿力还是去上学了，而且他发现，学校还是一个很有趣的地方哦。
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s34353734.jpg)
+
+
+## 166. [小奇去钓鱼](https://book.douban.com/subject/30780075/) 
+
+> ISBN: 9787547731734
+
+::: note 简介：
+暂无
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s34771489.jpg)
+
+
+## 167. [不公平，怎么办？：学会处理嫉妒情绪](https://book.douban.com/subject/30706683/) 
+
+> ISBN: 9787122299710
+
+::: note 简介：
+嫉妒是一个人拥有的正常情绪。当你希望拥有别人有的东西，比如大房子、更好的车的时候，也许就会感觉到嫉妒。孩子也会有嫉妒的心理。他们会过度关注别人有而他们没有的东西，甚至因为嫉妒还会有不恰当的行为，比如大发脾气、有攻击性，也有的开始退缩。然而，他们可能并不懂或者没有意识到他们感觉到了嫉妒。
+这本书将教给您的孩子学会辨别产生嫉妒的想法，也许并不会消除嫉妒，但是会减少嫉妒的影响。当想法改变了，情绪和行为也会相应改变。通过实践，孩子会学会如何更现实地思考问题，当这样去做之后，就不会被嫉妒的情绪困扰了。本书内容生动活泼，以孩子喜欢的海上寻宝故事贯穿始终，会让孩子有代入感，书中提出的很多问题也可以引发孩子思考和练习。
+1.《不公平，怎么办？》是由美国心理学会的心理学家专为7-12岁儿童打造的心灵成长读物。
+2.《不公平，怎么办？》贯穿海上寻宝的故事，让孩子扮演成船...
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s33485469.jpg)
+
+
+## 168. [美国心理学会儿童情绪管理读物--怕分离，怎么办？——让孩子学会独立](https://book.douban.com/subject/30490698/) 
+
+> ISBN: 9787122317254
+
+::: note 简介：
+"  孩子的成长，就好比独自远行，在父母的注视下，自信勇敢地驾驶着自己的热气球越飞越远。有的孩子独立性强，很快就能去探索外面丰富多彩的世界；有的孩子却害怕离开家和父母，不敢独自去面对成长。
+本书用孩子喜欢的热气球飞行比喻孩子的独立，用认知—行为疗法为基础，教给孩子一些实用有趣的方法和技巧，如提前练习分离情形，弱化焦虑想法和行为，用积极的自我暗示树立自信等，真正地帮助孩子克服分离焦虑的烦恼，让孩子更加自信和独立！"
+"
+1、专业科学——这是美国知名儿童心理学家专门为小学生写的心理自助读物，两位作者均为心理学博士，一位是发展心理学家，一位是临床心理学家，均有丰富的理论和实践经验。本书的各章内容依据的是治疗儿童分离焦虑的认知—行为心理疗程，建立在临床研究的实证基础之上。
+2、方法实用 —— 真正从孩子的角度出发，提供了一些具体可操作的方法，并为如何思考问题...
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s33457323.jpg)
+
+
+## 169. [乌龟就是比兔子跑得快](https://book.douban.com/subject/35939232/) 
+
+> ISBN: 9787559728609
+
+::: note 简介：
+这是一本可以激发孩子想象力、创造力的绘本。故事从“乌龟和兔子到底谁跑得快”这个古老又有趣的问题开始，为了解开疑惑，狮子大王让它们重新再赛一回。一路上，乌龟和兔子遇到了老鹰、飞毛腿、机器人，兔子始终卖力奔跑；乌龟使出浑身解数，巧借外力，帮自己到达终点。但是到底是谁跑得快呢？本书融合现代元素，情节曲折又出乎读者意料，激发孩子的想象力。这是一场关于乌龟与兔子的智慧较量，也是一个关于事实与谣言的奇迹验证。
+编辑推荐：
+本书是对《龟兔赛跑》这一家喻户晓中国寓言故事的全新重构，情节融入现代元素，更贴合当今儿童心理认知。新锐实力插画师冀策精心绘制中国风插画，构图细致，角色鲜活，形神兼备。故事通过环环相扣、富有节奏感的情节逐步推进，语言夸张有趣，想象大胆。能言善辩、巧借外力的乌龟终赢得比赛了吗？结局超出预料之外。龟兔赛跑，各显神通。这不仅是一场龟兔赛跑的智慧较量，还...
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s34248177.jpg)
+
+
+## 170. [怕犯错，怎么办？——在错误中学会成长](https://book.douban.com/subject/30765548/) 
+
+> ISBN: 9787122305589
+
+::: note 简介：
+"  探险家在探险时，可能会出各种状况，比如看不懂地图，也可能走错路，甚至要重新开始，只有坚持到底不放弃才能有所收获。如果探险家难以接受错误，轻易放弃，就可能一无所获。
+本书用孩子喜欢的探险故事为主题，以心理学的认知—行为疗法为基础，教给孩子一些方法和技巧，引导儿童学会处理害怕犯错的种种情绪。书里详细分析了害怕犯错背后的心理学原因，并将每个问题分成小节，穿插着趣味的小测试和我们常见的案例，互动性和趣味性十足，非常适合教育和鼓励孩子积极应对错误——让孩子不再害怕尝试！ "
+"
+1、专业科学——这是美国知名儿童心理学家专门为小学生写的心理自助读物。
+2、方法实用——以心理学常见的认知行为疗法为基础，帮助孩子解决自卑、怕犯错、不敢尝试等问题。
+3、精彩有趣——全书以孩子喜欢的探险故事为例， 将孩子经常遇到的问题融汇到故事里面，配有充满童趣的卡通画，牢牢抓住...
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s33457320.jpg)
+
+
+## 171. [谁有时间陪我玩-小熊毛毛的美好生活](https://book.douban.com/subject/1837942/) 
+
+> ISBN: 9787535830357
+
+::: note 简介：
+《小熊毛毛的美好生活:谁有时间陪我玩》是儿童心灵成长图画书系之一，由著名儿童文学作家、诗人金波推荐。在小熊毛毛的故事里，你会发现：有了好朋友，才会更快乐；要是你喜欢的人丢了，那可是最伤心的事情；有朋友真好，你遇到了困难，他就会来帮助你；即使你做了错事，爸爸妈妈依然爱你，这些故事让我们的心感到温暖。用温暖的心去拥抱别人，别人的心也会温暖起来。亲子共读，你会和孩子们一起陶醉在故事里；好像一起走进书中的那片大森林，走进小熊毛毛的家，那一幅幅美妙的画面，你又会有许多新的发现。
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s8979790.jpg)
+
+
+## 172. [爱闯祸的大猩猩](https://book.douban.com/subject/30748206/) 
+
+> ISBN: 9787502067977
+
+::: note 简介：
+暂无
+:::
+
+
+
+
+## 173. [儿童情绪管理与性格培养绘本--好朋友，不霸道：蛋糕和冰激凌的故事](https://book.douban.com/subject/30851613/) 
+
+> ISBN: 9787122329813
+
+::: note 简介：
+本绘本是一个关于蛋糕和他*好的朋友——冰激凌的故事。冰激凌试图通过专横和霸道的方式，让他的朋友们遵从自己的意愿，这样做的结果就是：当朋友陆续不再和冰激凌玩了，冰激凌的孤单感徒然而生,*终他意识到了一个重要的事实——他要改变自己专横、霸道的毛病。
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s33475030.jpg)
+
+
+## 174. [我要更专注](https://book.douban.com/subject/35443929/) 
+
+> ISBN: 9787122380586
+
+::: note 简介：
+小蜜蜂本特利喜欢在花园里飞来飞去，拜访他的朋友。有一天，他发现他的朋友都摆着不寻常的姿势。他能做什么呢？
+本特利的朋友小负鼠、小兔、小鸟和小狗等，教给了他一些瑜伽姿势，包括山式、幻椅式、飞机式、下犬式、树式、眼镜蛇式等等。当小蜜蜂本特利跟随着他的朋友们做瑜伽时，他很快意识到它是多么的有趣和有益。
+小读者也会喜欢跟随着小蜜蜂本特利，尝试做这些有意思的姿势。最后，还有“写给父母的话”，有给孩子练习瑜伽的建议，以及对绘本中提到的瑜伽姿势的指导。
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s34337559.jpg)
+
+
+## 175. [超人也有坏脾气](https://book.douban.com/subject/35977844/) 
+
+> ISBN: 9787550734586
+
+::: note 简介：
+逆商教育，也叫挫折教育，是对儿童面对困难和挫折时的能力和正确态度、积极心态的培养。
+本系列以逆商教育为目的，以孩子们熟悉的拥有强大力量的超人为主角，通过他们遇到困难时可以采取的自暴自弃的方式，以及他们真正采取的积极面对，战胜困难的方式，形成幽默的对比，让儿童读者在笑声中意识到应该如何正确面对困境，以及积极面对后的收获。
+本册《超人也有坏脾气》侧重外界对心境的影响，当不如意的事情让超人心情糟糕需要释放坏脾气时，他们本可以把世界变得一团糟，但是他们没有，反而承认自己的坏情绪，并且把它们变成自己维护正义的动力，把世界变得更美好，让更多的人变得开心，从而也帮助自己把坏脾气换成了好心情。
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s34298703.jpg)
+
+
+## 176. [第一次自己买东西（小月亮绘本）](https://book.douban.com/subject/32582964/) 
+
+> ISBN: 9787502061609
+
+::: note 简介：
+暂无
+:::
+
+![=300x](https://img1.doubanio.com/lpic/s31473473.jpg)
 
