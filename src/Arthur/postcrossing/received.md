@@ -1,5 +1,5 @@
 ---
-title: 明信片展示墙（收到：238）
+title: 明信片展示墙（收到：239）
 icon: address-card
 date: 2025-11-25
 category:
@@ -150,7 +150,7 @@ const option = {
 ### 2025(80)
 
 [DE-15911341](https://www.postcrossing.com/postcards/DE-15911341) 
->来自  
+>来自 [om2019](https://www.postcrossing.com/user/om2019) 🇩🇪
 > 📤 [Germany](https://www.bing.com/maps/?cp=52.52437~13.41053&lvl=12.0&setlang=zh-Hans) Invalid country city (当地)
 > 📥 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) Invalid country city (当地)
  📏 8,731 | ⏱ 47
