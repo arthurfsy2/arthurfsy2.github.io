@@ -139,6 +139,8 @@ export default hopeTheme(
       // 在启用之前安装 sandpack-vue3
       // sandpack: true,
       markmap: true,
+      DANGEROUS_ALLOW_SCRIPT_EXECUTION: true,
+      DANGEROUS_SCRIPT_EXECUTION_ALLOWLIST: "*",
     },
 
     // 在这里配置主题提供的插件

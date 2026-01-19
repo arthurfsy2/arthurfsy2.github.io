@@ -36,11 +36,11 @@ tag:
    汇总以下模块的内容
 
    - 图片墙：统计个人收发数据、对应 4 个展示墙的超链接
-     ![](https://raw.gitmirror.com/arthurfsy2/Postcrossing_map_generator/5ee036db3ed9ed63cfebdd16907ef6b4d3f6780a/img/summary01.png)
+     ![](https://raw.githubusercontent.com/arthurfsy2/Postcrossing_map_generator/5ee036db3ed9ed63cfebdd16907ef6b4d3f6780a/img/summary01.png)
 
    - 地图展示：集成`map.html、clusterMap.html`这 2 个地图的内容
 
-     ![](https://raw.gitmirror.com/arthurfsy2/Postcrossing_map_generator/5ee036db3ed9ed63cfebdd16907ef6b4d3f6780a/img/summary02.png)
+     ![](https://raw.githubusercontent.com/arthurfsy2/Postcrossing_map_generator/5ee036db3ed9ed63cfebdd16907ef6b4d3f6780a/img/summary02.png)
 
    - 统计
 
@@ -48,21 +48,21 @@ tag:
 
      > 图形是通过 echarts 插件显示，表格是通过 markdown 的表格实现。）
 
-     ![](https://raw.gitmirror.com/arthurfsy2/Postcrossing_map_generator/5ee036db3ed9ed63cfebdd16907ef6b4d3f6780a/img/summary03-1.png)
+     ![](https://raw.githubusercontent.com/arthurfsy2/Postcrossing_map_generator/5ee036db3ed9ed63cfebdd16907ef6b4d3f6780a/img/summary03-1.png)
 
-     ![](https://raw.gitmirror.com/arthurfsy2/Postcrossing_map_generator/5ee036db3ed9ed63cfebdd16907ef6b4d3f6780a/img/summary03-2.png)
+     ![](https://raw.githubusercontent.com/arthurfsy2/Postcrossing_map_generator/5ee036db3ed9ed63cfebdd16907ef6b4d3f6780a/img/summary03-2.png)
 
    - 明信片故事：读取人工填写的`./temnplate/postcardStory`生成明信片故事的**词云**，并为每个已填写“故事”的明信片展示图片、内容
 
-     ![](https://raw.gitmirror.com/arthurfsy2/Postcrossing_map_generator/5ee036db3ed9ed63cfebdd16907ef6b4d3f6780a/img/summary04-1.png)
+     ![](https://raw.githubusercontent.com/arthurfsy2/Postcrossing_map_generator/5ee036db3ed9ed63cfebdd16907ef6b4d3f6780a/img/summary04-1.png)
 
-     ![](https://raw.gitmirror.com/arthurfsy2/Postcrossing_map_generator/5ee036db3ed9ed63cfebdd16907ef6b4d3f6780a/img/summary04-2.png)
+     ![](https://raw.githubusercontent.com/arthurfsy2/Postcrossing_map_generator/5ee036db3ed9ed63cfebdd16907ef6b4d3f6780a/img/summary04-2.png)
 
    - 被注册时收到的回复
 
      ​ 当你寄出的邮件被登记后，可定时抓取你账号 postcrossing 账号关联邮箱的**回复邮件内容**（"Hurray! Your postcard CN-XXX to XXXX"的邮件）
 
-     ![](https://raw.gitmirror.com/arthurfsy2/Postcrossing_map_generator/5ee036db3ed9ed63cfebdd16907ef6b4d3f6780a/img/summary05.png)
+     ![](https://raw.githubusercontent.com/arthurfsy2/Postcrossing_map_generator/5ee036db3ed9ed63cfebdd16907ef6b4d3f6780a/img/summary05.png)
 
    - 增量更新
 

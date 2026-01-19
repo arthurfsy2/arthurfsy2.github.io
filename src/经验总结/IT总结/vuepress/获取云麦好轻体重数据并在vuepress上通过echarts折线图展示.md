@@ -29,11 +29,11 @@ vuepress-theme-hope 内置的 markdownEnhance 功能，已经支持 echarts 图�
 
 ```js
 const data = await fetch(
-  "https://raw.gitmirror.com/arthurfsy2/yunmai_weight_extract2json/main/weight_fsy.json"
+  "https://raw.githubusercontent.com/arthurfsy2/yunmai_weight_extract2json/main/weight_fsy.json"
 ).then((res) => res.json());
 
 const data2 = await fetch(
-  "https://raw.gitmirror.com/arthurfsy2/yunmai_weight_extract2json/main/weight_wyf.json"
+  "https://raw.githubusercontent.com/arthurfsy2/yunmai_weight_extract2json/main/weight_wyf.json"
 ).then((res) => res.json());
 
 var a = data.map(function (item) {
@@ -270,11 +270,11 @@ flowchart LR
 
 ```js
 const data = await fetch(
-  "https://raw.gitmirror.com/arthurfsy2/yunmai_weight_extract2json/main/weight_fsy.json"
+  "https://raw.githubusercontent.com/arthurfsy2/yunmai_weight_extract2json/main/weight_fsy.json"
 ).then((res) => res.json());
 
 const data2 = await fetch(
-  "https://raw.gitmirror.com/arthurfsy2/yunmai_weight_extract2json/main/weight_wyf.json"
+  "https://raw.githubusercontent.com/arthurfsy2/yunmai_weight_extract2json/main/weight_wyf.json"
 ).then((res) => res.json());
 
 var a = data.map(function (item) {

@@ -45,7 +45,7 @@ projects:
     desc: 下载工具
     link: http://ddns.4a1801.life:8085
 
-  - icon: https://raw.gitmirror.com/jxxghp/MoviePilot-Frontend/main/public/favicon.ico
+  - icon: https://raw.githubusercontent.com/jxxghp/MoviePilot-Frontend/main/public/favicon.ico
     name: moviePilot
     desc: PT站下载
     link: http://ddns.4a1801.life:13000

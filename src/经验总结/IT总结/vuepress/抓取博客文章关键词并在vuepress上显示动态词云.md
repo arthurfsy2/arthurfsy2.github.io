@@ -28,7 +28,7 @@ tag:
 
 :::
 
-![](https://raw.gitmirror.com/arthurfsy2/arthurfsy2.github.io/main/src/.vuepress/public/assets/img/wordcloud.svg)
+![](https://raw.githubusercontent.com/arthurfsy2/arthurfsy2.github.io/main/src/.vuepress/public/assets/img/wordcloud.svg)
 
 ## 方法思路
 总体来说，词云生成的思路如下流程图。
@@ -83,7 +83,7 @@ env:
 ![](https://raw.githubusercontent.com/arthurfsy2/arthurfsy2.github.io/main/src/.vuepress/public/assets/img/wordcloud.svg)
 
 #gitmirror免费CDN路径（githubusercontent换成gitmirror即可），举例：
-![](https://raw.gitmirror.com/arthurfsy2/arthurfsy2.github.io/main/src/.vuepress/public/assets/img/wordcloud.svg)
+![](https://raw.githubusercontent.com/arthurfsy2/arthurfsy2.github.io/main/src/.vuepress/public/assets/img/wordcloud.svg)
 
 ```
 

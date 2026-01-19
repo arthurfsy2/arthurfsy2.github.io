@@ -7,9 +7,8 @@ tag:
   - 家庭
 sticky: true
 
-order: 2
+order: 4
 ---
-
 # WIFI 二维码
 
 :::tabs
