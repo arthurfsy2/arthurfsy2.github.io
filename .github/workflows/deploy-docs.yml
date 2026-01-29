@@ -9,10 +9,6 @@ on:
       # make sure this is the branch you are using
       - main
 
-env:
-  GITHUB_NAME: arthurfsy2
-  GITHUB_EMAIL: fsyflh@gmail.com
-
 jobs:
   deploy-gh-pages:
     runs-on: ubuntu-latest
@@ -20,7 +16,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 3
           # if your docs needs submodules, uncomment the following line
           # submodules: true
 
@@ -42,8 +38,8 @@ jobs:
 
       - name: 提交更新图云
         run: |
-          git config --local user.email "${{ env.GITHUB_EMAIL }}"
-          git config --local user.name "${{ env.GITHUB_NAME }}"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add .
           git commit -m "已更新 src/.vuepress/public/assets/img/wordcloud.svg" || echo "nothing to commit"
           git push || echo "nothing to push"
