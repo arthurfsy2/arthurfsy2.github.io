@@ -1,0 +1,1 @@
+import{f as s,c as e,o as a,n as c}from"./app-7Q8OkSbF.js";const t=["spin"],l=s({__name:"MyIcon",props:{name:String,spin:Boolean},setup(o){const n=o;return(p,i)=>(a(),e("span",{class:c(["iconfont icon",`icon-${n.name}`]),spin:n.spin},null,10,t))}});export{l as _};
