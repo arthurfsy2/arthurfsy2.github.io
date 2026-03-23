@@ -6,6 +6,3 @@
   NODE_VERSION = "22"
   NPM_FLAGS = "--legacy-peer-deps"
   NODE_OPTIONS = "--max_old_space_size=2560"
-
-[[plugins]]
-  package = "@netlify/plugin-pnpm"
