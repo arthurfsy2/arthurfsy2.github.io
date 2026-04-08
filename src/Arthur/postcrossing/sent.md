@@ -1,7 +1,7 @@
 ---
-title: 明信片展示墙（寄出：213）
+title: 明信片展示墙（寄出：214）
 icon: address-card
-date: 2026-04-02
+date: 2026-04-07
 category:
   - Arthur
 tag:
@@ -147,7 +147,16 @@ const option = {
 
 :::
 
-### 2026(10)
+### 2026(11)
+
+[CN-4222985](https://www.postcrossing.com/postcards/CN-4222985) 
+>寄往 [Agneee](https://www.postcrossing.com/user/Agneee) 🇮🇹
+> 📤 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2026/01/29 13:57 (当地)
+> 📥 [Italy](https://www.bing.com/maps/?cp=45.54672~11.5475&lvl=12.0&setlang=zh-Hans) 2026/04/07 21:27 (当地)
+ 📏 9,165 | ⏱ 69
+
+
+![](https://cdn.jsdelivr.net/gh/arthurfsy2/Postcrossing_Blog_Tools@main/gallery/picture/y9eufyyd162mix2it7xtze0k9gz06ved.jpg)
 
 [CN-4222989](https://www.postcrossing.com/postcards/CN-4222989) 
 >寄往 [Bartek](https://www.postcrossing.com/user/Bartek) 🇵🇱
