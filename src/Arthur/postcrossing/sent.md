@@ -701,7 +701,7 @@ const option = {
 ![](https://cdn.jsdelivr.net/gh/arthurfsy2/Postcrossing_Blog_Tools@main/gallery/picture/9818nknsk932ev0gl0cku7umlwoky47e.jpg)
 
 [CN-3931256](https://www.postcrossing.com/postcards/CN-3931256) 
->寄往 [Trans_Niqabi](https://www.postcrossing.com/user/Trans_Niqabi) 🇺🇸
+>寄往 [Uma-Didi](https://www.postcrossing.com/user/Uma-Didi) 🇺🇸
 > 📤 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/01/09 13:27 (当地)
 > 📥 [U.S.A.](https://www.bing.com/maps/?cp=41.92704~-73.99736&lvl=12.0&setlang=zh-Hans) 2025/03/04 16:16 (当地)
  📏 12,794 | ⏱ 55
