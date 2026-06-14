@@ -1819,7 +1819,7 @@ const option = {
 ![](https://cdn.jsdelivr.net/gh/arthurfsy2/Postcrossing_Blog_Tools@main/gallery/picture/v3wxlv2ez5u3hwa67ba06osu5x6kq3ym.jpg)
 
 [US-9960301](https://www.postcrossing.com/postcards/US-9960301) 
->来自 [Nicole1313](https://www.postcrossing.com/user/Nicole1313) 🇺🇸
+>来自 ***该用户已关闭*** 🇺🇸
 > 📤 [U.S.A.](https://www.bing.com/maps/?cp=35.43532~-101.17294&lvl=12.0&setlang=zh-Hans) 2023/12/05 10:42 (当地)
 > 📥 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2024/01/26 23:12 (当地)
  📏 12,565 | ⏱ 52
