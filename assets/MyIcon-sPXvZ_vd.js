@@ -1,1 +1,0 @@
-import{G as e,S as t,V as n,k as r,v as i}from"./app-DHmjcGVF.js";var a=[`spin`],o=t({__name:`MyIcon`,props:{name:String,spin:Boolean},setup(e){let t=e;return(e,o)=>(r(),i(`span`,{class:n([`iconfont icon`,`icon-${t.name}`]),spin:t.spin},null,10,a))}}),s=e({default:()=>c}),c=o;export{s as n,c as t};
