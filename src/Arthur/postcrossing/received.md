@@ -1558,7 +1558,7 @@ const option = {
 ![](https://cdn.jsdelivr.net/gh/arthurfsy2/Postcrossing_Blog_Tools@main/gallery/picture/hq5v2fihlqr6b65f23y0pavuv5utr6co.jpg)
 
 [DE-14197980](https://www.postcrossing.com/postcards/DE-14197980) 
->来自 [Martin-Gittig](https://www.postcrossing.com/user/Martin-Gittig) 🇩🇪
+>来自 ***该用户已关闭*** 🇩🇪
 > 📤 [Germany](https://www.bing.com/maps/?cp=51.23367~12.71959&lvl=12.0&setlang=zh-Hans) 2024/05/11 06:35 (当地)
 > 📥 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2024/06/11 20:32 (当地)
  📏 8,830 | ⏱ 31
