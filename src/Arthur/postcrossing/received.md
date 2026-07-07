@@ -521,7 +521,7 @@ const option = {
 ![](https://cdn.jsdelivr.net/gh/arthurfsy2/Postcrossing_Blog_Tools@main/gallery/picture/jypj17whnopvuvholjd5wjbna9dehna7.jpg)
 
 [NL-6019290](https://www.postcrossing.com/postcards/NL-6019290) 
->来自 [LiesenWim](https://www.postcrossing.com/user/LiesenWim) 🇳🇱
+>来自 ***该用户已关闭*** 🇳🇱
 > 📤 [Netherlands](https://www.bing.com/maps/?cp=53.25~6.86806&lvl=12.0&setlang=zh-Hans) 2025/07/08 07:11 (当地)
 > 📥 [China](https://www.bing.com/maps/?cp=22.56004~114.23477&lvl=12.0&setlang=zh-Hans) 2025/08/24 22:32 (当地)
  📏 9,096 | ⏱ 47
