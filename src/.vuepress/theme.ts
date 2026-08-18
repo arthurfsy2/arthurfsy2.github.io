@@ -54,6 +54,7 @@ export default hopeTheme(
         "/Arthur/作文、小说、诗词": ["364115"],
         "/Arthur/搜狗问问": ["364115"],
         "/Arthur/postcrossing": ["happypostcrossing", "364115"],
+        "/Arthur/心理系统": ["364115"],
         "/叶子飞/": ["615881"],
         "/家庭/": ["615881", "20220810"],
       },
@@ -283,5 +284,5 @@ export default hopeTheme(
       "PageView",
     ],
   },
-  { custom: true }
+  { custom: true },
 );
