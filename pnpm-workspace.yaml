@@ -2,3 +2,5 @@ allowBuilds:
   '@parcel/watcher': true
   core-js: true
   esbuild: true
+minimumReleaseAgeExclude:
+  - katex@0.18.10

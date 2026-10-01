@@ -1,6 +1,13 @@
 import { defineClientConfig } from "vuepress/client";
 import { defineAsyncComponent } from "vue";
 import { onMounted } from "vue";
+// 自托管字体（与 medical_escort 品牌一致：Plus Jakarta Sans + Noto Sans SC）
+import "@fontsource/plus-jakarta-sans/300.css";
+import "@fontsource/plus-jakarta-sans/400.css";
+import "@fontsource/plus-jakarta-sans/700.css";
+import "@fontsource/noto-sans-sc/300.css";
+import "@fontsource/noto-sans-sc/400.css";
+import "@fontsource/noto-sans-sc/700.css";
 // import { defineEChartsConfig } from "vuepress-plugin-md-enhance/client";
 // import { setupRunningTimeFooter } from "vuepress-theme-hope/presets/footerRunningTime.js";
 // import { setupSnowFall } from "vuepress-theme-hope/presets/SnowFall.d.ts";

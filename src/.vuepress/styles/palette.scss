@@ -1,5 +1,6 @@
 // you can change colors here
 $theme-color: #579efb;
-$font-family: '"MGI-Light", serif';
-$font-family-heading:'"MGI-Regular", "Noto Sans SC"';
-$font-family-mono:'"MGI-Regular", serif';
+// 字体与 medical_escort 品牌一致：英文 Plus Jakarta Sans，中文 Noto Sans SC
+$font-family: '"Plus Jakarta Sans", "Noto Sans SC", system-ui, -apple-system, sans-serif';
+$font-family-heading: '"Plus Jakarta Sans", "Noto Sans SC", system-ui, sans-serif';
+$font-family-mono: '"Plus Jakarta Sans", "Noto Sans SC", ui-monospace, monospace';

@@ -1,17 +1,17 @@
 // place your custom styles here
-@font-face {
-    font-family: 'MGI-Light'; /* 自定义字体名称 */
-    src: url('/fonts/MGI-Light.woff2') format('woff2');
-    font-weight: normal;
-    font-style: normal;
-  }
-
-@font-face {
-font-family: 'MGI-Regular'; /* 自定义字体名称 */
-src: url('/fonts/MGI-Regular.woff2') format('woff2');
-font-weight: normal;
-font-style: normal;
-}
+// 字体方案与 medical_escort 品牌一致（Plus Jakarta Sans + Noto Sans SC），
+// 字体文件由 @fontsource 包自托管，在 client.ts 中引入。
+// 旧的自定义字体 MGI-Light / MGI-Regular 不再使用（woff2 仍保留在 public/fonts/）。
 body {
-font-family: 'MGI-Light', sans-serif; /* 使用自定义字体 */
+  font-family: "Plus Jakarta Sans", "Noto Sans SC", system-ui, -apple-system,
+    sans-serif;
+}
+
+/* 品牌规范：标题使用 regular 字重 + 轻微负字距 */
+h1,
+h2,
+h3 {
+  font-family: "Plus Jakarta Sans", "Noto Sans SC", system-ui, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.01em;
 }
