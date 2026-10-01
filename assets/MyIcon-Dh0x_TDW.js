@@ -1,0 +1,1 @@
+import{C as e,U as t,d as n,h as r,q as i}from"./app-CLOWlkFV.js";var a=[`spin`],o=r({__name:`MyIcon`,props:{name:String,spin:Boolean},setup(r){let i=r;return(r,o)=>(e(),n(`span`,{class:t([`iconfont icon`,`icon-${i.name}`]),spin:i.spin},null,10,a))}}),s=i({default:()=>c}),c=o;export{s as n,c as t};
