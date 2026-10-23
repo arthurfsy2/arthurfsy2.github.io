@@ -1,0 +1,1269 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, width=device-width, maximum-scale=1, user-scalable=no" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="format-detection" content="address=no" /> 
+    <title class="lan_change" data-lan="wzbbg">HRforce BESTdisc报告完整版</title>
+    <link rel="stylesheet" href="../css/base.css?202608240000" />
+    <link rel="stylesheet" href="../css/style.css?202608240000" />
+    <link rel="stylesheet" href="../css/common.css" />
+    <link rel="stylesheet" href="../css/swiper.min.css?202608240000" />
+    <link rel="stylesheet" type="text/css" href="../css/jquery.fancybox.min.css?202608240000" />
+    <script type="text/javascript" src="../js/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="../js/fontsize.js"></script>
+    <script type="text/javascript" src="../js/jweixin-1.6.0.js"></script>
+</head>
+<style>
+    .boxtt{
+        display:none;
+        position:fixed;
+        bottom:10px;left:50%;z-index:10; 
+        transform: translate(-50%,0);
+        box-shadow:0 0 10px 0 rgba(0,0,0,.12)
+    }
+    .boxtt a{display:block;width:96vw;padding:10px 0px;;height:80px;border-radius:10px;background:#37c6c1;text-align:center;color:white}
+    .boxtt a h2{height:40px;line-height:40px;font-size:28px;font-weight:bold;font-style:italic;}
+    .boxtt a p{height:20px;line-height:20px;font-size:16px;font-weight:400;font-weight:bold}
+    .myshadow{ 
+			position: absolute;
+			width: 100%;
+			height:100%;
+			top: 0; 
+            left:0;
+			-webkit-backdrop-filter: blur(5px);
+			backdrop-filter: blur(5px);
+			background-color: rgba(255,255,255,.3);
+			display:flex;
+			justify-content: center;
+			align-items: center;
+			z-index:6; 
+     }
+
+     .popbox .pop_body{padding:15px!important;text-align:left;}
+    .popbox .pop_btns{background:white!important}
+    .p_text_ar li {
+        list-style-type: circle!important;
+    }
+    
+    .person_text {
+        margin: 0 0 0 1.14rem;
+        position: relative
+    }
+    
+    .person_text .links {
+        position: absolute;
+        right: 0.1rem;
+        bottom: 0;
+        width: 0.88rem;
+        height: 0.3rem;
+        line-height: 0.3rem;
+        border-radius: 0.15rem;
+        color: #37c6c1;
+        background: #f0f0f0 url(../img/link.png) no-repeat 0.08rem;
+        background-size: 0.2rem;
+        text-indent: 0.3rem;
+        font-size: 0.12rem;
+    }
+    
+    .have_service {
+        padding: 0.05rem 0.1rem;
+        background: white;
+    }
+    
+    .have_service a {
+        display: inline-block;
+        width: 1rem;
+        height: 0.3rem;
+        line-height: 0.3rem;
+        text-align: center;
+        font-size: 0.12rem;
+        color: white;
+        background: #37c6c1;
+        border-radius: 0.15rem;
+        margin-right: 0.1rem
+    }
+    
+    .have_service span {
+        color: #ddd;
+        font-size: 0.12rem;
+    }
+    .p_info{font-size: 0.125rem;line-height: 180%;}
+
+    .group_style_list{overflow:hidden;padding:15px 0 0 0;transform: scale(0.8);margin-top: -40px;}
+    .group_style_list li{width:300px;margin:10px auto;list-style:none;display:none}
+    .group_style_list li label{display:block;width:80px;text-align:center;padding:0 10px;height:36px;line-height:36px;background:#37c6c1;color:white;margin:0px auto}
+    .group_style_data{width:100%;margin:0px auto;height:305px;background:#fff}
+    .group_style_data .zbz{padding:35px 15px;position:relative;}
+    .group_style_data .zbz .pointarea{position:relative;width:250px;height:250px;background:url(../img/qp.png) center no-repeat;background-size:100% 100%;margin: 0 auto;}
+    .group_style_data .zbz>span{position:absolute;color:#555;font-size:18px}
+    .group_style_data .zbz>span:nth-of-type(1){left:30px;top:0;}
+    .group_style_data .zbz>span:nth-of-type(2){right:30px;top:0;}
+    .group_style_data .zbz>span:nth-of-type(3){right:30px;bottom:0px;}
+    .group_style_data .zbz>span:nth-of-type(4){left:30px;bottom:0;}
+
+    .group_style_data ul{margin:0;padding:10px 60px;height:40px;overflow:hidden;display:flex;display:none}
+    .group_style_data ul li{margin:0;flex:1;text-align:center}
+    .group_style_data ul li h4,.group_style_data ul li p{margin:0;height:40px;line-height:40px;color:#555;font-size:14px}
+    .group_style_data ul li span{display:inline-block;height:10px;width:10px;border-radius:50%;margin-right:5px}
+    .pointarea .darea{position:absolute;left:0;top:0;width:125px;height:125px}
+    .pointarea .iarea{position:absolute;left:125px;top:0px;width:125px;height:125px}
+    .pointarea .sarea{position:absolute;left:125px;top:125px;width:125px;height:125px}
+    .pointarea .carea{position:absolute;left:0;top:125px;width:125px;height:125px}
+    .pointarea p{position:absolute;left:35px;top:35px;height:20px;width:20px;text-align:center;line-height:20px;color:white}
+    .darea p,.darea span,.dh span{background:rgba(254,117,120,1)}
+    .iarea p,.iarea span,.ih span{background:rgba(255,193,71,1)}
+    .sarea p,.sarea span,.sh span{background:rgba(55,198,193,1)}
+    .carea p,.carea span,.ch span{background:rgba(70,181,223,1)}
+    .pointarea span{position:absolute;width:12px;height:12px;border-radius:50%;border:4px solid #e94955}
+    .pointarea span.hrforce100{width:15px;height:15px;line-height:15px;border-radius:50%;font-size:12px;padding:3px}
+    .pointarea span b{font-weight:100;display:none}
+    .pointarea span.hrforce100 b{font-weight:100;display:inline;color:white;font-size:12px}
+
+    /* .ai_chat_btn {
+        position: fixed;
+        width: 0.5rem;
+        height: 0.5rem;
+        background-color: #37c6c1;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='white'%3E%3Cpath d='M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-2 9H6V9h12v2zm-4 4H6v-2h8v2zm4-8H6V5h12v2z'/%3E%3C/svg%3E");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 55%;
+        border-radius: 50%;
+        z-index: 6;
+        bottom: 1.6rem;
+        right: 0.45rem;
+        box-shadow: 0 2px 10px rgba(55,198,193,.35);
+        transition: transform .2s, box-shadow .2s;
+    }
+    .ai_chat_btn::after {
+        content: "AI解读";
+        position: absolute;
+        top: 0;
+        right: -0.15rem;
+        padding: 2px 6px;
+        background: #37c6c1;
+        color: #fff;
+        font-size: 0.12rem;
+        border-radius: 4px;
+        white-space: nowrap;
+        transform: translateY(-50%);
+        box-shadow: 0 1px 4px rgba(0,0,0,.15);
+    }
+    .ai_chat_btn:active {
+        transform: scale(0.92);
+        box-shadow: 0 1px 5px rgba(55,198,193,.25);
+    }
+    .ai_chat_btn:active::after {
+        transform: scale(0.92) translateY(-50%);
+    } */
+</style>
+
+<body>
+    <!-- <a  style="position:fixed;right:30px;bottom:80px;z-index:20;width:50px;height:50px;border-radius:50%;background:#fff;display:flex;align-items: center;justify-content: center;box-shadow:0 0 10px 0 rgba(0,0,0,.42)" href="javascript:;" class="fromxcard"><img src="../img/ce.png" style="height:30px" class="changeLanguage"/></a> -->
+
+    <div class="wrap" style="padding-bottom:0;opacity:0">
+        <div class="header">
+            <div class="person_info clearfix">
+                <div class="person_img fl"></div>
+                <div class="lines fl"></div>
+                <div class="person_text">
+                    <a href="javascript:;" class="ai_chat_btn links"  id="ai_chat_btn" style="display:none">AI解读</a>
+                    <div class="person_name">
+                        <i class="s1 fl"></i>
+                        <span class="h4_report fl"><span></span>的BEST报告<u class="bumen"></u></span>
+                    </div>
+                    <div class="dis clearfix">
+                        <b class="fl"></b>
+                        <span class="fl"></span>
+                    </div>
+                    <p class="person_time"></p>
+                </div>
+            </div>
+            <div class="have_service thirdarea" id="xsource_report"><a href="/hrforce_wx/my/myteacher.html" class="lan_change" data-lan="jd">解读报告</a><span>专属导师为您解读</span></div>
+            <nav class="navtab border_bottom clearfix" style="margin:0">
+                <a href="javascript:;" class="active lan_change" data-lan="zonghe">综合特征</a>
+                <a href="javascript:;" class="lan_change" data-lan="zrzt">自然状态</a>
+                <a href="javascript:;" class="lan_change" data-lan="gzzt">工作场景</a>
+                <a href="javascript:;" class="lan_change" data-lan="ylzt">压力状态</a>
+            </nav>
+            <img src="../img/bg_line.png" class="bg_line" width="100%" />
+        </div>
+
+
+        <div class="report_wrap">
+            <!--轮播图-->
+            <div class="swiper-container">
+                <div class="swiper-wrapper"></div>
+                <div class="swiper-pagination"></div>
+            </div>
+
+            <div class="report_tab">
+                <div class="report_text zhtz" data-type="0"> 
+                     <h3 class="title1 border_bottom"><b class="lan_change" data-lan="zhtz">综合特征</b><button class="gy_disc fr">关于DISC</button></h3>
+                    <ul class="report_info tdzhtz" style="position:relative">  
+
+                    </ul>
+                </div>
+                <!-- <div class="report_text zjjl" data-type="0">
+                    <h3 class="title1 border_bottom">最佳激励</h3> 
+                    <div class="p_info border_bottom zjjlbox" style="position:relative">  
+                    </div>
+                </div>
+                <div class="report_text zzjz" data-type="0">
+                    <h3 class="title1 border_bottom">对组织的价值</h3> 
+                    <div class="p_info border_bottom zzjzbox" style="position:relative">   
+                    </div>
+                </div> -->
+                
+                
+                <div class="report_text status hide" data-type="123">
+                    <h3 class="title1 border_bottom mainstatus"><u></u>-<span></span></h3>
+                    <div class="article border_bottom">
+                        <article class="article article_top clearfix">
+                            <div class="charts_l fl">
+                                <div class="chart-box-wrapper-disc left-chart-wrapper">
+                                    <div class="chart-box-wrapper-inner">
+                                        <div class="chart-box-wrapper-inner2" style="overflow:visible;margin-left:30px">
+                                            <div class="labels">
+                                                <div class="label label1">
+                                                    D
+                                                    <div class="line"></div>
+                                                </div>
+                                                <div class="label label2">
+                                                    I
+                                                    <div class="line"></div>
+                                                </div>
+                                                <div class="label label3">
+                                                    S
+                                                    <div class="line"></div>
+                                                </div>
+                                                <div class="label label4">
+                                                    C
+                                                    <div class="line"></div>
+                                                </div>
+                                            </div>
+                                            <div class="cus-bg" style="position:relative">
+                                                <div class="odd odd1"></div>
+                                                <div class="odd odd2"></div>
+                                                <div class="odd odd3"></div>
+                                                <div class="odd odd4"></div>
+                                                <ul id="kd" style="position:absolute;left:-30px;top:0;width:30px;height:238px;margin:0;padding:0;overflow: visible;"></ul>
+                                            </div>
+                                            <div class="chart-box-disc" style="margin-left:15px">
+                                                <canvas class="chart" id="chart1" width="226" height="530" style="width: 113px; height: 265px;"></canvas>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="p_text_ar font_125"></div>
+                        </article>
+                    </div>
+                </div>
+
+
+                <div class="report_text group_style hide"  data-type="123"   data-name="个人风格卡">
+                    <h3 class="title1 border_top border_bottom lan_change" data-lan="gtxwfgk">个体行为风格卡</h3>
+                    <ul class="group_style_list">
+                        <li class="zrzt">  
+                            <div class="group_style_data">
+                                    <ul></ul> 
+                                    <div class="zbz"> 
+                                        <div class="pointarea">
+                                            <div class="darea"></div>
+                                            <div class="iarea"></div>
+                                            <div class="sarea"></div>
+                                            <div class="carea"></div>
+                                        </div>
+                                    </div>
+                            </div>
+                        </li>
+                        <li class="gzzt"> 
+                            <div class="group_style_data">
+                                    <ul></ul> 
+                                    <div class="zbz"> 
+                                        <div class="pointarea">
+                                            <div class="darea"></div>
+                                            <div class="iarea"></div>
+                                            <div class="sarea"></div>
+                                            <div class="carea"></div>
+                                        </div>
+                                    </div>
+                            </div>
+                        </li>
+                        <li class="ylzt"> 
+                            <div class="group_style_data">
+                                    <ul></ul> 
+                                    <div class="zbz"> 
+                                        <div class="pointarea">
+                                            <div class="darea"></div>
+                                            <div class="iarea"></div>
+                                            <div class="sarea"></div>
+                                            <div class="carea"></div>
+                                        </div>
+                                    </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- <div class="report_text hide  shzw" data-type="2">
+                    <h3 class="title1 border_top border_bottom">适合的职位</h3>
+                    <div class="p_info border_bottom">
+                        <h4 style="color:#000;margin:5px 0 10px 0;font-weight:bold"><span class="shzwtitle"></span></h4>
+                        <p></p>
+                    </div>
+                </div> -->
+
+                <!-- <div class="report_text hide  zrjl" data-type="1">
+                    <h3 class="title1 border_top border_bottom">自然状态下的激励因素</h3>
+                    <div class="p_info border_bottom zrjlbox"> 
+                        <p></p>
+                    </div>
+                </div>
+
+                <div class="report_text hide  xwtz" data-type="1">
+                    <h3 class="title1 border_top border_bottom">行为特征</h3>
+                    <div class="p_info border_bottom xwtzbox"> 
+                        <p></p>
+                    </div>
+                </div>
+ 
+
+                <div class="report_text hide  gzjl" data-type="2">
+                    <h3 class="title1 border_top border_bottom">工作中的激励因素</h3>
+                    <div class="p_info border_bottom gzjlbox"> 
+                        <p></p>
+                    </div>
+                </div> -->
+                
+
+                <div class="report_text hide ylpx" data-type="3">
+                    <h3 class="title1 border_bottom border_top lan_change" data-lan="ylpx">压力剖析</h3>
+                    <ul class="report_info report_info_li_reset tdylpx">
+                    </ul>
+                </div>
+                
+                <!-- <div class="report_text hide mtzd" data-type="3">
+                    <h3 class="title1 border_bottom">面谈指导</h3>
+                    <ul class="report_info mtzdbox">
+
+                    </ul>
+                </div> -->
+
+                <div class="report_text">
+                    <h3 class="title2 border_top border_bottom lan_change" data-lan="tbsm">特别说明</h3>
+                    <div class="p_info border_bottom">
+                        <p  class="lan_change" data-lan="dtzc">本报告所揭示的个性行为特征不存在好坏优劣之分，仅为了展示<b></b>的独特之处。</p>
+                    </div>
+                </div>
+                <p class="pw" style="margin:0.1rem auto;color:#ccc;font-size:0.12rem;text-align: center;height:0.3rem;line-height:0.3rem;width:100vw;text-transform: capitalize;"></p>
+                
+            </div>
+
+            <div id="mask"></div>
+           <div class="BEST BEST2">
+                <h2>关于DISC</h2>
+                <div class="disc">
+                    <P>DISC是一种“人类行为语言”，由美国心理学家威廉·莫尔顿·马斯顿博士于1928年提出的一套心理学理论，用于快速了解个体心理特征、行为风格、沟通方式、激励因素、优势与局限性、潜在能力等，现广泛应用于求职招聘、团队评估、人岗匹配等领域。</P>
+                    <p class="m_p"><span>D（Dominance)：</span>Dominance -- 掌控支配型<br>主要特征：积极进取，直接了当，争强好胜，主动得开拓者，强势，坚持己见。<br> 代表人物：撒切尔夫人，董明珠
+                    </p>
+                    <p class="m_p"><span>I (Influence)：</span>社交影响型（人际关系）<br>主要特征：有影响力，善于言辞，有说服力，健谈，友好，乐观积极。<br>代表人物：克林顿，马云爸爸</p>
+                    <p class="m_p"><span>S (Steadiness)：</span>稳健支配型（节奏&体系）<br>主要特征：可靠，善于倾听，深思熟虑，全面周到，亲切友好，自制力强，坚持不懈。<br>代表人物：圣雄甘地，特蕾莎修女，李开复</p>
+                    <p class="m_p"><span>C (Compliance)：</span>谨慎分析型（规章&制度）<br>主要特征：遵从，准确，仔细，完美主义，有序不乱，逻辑性强，严谨。<br>代表人物：乔布斯，爱因斯坦，谢耳朵</p>
+                    <div class="ys">高位因素：位于中线或中线以上的DISC因素，它们是行为特征的显著因素。<br> 低位因素：位于中线以下的DISC因素，它们不是弱点，而是对高位因素起支持作用。
+                        <br> 因素强度：DISC因素强度自中线开始，越往上下两方（高位或低位），强度越大。（高位或低位）蓝区处是强度最大的区域。
+                    </div>
+                </div>
+                <button class="i_know i_knowBest">我知道了</button>
+            </div>
+
+
+            <div class="footer hide">
+                <a href="report_list.html" class="primaryBtn">我也要测一测</a>
+            </div> 
+
+            <div class="boxtt">
+                <a href="javascript:;">
+                    <h2>查看我的DISC报告</h2>
+                    <p>已有<span></span>人解锁</p>
+                </a> 
+            </div>
+        </div> 
+ 
+        <a  style="position:fixed;right:30px;bottom:30px;z-index:20;width:50px;height:50px;border-radius:50%;background:#fff;display:flex;align-items: center;justify-content: center;box-shadow:0 0 10px 0 rgba(0,0,0,.42)" href="javascript:;"><img src="../img/ce.png" style="height:30px" class="changeLanguage"/></a>
+
+        <!-- <a href="/aiserver/chat" class="ai_chat_btn" id="ai_chat_btn" style="display:none"></a> -->
+
+
+       <a href="javascript:;" class="menu_open" id="menu_open" style="display: none;z-index:66"></a>
+		<div id="menu_box" style="z-index:88">
+			<div class="menu_inner">
+				<div class="menu_first">
+					<div class="menu_user clearfix" id="headimgurl_nickname">
+						<div class="fl">
+							<img src="../img/admin.png" class="fl">
+						</div>
+						<p><span class="nickname"></span></p>
+					</div>
+					<div class="menu_link_a">
+						<a href="/hrforce_wx/my/myteacher.html" style="width: 0.8rem;background: #37c6c1;text-align: center;height: 0.24rem;line-height: 0.26rem;border-radius: 0.3rem;margin-left: -0.1rem;" class="thirdarea" id="xsource">解读报告</a>
+						<a href="../report/report_list.html">我是谁</a>
+						<a href="../authorization_list.html">我的授权</a>
+						<a href="../friendmatch/j.html ">合拍榜</a>
+						<a href="../testother/myTestotherMainList.html"  style="display:none">探探TA</a>
+					</div>
+					<div class="menu_link_a">
+						<a href="../jobfit/jobfitindex.html">人岗匹配</a>
+					</div>
+					<div class="menu_link_a">
+						<a href="../netred/index.html" class="myactivity">奇葩职位</a>
+					</div>
+					<div class="menu_link_a thirdarea">
+						<a href="/hrforce_wx/company_show.html"   class="myactivity">企业测评</a>
+					</div>
+					<div class="menu_link_a">
+						<a href="/hrforce_wx/my/j.html">个人中心</a>
+					</div>
+					<a href="javascript:;" class="menu_btn menu_btn_close"></a>
+				</div>
+			</div>
+		</div>
+		<div class="menu_mask" ></div>
+         
+    </body>
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="../js/public.js?202608240000"></script>
+<script type="text/javascript" src="../js/Chart.min.js"></script>
+<script type="text/javascript" src="../js/swiper.min.js"></script>
+<script type="text/javascript" src="../js/report.js"></script>
+<script type="text/javascript" src="../js/clipboard.min.js"></script>
+<script type="text/javascript"> 
+    if(localStorage.hrforcelanguage=="cn"){ 
+        $(".changeLanguage").attr("src","../img/ce.png")
+    }else{ 
+        $(".changeLanguage").attr("src","../img/ec.png")
+    }
+
+    $(".changeLanguage").click(function(e){
+        if(localStorage.hrforcelanguage=="cn"){ 
+            $(".changeLanguage").attr("src","../img/ec.png")
+            localStorage.hrforcelanguage="en"
+        }else{ 
+            $(".changeLanguage").attr("src","../img/ce.png")
+            localStorage.hrforcelanguage="cn"
+        } 
+        window.location.reload()
+    })
+        
+
+   
+    var loginStatus=0,userInfo = null;
+    gdata("islogin", {}, function(data) {
+        if (checkdata(data)) {
+            loginStatus=data.retRes.login_status; 
+        }
+    }, true)
+
+    if (getWhere.invited == 1) {
+        $(".wrap").css("padding-bottom", "0.6rem");
+        $(".footer").show();
+    }
+
+    //复制链接
+    // $(".links").attr("data-clipboard-text", window.location.href)
+    // var clipboard = new Clipboard('.links');
+    // clipboard.on('success', function() {
+    //     myNotice(sys_language.fzcg[localStorage.hrforcelanguage]);
+    // })
+
+    function myNotice(content) {
+        var $oNotice = $(`<div class="plugin_notice hide" style="border-radius:0.03rem;padding:0.1rem 0.2rem;color:#ffffff;background:rgba(0,0,0,.6);font-size:0.14rem;position:fixed;top:50%;left:50%;transform:translate(-50%, -50%);">${content}</div>`);
+        $(document.documentElement).append($oNotice);
+        $('.plugin_notice').fadeIn("500");
+        setTimeout(function() {
+            $('.plugin_notice').fadeOut("500", function() {
+                this.remove();
+            });
+        }, 2000);
+    }
+     
+    gdata("bannerlists",{"type_id":"103"},function(data){
+		if(checkdata(data)){
+			if(data.retRes.length>0){
+				$.each(data.retRes,function(index,item){
+					var li='<div class="swiper-slide"  id="'+item.id+'">';
+					if(item.http_url && item.http_url!="#"){
+						li+='<a href="'+item.http_url+'" style="display:block">'
+					}else{
+						li+='<a href="javascript:;" style="display:block">'
+					}
+					li+='<div class="ceobanner"><img src="'+toUrl(item.file_url)+'" class="ceo" style="display:block;width:100%;margin:0 auto"/><div class="slogans ceo" style="display:none">'+item.title+'</div></div></a></div>'
+					$(".swiper-wrapper").append($(li));
+				  })
+				  if(data.retRes.length>1){
+					  $(".swiper-button-prev, .swiper-button-next").show();
+					  var swiper = new Swiper('.swiper-container', {
+						  nextButton: '.swiper-button-next',
+						  prevButton: '.swiper-button-prev',
+						  pagination: '.swiper-pagination',
+						  paginationClickable: true,
+						  slidesPerView: 1,
+						  spaceBetween:0,
+						  loop: true,
+						  autoplay: 2500
+					  });
+				  }
+			}else{
+			    $(".swiper-container").hide()
+			}
+			
+			
+		}
+	})
+   
+
+
+    var reportInfo = null;
+    gdatayy("paperinfo", {
+        "numbers": getWhere.number,
+        "yy":localStorage.hrforcelanguage?localStorage.hrforcelanguage:"cn"
+    }, function(data) { 
+        checkdata(data)
+        if (data.retInt==1) {
+            reportInfo = data.retRes;
+            console.log(reportInfo)
+            console.log(loginStatus)
+            //loginStatus==1 && reportInfo.create_from!="xcard" && reportInfo.create_from!="b"
+            if(loginStatus==1){ 
+                gdata("userinfo", {}, function(data) {
+                    if (checkdata(data)) {
+                        userInfo = data.retRes; 
+                        if(userInfo.true_name==reportInfo.true_name){
+                             $(".menu_open").show(); 
+                             $("#headimgurl_nickname img").attr("src",userInfo.file_url?toUrl(userInfo.file_url):"../img/admin.png");  
+                             $(".nickname").text(userInfo.true_name?userInfo.true_name:userInfo.title); 
+                        } 
+                    }
+                }, true)
+           }
+            // AI解读按钮：登录态正常且报告已解锁时显示
+            if(reportInfo.gm_status==1){
+                // 活动时段：2026-09-12 00:00:00 ~ 2026-09-13 00:00:00 期间无条件开放
+                var nowTime = new Date().getTime();
+                var inActivityPeriod =(nowTime >= 1789142400000 && nowTime < 1789228799000);
+                if((loginStatus==1 && reportInfo.ai_status==1) || window.location.href.indexOf("hrforcewebtest")>-1 || inActivityPeriod){
+                    var btn = document.getElementById("ai_chat_btn");
+                    btn.href = "/aiserver/chat?numbers=" + reportInfo.numbers;
+                    btn.style.display = "block";
+                }
+            }
+             $(".lan_change").each(function(index,item){
+                $(item).text($(item).text().replace(/NAME/g, reportInfo.true_name))
+            })
+        }
+     }, true,(localStorage.hrforcelanguage?localStorage.hrforcelanguage:"cn"))
+ 
+
+
+    if(reportInfo.gm_status == 1){
+        $(".wrap").css("opacity", 1)
+    }else{
+        if(reportInfo.create_from == "b") { 
+            if(reportInfo.paper_gm==1){
+                myFancybox({
+                    title: '温馨提示:',
+                    content: '<p style="text-align:left">谢谢您参与本次测评。您的测评报告由于测评额度不足导致解锁失败，暂时不可查看。如需协助，请联系测评邀请人进行充值或了解相关信息。</p>',
+                    width: '320', // 宽度
+                    height: 'auto', // 高度
+                    showYesBtn: true, // 是否显示确认按钮
+                    showNoBtn: false, // 是否显示取消按钮
+                    yesText: '我知道啦', // 确认按钮的文本
+                    yesFun: function() {
+                        if(getWhere.from && getWhere.from=='b'){
+                            window.history.back()
+                        }else{
+                            window.location.replace('report_list.html') 
+                        }  
+                    }
+                });  
+            }else{
+                if(getWhere.from && getWhere.from=='b'){
+                    window.history.back()
+                }else{
+                    window.location.replace('report_list.html') 
+                } 
+            } 
+        }else if(reportInfo.create_from == "xcard") { 
+            if(reportInfo.accountbest_paper_gm == 0){
+                myFancybox({
+                    title: sys_language.wxts[localStorage.hrforcelanguage],
+                    content: '<p style="text-align:left">'+sys_language.gxcy1[localStorage.hrforcelanguage]+'</p>',
+                    width: '320', // 宽度
+                    height: 'auto', // 高度
+                    showYesBtn: true, // 是否显示确认按钮
+                    showNoBtn: false, // 是否显示取消按钮
+                    yesText: sys_language.haode[localStorage.hrforcelanguage], // 确认按钮的文本
+                    modal:true,
+                    yesFun: function() {
+                        window.location.replace('report_list.html') 
+                    }
+                });
+            }else{
+                myFancybox({
+                        title: sys_language.wxts[localStorage.hrforcelanguage],
+                        content: '<p style="text-align:left">'+sys_language.gxcy2[localStorage.hrforcelanguage]+'</p>',
+                        width: '320', // 宽度
+                        height: 'auto', // 高度
+                        showYesBtn: true, // 是否显示确认按钮
+                        showNoBtn: false, // 是否显示取消按钮
+                        yesText: sys_language.haode[localStorage.hrforcelanguage], // 确认按钮的文本
+                        modal:true,
+                        yesFun: function() {
+                            window.location.replace('report_list.html') 
+                        }
+                });
+            }   
+        } else {
+            if(reportInfo.create_from == "c"){
+                if(reportInfo.gm_status == 0){
+                        myFancybox({
+                        title: '付费提醒',
+                        content: '确定支付并查看完整报告？',
+                        width: '320', // 宽度
+                        height: 'auto', // 高度
+                        showYesBtn: true, // 是否显示确认按钮
+                        showNoBtn: true, // 是否显示取消按钮
+                        yesText: '立即支付', // 确认按钮的文本
+                        noText: '取消支付', // 取消按钮的文本
+                        yesFun: function() {
+                            gdata("paperorder", {
+                                "numbers": getWhere.number
+                            }, function(data) {
+                                if (checkdata(data)) {
+                                    var ordersId = data.retRes.orders_id;
+                                    gdata("orderspay", {
+                                        "orders_id": ordersId
+                                    }, function(data) {
+                                        if (checkdata(data)) {
+                                            reloadUrl(data.retRes.pay_url)
+                                                //reloadUrl("best_report.html?number="+getWhere.number)
+                                        }
+                                    })
+                                }
+                            })
+                        },
+                        noFun: function() { 
+                            if(getWhere.from && getWhere.from=='b'){
+                                window.history.back()
+                            }else{
+                                window.location.replace('report_list.html') 
+                            }   
+                        }
+                    });
+                }else{
+                    $(".wrap").css("opacity", 1)  
+                }
+            }
+        }
+    }
+
+
+    $(document).on("click", ".gy_disc", function() {
+        $("#mask,.BEST").fadeIn()
+    })
+
+    $(document).on("click", ".i_know", function() {
+        $("#mask,.BEST").fadeOut()
+    })
+
+    $(document).on("click", ".navtab a", function() {
+        var index = $(this).index();
+        $(this).addClass("active").siblings().removeClass(); 
+        $("div[data-type='123'],div[data-type='1'],div[data-type='2'],div[data-type='3']").hide()
+        $(".zrzt,.gzzt,.ylzt").hide()
+        if (index == 0) {
+            $("div[data-type='0']").show();
+            $("div[data-type='123']").hide();
+        } else {
+            if (reportInfo.gm_status == 1) {
+                $(".mainstatus u").text($(this).text());
+                $("div[data-type='0']").hide();
+                $("div[data-type='123']").show();
+                $(".ylpx,.shzw").hide();
+                if (index == 1) {
+                    if (reportInfo.zxs_id > 0) {
+                        drawChartRed_Blue('chart1', [reportInfo.s_per.d / 100, reportInfo.s_per.i / 100, reportInfo.s_per.s / 100, reportInfo.s_per.c / 100], true);
+                        loadKd()
+                    } else {
+                        drawChartRed_Blue('chart1', [reportInfo.s_per.d / 100, reportInfo.s_per.i / 100, reportInfo.s_per.s / 100, reportInfo.s_per.c / 100]);
+                        loadPtKd()
+                    } 
+                    $(".p_text_ar").html(reportInfo.s_d);
+                    $(".zrjl,.xwtz,.zrzt").show()
+                } else if (index == 2) {
+                    if (reportInfo.zxs_id > 0) {
+                        drawChartRed_Blue('chart1', [reportInfo.m_per.d / 100, reportInfo.m_per.i / 100, reportInfo.m_per.s / 100, reportInfo.m_per.c / 100], true);
+                        loadKd()
+                    } else {
+                        drawChartRed_Blue('chart1', [reportInfo.m_per.d / 100, reportInfo.m_per.i / 100, reportInfo.m_per.s / 100, reportInfo.m_per.c / 100]);
+                        loadPtKd()
+                    }
+                    $(".p_text_ar").html(reportInfo.w_m);
+                    $(".p_text_ar li").each(function(i, t) {
+                        if (i > 6) {
+                            $(t).hide()
+                        } else {
+                            $(t).show()
+                        }
+                    })
+                    $(".shzw,.gzjl,.gzzt").show();
+                } else {
+                    if (reportInfo.zxs_id > 0) {
+                        drawChartRed_Blue('chart1', [reportInfo.l_per.d / 100, reportInfo.l_per.i / 100, reportInfo.l_per.s / 100, reportInfo.l_per.c / 100], true);
+                        loadKd()
+                    } else {
+                        drawChartRed_Blue('chart1', [reportInfo.l_per.d / 100, reportInfo.l_per.i / 100, reportInfo.l_per.s / 100, reportInfo.l_per.c / 100]);
+                        loadPtKd()
+                    }
+                    $(".p_text_ar").html(reportInfo.b_u_s);
+                    $(".p_text_ar li").each(function(i, t) {
+                        if (i > 6) {
+                            $(t).hide()
+                        } else {
+                            $(t).show()
+                        }
+                    })
+                    $(".ylpx,.ylzt").show();
+                    if(reportInfo.i_g){
+                        $(".mtzd").show();
+                    }
+                }
+
+            } else {
+                var htm = '<br/><span style="color:#ddd;font-size:12px;text-decoration:line-through;display:none">￥' + reportInfo.price_o + '元</span><span style="color:#FA7252;font-size:16px">￥' + reportInfo.price + '元</span><p style="margin-top:0.1rem;font-size:0.12rem;color:#bbb;text-align:center">本商品为虚拟产品，一经售出，概不退款</p>'
+                myFancybox({
+                    title: '付费提醒',
+                    content: '要查看完整报告需支付' + htm,
+                    width: '320', // 宽度
+                    height: 'auto', // 高度
+                    showYesBtn: true, // 是否显示确认按钮
+                    showNoBtn: true, // 是否显示取消按钮
+                    yesText: '立即支付', // 确认按钮的文本
+                    noText: '再逛逛', // 取消按钮的文本
+                    yesFun: function() {
+                        gdata("paperorder", {
+                            "numbers": getWhere.number
+                        }, function(data) {
+                            if (checkdata(data)) {
+                                var ordersId = data.retRes.orders_id;
+                                gdata("orderspay", {
+                                    "orders_id": ordersId
+                                }, function(data) {
+                                    if (checkdata(data)) {
+                                        reloadUrl(data.retRes.pay_url)
+                                    }
+                                })
+                            }
+                        })
+                    }
+                });
+            }
+
+        }
+    })
+
+
+  
+
+    $(document).on("click",".boxtt",function(e){
+            var htm = '<br/><span style="color:#ddd;font-size:12px;text-decoration:line-through;display:none">￥' + reportInfo.price_o + '元</span><span style="color:#FA7252;font-size:16px">￥' + reportInfo.price + '元</span><p style="margin-top:0.1rem;font-size:0.12rem;color:#bbb;text-align:center">本商品为虚拟产品，一经售出，概不退款</p>'
+            myFancybox({
+                title: '付费提醒',
+                content: '要查看完整报告需支付' + htm,
+                width: '320', // 宽度
+                height: 'auto', // 高度
+                showYesBtn: true, // 是否显示确认按钮
+                showNoBtn: true, // 是否显示取消按钮
+                modal:false,
+                yesText: '立即支付', // 确认按钮的文本
+                noText: '再逛逛', // 取消按钮的文本
+                yesFun: function() {
+                    gdata("paperorder", {
+                        "numbers": getWhere.number
+                    }, function(data) {
+                        if (checkdata(data)) {
+                            var ordersId = data.retRes.orders_id;
+                            gdata("orderspay", {
+                                "orders_id": ordersId
+                            }, function(data) {
+                                if (checkdata(data)) {
+                                    reloadUrl(data.retRes.pay_url)
+                                }
+                            })
+                        }
+                    })
+                }
+            });
+            e.stopPropagation()
+        })
+
+
+    function loadKd() {
+        $("#kd").empty();
+        var  kd = ["100%", "90%", "80%", "70%", "60%", "50%", "40%", "30%", "20%", "10%", 0];    
+        $.each(kd, function(index, item) {        
+            $("#kd").append($('<li style="height:10%;line-height:0;text-align:center;color:#93b3b3;font-size:12px;list-style:none;">' + item + '</li>'))    
+        })
+    }
+
+    function loadPtKd() {
+        $("#kd").empty();
+        var  kd = ["100%", "90%", " ", " ", " ", "50%", " ", " ", " ", "10%", 0];    
+        $.each(kd, function(index, item) {        
+            $("#kd").append($('<li style="height:10%;line-height:0;text-align:center;color:#93b3b3;font-size:12px;list-style:none;">' + item + '</li>'))    
+        })
+    }
+
+
+    // 基本信息填入
+    if (reportInfo.file_url) {
+        $(".person_img").html("<img src='" + toUrl(reportInfo.file_url) + "'/>");
+    } else {
+        $(".person_img").html("<img src='../img/admin.png'/>");
+    }
+    if (reportInfo.true_name) {
+        $(".h4_report span,.p_info b,.title1 span,.mainstatus span").text(reportInfo.true_name);
+    } else {
+        $(".h4_report span,.p_info b,.title1 span,.mainstatus span").text(reportInfo.title);
+    }
+    if(reportInfo.bumen){
+        $(".bumen").text("（"+reportInfo.bumen+"）")
+    }
+    $(".dis b").text(reportInfo.disc);
+    // $(".dis span").text(reportInfo.disc_title+"-"+reportInfo.yljb);
+
+    if(reportInfo.yljb){
+        if(reportInfo.yl_wp=="w"){
+            // if(reportInfo.disc_title_show){
+            //     $(".dis span").text(reportInfo.disc_title+'-工作压力'+reportInfo.yljb+'级');
+            // }else{
+                $(".dis span").text('工作压力'+reportInfo.yljb+'级');
+            //}
+        }else{
+            // if(reportInfo.disc_title_show){
+            //     $(".dis span").text(reportInfo.disc_title+'-私人压力'+reportInfo.yljb+'级');
+            // }else{
+                $(".dis span").text('私人压力'+reportInfo.yljb+'级');
+            //}
+        }
+    }else{
+        // if(reportInfo.disc_title_show){
+        //     $(".dis span").text(reportInfo.disc_title+'-无压力');
+        // }else{
+            $(".dis span").text('无压力');
+        // }
+    }
+
+    // if(reportInfo.disc_title_show){ 
+    //    $(".dis span").text(reportInfo.disc_title);
+    // }
+    $(".person_time").text(formatDate(reportInfo.create_time));
+
+
+    if(localStorage.hrforcelanguage=="en"){
+        $(".navtab a").css({"font-size":"0.12rem"}) 
+        $(".gy_disc").hide()
+        $(".h4_report").text(reportInfo.title+"'s BEST REPORT");
+        // $(".dis span").text(reportInfo.disc_title);
+    }
+
+    $(".tdzhtz").html(reportInfo.c_b_s)
+    $(".zjjlbox").html(reportInfo.b_m)
+    $(".zzjzbox").html(reportInfo.v_t_o)
+    $(".zrjlbox p").text(reportInfo.m_a_s);
+    $(".xwtzbox p").text(reportInfo.b_s);
+    $(".gzjlbox p").text(reportInfo.m_a_w);
+
+    if(reportInfo.gm_status==0){
+        $(".boxtt").show()
+        $(".tdzhtz,.zjjlbox,.zzjzbox").append($('<div class="myshadow"></div>'))
+    }
+
+    gdata("sysinfo", {}, function(data) {
+        if(checkdata(data)){
+            $(".boxtt span").text(data.retRes.jsrs)
+        }
+    },false,(localStorage.hrforcelanguage?localStorage.hrforcelanguage:"cn"))
+
+
+     
+
+    $(".tdylpx").html(reportInfo.c_s_s_a);
+    $(".shzw p").text(reportInfo.s_j_i);
+    $(".shzwtitle").html(reportInfo.s_j) 
+
+    $(".mtzdbox").html(reportInfo.i_g)
+    
+    // console.log(reportInfo.file_url)
+
+    var sex = 1;
+    sex = reportInfo.sex == "男" ? 1 : 0
+    var jsons = {
+        "name": reportInfo.true_name,
+        "sexy": sex,
+        "file_url": reportInfo.file_url,
+        "types": reportInfo.disc
+    }
+    var firstCode = jsons.types.substr(0, 1).toLowerCase();
+    var describeWords = {
+        "male": [{
+            "d": [{
+                "title": jsons.name + "是一只狂放的野牛",
+                "sub_title": "想要驾驭这头牛，给钱TA可以干到9969！！！"
+            }, {
+                "title": jsons.name + "配备强大'自我系统'10086，版本永远不用升级一直666",
+                "sub_title": "什么？！说我跟世界格格不入？！世界格格是shei？"
+            }, {
+                "title": "君子坦荡荡的" + jsons.name + "，一直都是'简单率真派'掌门人",
+                "sub_title": "小人常戚戚。哪里有小人？！Sorry，小人=loser，不要浪费我时间，看得我眼睛疼"
+            }, {
+                "title": "[勇敢]是" + jsons.name + "的人生底色",
+                "sub_title": "打胜仗，那都是加长便饭；讲格局，勇敢和大无畏拼在一起；论眼光，是战略中的战斗机"
+            }, {
+                "title": "不走寻常路的" + jsons.name + "，最适合开天辟地",
+                "sub_title": "美特斯邦威不走寻常路；寻常不走路荒地只开路；做不做一个好人不重要，耐克Just do IT 才最重要"
+            }, {
+                "title": "走到哪" + jsons.name + "都散发着不俗的气息",
+                "sub_title": "不喜欢白莲花，凑是喜欢黑莲花，黑莲花好美，怎么样？不服来战"
+            }, {
+                "title": "虽" + jsons.name + "已隐退多年，但江湖上一直流传着关于TA的传说",
+                "sub_title": "百闻不如一见的存在，隐退后的生活我容易吗？！要money没money，要honey没honey，等我我要复出去！"
+            }]
+        }, {
+            "i": [{
+                "title": "掌握了一万种搞笑方式的" + jsons.name,
+                "sub_title": "热情起来动力火锅，任何人不允许冷漠！"
+            }, {
+                "title": "会玩又热情，有趣审美高的" + jsons.name,
+                "sub_title": "自从用了" + jsons.name + "牌朋友圈之后，我就不断地复购，复购，复购，妈妈再也不用担心我抑郁又难受"
+            }, {
+                "title": "总能给你带来惊喜的" + jsons.name,
+                "sub_title": "我来了，你惊喜不惊喜？！好奇害死猫，跟我一起嗨到老，我能带你在别样的世界里看遍长安的花花草草"
+            }, {
+                "title": "天生的乐观主义，超有感染力的" + jsons.name,
+                "sub_title": "遇到挫折？！没在怕的！大不了，人生系统再重启！又不是没有那力气"
+            }, {
+                "title": "决定尘世间潇洒走一回的" + jsons.name,
+                "sub_title": "天地悠悠过客匆匆，稀饭呀滚滚煎饼呀薄薄，早饭有着落；留一半午饭留一半宵夜，至少梦里有你追随"
+            }, {
+                "title": "点亮人们生活的" + jsons.name + "，一直身体力行地散播着快乐因子",
+                "sub_title": "就这个feel，倍儿爽！爽爽爽爽！一起得得瑟，人间超值得！"
+            }, {
+                "title": jsons.name + "用快乐精制而成，实乃居家旅行，飒人不灭口之必备良药",
+                "sub_title": "出道以来，江湖上就多了快乐水上飘这个门派；甜死人的手段极其残忍，所到之处，寸草不生"
+            }, {
+                "title": "你无聊时，" + jsons.name + "就是口条最利索的相声演员",
+                "sub_title": "郭德岗得光，郭德光砸缸，郭德缸凿光，烦恼一扫光"
+            }]
+        }, {
+            "s": [{
+                "title": "情绪波动为零的" + jsons.name,
+                "sub_title": "主动起来画风清奇，被动起来一坨烂泥！！！"
+            }, {
+                "title": "要是在六零年代，" + jsons.name + "最有用的地方是煮菜，并且无公害",
+                "sub_title": "对陌生人，闷起来沉默煤气罐；对好朋友，骚起来风流在绽放"
+            }, {
+                "title": "千万不要和" + jsons.name + "做朋友，因为你会幸福到没朋友",
+                "sub_title": "随时充当你的情绪垃圾桶，还分类存放让你十分得宠"
+            }, {
+                "title": "你要有个叫" + jsons.name + "的朋友，四舍五入等于皇亲国戚了有没有",
+                "sub_title": "没钱？！刷瓦滴卡！没吃？！一起吃老干妈！没穿？！OMG，买它！"
+            }, {
+                "title": "今年刚去戛纳领了“友谊之星”诺别尔奖的" + jsons.name,
+                "sub_title": "去，还是不去领奖？这个哲学问题困扰了" + jsons.name + "N个月"
+            }, {
+                "title": "不仅是朋友，更是明灯的" + jsons.name,
+                "sub_title": "说不重要做才最重要；对于朋友两肋插刀活出三高；哪怕为了朋友求人像条狗，也不觉得面子没有"
+            }, {
+                "title": "从不掉链子的" + jsons.name,
+                "sub_title": "也从不掉粉，交朋友TA从来不戴化妆面具；朋友啊朋友，还记得在甄有才里一起合拍的日子？"
+            }, {
+                "title": jsons.name + "不仅自己是小太阳，还秉承着五湖四海皆兄弟的博爱",
+                "sub_title": "大地万物皆美好，夕阳无限好，只是近黄昏，黄昏也挺好，夕阳也挺好，都挺好！"
+            }, {
+                "title": jsons.name + "身上有的佛性和佛系，足以让人类活到无边无际",
+                "sub_title": "虔诚的心态不会走歪；总是竭尽所能把事情做好，不会乱搞；无论再怎么丧，在人前负能量永远不爆仓"
+            }]
+        }, {
+            "c": [{
+                "title": "即使" + jsons.name + "对人不理不睬你也不会受伤害，只有崇拜崇拜崇拜！",
+                "sub_title": "只有同样出色、才能、基因、性格都“独一无二”的那根葱，才有资格跟" + jsons.name + "心灵互通"
+            }, {
+                "title": jsons.name + "的优秀，简直就是一种魔咒！！！",
+                "sub_title": "一般人只是人才，而" + jsons.name + "是横空出世的天才！"
+            }, {
+                "title": jsons.name + "的存在就是世界十大奇迹！！！",
+                "sub_title": "智商二百一，买菜不用计算器；一年四季，脑部储存空间无数个G。"
+            }, {
+                "title": "世界上最“表里不一”的人，非" + jsons.name + "莫属",
+                "sub_title": "外表清冷共孤傲齐飞，内心灼热与真诚一色"
+            }, {
+                "title": jsons.name + "是舍命陪君子型！",
+                "sub_title": "君子之交淡如水，只要是朋友TA都会瞬间冷漠人设崩塌，陪你到天荒地老，钱不见了TA陪你满地找"
+            }, {
+                "title": jsons.name + "要么不出手，一出手就往人心坎里走！",
+                "sub_title": "细节观察精准得出奇，比你妈还要了解你：秋裤在哪里？不用问你妈，诺给你下了一打，我买得起！"
+            }]
+        }],
+        "female": [{
+            "d": [{
+                "title": jsons.name + "是双高爱好者",
+                "sub_title": "颜值不高给我滚，才华不高不能比我蠢！"
+            }, {
+                "title": "打动" + jsons.name + "的方式并不多“颜值极高”的可随便通过",
+                "sub_title": "如果你很帅绝美，那么找" + jsons.name + "会带你有趣的灵魂天上飞"
+            }, {
+                "title": "光是拼才华拼内涵" + jsons.name + "已经战无不胜了好吗",
+                "sub_title": "人类为什么要拼这些，" + jsons.name + "早就已经不顾一屑，要的就是完胜一切"
+            }, {
+                "title": "穿上D套装，别人是又傻又伪，" + jsons.name + "是又飒又美",
+                "sub_title": "老娘凑是这么酷，走自己的路，让别人哭！"
+            }, {
+                "title": jsons.name + "从一出生，就注定人生开挂又出彩了",
+                "sub_title": "开挂的人生，就这么一路出彩到底；我骄傲怎么滴，you can you up, no can no BB!"
+            }, {
+                "title": "硬是要给" + jsons.name + "找个偶像，必须是董小姐级别的酱",
+                "sub_title": "赌十个亿？还需要赌吗？赢不是全部而是唯一。你支付bao还是微xin，NoNoNo 姐不接受分期！"
+            }]
+        }, {
+            "i": [{
+                "title": "是爱的发光体" + jsons.name,
+                "sub_title": "三观出奇，爱得很调皮；专业夸夸，搞定你我他！"
+            }, {
+                "title": "有趣的皮囊，好看的灵魂，两个优点" + jsons.name + "占了仨",
+                "sub_title": "我们的存在就是让这个世界不一样，我们不一样，我们不一样，样样样样样......"
+            }, {
+                "title": jsons.name + "就像是一块魅力磁铁",
+                "sub_title": "你越走近，就越被" + jsons.name + "妥妥地吸引得干干净净"
+            }, {
+                "title": "哎呀，不小心中了" + jsons.name + "的魅力梅花摄魂散",
+                "sub_title": "求你了，别再出招了！再出招我就“瘦”不了了！吸收了太多魅力和正能量，我真的会棒(pang)棒(pang)哒"
+            }, {
+                "title": jsons.name + "真的很绝",
+                "sub_title": "总能把身边的女生变成闺蜜，把身边的男生都发展成兄弟"
+            }, {
+                "title": jsons.name + "真的很会爱，不能错过，更不会不爱",
+                "sub_title": "人生最大的遗憾不是你失败，是你想要爱的那个人，后来已经不在！爱，在" + jsons.name + "的眼里，就是现在"
+            }, {
+                "title": jsons.name + "拥有爱的能力，人生无处不惊奇",
+                "sub_title": "心里的美，是任何妖艳贱货都比拟不了的啰喂；爱的能力，足以抵御零下100°的寒气"
+            }]
+        }, {
+            "s": [{
+                "title": jsons.name + "走的是条光明道",
+                "sub_title": "外表一本正经，坐怀不乱，内心却是一张高考试卷：复杂到了极致！"
+            }, {
+                "title": "塑料姐妹情在" + jsons.name + "这里，不存在的！",
+                "sub_title": "要么就做塑料，要么就做姐妹"
+            }, {
+                "title": "柔软的" + jsons.name + "外表温柔得体，保护起朋友来却毫不客气",
+                "sub_title": "要么说对不起，要么内心把你鄙视得倒地不起"
+            }, {
+                "title": jsons.name + "不仅自己是小太阳，还秉承着五湖四海皆姐妹的博爱",
+                "sub_title": "大地万物姐妹情，桃花潭水深千尺，不及姐妹送我行；塑料姐妹开虚花，千树万树皆是假"
+            }, {
+                "title": jsons.name + "是上帝派来的小可爱",
+                "sub_title": "让言语没伤害还给你种上几颗小白菜；与人为善never跟人开战；正义和平化身“锄强扶弱”只因平等"
+            }]
+        }, {
+            "c": [{
+                "title": "搔痒永远不会笑的" + jsons.name,
+                "sub_title": "脑力十分发达，内心纠结成一团乱麻，快，救救TA！"
+            }, {
+                "title": jsons.name + ":方便面是孤独的食物，最美面条拍摄需要45°。完美！",
+                "sub_title": "网红店不好柒，爆款皆垃圾，总是好多SB！"
+            }, {
+                "title": jsons.name + "除了“财源”可以广进，脸上一律写着'生人勿近'",
+                "sub_title": "外表清高，内心丰盛得一团糟！！表面很细，实际粗糙得没有边际"
+            }, {
+                "title": "有一种红，叫三级姨妈红；有一种冷，叫你妈觉得" + jsons.name + "冷",
+                "sub_title": "虽然严格又难搞，但是秋裤穿起来还是暖和的好；不热情偶尔还烦躁，因为愚蠢的人类智慧还没有达到"
+            }, {
+                "title": jsons.name + "一定是上帝的宠儿",
+                "sub_title": "感受力丰富，判断力精准；各种长处完美的聚合体，你要不是人类都“高攀不起”"
+            }, {
+                "title": "渣渣鉴别师" + jsons.name,
+                "sub_title": "鉴别到了干嘛？还用说吗，当然是各种花式吊打！"
+            }, {
+                "title": "最神秘也最迷人的" + jsons.name + "星球里，住着一个有趣的灵魂",
+                "sub_title": "远观可养颜修身但处起来危险让你头发竖起来一根根！没有强大逻辑和冷幽默细胞你都不要往这星球跑"
+            }]
+        }]
+    }
+
+    var sexyArr = ["female", "male"];
+    var num = "disc".indexOf(firstCode);
+    var randomNum = Math.random();
+    var shared_title = describeWords[sexyArr[Number(jsons.sexy)]][num][firstCode][Math.floor(randomNum * describeWords[sexyArr[Number(jsons.sexy)]][num][firstCode].length)].title;
+    var shared_description = describeWords[sexyArr[Number(jsons.sexy)]][num][firstCode][Math.floor(randomNum * describeWords[sexyArr[Number(jsons.sexy)]][num][firstCode].length)].sub_title;
+
+
+
+    if (reportInfo.create_from == "b") {
+        wx.ready(function() {
+            shareData = {
+                title: '我是' + reportInfo.disc + '' + reportInfo.disc_title + ',你呢?', // 分享标题
+                desc: '您的好友' + reportInfo.title + '是' + reportInfo.disc + '' + reportInfo.disc_title + '，赶紧关注甄有才，看看你是什么型以及你和' + reportInfo.title + '的合拍度！', // 分享描述
+                // link: window.location.href + "&invited=1", // 分享链接
+                link: sessionStorage.fhid?(window.location.href+"&invited=1&fhid="+sessionStorage.fhid):(window.location.href+"&invited=1"), // 分享链接
+                imgUrl: reportInfo.file_url.indexOf('http') == -1 ? (window.location.protocol + '//' + window.location.host + '/' + reportInfo.file_url) : reportInfo.file_url // 分享图标
+            }
+            wx.showOptionMenu();
+            wx.onMenuShareAppMessage(shareData);
+            wx.onMenuShareTimeline(shareData);
+        });
+    } else {
+        wx.ready(function() {
+            shareData = {
+                title: shared_title, // 分享标题
+                desc: shared_description, // 分享描述
+                // link: window.location.href + "&invited=1", // 分享链接
+                link: sessionStorage.fhid?(window.location.href+"&invited=1&fhid="+sessionStorage.fhid):(window.location.href+"&invited=1"), // 分享链接
+                imgUrl: reportInfo.file_url.indexOf('http') == -1 ? (window.location.protocol + '//' + window.location.host + '/' + reportInfo.file_url) : reportInfo.file_url // 分享图标
+            }
+            wx.showOptionMenu();
+            wx.onMenuShareAppMessage(shareData);
+            wx.onMenuShareTimeline(shareData);
+        });
+    }
+
+
+    $(".report_info_li_reset,.p_text_ar").each(function(index, item) {
+        $(item).children("li").each(function(i,e){
+            if (i <= 6) {
+                $(e).show();
+            } else {
+                $(e).hide();
+            }
+        }) 
+    });
+
+
+     //绘制个人风格图 
+     var roleArr=["D","I","S","C"];
+    $.each(roleArr,function(index,item){
+        $(".group_style_data .zbz").append($('<span>'+item+'</span>'))
+    })
+    
+    var selfValue=reportInfo.s_per;
+    var mValue=reportInfo.m_per;
+    var lValue=reportInfo.l_per;
+    fuck(selfValue,".zrzt");
+    fuck(mValue,".gzzt");
+    fuck(lValue,".ylzt");
+
+    function fuck(obj,dom){
+        ////console.log(obj) 
+            if(Number(obj.d)+Number(obj.c)>Number(obj.i)+Number(obj.s)){
+                var x=Math.round(Math.abs((Number(obj.d)+Number(obj.c)-Number(obj.i)-Number(obj.s))/2));
+                var y=Math.round(Math.abs((Number(obj.d)+Number(obj.i)-Number(obj.c)-Number(obj.s))/2));
+                if(Number(obj.d)+Number(obj.i)>Number(obj.c)+Number(obj.s)){
+                    if(y<=25){
+                    if(x<=25){
+                        $(dom).find(".pointarea .darea").append($("<span data-area='5'  data-x='"+scaleMath1(x)+"' data-y='"+scaleMath1(y)+"' style='background:#555;right:"+scaleMath(x)+"px;bottom:"+scaleMath(y)+"px'><i style='position:absolute;left:17px;top:-10px;width:100px;height:26px;overflow:hidden;font-size:12px;z-index:50;text-overflow:ellipsis;white-space:nowrap'>"+reportInfo.true_name+"</i></span>"))
+                    }else{
+                        $(dom).find(".pointarea .darea").append($("<span data-area='4'  data-x='"+scaleMath1(x)+"' data-y='"+scaleMath1(y)+"' style='background:rgb(208,168,179);right:"+scaleMath(x)+"px;bottom:"+scaleMath(y)+"px'><i style='position:absolute;left:17px;top:-10px;width:100px;height:26px;overflow:hidden;font-size:12px;z-index:50;text-overflow:ellipsis;white-space:nowrap'>"+reportInfo.true_name+"</i></span>"))
+                    }
+                    }else{
+                    if(x<=25){
+                        $(dom).find(".pointarea .darea").append($("<span data-area='2' data-x='"+scaleMath1(x)+"' data-y='"+scaleMath1(y)+"'  style='background:rgb(254,186,187);right:"+scaleMath(x)+"px;bottom:"+scaleMath(y)+"px'><i style='position:absolute;left:17px;top:-10px;width:100px;height:26px;overflow:hidden;font-size:12px;z-index:50;text-overflow:ellipsis;white-space:nowrap'>"+reportInfo.true_name+"</i></span>"))
+                    }else{
+                        $(dom).find(".pointarea .darea").append($("<span data-area='1'  data-x='"+scaleMath1(x)+"' data-y='"+scaleMath1(y)+"' style='right:"+scaleMath(x)+"px;bottom:"+scaleMath(y)+"px'><i style='position:absolute;left:17px;top:-10px;width:100px;height:26px;overflow:hidden;font-size:12px;z-index:50;text-overflow:ellipsis;white-space:nowrap'>"+reportInfo.true_name+"</i></span>"))
+                    }
+                    }
+                    console.log("D区  "+x+","+y)
+                }else{
+                    if(y<=25){
+                        if(x<=25){
+                            $(dom).find(".pointarea .carea").append($("<span data-area='5' data-x='"+scaleMath1(x)+"' data-y='"+scaleMath1(y)+"'  style='background:#555;right:"+scaleMath(x)+"px;top:"+scaleMath(y)+"px'><i style='position:absolute;left:17px;top:-10px;width:100px;height:26px;overflow:hidden;font-size:12px;z-index:50;text-overflow:ellipsis;white-space:nowrap'>"+reportInfo.true_name+"</i></span>")) 
+                        }else{
+                            $(dom).find(".pointarea .carea").append($("<span data-area='4'  data-x='"+scaleMath1(x)+"' data-y='"+scaleMath1(y)+"' style='background:rgb(208,168,179);right:"+scaleMath(x)+"px;top:"+scaleMath(y)+"px'><i style='position:absolute;left:17px;top:-10px;width:100px;height:26px;overflow:hidden;font-size:12px;z-index:50;text-overflow:ellipsis;white-space:nowrap'>"+reportInfo.true_name+"</i></span>")) 
+                        }
+                    }else{
+                        if(x<=25){
+                            $(dom).find(".pointarea .carea").append($("<span data-area='8' data-x='"+scaleMath1(x)+"' data-y='"+scaleMath1(y)+"'  style='background:rgb(109,208,216);right:"+scaleMath(x)+"px;top:"+scaleMath(y)+"px'><i style='position:absolute;left:17px;top:-10px;width:100px;height:26px;overflow:hidden;font-size:12px;z-index:50;text-overflow:ellipsis;white-space:nowrap'>"+reportInfo.true_name+"</i></span>")) 
+                        }else{
+                            $(dom).find(".pointarea .carea").append($("<span data-area='7' data-x='"+scaleMath1(x)+"' data-y='"+scaleMath1(y)+"'  style='right:"+scaleMath(x)+"px;top:"+scaleMath(y)+"px'><i style='position:absolute;left:17px;top:-10px;width:100px;height:26px;overflow:hidden;font-size:12px;z-index:50;text-overflow:ellipsis;white-space:nowrap'>"+reportInfo.true_name+"</i></span>")) 
+                        }
+                    }
+                    console.log("C区  "+x+","+y)
+                }
+            }else{
+                var x=Math.round(Math.abs((Number(obj.d)+Number(obj.c)-Number(obj.i)-Number(obj.s))/2));
+                var y=Math.round(Math.abs((Number(obj.d)+Number(obj.i)-Number(obj.c)-Number(obj.s))/2));
+                if(Number(obj.d)+Number(obj.i)>Number(obj.c)+Number(obj.s)){
+                    if(y<=25){
+                    if(x<=25){
+                        $(dom).find(".pointarea .iarea").append($("<span data-area='5' data-x='"+scaleMath1(x)+"' data-y='"+scaleMath1(y)+"'  style='background:#555;left:"+scaleMath(x)+"px;bottom:"+scaleMath(y)+"px'><i style='position:absolute;left:17px;top:-10px;width:100px;height:26px;overflow:hidden;font-size:12px;z-index:50;text-overflow:ellipsis;white-space:nowrap'>"+reportInfo.true_name+"</i></span>"))
+                    }else{
+                        $(dom).find(".pointarea .iarea").append($("<span data-area='6' data-x='"+scaleMath1(x)+"' data-y='"+scaleMath1(y)+"'  style='background:rgb(205,210,148);left:"+scaleMath(x)+"px;bottom:"+scaleMath(y)+"px'><i style='position:absolute;left:17px;top:-10px;width:100px;height:26px;overflow:hidden;font-size:12px;z-index:50;text-overflow:ellipsis;white-space:nowrap'>"+reportInfo.true_name+"</i></span>"))
+                    }
+                    }else{
+                    if(x<=25){
+                        $(dom).find(".pointarea .iarea").append($("<span data-area='2' data-x='"+scaleMath1(x)+"' data-y='"+scaleMath1(y)+"'  style='background:rgb(254,186,187);left:"+scaleMath(x)+"px;bottom:"+scaleMath(y)+"px'><i style='position:absolute;left:17px;top:-10px;width:100px;height:26px;overflow:hidden;font-size:12px;z-index:50;text-overflow:ellipsis;white-space:nowrap'>"+reportInfo.true_name+"</i></span>"))
+                    }else{
+                        $(dom).find(".pointarea .iarea").append($("<span data-area='3' data-x='"+scaleMath1(x)+"' data-y='"+scaleMath1(y)+"'  style='left:"+scaleMath(x)+"px;bottom:"+scaleMath(y)+"px'><i style='position:absolute;left:17px;top:-10px;width:100px;height:26px;overflow:hidden;font-size:12px;z-index:50;text-overflow:ellipsis;white-space:nowrap'>"+reportInfo.true_name+"</i></span>"))
+                    }
+                    }
+                    console.log("I区  "+x+","+y)
+                }else{
+                    if(y<=25){
+                    if(x<=25){
+                        $(dom).find(".pointarea .sarea").append($("<span data-area='5' data-x='"+scaleMath1(x)+"' data-y='"+scaleMath1(y)+"'  style='background:#555;left:"+scaleMath(x)+"px;top:"+scaleMath(y)+"px'><i style='position:absolute;left:17px;top:-10px;width:100px;height:26px;overflow:hidden;font-size:12px;z-index:50;text-overflow:ellipsis;white-space:nowrap'>"+reportInfo.true_name+"</i></span>")) 
+                    }else{
+                        $(dom).find(".pointarea .sarea").append($("<span data-area='6' data-x='"+scaleMath1(x)+"' data-y='"+scaleMath1(y)+"'  style='background:rgb(205,210,148);left:"+scaleMath(x)+"px;top:"+scaleMath(y)+"px'><i style='position:absolute;left:17px;top:-10px;width:100px;height:26px;overflow:hidden;font-size:12px;z-index:50;text-overflow:ellipsis;white-space:nowrap'>"+reportInfo.true_name+"</i></span>")) 
+                    }
+                    }else{
+                    if(x<=25){
+                        $(dom).find(".pointarea .sarea").append($("<span data-area='8' data-x='"+scaleMath1(x)+"' data-y='"+scaleMath1(y)+"'  style='background:rgb(109,208,216);left:"+scaleMath(x)+"px;top:"+scaleMath(y)+"px'><i style='position:absolute;left:17px;top:-10px;width:100px;height:26px;overflow:hidden;font-size:12px;z-index:50;text-overflow:ellipsis;white-space:nowrap'>"+reportInfo.true_name+"</i></span>")) 
+                    }else{
+                        $(dom).find(".pointarea .sarea").append($("<span data-area='9' data-x='"+scaleMath1(x)+"' data-y='"+scaleMath1(y)+"' style='left:"+scaleMath(x)+"px;top:"+scaleMath(y)+"px'><i style='position:absolute;left:17px;top:-10px;width:100px;height:26px;overflow:hidden;font-size:12px;z-index:50;text-overflow:ellipsis;white-space:nowrap'>"+reportInfo.true_name+"</i></span>")) 
+                    }
+                    }
+                    console.log("S区  "+x+","+y)
+                }
+            } 
+    }
+
+    function scaleMath(num){
+        if(num>=50){
+            num=75 + 50*(num-50)/num
+        }else if(num>25 && num<50){
+            num=25 + num*1
+        }
+        num=num-7;
+        return Math.round(num)
+    }
+    function scaleMath1(num){
+        if(num>=50){
+            num=75 + 50*(num-50)/num
+        }else if(num>25 && num<50){
+            num=25 + num*1
+        }  
+        return Math.round(num)
+    }
+
+    //按降序排列 
+    var colId="value";
+    var desc = function(x,y){
+        return (x[colId] < y[colId]) ? 1 : -1
+    } 
+</script>
+
+</html>
