@@ -17,7 +17,9 @@ export default defineUserConfig({
       __dirname,
       "./components/BlogHero.vue",
     ),
-  },  
+  },
+  // 排除日记草稿（bref 初稿）：仅本地保留，不生成页面、不进侧边栏和搜索
+  pagePatterns: ["**/*.md", "!.vuepress", "!**/*-bref.md"],
   // 和 PWA 一起启用
   // shouldPrefetch: false,
 });

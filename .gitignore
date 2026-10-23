@@ -10,3 +10,6 @@ src/.vuepress/public/scripts/garmin_recap/__pycache__
 .vscode
 .nvmrc
 run.txt
+
+# 日记草稿（bref 初稿，仅本地保留，不入库、不发布）
+*-bref.md
